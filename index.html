@@ -1,3 +1,73 @@
-Holdene
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <title>Stlite app</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@stlite/browser@0.76.2/build/style.css"
+    />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module">
+import { mount } from "https://cdn.jsdelivr.net/npm/@stlite/browser@0.76.2/build/stlite.js"
+mount(
+  {
+    requirements: ["streamlit>=1.41.0"],
+    entrypoint: "your_app.py",
+    files: {
+"README.md": `## Streamlit Hello demo
 
-<img src="/teams.png">
+This sample app is a copy of the \`utilities.switch_page\` demo.
+The source files were copied from https://github.com/streamlit/docs/tree/4f1c7ce444b6c3e0a1bba473199c9ddb42ed6866/python/api-examples-source
+
+## License
+
+As written above, the source files are copied from \`https://github.com/streamlit/docs\`,
+therefore, the license applied to the source, the Apache-2.0 license, is also applied to this sample.
+
+See https://github.com/streamlit/docs/blob/main/LICENSE
+`,
+"your_app.py": `import streamlit as st
+
+if st.button("Home"):
+    st.switch_page("your_app.py")
+if st.button("Page 1"):
+    st.switch_page("pages/page_1.py")
+if st.button("Page 2"):
+    st.switch_page("pages/page_2.py")
+`,
+"pages/page_1.py": `import streamlit as st
+
+if st.button("Home"):
+    st.switch_page("your_app.py")
+if st.button("Page 1"):
+    st.switch_page("pages/page_1.py")
+if st.button("Page 2"):
+    st.switch_page("pages/page_2.py")
+`,
+"pages/page_2.py": `import streamlit as st
+
+if st.button("Home"):
+    st.switch_page("your_app.py")
+if st.button("Page 1"):
+    st.switch_page("pages/page_1.py")
+if st.button("Page 2"):
+    st.switch_page("pages/page_2.py")
+`,
+
+},
+  },
+  document.getElementById("root")
+)
+
+    </script>
+  </body>
+  <!-- Generated from Stlite Sharing (https://edit.share.stlite.net/), and the source version is aac269fd89821ff9039c2a1b4ac08dea750078fc -->
+</html>
