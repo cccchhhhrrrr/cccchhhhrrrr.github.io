@@ -32,7 +32,7 @@ with ui.layout_column_wrap(fill=False):
 
         @render.text
         def bill_length():
-            return f"{filtered_df()['RiderValue'].mean():.1f} mil"
+            return f"{filtered_df()['RiderPrice'].mean():.1f} mil"
 
     with ui.value_box(showcase=icon_svg("ruler-vertical")):
         "Gennemsnitsprofit"
