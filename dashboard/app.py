@@ -10,51 +10,52 @@ from shiny.express import input, render, ui
 ui.page_opts(title="CYKELVENNERNES HJØRNE", window_title="CYKELVENNER", fillable=True)
 
 
-with ui.sidebar(title="Filter controls"):
-    ui.input_slider("mass", "Mass", 2000, 6000, 6000)
+with ui.sidebar(title="Filtre"):
     ui.input_checkbox_group(
-        "species",
-        "Species",
-        ["Adelie", "Gentoo", "Chinstrap"],
-        selected=["Adelie", "Gentoo", "Chinstrap"],
+        "hold",
+        "Hold",
+        ["INEOS Grenadiers", "Team Visma - Lease a Bike", "Alpecin - Deceuninck", "Lidl - Trek", "Decathlon AG2R La Mondiale", "UAE Emirates XRG"],
+        selected=["INEOS Grenadiers", "Team Visma - Lease a Bike", "Alpecin - Deceuninck", "Lidl - Trek", "Decathlon AG2R La Mondiale", "UAE Emirates XRG"],
     )
 
 
 with ui.layout_column_wrap(fill=False):
-    with ui.value_box(showcase=icon_svg("earlybirds")):
-        "Number of penguins"
+    with ui.value_box(showcase=icon_svg("person-biking")):
+        "Antal ryttere"
 
         @render.text
         def count():
             return filtered_df().shape[0]
 
     with ui.value_box(showcase=icon_svg("ruler-horizontal")):
-        "Average bill length"
+        "Gennemsnitspris"
 
         @render.text
         def bill_length():
-            return f"{filtered_df()['bill_length_mm'].mean():.1f} mm"
+            return f"{filtered_df()['RiderValue'].mean():.1f} mil"
 
     with ui.value_box(showcase=icon_svg("ruler-vertical")):
-        "Average bill depth"
+        "Gennemsnitsprofit"
 
         @render.text
         def bill_depth():
-            return f"{filtered_df()['bill_depth_mm'].mean():.1f} mm"
+            return f"{filtered_df()['PointsPerMillion'].mean():.1f} PPM"
 
 
 with ui.layout_columns():
     with ui.card(full_screen=True):
-        ui.card_header("Penguin data")
+        ui.card_header("Rytteroversigt")
 
         @render.data_frame
         def summary_statistics():
             cols = [
-                "species",
-                "island",
-                "bill_length_mm",
-                "bill_depth_mm",
-                "body_mass_g",
+                "RiderName",
+                "RiderTeam",
+                "RiderPrice",
+                "RiderName_PCS",
+                "Points",
+                "PointsPerMillion",
+                "CheapoEligible"
             ]
             return render.DataGrid(filtered_df()[cols], filters=True)
 
@@ -64,6 +65,5 @@ ui.include_css(app_dir / "styles.css")
 
 @reactive.calc
 def filtered_df():
-    filt_df = df[df["species"].isin(input.species())]
-    filt_df = filt_df.loc[filt_df["body_mass_g"] < input.mass()]
+    filt_df = df[df["RiderTeam"].isin(input.hold())]
     return filt_df
