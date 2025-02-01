@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title> C Y K E L V E N N E R </title>
-    <script src="./tablefilter/tablefilter.js"></script>
+    <script src="tablefilter/tablefilter.js"></script>
     <style>
       table {
         font-family: arial, sans-serif;
@@ -23,8 +23,10 @@
   <body>
     
     In 1984 I was hospitalized for approaching perfection.
+    <br>
+    <br>
 
-    <table class=".my-table">
+    <table id="table1">
       <tr>
         <th>Company</th>
         <th>Contact</th>
@@ -63,7 +65,7 @@
     </table>
 
     <script>
-      var tf = new TableFilter(document.querySelector('.my-table'), {
+      var tf = new TableFilter(document.querySelector('table1'), {
           base_path: './tablefilter/'
       });
       tf.init();
