@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title> C Y K E L V E N N E R </title>
-    <script src="/scripts/tablefilter/tablefilter.js" type="text/javascript"></script>
+
     <style>
       table {
         font-family: 'Gill Sans', sans-serif, sans-serif;
@@ -21,51 +21,5239 @@
       </style>
   </head>
   <body>
-
-    <table id="table1">
-      <tr>
-        <th>Company</th>
-        <th>Contact</th>
-        <th>Country</th>
-      </tr>
-      <tr>
-        <td>Alfreds Futterkiste</td>
-        <td>Maria Anders</td>
-        <td>Germany</td>
-      </tr>
-      <tr>
-        <td>Centro comercial Moctezuma</td>
-        <td>Francisco Chang</td>
-        <td>Mexico</td>
-      </tr>
-      <tr>
-        <td>Ernst Handel</td>
-        <td>Roland Mendel</td>
-        <td>Austria</td>
-      </tr>
-      <tr>
-        <td>Island Trading</td>
-        <td>Helen Bennett</td>
-        <td>UK</td>
-      </tr>
-      <tr>
-        <td>Laughing Bacchus Winecellars</td>
-        <td>Yoshi Tannamuri</td>
-        <td>Canada</td>
-      </tr>
-      <tr>
-        <td>Magazzini Alimentari Riuniti</td>
-        <td>Giovanni Rovelli</td>
-        <td>Italy</td>
-      </tr>
+    <table border="1" class="dataframe" id="table1">
+      <thead>
+        <tr style="text-align: right;">
+          <th></th>
+          <th>RACE</th>
+          <th>YEAR</th>
+          <th>STAGE_ID</th>
+          <th>STAGE_DATE</th>
+          <th>STAGE_NAME</th>
+          <th>STAGE_PROFILE</th>
+          <th>STAGE_TYPE</th>
+          <th>RANK</th>
+          <th>RIDER</th>
+          <th>TEAM</th>
+          <th>UCI_POINTS</th>
+          <th>PCS_POINTS</th>
+          <th>UPDATE_TIMESTAMP</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th>1</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>1</td>
+          <td>Welsford Sam</td>
+          <td>Red Bull - BORA - hansgrohe</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>2</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>2</td>
+          <td>Brennan Matthew</td>
+          <td>Team Visma | Lease a Bike</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>3</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>3</td>
+          <td>Walls Matthew</td>
+          <td>Groupama - FDJ</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>4</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>4</td>
+          <td>Teutenberg Tim Torn</td>
+          <td>Lidl - Trek</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>5</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>5</td>
+          <td>Swift Ben</td>
+          <td>INEOS Grenadiers</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>6</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>6</td>
+          <td>Dehairs Simon</td>
+          <td>Alpecin - Deceuninck</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>7</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>7</td>
+          <td>Strong Corbin</td>
+          <td>Israel - Premier Tech</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>8</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>8</td>
+          <td>Oliveira Rui</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>9</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>9</td>
+          <td>Bauhaus Phil</td>
+          <td>Bahrain - Victorious</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>10</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>10</td>
+          <td>Mosca Jacopo</td>
+          <td>Lidl - Trek</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>11</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>11</td>
+          <td>Andresen Tobias Lund</td>
+          <td>Team Picnic PostNL</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>12</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>12</td>
+          <td>Uhlig Henri</td>
+          <td>Alpecin - Deceuninck</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>13</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>13</td>
+          <td>Gate Aaron</td>
+          <td>XDS Astana Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>14</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>14</td>
+          <td>Scott Cameron</td>
+          <td>Australia</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>15</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>15</td>
+          <td>Marit Arne</td>
+          <td>Intermarché - Wanty</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>16</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>16</td>
+          <td>Coquard Bryan</td>
+          <td>Cofidis</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>17</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>17</td>
+          <td>Canal Carlos</td>
+          <td>Movistar Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>18</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>18</td>
+          <td>Vendrame Andrea</td>
+          <td>Decathlon AG2R La Mondiale Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>19</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>19</td>
+          <td>Van Poppel Danny</td>
+          <td>Red Bull - BORA - hansgrohe</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>20</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>20</td>
+          <td>Raccagni Noviero Andrea</td>
+          <td>Soudal Quick-Step</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>21</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>21</td>
+          <td>Tesfatsion Natnael</td>
+          <td>Movistar Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>22</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>22</td>
+          <td>Stewart Campbell</td>
+          <td>Team Jayco AlUla</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>23</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>23</td>
+          <td>Williams Stephen</td>
+          <td>Israel - Premier Tech</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>24</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>24</td>
+          <td>Boven Lars</td>
+          <td>Alpecin - Deceuninck</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>25</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-21</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>25</td>
+          <td>Grondin Donavan</td>
+          <td>Arkéa - B&amp;B Hotels</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>141</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>1</td>
+          <td>Welsford Sam</td>
+          <td>Red Bull - BORA - hansgrohe</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>142</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>2</td>
+          <td>Marit Arne</td>
+          <td>Intermarché - Wanty</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>143</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>3</td>
+          <td>Coquard Bryan</td>
+          <td>Cofidis</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>144</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>4</td>
+          <td>Teutenberg Tim Torn</td>
+          <td>Lidl - Trek</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>145</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>5</td>
+          <td>Andresen Tobias Lund</td>
+          <td>Team Picnic PostNL</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>146</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>6</td>
+          <td>Uhlig Henri</td>
+          <td>Alpecin - Deceuninck</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>147</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>7</td>
+          <td>Watson Samuel</td>
+          <td>INEOS Grenadiers</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>148</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>8</td>
+          <td>Strong Corbin</td>
+          <td>Israel - Premier Tech</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>149</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>9</td>
+          <td>Renard Alexis</td>
+          <td>Cofidis</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>150</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>10</td>
+          <td>Walls Matthew</td>
+          <td>Groupama - FDJ</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>151</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>11</td>
+          <td>Bauhaus Phil</td>
+          <td>Bahrain - Victorious</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>152</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>12</td>
+          <td>Raccagni Noviero Andrea</td>
+          <td>Soudal Quick-Step</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>153</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>13</td>
+          <td>Tesfatsion Natnael</td>
+          <td>Movistar Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>154</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>14</td>
+          <td>Stewart Campbell</td>
+          <td>Team Jayco AlUla</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>155</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>15</td>
+          <td>Boven Lars</td>
+          <td>Alpecin - Deceuninck</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>156</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>16</td>
+          <td>Canal Carlos</td>
+          <td>Movistar Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>157</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>17</td>
+          <td>Tronchon Bastien</td>
+          <td>Decathlon AG2R La Mondiale Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>158</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>18</td>
+          <td>Labrosse Jordan</td>
+          <td>Decathlon AG2R La Mondiale Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>159</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>19</td>
+          <td>Askey Lewis</td>
+          <td>Groupama - FDJ</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>160</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>20</td>
+          <td>Porter Rudy</td>
+          <td>Australia</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>161</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>21</td>
+          <td>Williams Stephen</td>
+          <td>Israel - Premier Tech</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>162</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>22</td>
+          <td>Brennan Matthew</td>
+          <td>Team Visma | Lease a Bike</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>163</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>23</td>
+          <td>Lapeira Paul</td>
+          <td>Decathlon AG2R La Mondiale Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>164</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>24</td>
+          <td>Grondin Donavan</td>
+          <td>Arkéa - B&amp;B Hotels</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>165</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-22</td>
+          <td>Stage 2</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>25</td>
+          <td>Withen Philipsen Albert</td>
+          <td>Lidl - Trek</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>279</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>1</td>
+          <td>Romo Javier</td>
+          <td>Movistar Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>280</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>2</td>
+          <td>Narváez Jhonatan</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>281</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>3</td>
+          <td>Fisher-Black Finn</td>
+          <td>Red Bull - BORA - hansgrohe</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>282</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>4</td>
+          <td>Withen Philipsen Albert</td>
+          <td>Lidl - Trek</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>283</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>5</td>
+          <td>Gloag Thomas</td>
+          <td>Team Visma | Lease a Bike</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>284</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>6</td>
+          <td>Konrad Patrick</td>
+          <td>Lidl - Trek</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>285</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>7</td>
+          <td>Bagioli Andrea</td>
+          <td>Lidl - Trek</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>286</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>8</td>
+          <td>Tronchon Bastien</td>
+          <td>Decathlon AG2R La Mondiale Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>287</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>9</td>
+          <td>Rochas Rémy</td>
+          <td>Groupama - FDJ</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>288</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>10</td>
+          <td>Sheffield Magnus</td>
+          <td>INEOS Grenadiers</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>289</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>11</td>
+          <td>Plapp Luke</td>
+          <td>Team Jayco AlUla</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>290</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>12</td>
+          <td>Higuita Sergio</td>
+          <td>XDS Astana Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>291</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>13</td>
+          <td>Vine Jay</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>292</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>14</td>
+          <td>López Juan Pedro</td>
+          <td>Lidl - Trek</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>293</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>15</td>
+          <td>Eulálio Afonso</td>
+          <td>Bahrain - Victorious</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>294</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>16</td>
+          <td>Harper Chris</td>
+          <td>Team Jayco AlUla</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>295</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>17</td>
+          <td>Onley Oscar</td>
+          <td>Team Picnic PostNL</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>296</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>18</td>
+          <td>Mollema Bauke</td>
+          <td>Lidl - Trek</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>297</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>19</td>
+          <td>Schmid Mauro</td>
+          <td>Team Jayco AlUla</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>298</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>20</td>
+          <td>Kwiatkowski Michał</td>
+          <td>INEOS Grenadiers</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>299</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>21</td>
+          <td>Zimmermann Georg</td>
+          <td>Intermarché - Wanty</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>300</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>22</td>
+          <td>Lecerf Junior</td>
+          <td>Soudal Quick-Step</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>301</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>23</td>
+          <td>Marriage Zac</td>
+          <td>Australia</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>302</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>24</td>
+          <td>Strong Corbin</td>
+          <td>Israel - Premier Tech</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>303</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-23</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>25</td>
+          <td>Porter Rudy</td>
+          <td>Australia</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>416</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>1</td>
+          <td>Coquard Bryan</td>
+          <td>Cofidis</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>417</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>2</td>
+          <td>Bauhaus Phil</td>
+          <td>Bahrain - Victorious</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>418</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>3</td>
+          <td>Narváez Jhonatan</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>419</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>4</td>
+          <td>Walsh Liam</td>
+          <td>Australia</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>420</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>5</td>
+          <td>Watson Samuel</td>
+          <td>INEOS Grenadiers</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>421</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>6</td>
+          <td>Andresen Tobias Lund</td>
+          <td>Team Picnic PostNL</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>422</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>7</td>
+          <td>Strong Corbin</td>
+          <td>Israel - Premier Tech</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>423</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>8</td>
+          <td>Teutenberg Tim Torn</td>
+          <td>Lidl - Trek</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>424</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>9</td>
+          <td>Uhlig Henri</td>
+          <td>Alpecin - Deceuninck</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>425</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>10</td>
+          <td>Godon Dorian</td>
+          <td>Decathlon AG2R La Mondiale Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>426</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>11</td>
+          <td>Askey Lewis</td>
+          <td>Groupama - FDJ</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>427</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>12</td>
+          <td>De Pooter Dries</td>
+          <td>Intermarché - Wanty</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>428</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>13</td>
+          <td>Sheffield Magnus</td>
+          <td>INEOS Grenadiers</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>429</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>14</td>
+          <td>Smith Dion</td>
+          <td>Intermarché - Wanty</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>430</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>15</td>
+          <td>Mulubrhan Henok</td>
+          <td>XDS Astana Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>431</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>16</td>
+          <td>Fisher-Black Finn</td>
+          <td>Red Bull - BORA - hansgrohe</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>432</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>17</td>
+          <td>Konrad Patrick</td>
+          <td>Lidl - Trek</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>433</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>18</td>
+          <td>Kwiatkowski Michał</td>
+          <td>INEOS Grenadiers</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>434</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>19</td>
+          <td>Busatto Francesco</td>
+          <td>Intermarché - Wanty</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>435</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>20</td>
+          <td>Brennan Matthew</td>
+          <td>Team Visma | Lease a Bike</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>436</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>21</td>
+          <td>Van Den Bossche Fabio</td>
+          <td>Alpecin - Deceuninck</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>437</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>22</td>
+          <td>Koerdt Bjoern</td>
+          <td>Team Picnic PostNL</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>438</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>23</td>
+          <td>Rochas Rémy</td>
+          <td>Groupama - FDJ</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>439</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>24</td>
+          <td>Canal Carlos</td>
+          <td>Movistar Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>440</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-24</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>25</td>
+          <td>Mollema Bauke</td>
+          <td>Lidl - Trek</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>552</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>1</td>
+          <td>Narváez Jhonatan</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>553</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>2</td>
+          <td>Onley Oscar</td>
+          <td>Team Picnic PostNL</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>554</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>3</td>
+          <td>Fisher-Black Finn</td>
+          <td>Red Bull - BORA - hansgrohe</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>555</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>4</td>
+          <td>Plapp Luke</td>
+          <td>Team Jayco AlUla</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>556</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>5</td>
+          <td>Romo Javier</td>
+          <td>Movistar Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>557</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>6</td>
+          <td>Woods Michael</td>
+          <td>Israel - Premier Tech</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>558</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>7</td>
+          <td>Gloag Thomas</td>
+          <td>Team Visma | Lease a Bike</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>559</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>8</td>
+          <td>Sheffield Magnus</td>
+          <td>INEOS Grenadiers</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>560</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>9</td>
+          <td>Tronchon Bastien</td>
+          <td>Decathlon AG2R La Mondiale Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>561</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>10</td>
+          <td>Konrad Patrick</td>
+          <td>Lidl - Trek</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>562</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>11</td>
+          <td>Porter Rudy</td>
+          <td>Australia</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>563</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>12</td>
+          <td>Rochas Rémy</td>
+          <td>Groupama - FDJ</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>564</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>13</td>
+          <td>Vine Jay</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>565</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>14</td>
+          <td>Mollema Bauke</td>
+          <td>Lidl - Trek</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>566</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>15</td>
+          <td>Zimmermann Georg</td>
+          <td>Intermarché - Wanty</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>567</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>16</td>
+          <td>Harper Chris</td>
+          <td>Team Jayco AlUla</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>568</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>17</td>
+          <td>Eulálio Afonso</td>
+          <td>Bahrain - Victorious</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>569</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>18</td>
+          <td>Marriage Zac</td>
+          <td>Australia</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>570</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>19</td>
+          <td>Withen Philipsen Albert</td>
+          <td>Lidl - Trek</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>571</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>20</td>
+          <td>Lecerf Junior</td>
+          <td>Soudal Quick-Step</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>572</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>21</td>
+          <td>Torres Pablo</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>573</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>22</td>
+          <td>Strong Corbin</td>
+          <td>Israel - Premier Tech</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>574</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>23</td>
+          <td>Zwiehoff Ben</td>
+          <td>Red Bull - BORA - hansgrohe</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>575</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>24</td>
+          <td>Verre Alessandro</td>
+          <td>Arkéa - B&amp;B Hotels</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>576</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-01-25</td>
+          <td>Stage 5</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>25</td>
+          <td>Debruyne Ramses</td>
+          <td>Alpecin - Deceuninck</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>688</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>1</td>
+          <td>Welsford Sam</td>
+          <td>Red Bull - BORA - hansgrohe</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>689</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>2</td>
+          <td>Coquard Bryan</td>
+          <td>Cofidis</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>690</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>3</td>
+          <td>Bauhaus Phil</td>
+          <td>Bahrain - Victorious</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>691</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>4</td>
+          <td>Oliveira Rui</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>692</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>5</td>
+          <td>Van Poppel Danny</td>
+          <td>Red Bull - BORA - hansgrohe</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>693</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>6</td>
+          <td>Uhlig Henri</td>
+          <td>Alpecin - Deceuninck</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>694</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>7</td>
+          <td>Andresen Tobias Lund</td>
+          <td>Team Picnic PostNL</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>695</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>8</td>
+          <td>Teutenberg Tim Torn</td>
+          <td>Lidl - Trek</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>696</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>9</td>
+          <td>Walls Matthew</td>
+          <td>Groupama - FDJ</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>697</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>10</td>
+          <td>Raccagni Noviero Andrea</td>
+          <td>Soudal Quick-Step</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>698</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>11</td>
+          <td>Strong Corbin</td>
+          <td>Israel - Premier Tech</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>699</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>12</td>
+          <td>Stewart Campbell</td>
+          <td>Team Jayco AlUla</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>700</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>13</td>
+          <td>Marit Arne</td>
+          <td>Intermarché - Wanty</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>701</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>14</td>
+          <td>Tronchon Bastien</td>
+          <td>Decathlon AG2R La Mondiale Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>702</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>15</td>
+          <td>Canal Carlos</td>
+          <td>Movistar Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>703</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>16</td>
+          <td>Sheffield Magnus</td>
+          <td>INEOS Grenadiers</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>704</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>17</td>
+          <td>Godon Dorian</td>
+          <td>Decathlon AG2R La Mondiale Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>705</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>18</td>
+          <td>Walsh Liam</td>
+          <td>Australia</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>706</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>19</td>
+          <td>Mulubrhan Henok</td>
+          <td>XDS Astana Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>707</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>20</td>
+          <td>Romo Javier</td>
+          <td>Movistar Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>708</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>21</td>
+          <td>Izagirre Ion</td>
+          <td>Cofidis</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>709</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>22</td>
+          <td>De Pooter Dries</td>
+          <td>Intermarché - Wanty</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>710</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>23</td>
+          <td>Fisher-Black Finn</td>
+          <td>Red Bull - BORA - hansgrohe</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>711</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>24</td>
+          <td>Pescador Diego</td>
+          <td>Movistar Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>712</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>stage-6</td>
+          <td>2025-01-26</td>
+          <td>Stage 6</td>
+          <td>p1</td>
+          <td>Normal</td>
+          <td>25</td>
+          <td>Konrad Patrick</td>
+          <td>Lidl - Trek</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>823</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>1</td>
+          <td>Narváez Jhonatan</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>500</td>
+          <td>250</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>824</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>2</td>
+          <td>Romo Javier</td>
+          <td>Movistar Team</td>
+          <td>400</td>
+          <td>190</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>825</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>3</td>
+          <td>Fisher-Black Finn</td>
+          <td>Red Bull - BORA - hansgrohe</td>
+          <td>325</td>
+          <td>160</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>826</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>4</td>
+          <td>Onley Oscar</td>
+          <td>Team Picnic PostNL</td>
+          <td>275</td>
+          <td>140</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>827</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>5</td>
+          <td>Tronchon Bastien</td>
+          <td>Decathlon AG2R La Mondiale Team</td>
+          <td>225</td>
+          <td>120</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>828</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>6</td>
+          <td>Plapp Luke</td>
+          <td>Team Jayco AlUla</td>
+          <td>175</td>
+          <td>110</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>829</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>7</td>
+          <td>Sheffield Magnus</td>
+          <td>INEOS Grenadiers</td>
+          <td>150</td>
+          <td>100</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>830</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>8</td>
+          <td>Gloag Thomas</td>
+          <td>Team Visma | Lease a Bike</td>
+          <td>125</td>
+          <td>90</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>831</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>9</td>
+          <td>Konrad Patrick</td>
+          <td>Lidl - Trek</td>
+          <td>100</td>
+          <td>80</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>832</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>10</td>
+          <td>Woods Michael</td>
+          <td>Israel - Premier Tech</td>
+          <td>85</td>
+          <td>70</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>833</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>11</td>
+          <td>Vine Jay</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>70</td>
+          <td>60</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>834</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>12</td>
+          <td>Rochas Rémy</td>
+          <td>Groupama - FDJ</td>
+          <td>60</td>
+          <td>55</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>835</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>13</td>
+          <td>Mollema Bauke</td>
+          <td>Lidl - Trek</td>
+          <td>50</td>
+          <td>50</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>836</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>14</td>
+          <td>Harper Chris</td>
+          <td>Team Jayco AlUla</td>
+          <td>40</td>
+          <td>45</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>837</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>15</td>
+          <td>Eulálio Afonso</td>
+          <td>Bahrain - Victorious</td>
+          <td>35</td>
+          <td>40</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>838</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>16</td>
+          <td>Porter Rudy</td>
+          <td>Australia</td>
+          <td>30</td>
+          <td>36</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>839</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>17</td>
+          <td>Withen Philipsen Albert</td>
+          <td>Lidl - Trek</td>
+          <td>30</td>
+          <td>32</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>840</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>18</td>
+          <td>Zimmermann Georg</td>
+          <td>Intermarché - Wanty</td>
+          <td>30</td>
+          <td>28</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>841</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>19</td>
+          <td>Marriage Zac</td>
+          <td>Australia</td>
+          <td>30</td>
+          <td>24</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>842</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>20</td>
+          <td>Lecerf Junior</td>
+          <td>Soudal Quick-Step</td>
+          <td>30</td>
+          <td>20</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>843</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>21</td>
+          <td>Strong Corbin</td>
+          <td>Israel - Premier Tech</td>
+          <td>20</td>
+          <td>18</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>844</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>22</td>
+          <td>Torres Pablo</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>20</td>
+          <td>16</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>845</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>23</td>
+          <td>Higuita Sergio</td>
+          <td>XDS Astana Team</td>
+          <td>20</td>
+          <td>14</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>846</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>24</td>
+          <td>Bagioli Andrea</td>
+          <td>Lidl - Trek</td>
+          <td>20</td>
+          <td>12</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>847</th>
+          <td>tour-down-under</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-01-26</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>25</td>
+          <td>Izagirre Ion</td>
+          <td>Cofidis</td>
+          <td>20</td>
+          <td>10</td>
+          <td>2025-02-01 16:52:27</td>
+        </tr>
+        <tr>
+          <th>957</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>1</td>
+          <td>Merlier Tim</td>
+          <td>Soudal Quick-Step</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>958</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>2</td>
+          <td>Molano Juan Sebastián</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>959</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>3</td>
+          <td>Zijlaard Maikel</td>
+          <td>Tudor Pro Cycling Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>960</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>4</td>
+          <td>Moschetti Matteo</td>
+          <td>Q36.5 Pro Cycling Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>961</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>5</td>
+          <td>Groenewegen Dylan</td>
+          <td>Team Jayco AlUla</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>962</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>6</td>
+          <td>Walscheid Max</td>
+          <td>Team Jayco AlUla</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>963</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>7</td>
+          <td>Barbier Pierre</td>
+          <td>Wagner Bazin WB</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>964</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>8</td>
+          <td>Bruttomesso Alberto</td>
+          <td>Bahrain - Victorious</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>965</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>9</td>
+          <td>Weemaes Sasha</td>
+          <td>Wagner Bazin WB</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>966</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>10</td>
+          <td>D'Amato Andrea</td>
+          <td>JCL Team UKYO</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>967</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>11</td>
+          <td>Jakobsen Fabio</td>
+          <td>Team Picnic PostNL</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>968</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>12</td>
+          <td>Darder Sergi</td>
+          <td>Caja Rural - Seguros RGA</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>969</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>13</td>
+          <td>Brustenga Marc</td>
+          <td>Equipo Kern Pharma</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>970</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>14</td>
+          <td>Gonov Lev</td>
+          <td>XDS Astana Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>971</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>15</td>
+          <td>Boniface Lucas</td>
+          <td>Team TotalEnergies</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>972</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>16</td>
+          <td>Abrahamsen Jonas</td>
+          <td>Uno-X Mobility</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>973</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>17</td>
+          <td>Fedorov Yevgeniy</td>
+          <td>XDS Astana Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>974</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>18</td>
+          <td>Romele Alessandro</td>
+          <td>XDS Astana Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>975</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>19</td>
+          <td>Sorarrain Gorka</td>
+          <td>Caja Rural - Seguros RGA</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>976</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>20</td>
+          <td>Quick Blake</td>
+          <td>Roojai Insurance</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>977</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>21</td>
+          <td>Hatherly Alan</td>
+          <td>Team Jayco AlUla</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>978</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>22</td>
+          <td>Van Hautegem Leander</td>
+          <td>Wagner Bazin WB</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>979</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>23</td>
+          <td>Iribar Unai</td>
+          <td>Equipo Kern Pharma</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>980</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>24</td>
+          <td>Oliveira Ivo</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>981</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-1</td>
+          <td>2025-01-28</td>
+          <td>Stage 1</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>25</td>
+          <td>Dauphin Florian</td>
+          <td>Team TotalEnergies</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1075</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>1</td>
+          <td>Pidcock Thomas</td>
+          <td>Q36.5 Pro Cycling Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1076</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>2</td>
+          <td>Kepplinger Rainer</td>
+          <td>Bahrain - Victorious</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1077</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>3</td>
+          <td>Hatherly Alan</td>
+          <td>Team Jayco AlUla</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1078</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>4</td>
+          <td>Dunbar Eddie</td>
+          <td>Team Jayco AlUla</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1079</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>5</td>
+          <td>De Bod Stefan</td>
+          <td>Terengganu Cycling Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1080</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>6</td>
+          <td>Dversnes Fredrik</td>
+          <td>Uno-X Mobility</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1081</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>7</td>
+          <td>Voisard Yannis</td>
+          <td>Tudor Pro Cycling Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1082</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>8</td>
+          <td>Majka Rafał</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1083</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>9</td>
+          <td>Aznar Hugo</td>
+          <td>Equipo Kern Pharma</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1084</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>10</td>
+          <td>Fancellu Alessandro</td>
+          <td>JCL Team UKYO</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1085</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>11</td>
+          <td>Holter Ådne</td>
+          <td>Uno-X Mobility</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1086</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>12</td>
+          <td>Jegat Jordan</td>
+          <td>Team TotalEnergies</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1087</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>13</td>
+          <td>Van Den Broek Frank</td>
+          <td>Team Picnic PostNL</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1088</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>14</td>
+          <td>Kulset Johannes</td>
+          <td>Uno-X Mobility</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1089</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>15</td>
+          <td>Van Der Meulen Max</td>
+          <td>Bahrain - Victorious</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1090</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>16</td>
+          <td>Uriarte Diego</td>
+          <td>Equipo Kern Pharma</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1091</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>17</td>
+          <td>Johnston Calum</td>
+          <td>Caja Rural - Seguros RGA</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1092</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>18</td>
+          <td>Iribar Unai</td>
+          <td>Equipo Kern Pharma</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1093</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>19</td>
+          <td>Bregnhøj Mathias</td>
+          <td>Terengganu Cycling Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1094</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>20</td>
+          <td>Pericas Adrià</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1095</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>21</td>
+          <td>Carrascosa Pablo</td>
+          <td>Equipo Kern Pharma</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1096</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>22</td>
+          <td>Garibbo Nicolò</td>
+          <td>JCL Team UKYO</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1097</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>23</td>
+          <td>Vinokurov Nicolas</td>
+          <td>XDS Astana Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1098</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>24</td>
+          <td>Thalmann Roland</td>
+          <td>Tudor Pro Cycling Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1099</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-2</td>
+          <td>2025-01-29</td>
+          <td>Stage 2</td>
+          <td>p3</td>
+          <td>Normal</td>
+          <td>25</td>
+          <td>Bjerg Mikkel</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1193</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>1</td>
+          <td>Merlier Tim</td>
+          <td>Soudal Quick-Step</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1194</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>2</td>
+          <td>Groenewegen Dylan</td>
+          <td>Team Jayco AlUla</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1195</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>3</td>
+          <td>Molano Juan Sebastián</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1196</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>4</td>
+          <td>Moschetti Matteo</td>
+          <td>Q36.5 Pro Cycling Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1197</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>5</td>
+          <td>Barbier Pierre</td>
+          <td>Wagner Bazin WB</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1198</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>6</td>
+          <td>Brustenga Marc</td>
+          <td>Equipo Kern Pharma</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1199</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>7</td>
+          <td>Fedorov Yevgeniy</td>
+          <td>XDS Astana Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1200</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>8</td>
+          <td>Dauphin Florian</td>
+          <td>Team TotalEnergies</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1201</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>9</td>
+          <td>Bruttomesso Alberto</td>
+          <td>Bahrain - Victorious</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1202</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>10</td>
+          <td>Kolze Changizi Sebastian</td>
+          <td>Tudor Pro Cycling Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1203</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>11</td>
+          <td>Romele Alessandro</td>
+          <td>XDS Astana Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1204</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>12</td>
+          <td>Van Rooy Kenneth</td>
+          <td>Wagner Bazin WB</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1205</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>13</td>
+          <td>Degenkolb John</td>
+          <td>Team Picnic PostNL</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1206</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>14</td>
+          <td>Van Lerberghe Bert</td>
+          <td>Soudal Quick-Step</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1207</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>15</td>
+          <td>Hatherly Alan</td>
+          <td>Team Jayco AlUla</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1208</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>16</td>
+          <td>Fancellu Alessandro</td>
+          <td>JCL Team UKYO</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1209</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>17</td>
+          <td>Basset Pierre-Henry</td>
+          <td>XDS Astana Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1210</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>18</td>
+          <td>Quick Blake</td>
+          <td>Roojai Insurance</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1211</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>19</td>
+          <td>Kepplinger Rainer</td>
+          <td>Bahrain - Victorious</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1212</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>20</td>
+          <td>Johnston Calum</td>
+          <td>Caja Rural - Seguros RGA</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1213</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>21</td>
+          <td>Pasqualon Andrea</td>
+          <td>Bahrain - Victorious</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1214</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>22</td>
+          <td>Abrahamsen Jonas</td>
+          <td>Uno-X Mobility</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1215</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>23</td>
+          <td>Wallin Rasmus Bøgh</td>
+          <td>Uno-X Mobility</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1216</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>24</td>
+          <td>Oliveira Ivo</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1217</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-3</td>
+          <td>2025-01-30</td>
+          <td>Stage 3</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>25</td>
+          <td>Dversnes Fredrik</td>
+          <td>Uno-X Mobility</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1311</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>1</td>
+          <td>Pidcock Thomas</td>
+          <td>Q36.5 Pro Cycling Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1312</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>2</td>
+          <td>Hatherly Alan</td>
+          <td>Team Jayco AlUla</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1313</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>3</td>
+          <td>Kepplinger Rainer</td>
+          <td>Bahrain - Victorious</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1314</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>4</td>
+          <td>Kulset Johannes</td>
+          <td>Uno-X Mobility</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1315</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>5</td>
+          <td>Dunbar Eddie</td>
+          <td>Team Jayco AlUla</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1316</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>6</td>
+          <td>Pesenti Thomas</td>
+          <td>Soudal Quick-Step</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1317</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>7</td>
+          <td>Azparren Xabier Mikel</td>
+          <td>Q36.5 Pro Cycling Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1318</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>8</td>
+          <td>Fancellu Alessandro</td>
+          <td>JCL Team UKYO</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1319</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>9</td>
+          <td>Delbove Joris</td>
+          <td>Team TotalEnergies</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1320</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>10</td>
+          <td>Van Der Meulen Max</td>
+          <td>Bahrain - Victorious</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1321</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>11</td>
+          <td>Dversnes Fredrik</td>
+          <td>Uno-X Mobility</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1322</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>12</td>
+          <td>Bregnhøj Mathias</td>
+          <td>Terengganu Cycling Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1323</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>13</td>
+          <td>Voisard Yannis</td>
+          <td>Tudor Pro Cycling Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1324</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>14</td>
+          <td>Jegat Jordan</td>
+          <td>Team TotalEnergies</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1325</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>15</td>
+          <td>Van Den Broek Frank</td>
+          <td>Team Picnic PostNL</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1326</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>16</td>
+          <td>Uriarte Diego</td>
+          <td>Equipo Kern Pharma</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1327</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>17</td>
+          <td>Iribar Unai</td>
+          <td>Equipo Kern Pharma</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1328</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>18</td>
+          <td>Pericas Adrià</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1329</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>19</td>
+          <td>Holter Ådne</td>
+          <td>Uno-X Mobility</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1330</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>20</td>
+          <td>Majka Rafał</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1331</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>21</td>
+          <td>Van Uden Casper</td>
+          <td>Team Picnic PostNL</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1332</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>22</td>
+          <td>Buratti Nicolò</td>
+          <td>Bahrain - Victorious</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1333</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>23</td>
+          <td>Fedorov Yevgeniy</td>
+          <td>XDS Astana Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1334</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>24</td>
+          <td>Bjerg Mikkel</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1335</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-4</td>
+          <td>2025-01-31</td>
+          <td>Stage 4</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>25</td>
+          <td>Thalmann Roland</td>
+          <td>Tudor Pro Cycling Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1427</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>1</td>
+          <td>Moschetti Matteo</td>
+          <td>Q36.5 Pro Cycling Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1428</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>2</td>
+          <td>Groenewegen Dylan</td>
+          <td>Team Jayco AlUla</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1429</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>3</td>
+          <td>Molano Juan Sebastián</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1430</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>4</td>
+          <td>Kristoff Alexander</td>
+          <td>Uno-X Mobility</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1431</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>5</td>
+          <td>Fedorov Yevgeniy</td>
+          <td>XDS Astana Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1432</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>6</td>
+          <td>Dauphin Florian</td>
+          <td>Team TotalEnergies</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1433</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>7</td>
+          <td>De Kleijn Arvid</td>
+          <td>Tudor Pro Cycling Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1434</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>8</td>
+          <td>Bruttomesso Alberto</td>
+          <td>Bahrain - Victorious</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1435</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>9</td>
+          <td>Weemaes Sasha</td>
+          <td>Wagner Bazin WB</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1436</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>10</td>
+          <td>Brustenga Marc</td>
+          <td>Equipo Kern Pharma</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1437</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>11</td>
+          <td>Van Uden Casper</td>
+          <td>Team Picnic PostNL</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1438</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>12</td>
+          <td>Van Rooy Kenneth</td>
+          <td>Wagner Bazin WB</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1439</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>13</td>
+          <td>Merlier Tim</td>
+          <td>Soudal Quick-Step</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1440</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>14</td>
+          <td>Gonov Lev</td>
+          <td>XDS Astana Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1441</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>15</td>
+          <td>Oliveira Ivo</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1442</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>16</td>
+          <td>Leroux Samuel</td>
+          <td>Team TotalEnergies</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1443</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>17</td>
+          <td>Jegat Jordan</td>
+          <td>Team TotalEnergies</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1444</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>18</td>
+          <td>Fancellu Alessandro</td>
+          <td>JCL Team UKYO</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1445</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>19</td>
+          <td>Van Den Broek Frank</td>
+          <td>Team Picnic PostNL</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1446</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>20</td>
+          <td>Pesenti Thomas</td>
+          <td>Soudal Quick-Step</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1447</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>21</td>
+          <td>Parisini Nicolò</td>
+          <td>Q36.5 Pro Cycling Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1448</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>22</td>
+          <td>Frison Frederik</td>
+          <td>Q36.5 Pro Cycling Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1449</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>23</td>
+          <td>Pidcock Thomas</td>
+          <td>Q36.5 Pro Cycling Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1450</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>24</td>
+          <td>Dversnes Fredrik</td>
+          <td>Uno-X Mobility</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1451</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>stage-5</td>
+          <td>2025-02-01</td>
+          <td>Stage 5</td>
+          <td>p2</td>
+          <td>Normal</td>
+          <td>25</td>
+          <td>Bregnhøj Mathias</td>
+          <td>Terengganu Cycling Team</td>
+          <td>0</td>
+          <td>0</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1542</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>1</td>
+          <td>Pidcock Thomas</td>
+          <td>Q36.5 Pro Cycling Team</td>
+          <td>125</td>
+          <td>100</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1543</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>2</td>
+          <td>Dversnes Fredrik</td>
+          <td>Uno-X Mobility</td>
+          <td>85</td>
+          <td>70</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1544</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>3</td>
+          <td>Kulset Johannes</td>
+          <td>Uno-X Mobility</td>
+          <td>70</td>
+          <td>50</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1545</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>4</td>
+          <td>Holter Ådne</td>
+          <td>Uno-X Mobility</td>
+          <td>60</td>
+          <td>36</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1546</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>5</td>
+          <td>Kepplinger Rainer</td>
+          <td>Bahrain - Victorious</td>
+          <td>50</td>
+          <td>28</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1547</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>6</td>
+          <td>Hatherly Alan</td>
+          <td>Team Jayco AlUla</td>
+          <td>40</td>
+          <td>24</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1548</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>7</td>
+          <td>Van Den Broek Frank</td>
+          <td>Team Picnic PostNL</td>
+          <td>35</td>
+          <td>20</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1549</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>8</td>
+          <td>Fancellu Alessandro</td>
+          <td>JCL Team UKYO</td>
+          <td>30</td>
+          <td>18</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1550</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>9</td>
+          <td>Uriarte Diego</td>
+          <td>Equipo Kern Pharma</td>
+          <td>25</td>
+          <td>16</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1551</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>10</td>
+          <td>Jegat Jordan</td>
+          <td>Team TotalEnergies</td>
+          <td>20</td>
+          <td>14</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1552</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>11</td>
+          <td>Bregnhøj Mathias</td>
+          <td>Terengganu Cycling Team</td>
+          <td>15</td>
+          <td>12</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1553</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>12</td>
+          <td>De Bod Stefan</td>
+          <td>Terengganu Cycling Team</td>
+          <td>10</td>
+          <td>10</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1554</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>13</td>
+          <td>Van Der Meulen Max</td>
+          <td>Bahrain - Victorious</td>
+          <td>5</td>
+          <td>8</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1555</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>14</td>
+          <td>Pesenti Thomas</td>
+          <td>Soudal Quick-Step</td>
+          <td>5</td>
+          <td>7</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1556</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>15</td>
+          <td>Fedorov Yevgeniy</td>
+          <td>XDS Astana Team</td>
+          <td>5</td>
+          <td>6</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1557</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>16</td>
+          <td>Iribar Unai</td>
+          <td>Equipo Kern Pharma</td>
+          <td>3</td>
+          <td>5</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1558</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>17</td>
+          <td>Vinokurov Nicolas</td>
+          <td>XDS Astana Team</td>
+          <td>3</td>
+          <td>4</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1559</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>18</td>
+          <td>Bjerg Mikkel</td>
+          <td>UAE Team Emirates - XRG</td>
+          <td>3</td>
+          <td>3</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1560</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>19</td>
+          <td>Thalmann Roland</td>
+          <td>Tudor Pro Cycling Team</td>
+          <td>3</td>
+          <td>2</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1561</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>20</td>
+          <td>Buratti Nicolò</td>
+          <td>Bahrain - Victorious</td>
+          <td>3</td>
+          <td>1</td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1562</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>21</td>
+          <td>Van Rooy Kenneth</td>
+          <td>Wagner Bazin WB</td>
+          <td>3</td>
+          <td></td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1563</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>22</td>
+          <td>Johnston Calum</td>
+          <td>Caja Rural - Seguros RGA</td>
+          <td>3</td>
+          <td></td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1564</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>23</td>
+          <td>Aznar Hugo</td>
+          <td>Equipo Kern Pharma</td>
+          <td>3</td>
+          <td></td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1565</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>24</td>
+          <td>Garibbo Nicolò</td>
+          <td>JCL Team UKYO</td>
+          <td>3</td>
+          <td></td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+        <tr>
+          <th>1566</th>
+          <td>alula-tour</td>
+          <td>2025</td>
+          <td>gc</td>
+          <td>2025-02-01</td>
+          <td>gc</td>
+          <td></td>
+          <td></td>
+          <td>25</td>
+          <td>Elosegui Iñigo</td>
+          <td>Equipo Kern Pharma</td>
+          <td>3</td>
+          <td></td>
+          <td>2025-02-01 16:52:50</td>
+        </tr>
+      </tbody>
     </table>
+    
 
-    <script>
-      var tf = new TableFilter(document.querySelector('table1'), {
-          base_path: '/scripts/tablefilter/'
+  <script src="scripts/tablefilter/tablefilter.js"></script>
+
+  <script data-config>
+      var tf = new TableFilter('table1', {
+          base_path: 'scripts/tablefilter/',
+          alternate_rows: true
       });
       tf.init();
-    </script>
+  </script>
     
   </body>
 </html>
