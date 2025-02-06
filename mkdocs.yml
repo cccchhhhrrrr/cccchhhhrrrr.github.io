@@ -1,0 +1,6 @@
+site_name: C Y K E L V E N N E R
+site_url: https://cykelvenner.dk
+theme:
+  name: material
+  palette:
+    primary: teal
