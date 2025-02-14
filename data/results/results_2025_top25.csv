@@ -1,780 +1,805 @@
 RACE,YEAR,STAGE_ID,STAGE_DATE,STAGE_NAME,STAGE_PROFILE,STAGE_TYPE,RANK,RIDER,TEAM,UCI_POINTS,PCS_POINTS,UPDATE_TIMESTAMP
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,1,Welsford Sam,Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,2,Brennan Matthew,Team Visma | Lease a Bike,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,3,Walls Matthew,Groupama - FDJ,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,4,Teutenberg Tim Torn,Lidl - Trek,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,5,Swift Ben,INEOS Grenadiers,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,6,Dehairs Simon,Alpecin - Deceuninck,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,7,Strong Corbin,Israel - Premier Tech,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,8,Oliveira Rui,UAE Team Emirates - XRG,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,9,Bauhaus Phil,Bahrain - Victorious,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,10,Mosca Jacopo,Lidl - Trek,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,11,Andresen Tobias Lund,Team Picnic PostNL,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,12,Uhlig Henri,Alpecin - Deceuninck,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,13,Gate Aaron,XDS Astana Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,14,Scott Cameron,Australia,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,15,Marit Arne,Intermarché - Wanty,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,16,Coquard Bryan,Cofidis,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,17,Canal Carlos,Movistar Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,18,Vendrame Andrea,Decathlon AG2R La Mondiale Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,19,Van Poppel Danny,Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,20,Raccagni Noviero Andrea,Soudal Quick-Step,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,21,Tesfatsion Natnael,Movistar Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,22,Stewart Campbell,Team Jayco AlUla,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,23,Williams Stephen,Israel - Premier Tech,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,24,Boven Lars,Alpecin - Deceuninck,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,25,Grondin Donavan,Arkéa - B&B Hotels,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,1,Welsford Sam,Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,2,Marit Arne,Intermarché - Wanty,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,3,Coquard Bryan,Cofidis,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,4,Teutenberg Tim Torn,Lidl - Trek,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,5,Andresen Tobias Lund,Team Picnic PostNL,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,6,Uhlig Henri,Alpecin - Deceuninck,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,7,Watson Samuel,INEOS Grenadiers,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,8,Strong Corbin,Israel - Premier Tech,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,9,Renard Alexis,Cofidis,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,10,Walls Matthew,Groupama - FDJ,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,11,Bauhaus Phil,Bahrain - Victorious,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,12,Raccagni Noviero Andrea,Soudal Quick-Step,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,13,Tesfatsion Natnael,Movistar Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,14,Stewart Campbell,Team Jayco AlUla,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,15,Boven Lars,Alpecin - Deceuninck,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,16,Canal Carlos,Movistar Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,17,Tronchon Bastien,Decathlon AG2R La Mondiale Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,18,Labrosse Jordan,Decathlon AG2R La Mondiale Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,19,Askey Lewis,Groupama - FDJ,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,20,Porter Rudy,Australia,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,21,Williams Stephen,Israel - Premier Tech,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,22,Brennan Matthew,Team Visma | Lease a Bike,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,23,Lapeira Paul,Decathlon AG2R La Mondiale Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,24,Grondin Donavan,Arkéa - B&B Hotels,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,25,Withen Philipsen Albert,Lidl - Trek,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,1,Romo Javier,Movistar Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,2,Narváez Jhonatan,UAE Team Emirates - XRG,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,3,Fisher-Black Finn,Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,4,Withen Philipsen Albert,Lidl - Trek,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,5,Gloag Thomas,Team Visma | Lease a Bike,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,6,Konrad Patrick,Lidl - Trek,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,7,Bagioli Andrea,Lidl - Trek,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,8,Tronchon Bastien,Decathlon AG2R La Mondiale Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,9,Rochas Rémy,Groupama - FDJ,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,10,Sheffield Magnus,INEOS Grenadiers,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,11,Plapp Luke,Team Jayco AlUla,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,12,Higuita Sergio,XDS Astana Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,13,Vine Jay,UAE Team Emirates - XRG,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,14,López Juan Pedro,Lidl - Trek,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,15,Eulálio Afonso,Bahrain - Victorious,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,16,Harper Chris,Team Jayco AlUla,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,17,Onley Oscar,Team Picnic PostNL,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,18,Mollema Bauke,Lidl - Trek,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,19,Schmid Mauro,Team Jayco AlUla,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,20,Kwiatkowski Michał,INEOS Grenadiers,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,21,Zimmermann Georg,Intermarché - Wanty,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,22,Lecerf Junior,Soudal Quick-Step,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,23,Marriage Zac,Australia,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,24,Strong Corbin,Israel - Premier Tech,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,25,Porter Rudy,Australia,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,1,Coquard Bryan,Cofidis,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,2,Bauhaus Phil,Bahrain - Victorious,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,3,Narváez Jhonatan,UAE Team Emirates - XRG,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,4,Walsh Liam,Australia,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,5,Watson Samuel,INEOS Grenadiers,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,6,Andresen Tobias Lund,Team Picnic PostNL,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,7,Strong Corbin,Israel - Premier Tech,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,8,Teutenberg Tim Torn,Lidl - Trek,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,9,Uhlig Henri,Alpecin - Deceuninck,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,10,Godon Dorian,Decathlon AG2R La Mondiale Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,11,Askey Lewis,Groupama - FDJ,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,12,De Pooter Dries,Intermarché - Wanty,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,13,Sheffield Magnus,INEOS Grenadiers,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,14,Smith Dion,Intermarché - Wanty,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,15,Mulubrhan Henok,XDS Astana Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,16,Fisher-Black Finn,Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,17,Konrad Patrick,Lidl - Trek,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,18,Kwiatkowski Michał,INEOS Grenadiers,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,19,Busatto Francesco,Intermarché - Wanty,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,20,Brennan Matthew,Team Visma | Lease a Bike,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,21,Van Den Bossche Fabio,Alpecin - Deceuninck,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,22,Koerdt Bjoern,Team Picnic PostNL,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,23,Rochas Rémy,Groupama - FDJ,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,24,Canal Carlos,Movistar Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,25,Mollema Bauke,Lidl - Trek,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,1,Narváez Jhonatan,UAE Team Emirates - XRG,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,2,Onley Oscar,Team Picnic PostNL,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,3,Fisher-Black Finn,Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,4,Plapp Luke,Team Jayco AlUla,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,5,Romo Javier,Movistar Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,6,Woods Michael,Israel - Premier Tech,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,7,Gloag Thomas,Team Visma | Lease a Bike,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,8,Sheffield Magnus,INEOS Grenadiers,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,9,Tronchon Bastien,Decathlon AG2R La Mondiale Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,10,Konrad Patrick,Lidl - Trek,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,11,Porter Rudy,Australia,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,12,Rochas Rémy,Groupama - FDJ,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,13,Vine Jay,UAE Team Emirates - XRG,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,14,Mollema Bauke,Lidl - Trek,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,15,Zimmermann Georg,Intermarché - Wanty,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,16,Harper Chris,Team Jayco AlUla,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,17,Eulálio Afonso,Bahrain - Victorious,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,18,Marriage Zac,Australia,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,19,Withen Philipsen Albert,Lidl - Trek,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,20,Lecerf Junior,Soudal Quick-Step,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,21,Torres Pablo,UAE Team Emirates - XRG,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,22,Strong Corbin,Israel - Premier Tech,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,23,Zwiehoff Ben,Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,24,Verre Alessandro,Arkéa - B&B Hotels,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,25,Debruyne Ramses,Alpecin - Deceuninck,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,1,Welsford Sam,Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,2,Coquard Bryan,Cofidis,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,3,Bauhaus Phil,Bahrain - Victorious,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,4,Oliveira Rui,UAE Team Emirates - XRG,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,5,Van Poppel Danny,Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,6,Uhlig Henri,Alpecin - Deceuninck,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,7,Andresen Tobias Lund,Team Picnic PostNL,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,8,Teutenberg Tim Torn,Lidl - Trek,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,9,Walls Matthew,Groupama - FDJ,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,10,Raccagni Noviero Andrea,Soudal Quick-Step,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,11,Strong Corbin,Israel - Premier Tech,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,12,Stewart Campbell,Team Jayco AlUla,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,13,Marit Arne,Intermarché - Wanty,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,14,Tronchon Bastien,Decathlon AG2R La Mondiale Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,15,Canal Carlos,Movistar Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,16,Sheffield Magnus,INEOS Grenadiers,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,17,Godon Dorian,Decathlon AG2R La Mondiale Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,18,Walsh Liam,Australia,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,19,Mulubrhan Henok,XDS Astana Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,20,Romo Javier,Movistar Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,21,Izagirre Ion,Cofidis,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,22,De Pooter Dries,Intermarché - Wanty,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,23,Fisher-Black Finn,Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,24,Pescador Diego,Movistar Team,0,0,2025-02-12 22:46:38
-tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,25,Konrad Patrick,Lidl - Trek,0,0,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,1,Narváez Jhonatan,UAE Team Emirates - XRG,500,250,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,2,Romo Javier,Movistar Team,400,190,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,3,Fisher-Black Finn,Red Bull - BORA - hansgrohe,325,160,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,4,Onley Oscar,Team Picnic PostNL,275,140,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,5,Tronchon Bastien,Decathlon AG2R La Mondiale Team,225,120,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,6,Plapp Luke,Team Jayco AlUla,175,110,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,7,Sheffield Magnus,INEOS Grenadiers,150,100,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,8,Gloag Thomas,Team Visma | Lease a Bike,125,90,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,9,Konrad Patrick,Lidl - Trek,100,80,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,10,Woods Michael,Israel - Premier Tech,85,70,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,11,Vine Jay,UAE Team Emirates - XRG,70,60,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,12,Rochas Rémy,Groupama - FDJ,60,55,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,13,Mollema Bauke,Lidl - Trek,50,50,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,14,Harper Chris,Team Jayco AlUla,40,45,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,15,Eulálio Afonso,Bahrain - Victorious,35,40,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,16,Porter Rudy,Australia,30,36,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,17,Withen Philipsen Albert,Lidl - Trek,30,32,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,18,Zimmermann Georg,Intermarché - Wanty,30,28,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,19,Marriage Zac,Australia,30,24,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,20,Lecerf Junior,Soudal Quick-Step,30,20,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,21,Strong Corbin,Israel - Premier Tech,20,18,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,22,Torres Pablo,UAE Team Emirates - XRG,20,16,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,23,Higuita Sergio,XDS Astana Team,20,14,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,24,Bagioli Andrea,Lidl - Trek,20,12,2025-02-12 22:46:38
-tour-down-under,2025,gc,2025-01-26,gc,,,25,Izagirre Ion,Cofidis,20,10,2025-02-12 22:46:38
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,1,Merlier Tim,Soudal Quick-Step,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,2,Molano Juan Sebastián,UAE Team Emirates - XRG,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,3,Zijlaard Maikel,Tudor Pro Cycling Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,4,Moschetti Matteo,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,5,Groenewegen Dylan,Team Jayco AlUla,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,6,Walscheid Max,Team Jayco AlUla,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,7,Barbier Pierre,Wagner Bazin WB,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,8,Bruttomesso Alberto,Bahrain - Victorious,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,9,Weemaes Sasha,Wagner Bazin WB,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,10,D'Amato Andrea,JCL Team UKYO,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,11,Jakobsen Fabio,Team Picnic PostNL,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,12,Darder Sergi,Caja Rural - Seguros RGA,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,13,Brustenga Marc,Equipo Kern Pharma,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,14,Gonov Lev,XDS Astana Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,15,Boniface Lucas,Team TotalEnergies,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,16,Abrahamsen Jonas,Uno-X Mobility,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,17,Fedorov Yevgeniy,XDS Astana Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,18,Romele Alessandro,XDS Astana Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,19,Sorarrain Gorka,Caja Rural - Seguros RGA,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,20,Quick Blake,Roojai Insurance,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,21,Hatherly Alan,Team Jayco AlUla,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,22,Van Hautegem Leander,Wagner Bazin WB,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,23,Iribar Unai,Equipo Kern Pharma,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,24,Oliveira Ivo,UAE Team Emirates - XRG,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,25,Dauphin Florian,Team TotalEnergies,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,1,Pidcock Thomas,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,2,Kepplinger Rainer,Bahrain - Victorious,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,3,Hatherly Alan,Team Jayco AlUla,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,4,Dunbar Eddie,Team Jayco AlUla,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,5,De Bod Stefan,Terengganu Cycling Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,6,Dversnes Fredrik,Uno-X Mobility,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,7,Voisard Yannis,Tudor Pro Cycling Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,8,Majka Rafał,UAE Team Emirates - XRG,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,9,Aznar Hugo,Equipo Kern Pharma,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,10,Fancellu Alessandro,JCL Team UKYO,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,11,Holter Ådne,Uno-X Mobility,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,12,Jegat Jordan,Team TotalEnergies,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,13,Van Den Broek Frank,Team Picnic PostNL,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,14,Kulset Johannes,Uno-X Mobility,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,15,Van Der Meulen Max,Bahrain - Victorious,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,16,Uriarte Diego,Equipo Kern Pharma,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,17,Johnston Calum,Caja Rural - Seguros RGA,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,18,Iribar Unai,Equipo Kern Pharma,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,19,Bregnhøj Mathias,Terengganu Cycling Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,20,Pericas Adrià,UAE Team Emirates - XRG,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,21,Carrascosa Pablo,Equipo Kern Pharma,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,22,Garibbo Nicolò,JCL Team UKYO,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,23,Vinokurov Nicolas,XDS Astana Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,24,Thalmann Roland,Tudor Pro Cycling Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,25,Bjerg Mikkel,UAE Team Emirates - XRG,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,1,Merlier Tim,Soudal Quick-Step,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,2,Groenewegen Dylan,Team Jayco AlUla,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,3,Molano Juan Sebastián,UAE Team Emirates - XRG,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,4,Moschetti Matteo,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,5,Barbier Pierre,Wagner Bazin WB,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,6,Brustenga Marc,Equipo Kern Pharma,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,7,Fedorov Yevgeniy,XDS Astana Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,8,Dauphin Florian,Team TotalEnergies,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,9,Bruttomesso Alberto,Bahrain - Victorious,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,10,Kolze Changizi Sebastian,Tudor Pro Cycling Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,11,Romele Alessandro,XDS Astana Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,12,Van Rooy Kenneth,Wagner Bazin WB,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,13,Degenkolb John,Team Picnic PostNL,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,14,Van Lerberghe Bert,Soudal Quick-Step,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,15,Hatherly Alan,Team Jayco AlUla,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,16,Fancellu Alessandro,JCL Team UKYO,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,17,Basset Pierre-Henry,XDS Astana Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,18,Quick Blake,Roojai Insurance,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,19,Kepplinger Rainer,Bahrain - Victorious,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,20,Johnston Calum,Caja Rural - Seguros RGA,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,21,Pasqualon Andrea,Bahrain - Victorious,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,22,Abrahamsen Jonas,Uno-X Mobility,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,23,Wallin Rasmus Bøgh,Uno-X Mobility,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,24,Oliveira Ivo,UAE Team Emirates - XRG,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,25,Dversnes Fredrik,Uno-X Mobility,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,1,Pidcock Thomas,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,2,Hatherly Alan,Team Jayco AlUla,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,3,Kepplinger Rainer,Bahrain - Victorious,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,4,Kulset Johannes,Uno-X Mobility,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,5,Dunbar Eddie,Team Jayco AlUla,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,6,Pesenti Thomas,Soudal Quick-Step,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,7,Azparren Xabier Mikel,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,8,Fancellu Alessandro,JCL Team UKYO,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,9,Delbove Joris,Team TotalEnergies,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,10,Van Der Meulen Max,Bahrain - Victorious,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,11,Dversnes Fredrik,Uno-X Mobility,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,12,Bregnhøj Mathias,Terengganu Cycling Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,13,Voisard Yannis,Tudor Pro Cycling Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,14,Jegat Jordan,Team TotalEnergies,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,15,Van Den Broek Frank,Team Picnic PostNL,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,16,Uriarte Diego,Equipo Kern Pharma,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,17,Iribar Unai,Equipo Kern Pharma,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,18,Pericas Adrià,UAE Team Emirates - XRG,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,19,Holter Ådne,Uno-X Mobility,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,20,Majka Rafał,UAE Team Emirates - XRG,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,21,Van Uden Casper,Team Picnic PostNL,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,22,Buratti Nicolò,Bahrain - Victorious,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,23,Fedorov Yevgeniy,XDS Astana Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,24,Bjerg Mikkel,UAE Team Emirates - XRG,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,25,Thalmann Roland,Tudor Pro Cycling Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,1,Moschetti Matteo,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,2,Groenewegen Dylan,Team Jayco AlUla,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,3,Molano Juan Sebastián,UAE Team Emirates - XRG,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,4,Kristoff Alexander,Uno-X Mobility,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,5,Fedorov Yevgeniy,XDS Astana Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,6,Dauphin Florian,Team TotalEnergies,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,7,De Kleijn Arvid,Tudor Pro Cycling Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,8,Bruttomesso Alberto,Bahrain - Victorious,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,9,Weemaes Sasha,Wagner Bazin WB,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,10,Brustenga Marc,Equipo Kern Pharma,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,11,Van Uden Casper,Team Picnic PostNL,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,12,Van Rooy Kenneth,Wagner Bazin WB,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,13,Merlier Tim,Soudal Quick-Step,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,14,Gonov Lev,XDS Astana Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,15,Oliveira Ivo,UAE Team Emirates - XRG,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,16,Leroux Samuel,Team TotalEnergies,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,17,Jegat Jordan,Team TotalEnergies,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,18,Fancellu Alessandro,JCL Team UKYO,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,19,Van Den Broek Frank,Team Picnic PostNL,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,20,Pesenti Thomas,Soudal Quick-Step,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,21,Parisini Nicolò,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,22,Frison Frederik,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,23,Pidcock Thomas,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,24,Dversnes Fredrik,Uno-X Mobility,0,0,2025-02-12 22:46:56
-alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,25,Bregnhøj Mathias,Terengganu Cycling Team,0,0,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,1,Pidcock Thomas,Q36.5 Pro Cycling Team,125,100,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,2,Dversnes Fredrik,Uno-X Mobility,85,70,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,3,Kulset Johannes,Uno-X Mobility,70,50,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,4,Holter Ådne,Uno-X Mobility,60,36,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,5,Kepplinger Rainer,Bahrain - Victorious,50,28,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,6,Hatherly Alan,Team Jayco AlUla,40,24,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,7,Van Den Broek Frank,Team Picnic PostNL,35,20,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,8,Fancellu Alessandro,JCL Team UKYO,30,18,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,9,Uriarte Diego,Equipo Kern Pharma,25,16,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,10,Jegat Jordan,Team TotalEnergies,20,14,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,11,Bregnhøj Mathias,Terengganu Cycling Team,15,12,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,12,De Bod Stefan,Terengganu Cycling Team,10,10,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,13,Van Der Meulen Max,Bahrain - Victorious,5,8,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,14,Pesenti Thomas,Soudal Quick-Step,5,7,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,15,Fedorov Yevgeniy,XDS Astana Team,5,6,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,16,Iribar Unai,Equipo Kern Pharma,3,5,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,17,Vinokurov Nicolas,XDS Astana Team,3,4,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,18,Bjerg Mikkel,UAE Team Emirates - XRG,3,3,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,19,Thalmann Roland,Tudor Pro Cycling Team,3,2,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,20,Buratti Nicolò,Bahrain - Victorious,3,1,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,21,Van Rooy Kenneth,Wagner Bazin WB,3,,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,22,Johnston Calum,Caja Rural - Seguros RGA,3,,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,23,Aznar Hugo,Equipo Kern Pharma,3,,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,24,Garibbo Nicolò,JCL Team UKYO,3,,2025-02-12 22:46:56
-alula-tour,2025,gc,2025-02-01,gc,,,25,Elosegui Iñigo,Equipo Kern Pharma,3,,2025-02-12 22:46:56
-great-ocean-road-race,2025,result,,result,,,1,Schmid Mauro,Team Jayco AlUla,300,225,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,2,Gate Aaron,XDS Astana Team,250,150,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,3,Pithie Laurence,Red Bull - BORA - hansgrohe,215,110,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,4,Romo Javier,Movistar Team,175,90,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,5,Bagioli Andrea,Lidl - Trek,120,80,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,6,Strong Corbin,Israel - Premier Tech,115,70,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,7,Sheffield Magnus,INEOS Grenadiers,95,60,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,8,Rochas Rémy,Groupama - FDJ,75,50,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,9,Onley Oscar,Team Picnic PostNL,60,46,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,10,Fisher-Black Finn,Red Bull - BORA - hansgrohe,50,42,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,11,Chaves Esteban,EF Education - EasyPost,40,38,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,12,Woods Michael,Israel - Premier Tech,35,34,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,13,Teutenberg Tim Torn,Lidl - Trek,30,30,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,14,Van Poppel Danny,Red Bull - BORA - hansgrohe,25,26,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,15,Andresen Tobias Lund,Team Picnic PostNL,20,22,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,16,Coquard Bryan,Cofidis,20,20,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,17,Busatto Francesco,Intermarché - Wanty,20,18,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,18,Konrad Patrick,Lidl - Trek,20,17,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,19,Tesfatsion Natnael,Movistar Team,20,16,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,20,Eenkhoorn Pascal,Soudal Quick-Step,20,15,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,21,Canal Carlos,Movistar Team,12,14,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,22,Zimmermann Georg,Intermarché - Wanty,12,13,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,23,Mulubrhan Henok,XDS Astana Team,12,12,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,24,Pacher Quentin,Groupama - FDJ,12,11,2025-02-12 22:47:12
-great-ocean-road-race,2025,result,,result,,,25,Kwiatkowski Michał,INEOS Grenadiers,12,10,2025-02-12 22:47:12
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,1,Milan Jonathan, Lidl - Trek,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,1,Vacek Mathias, Lidl - Trek,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,1,Hoole Daan, Lidl - Trek,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,1,Söderqvist Jakob, Lidl - Trek,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,1,Theuns Edward, Lidl - Trek,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,1,Ghebreigzabhier Amanuel, Lidl - Trek,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,1,Consonni Simone, Lidl - Trek,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,2,O'Connor Ben, Team Jayco AlUla,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,2,Hepburn Michael, Team Jayco AlUla,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,2,Krijnsen Jelte, Team Jayco AlUla,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,2,Sütterlin Jasha, Team Jayco AlUla,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,2,Donaldson Robert, Team Jayco AlUla,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,2,Juul-Jensen Christopher, Team Jayco AlUla,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,2,Zana Filippo, Team Jayco AlUla,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,3,Almeida João, UAE Team Emirates - XRG,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,3,Mcnulty Brandon, UAE Team Emirates - XRG,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,3,Großschartner Felix, UAE Team Emirates - XRG,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,3,Sivakov Pavel, UAE Team Emirates - XRG,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,3,Johansen Julius, UAE Team Emirates - XRG,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,3,Oliveira Ivo, UAE Team Emirates - XRG,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,3,Baroncini Filippo, UAE Team Emirates - XRG,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,4,Vlasov Aleksandr, Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,4,Hindley Jai, Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,4,Sobrero Matteo, Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,4,Wandahl Frederik, Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,4,Aleotti Giovanni, Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,4,Denz Nico, Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,4,Moscon Gianni, Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,5,Rodríguez Carlos, INEOS Grenadiers,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,5,Arensman Thymen, INEOS Grenadiers,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,5,August Andrew, INEOS Grenadiers,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,5,Castroviejo Jonathan, INEOS Grenadiers,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,5,Foss Tobias, INEOS Grenadiers,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,5,Leonard Michael, INEOS Grenadiers,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,5,Jungels Bob, INEOS Grenadiers,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,6,Castrillo Pablo, Movistar Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,6,Romeo Iván, Movistar Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,6,Barta Will, Movistar Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,6,Cepeda Jefferson Alveiro, Movistar Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,6,Oliveira Nelson, Movistar Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,6,Milesi Lorenzo, Movistar Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,6,Arcas Jorge, Movistar Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,7,Bilbao Pello, Bahrain - Victorious,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,7,Buitrago Santiago, Bahrain - Victorious,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,7,Haig Jack, Bahrain - Victorious,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,7,Kepplinger Rainer, Bahrain - Victorious,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,7,Martinez Lenny, Bahrain - Victorious,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,7,Zambanini Edoardo, Bahrain - Victorious,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,7,Gradek Kamil, Bahrain - Victorious,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,8,Blackmore Joseph, Israel - Premier Tech,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,8,Houle Hugo, Israel - Premier Tech,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,8,Lutsenko Alexey, Israel - Premier Tech,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,8,Vernon Ethan, Israel - Premier Tech,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,8,Sheehan Riley, Israel - Premier Tech,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,8,Stewart Jake, Israel - Premier Tech,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,8,Pickrell Riley, Israel - Premier Tech,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,9,Brambilla Gianluca, Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,9,Donovan Mark, Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,9,Calzoni Walter, Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,9,Vader Milan, Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,9,Townsend Rory, Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,9,Steimle Jannik, Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,9,González David, Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,10,Groves Kaden, Alpecin - Deceuninck,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,10,Vermeersch Gianni, Alpecin - Deceuninck,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,10,Riesebeek Oscar, Alpecin - Deceuninck,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,10,Uhlig Henri, Alpecin - Deceuninck,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,10,Planckaert Edward, Alpecin - Deceuninck,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,10,Boven Lars, Alpecin - Deceuninck,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,10,Sentjens Sente, Alpecin - Deceuninck,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,11,Juaristi Txomin, Euskaltel - Euskadi,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,11,Isasa Xabier, Euskaltel - Euskadi,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,11,Agirre Jon, Euskaltel - Euskadi,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,11,Bizkarra Mikel, Euskaltel - Euskadi,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,11,Murguialday Jokin, Euskaltel - Euskadi,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,11,Berasategi Xabier, Euskaltel - Euskadi,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,11,Dina Márton, Euskaltel - Euskadi,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,12,Maestri Mirco, Team Polti VisitMalta,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,12,Muñoz Francisco, Team Polti VisitMalta,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,12,Piganzoli Davide, Team Polti VisitMalta,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,12,Zoccarato Samuele, Team Polti VisitMalta,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,12,Lonardi Giovanni, Team Polti VisitMalta,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,12,Bais Davide, Team Polti VisitMalta,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,12,Tercero Fernando, Team Polti VisitMalta,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,13,Berwick Sebastian, Caja Rural - Seguros RGA,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,13,Guardeño Jaume, Caja Rural - Seguros RGA,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,13,Molenaar Alex, Caja Rural - Seguros RGA,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,13,Otruba Jakub, Caja Rural - Seguros RGA,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,13,Leitão Iúri, Caja Rural - Seguros RGA,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,13,Bou Joan, Caja Rural - Seguros RGA,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,13,Stites Tyler, Caja Rural - Seguros RGA,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,14,Caicedo Jonathan Klever, Petrolike,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,14,Cadena Edgar David, Petrolike,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,14,Ponomar Andrii, Petrolike,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,14,Prieto Jose Juan, Petrolike,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,14,Garcia Carlos Alfonso, Petrolike,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,14,Macias Cesar, Petrolike,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,14,Galimberti Lorenzo, Petrolike,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,15,Artz Huub, Intermarché - Wanty,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,15,Colleoni Kevin, Intermarché - Wanty,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,15,Meintjes Louis, Intermarché - Wanty,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,15,Van Hoecke Gijs, Intermarché - Wanty,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,15,Kamp Alexander, Intermarché - Wanty,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,15,Thijssen Gerben, Intermarché - Wanty,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,15,Petit Adrien, Intermarché - Wanty,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,16,Gervais Laurent, Project Echelon Racing,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,16,Scala Jr Hugo, Project Echelon Racing,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,16,Haug Kieran, Project Echelon Racing,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,16,Classen Caleb, Project Echelon Racing,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,16,Boardman Samuel, Project Echelon Racing,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,16,Bickmore Cade, Project Echelon Racing,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,16,Rhim Brendan, Project Echelon Racing,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,17,Kmínek Vojtěch, Burgos Burpellet BH,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,17,Alleno Clément, Burgos Burpellet BH,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,17,Martin David, Burgos Burpellet BH,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,17,Okamika Ander, Burgos Burpellet BH,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,17,De La Calle Hugo, Burgos Burpellet BH,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,17,Díaz José Manuel, Burgos Burpellet BH,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,17,Fernández Sinuhé, Burgos Burpellet BH,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,18,Parra José Félix, Equipo Kern Pharma,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,18,Uriarte Diego, Equipo Kern Pharma,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,18,Iribar Unai, Equipo Kern Pharma,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,18,Elosegui Iñigo, Equipo Kern Pharma,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,18,Cobo Iván, Equipo Kern Pharma,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,18,Sosa Iván Ramiro, Equipo Kern Pharma,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,18,Fernández Miguel Ángel, Equipo Kern Pharma,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,19,Covili Luca, VF Group - Bardiani CSF - Faizanè,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,19,Fiorelli Filippo, VF Group - Bardiani CSF - Faizanè,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,19,Paletti Luca, VF Group - Bardiani CSF - Faizanè,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,19,Scalco Matteo, VF Group - Bardiani CSF - Faizanè,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,19,Tolio Alex, VF Group - Bardiani CSF - Faizanè,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,19,Martinelli Alessio, VF Group - Bardiani CSF - Faizanè,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,19,Rojas Vicente, VF Group - Bardiani CSF - Faizanè,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,20,Kopecký Matyáš, Team Novo Nordisk,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,20,Ridolfo Filippo, Team Novo Nordisk,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,20,Smith Nathan, Team Novo Nordisk,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,20,Armitt Hamish, Team Novo Nordisk,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,20,Irvine Declan, Team Novo Nordisk,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,20,Mcdonald Bailey, Team Novo Nordisk,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,20,Polga Antonio, Team Novo Nordisk,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,21,Bezza Quentin, Wagner Bazin WB,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,21,Portsmouth Tom, Wagner Bazin WB,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,21,Lambrecht Michiel, Wagner Bazin WB,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,21,De Tier Floris, Wagner Bazin WB,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,21,Meens Johan, Wagner Bazin WB,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,21,Matthys Louka, Wagner Bazin WB,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,21,Vliegen Loïc, Wagner Bazin WB,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,22,Ariño Gonzalo, Illes Balears Arabay,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,22,García José María, Illes Balears Arabay,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,22,Gonzalez Asier Pablo, Illes Balears Arabay,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,22,Llaneras Pau, Illes Balears Arabay,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,22,Marín José, Illes Balears Arabay,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,22,Riera Joan Albert, Illes Balears Arabay,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,22,Sagrado Alvaro, Illes Balears Arabay,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,1,Buitrago Santiago,Bahrain - Victorious,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,2,Bilbao Pello,Bahrain - Victorious,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,3,Almeida João,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,4,Cepeda Jefferson Alveiro,Movistar Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,5,Arensman Thymen,INEOS Grenadiers,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,6,Sosa Iván Ramiro,Equipo Kern Pharma,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,7,Mcnulty Brandon,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,8,Rodríguez Carlos,INEOS Grenadiers,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,9,Martinez Lenny,Bahrain - Victorious,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,10,Romeo Iván,Movistar Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,11,Castrillo Pablo,Movistar Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,12,Piganzoli Davide,Team Polti VisitMalta,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,13,Vacek Mathias,Lidl - Trek,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,14,Hindley Jai,Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,15,O'Connor Ben,Team Jayco AlUla,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,16,Sivakov Pavel,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,17,Foss Tobias,INEOS Grenadiers,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,18,Haig Jack,Bahrain - Victorious,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,19,Vlasov Aleksandr,Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,20,Lutsenko Alexey,Israel - Premier Tech,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,21,Caicedo Jonathan Klever,Petrolike,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,22,Agirre Jon,Euskaltel - Euskadi,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,23,Vader Milan,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,24,Galimberti Lorenzo,Petrolike,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,25,Barta Will,Movistar Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,1,Romeo Iván,Movistar Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,2,Buitrago Santiago,Bahrain - Victorious,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,3,Almeida João,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,4,Bilbao Pello,Bahrain - Victorious,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,5,Cepeda Jefferson Alveiro,Movistar Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,6,Castrillo Pablo,Movistar Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,7,Piganzoli Davide,Team Polti VisitMalta,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,8,Hindley Jai,Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,9,O'Connor Ben,Team Jayco AlUla,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,10,Arensman Thymen,INEOS Grenadiers,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,11,Rodríguez Carlos,INEOS Grenadiers,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,12,Mcnulty Brandon,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,13,Martinez Lenny,Bahrain - Victorious,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,14,Foss Tobias,INEOS Grenadiers,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,15,Haig Jack,Bahrain - Victorious,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,16,August Andrew,INEOS Grenadiers,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,17,Vlasov Aleksandr,Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,18,Lutsenko Alexey,Israel - Premier Tech,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,19,Sivakov Pavel,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,20,Juaristi Txomin,Euskaltel - Euskadi,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,21,Díaz José Manuel,Burgos Burpellet BH,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,22,Vader Milan,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,23,Cobo Iván,Equipo Kern Pharma,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,24,Alleno Clément,Burgos Burpellet BH,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,25,Paletti Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,1,Buitrago Santiago,Bahrain - Victorious,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,2,Milan Jonathan,Lidl - Trek,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,3,Söderqvist Jakob,Lidl - Trek,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,4,Sheehan Riley,Israel - Premier Tech,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,5,Arensman Thymen,INEOS Grenadiers,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,6,Bilbao Pello,Bahrain - Victorious,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,7,Almeida João,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,8,Sobrero Matteo,Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,9,Mcnulty Brandon,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,10,Hindley Jai,Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,11,Rodríguez Carlos,INEOS Grenadiers,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,12,Martinez Lenny,Bahrain - Victorious,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,13,De La Calle Hugo,Burgos Burpellet BH,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,14,Paletti Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,15,Cepeda Jefferson Alveiro,Movistar Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,16,Piganzoli Davide,Team Polti VisitMalta,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,17,Alleno Clément,Burgos Burpellet BH,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,18,O'Connor Ben,Team Jayco AlUla,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,19,Foss Tobias,INEOS Grenadiers,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,20,Ponomar Andrii,Petrolike,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,21,Cobo Iván,Equipo Kern Pharma,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,22,Romeo Iván,Movistar Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,23,Sivakov Pavel,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,24,Haig Jack,Bahrain - Victorious,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,25,Denz Nico,Red Bull - BORA - hansgrohe,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,1,Milan Jonathan,Lidl - Trek,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,2,Stewart Jake,Israel - Premier Tech,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,3,Lonardi Giovanni,Team Polti VisitMalta,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,4,Thijssen Gerben,Intermarché - Wanty,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,5,Berasategi Xabier,Euskaltel - Euskadi,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,6,Sentjens Sente,Alpecin - Deceuninck,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,7,Vernon Ethan,Israel - Premier Tech,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,8,Fernández Miguel Ángel,Equipo Kern Pharma,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,9,Macias Cesar,Petrolike,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,10,Lambrecht Michiel,Wagner Bazin WB,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,11,Kopecký Matyáš,Team Novo Nordisk,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,12,Maestri Mirco,Team Polti VisitMalta,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,13,Townsend Rory,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,14,Krijnsen Jelte,Team Jayco AlUla,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,15,Fiorelli Filippo,VF Group - Bardiani CSF - Faizanè,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,16,Prieto Jose Juan,Petrolike,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,17,Consonni Simone,Lidl - Trek,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,18,Scala Jr Hugo,Project Echelon Racing,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,19,Milesi Lorenzo,Movistar Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,20,Baroncini Filippo,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,21,Alleno Clément,Burgos Burpellet BH,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,22,Stites Tyler,Caja Rural - Seguros RGA,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,23,Oliveira Ivo,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,24,Muñoz Francisco,Team Polti VisitMalta,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,25,Castrillo Pablo,Movistar Team,0,0,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,1,Buitrago Santiago,Bahrain - Victorious,200,150,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,2,Almeida João,UAE Team Emirates - XRG,150,110,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,3,Bilbao Pello,Bahrain - Victorious,125,90,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,4,Arensman Thymen,INEOS Grenadiers,100,80,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,5,Mcnulty Brandon,UAE Team Emirates - XRG,85,70,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,6,Rodríguez Carlos,INEOS Grenadiers,70,60,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,7,Cepeda Jefferson Alveiro,Movistar Team,60,55,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,8,Romeo Iván,Movistar Team,50,50,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,9,Hindley Jai,Red Bull - BORA - hansgrohe,40,45,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,10,O'Connor Ben,Team Jayco AlUla,35,40,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,11,Martinez Lenny,Bahrain - Victorious,30,36,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,12,Castrillo Pablo,Movistar Team,25,32,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,13,Foss Tobias,INEOS Grenadiers,20,28,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,14,Piganzoli Davide,Team Polti VisitMalta,15,24,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,15,Sivakov Pavel,UAE Team Emirates - XRG,10,20,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,16,Haig Jack,Bahrain - Victorious,5,16,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,17,Vlasov Aleksandr,Red Bull - BORA - hansgrohe,5,14,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,18,Lutsenko Alexey,Israel - Premier Tech,5,12,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,19,Vader Milan,Q36.5 Pro Cycling Team,5,10,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,20,Juaristi Txomin,Euskaltel - Euskadi,5,8,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,21,Ponomar Andrii,Petrolike,5,6,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,22,Alleno Clément,Burgos Burpellet BH,5,4,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,23,Barta Will,Movistar Team,5,3,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,24,Cobo Iván,Equipo Kern Pharma,5,2,2025-02-12 22:47:24
-vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,25,Paletti Luca,VF Group - Bardiani CSF - Faizanè,5,1,2025-02-12 22:47:24
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,1,Kooij Olav,Team Visma | Lease a Bike,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,2,Bittner Pavel,Team Picnic PostNL,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,3,Blikra Erlend,Uno-X Mobility,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,4,D'Amato Andrea,JCL Team UKYO,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,5,Pluimers Rick,Tudor Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,6,Gaviria Fernando,Movistar Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,7,Turgis Anthony,Team TotalEnergies,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,8,Jeannière Emilien,Team TotalEnergies,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,9,Giaimi Luca,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,10,Nizzolo Giacomo,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,11,Kanter Max,XDS Astana Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,12,Bouglas Georgios,Burgos Burpellet BH,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,13,Capiot Amaury,Arkéa - B&B Hotels,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,14,Vermeersch Florian,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,15,Álvarez Rodrigo,Burgos Burpellet BH,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,16,Quick Blake,Roojai Insurance,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,17,Biermans Jenthe,Arkéa - B&B Hotels,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,18,Hayter Ethan,Soudal Quick-Step,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,19,Lozouet Léandre,Arkéa - B&B Hotels,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,20,Guerreiro Ruben,Movistar Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,21,Brenner Marco,Tudor Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,22,Paleni Enzo,Groupama - FDJ,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,23,Masuda Nariyuki,JCL Team UKYO,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,24,Flynn Sean,Team Picnic PostNL,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,25,Aular Orluis,Movistar Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,1,Vervaeke Louis,Soudal Quick-Step,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,2,Paret-Peintre Valentin,Soudal Quick-Step,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,3,Flynn Sean,Team Picnic PostNL,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,4,Engelhardt Felix,Team Jayco AlUla,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,5,Brenner Marco,Tudor Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,6,Mulubrhan Henok,XDS Astana Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,7,Cras Steff,Team TotalEnergies,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,8,Yates Adam,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,9,Rondel Mathys,Tudor Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,10,Gaudu David,Groupama - FDJ,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,11,Fancellu Alessandro,JCL Team UKYO,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,12,Ulissi Diego,XDS Astana Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,13,Howson Damien,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,14,Warbasse Larry,Tudor Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,15,Delgado David,Burgos Burpellet BH,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,16,Uijtdebroeks Cian,Team Visma | Lease a Bike,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,17,Badilatti Matteo,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,18,Barguil Warren,Team Picnic PostNL,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,19,Poels Wout,XDS Astana Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,20,Aparicio Mario,Burgos Burpellet BH,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,21,García Pierna Carlos,Burgos Burpellet BH,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,22,Majka Rafał,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,23,Dalby Simon,Uno-X Mobility,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,24,Bregnhøj Mathias,Terengganu Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,25,Svestad-Bårdseng Embret,Arkéa - B&B Hotels,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,1,Gaudu David,Groupama - FDJ,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,2,Yates Adam,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,3,Howson Damien,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,4,Paret-Peintre Valentin,Soudal Quick-Step,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,5,Brenner Marco,Tudor Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,6,Uijtdebroeks Cian,Team Visma | Lease a Bike,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,7,Harper Chris,Team Jayco AlUla,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,8,Ulissi Diego,XDS Astana Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,9,Guerreiro Ruben,Movistar Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,10,Poels Wout,XDS Astana Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,11,Svestad-Bårdseng Embret,Arkéa - B&B Hotels,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,12,Zeray Nahom,JCL Team UKYO,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,13,Dalby Simon,Uno-X Mobility,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,14,Vermaerke Kevin,Team Picnic PostNL,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,15,Majka Rafał,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,16,Aparicio Mario,Burgos Burpellet BH,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,17,Delgado David,Burgos Burpellet BH,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,18,Barguil Warren,Team Picnic PostNL,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,19,De La Cruz David,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,20,Badilatti Matteo,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,21,Mulubrhan Henok,XDS Astana Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,22,Rondel Mathys,Tudor Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,23,Van Engelen Adne,Terengganu Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,24,Faura José Luis,Burgos Burpellet BH,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,25,Garibbo Nicolò,JCL Team UKYO,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,1,Kooij Olav,Team Visma | Lease a Bike,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,2,Nizzolo Giacomo,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,3,Aular Orluis,Movistar Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,4,Blikra Erlend,Uno-X Mobility,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,5,Kanter Max,XDS Astana Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,6,Bittner Pavel,Team Picnic PostNL,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,7,Jeannière Emilien,Team TotalEnergies,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,8,García Cortina Iván,Movistar Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,9,Capiot Amaury,Arkéa - B&B Hotels,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,10,Vermeersch Florian,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,11,D'Amato Andrea,JCL Team UKYO,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,12,Biermans Jenthe,Arkéa - B&B Hotels,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,13,Quick Blake,Roojai Insurance,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,14,Pluimers Rick,Tudor Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,15,Álvarez Rodrigo,Burgos Burpellet BH,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,16,Fancellu Alessandro,JCL Team UKYO,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,17,De Pretto Davide,Team Jayco AlUla,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,18,Engelhardt Felix,Team Jayco AlUla,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,19,Bouglas Georgios,Burgos Burpellet BH,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,20,Garibbo Nicolò,JCL Team UKYO,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,21,Phonarjthan Patompob,Roojai Insurance,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,22,Guerreiro Ruben,Movistar Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,23,Brenner Marco,Tudor Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,24,Yates Adam,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,25,Howson Damien,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,1,Paret-Peintre Valentin,Soudal Quick-Step,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,2,Yates Adam,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,3,Gaudu David,Groupama - FDJ,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,4,Svestad-Bårdseng Embret,Arkéa - B&B Hotels,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,5,Uijtdebroeks Cian,Team Visma | Lease a Bike,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,6,Poels Wout,XDS Astana Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,7,Howson Damien,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,8,Harper Chris,Team Jayco AlUla,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,9,Vine Jay,UAE Team Emirates - XRG,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,10,Brenner Marco,Tudor Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,11,Dalby Simon,Uno-X Mobility,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,12,Zeray Nahom,JCL Team UKYO,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,13,Badilatti Matteo,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,14,Guerreiro Ruben,Movistar Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,15,Aparicio Mario,Burgos Burpellet BH,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,16,De La Cruz David,Q36.5 Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,17,Warbasse Larry,Tudor Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,18,Garofoli Gianmarco,Soudal Quick-Step,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,19,Van Engelen Adne,Terengganu Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,20,Vermaerke Kevin,Team Picnic PostNL,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,21,Gesbert Élie,Arkéa - B&B Hotels,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,22,Rondel Mathys,Tudor Pro Cycling Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,23,Faura José Luis,Burgos Burpellet BH,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,24,Ries Michel,Arkéa - B&B Hotels,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,25,Mulubrhan Henok,XDS Astana Team,0,0,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,1,Yates Adam,UAE Team Emirates - XRG,200,150,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,2,Paret-Peintre Valentin,Soudal Quick-Step,150,110,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,3,Gaudu David,Groupama - FDJ,125,90,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,4,Howson Damien,Q36.5 Pro Cycling Team,100,80,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,5,Uijtdebroeks Cian,Team Visma | Lease a Bike,85,70,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,6,Harper Chris,Team Jayco AlUla,70,60,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,7,Poels Wout,XDS Astana Team,60,55,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,8,Svestad-Bårdseng Embret,Arkéa - B&B Hotels,50,50,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,9,Brenner Marco,Tudor Pro Cycling Team,40,45,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,10,Dalby Simon,Uno-X Mobility,35,40,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,11,Guerreiro Ruben,Movistar Team,30,36,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,12,Zeray Nahom,JCL Team UKYO,25,32,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,13,Badilatti Matteo,Q36.5 Pro Cycling Team,20,28,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,14,Aparicio Mario,Burgos Burpellet BH,15,24,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,15,De La Cruz David,Q36.5 Pro Cycling Team,10,20,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,16,Vermaerke Kevin,Team Picnic PostNL,5,16,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,17,Rondel Mathys,Tudor Pro Cycling Team,5,14,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,18,Warbasse Larry,Tudor Pro Cycling Team,5,12,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,19,Van Engelen Adne,Terengganu Cycling Team,5,10,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,20,Gesbert Élie,Arkéa - B&B Hotels,5,8,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,21,Mulubrhan Henok,XDS Astana Team,5,6,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,22,Garofoli Gianmarco,Soudal Quick-Step,5,4,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,23,Majka Rafał,UAE Team Emirates - XRG,5,3,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,24,Fancellu Alessandro,JCL Team UKYO,5,2,2025-02-12 22:47:41
-tour-of-oman,2025,gc,2025-02-12,gc,,,25,Budyak Anatoliy,Terengganu Cycling Team,5,1,2025-02-12 22:47:41
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,1,Welsford Sam,Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,2,Brennan Matthew,Team Visma | Lease a Bike,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,3,Walls Matthew,Groupama - FDJ,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,4,Teutenberg Tim Torn,Lidl - Trek,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,5,Swift Ben,INEOS Grenadiers,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,6,Dehairs Simon,Alpecin - Deceuninck,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,7,Strong Corbin,Israel - Premier Tech,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,8,Oliveira Rui,UAE Team Emirates - XRG,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,9,Bauhaus Phil,Bahrain - Victorious,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,10,Mosca Jacopo,Lidl - Trek,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,11,Andresen Tobias Lund,Team Picnic PostNL,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,12,Uhlig Henri,Alpecin - Deceuninck,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,13,Gate Aaron,XDS Astana Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,14,Scott Cameron,Australia,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,15,Marit Arne,Intermarché - Wanty,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,16,Coquard Bryan,Cofidis,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,17,Canal Carlos,Movistar Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,18,Vendrame Andrea,Decathlon AG2R La Mondiale Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,19,Van Poppel Danny,Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,20,Raccagni Noviero Andrea,Soudal Quick-Step,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,21,Tesfatsion Natnael,Movistar Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,22,Stewart Campbell,Team Jayco AlUla,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,23,Williams Stephen,Israel - Premier Tech,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,24,Boven Lars,Alpecin - Deceuninck,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-1,2025-01-21,Stage 1,p2,Normal,25,Grondin Donavan,Arkéa - B&B Hotels,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,1,Welsford Sam,Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,2,Marit Arne,Intermarché - Wanty,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,3,Coquard Bryan,Cofidis,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,4,Teutenberg Tim Torn,Lidl - Trek,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,5,Andresen Tobias Lund,Team Picnic PostNL,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,6,Uhlig Henri,Alpecin - Deceuninck,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,7,Watson Samuel,INEOS Grenadiers,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,8,Strong Corbin,Israel - Premier Tech,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,9,Renard Alexis,Cofidis,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,10,Walls Matthew,Groupama - FDJ,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,11,Bauhaus Phil,Bahrain - Victorious,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,12,Raccagni Noviero Andrea,Soudal Quick-Step,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,13,Tesfatsion Natnael,Movistar Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,14,Stewart Campbell,Team Jayco AlUla,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,15,Boven Lars,Alpecin - Deceuninck,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,16,Canal Carlos,Movistar Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,17,Tronchon Bastien,Decathlon AG2R La Mondiale Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,18,Labrosse Jordan,Decathlon AG2R La Mondiale Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,19,Askey Lewis,Groupama - FDJ,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,20,Porter Rudy,Australia,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,21,Williams Stephen,Israel - Premier Tech,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,22,Brennan Matthew,Team Visma | Lease a Bike,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,23,Lapeira Paul,Decathlon AG2R La Mondiale Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,24,Grondin Donavan,Arkéa - B&B Hotels,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-2,2025-01-22,Stage 2,p2,Normal,25,Withen Philipsen Albert,Lidl - Trek,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,1,Romo Javier,Movistar Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,2,Narváez Jhonatan,UAE Team Emirates - XRG,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,3,Fisher-Black Finn,Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,4,Withen Philipsen Albert,Lidl - Trek,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,5,Gloag Thomas,Team Visma | Lease a Bike,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,6,Konrad Patrick,Lidl - Trek,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,7,Bagioli Andrea,Lidl - Trek,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,8,Tronchon Bastien,Decathlon AG2R La Mondiale Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,9,Rochas Rémy,Groupama - FDJ,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,10,Sheffield Magnus,INEOS Grenadiers,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,11,Plapp Luke,Team Jayco AlUla,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,12,Higuita Sergio,XDS Astana Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,13,Vine Jay,UAE Team Emirates - XRG,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,14,López Juan Pedro,Lidl - Trek,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,15,Eulálio Afonso,Bahrain - Victorious,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,16,Harper Chris,Team Jayco AlUla,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,17,Onley Oscar,Team Picnic PostNL,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,18,Mollema Bauke,Lidl - Trek,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,19,Schmid Mauro,Team Jayco AlUla,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,20,Kwiatkowski Michał,INEOS Grenadiers,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,21,Zimmermann Georg,Intermarché - Wanty,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,22,Lecerf Junior,Soudal Quick-Step,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,23,Marriage Zac,Australia,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,24,Strong Corbin,Israel - Premier Tech,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-3,2025-01-23,Stage 3,p2,Normal,25,Porter Rudy,Australia,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,1,Coquard Bryan,Cofidis,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,2,Bauhaus Phil,Bahrain - Victorious,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,3,Narváez Jhonatan,UAE Team Emirates - XRG,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,4,Walsh Liam,Australia,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,5,Watson Samuel,INEOS Grenadiers,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,6,Andresen Tobias Lund,Team Picnic PostNL,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,7,Strong Corbin,Israel - Premier Tech,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,8,Teutenberg Tim Torn,Lidl - Trek,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,9,Uhlig Henri,Alpecin - Deceuninck,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,10,Godon Dorian,Decathlon AG2R La Mondiale Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,11,Askey Lewis,Groupama - FDJ,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,12,De Pooter Dries,Intermarché - Wanty,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,13,Sheffield Magnus,INEOS Grenadiers,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,14,Smith Dion,Intermarché - Wanty,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,15,Mulubrhan Henok,XDS Astana Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,16,Fisher-Black Finn,Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,17,Konrad Patrick,Lidl - Trek,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,18,Kwiatkowski Michał,INEOS Grenadiers,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,19,Busatto Francesco,Intermarché - Wanty,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,20,Brennan Matthew,Team Visma | Lease a Bike,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,21,Van Den Bossche Fabio,Alpecin - Deceuninck,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,22,Koerdt Bjoern,Team Picnic PostNL,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,23,Rochas Rémy,Groupama - FDJ,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,24,Canal Carlos,Movistar Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-4,2025-01-24,Stage 4,p2,Normal,25,Mollema Bauke,Lidl - Trek,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,1,Narváez Jhonatan,UAE Team Emirates - XRG,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,2,Onley Oscar,Team Picnic PostNL,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,3,Fisher-Black Finn,Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,4,Plapp Luke,Team Jayco AlUla,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,5,Romo Javier,Movistar Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,6,Woods Michael,Israel - Premier Tech,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,7,Gloag Thomas,Team Visma | Lease a Bike,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,8,Sheffield Magnus,INEOS Grenadiers,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,9,Tronchon Bastien,Decathlon AG2R La Mondiale Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,10,Konrad Patrick,Lidl - Trek,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,11,Porter Rudy,Australia,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,12,Rochas Rémy,Groupama - FDJ,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,13,Vine Jay,UAE Team Emirates - XRG,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,14,Mollema Bauke,Lidl - Trek,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,15,Zimmermann Georg,Intermarché - Wanty,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,16,Harper Chris,Team Jayco AlUla,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,17,Eulálio Afonso,Bahrain - Victorious,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,18,Marriage Zac,Australia,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,19,Withen Philipsen Albert,Lidl - Trek,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,20,Lecerf Junior,Soudal Quick-Step,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,21,Torres Pablo,UAE Team Emirates - XRG,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,22,Strong Corbin,Israel - Premier Tech,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,23,Zwiehoff Ben,Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,24,Verre Alessandro,Arkéa - B&B Hotels,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-5,2025-01-25,Stage 5,p3,Normal,25,Debruyne Ramses,Alpecin - Deceuninck,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,1,Welsford Sam,Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,2,Coquard Bryan,Cofidis,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,3,Bauhaus Phil,Bahrain - Victorious,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,4,Oliveira Rui,UAE Team Emirates - XRG,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,5,Van Poppel Danny,Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,6,Uhlig Henri,Alpecin - Deceuninck,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,7,Andresen Tobias Lund,Team Picnic PostNL,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,8,Teutenberg Tim Torn,Lidl - Trek,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,9,Walls Matthew,Groupama - FDJ,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,10,Raccagni Noviero Andrea,Soudal Quick-Step,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,11,Strong Corbin,Israel - Premier Tech,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,12,Stewart Campbell,Team Jayco AlUla,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,13,Marit Arne,Intermarché - Wanty,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,14,Tronchon Bastien,Decathlon AG2R La Mondiale Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,15,Canal Carlos,Movistar Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,16,Sheffield Magnus,INEOS Grenadiers,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,17,Godon Dorian,Decathlon AG2R La Mondiale Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,18,Walsh Liam,Australia,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,19,Mulubrhan Henok,XDS Astana Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,20,Romo Javier,Movistar Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,21,Izagirre Ion,Cofidis,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,22,De Pooter Dries,Intermarché - Wanty,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,23,Fisher-Black Finn,Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,24,Pescador Diego,Movistar Team,0,0,2025-02-14 23:14:49
+tour-down-under,2025,stage-6,2025-01-26,Stage 6,p1,Normal,25,Konrad Patrick,Lidl - Trek,0,0,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,1,Narváez Jhonatan,UAE Team Emirates - XRG,500,250,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,2,Romo Javier,Movistar Team,400,190,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,3,Fisher-Black Finn,Red Bull - BORA - hansgrohe,325,160,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,4,Onley Oscar,Team Picnic PostNL,275,140,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,5,Tronchon Bastien,Decathlon AG2R La Mondiale Team,225,120,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,6,Plapp Luke,Team Jayco AlUla,175,110,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,7,Sheffield Magnus,INEOS Grenadiers,150,100,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,8,Gloag Thomas,Team Visma | Lease a Bike,125,90,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,9,Konrad Patrick,Lidl - Trek,100,80,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,10,Woods Michael,Israel - Premier Tech,85,70,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,11,Vine Jay,UAE Team Emirates - XRG,70,60,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,12,Rochas Rémy,Groupama - FDJ,60,55,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,13,Mollema Bauke,Lidl - Trek,50,50,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,14,Harper Chris,Team Jayco AlUla,40,45,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,15,Eulálio Afonso,Bahrain - Victorious,35,40,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,16,Porter Rudy,Australia,30,36,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,17,Withen Philipsen Albert,Lidl - Trek,30,32,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,18,Zimmermann Georg,Intermarché - Wanty,30,28,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,19,Marriage Zac,Australia,30,24,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,20,Lecerf Junior,Soudal Quick-Step,30,20,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,21,Strong Corbin,Israel - Premier Tech,20,18,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,22,Torres Pablo,UAE Team Emirates - XRG,20,16,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,23,Higuita Sergio,XDS Astana Team,20,14,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,24,Bagioli Andrea,Lidl - Trek,20,12,2025-02-14 23:14:49
+tour-down-under,2025,gc,2025-01-26,gc,,,25,Izagirre Ion,Cofidis,20,10,2025-02-14 23:14:49
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,1,Merlier Tim,Soudal Quick-Step,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,2,Molano Juan Sebastián,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,3,Zijlaard Maikel,Tudor Pro Cycling Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,4,Moschetti Matteo,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,5,Groenewegen Dylan,Team Jayco AlUla,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,6,Walscheid Max,Team Jayco AlUla,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,7,Barbier Pierre,Wagner Bazin WB,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,8,Bruttomesso Alberto,Bahrain - Victorious,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,9,Weemaes Sasha,Wagner Bazin WB,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,10,D'Amato Andrea,JCL Team UKYO,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,11,Jakobsen Fabio,Team Picnic PostNL,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,12,Darder Sergi,Caja Rural - Seguros RGA,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,13,Brustenga Marc,Equipo Kern Pharma,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,14,Gonov Lev,XDS Astana Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,15,Boniface Lucas,Team TotalEnergies,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,16,Abrahamsen Jonas,Uno-X Mobility,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,17,Fedorov Yevgeniy,XDS Astana Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,18,Romele Alessandro,XDS Astana Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,19,Sorarrain Gorka,Caja Rural - Seguros RGA,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,20,Quick Blake,Roojai Insurance,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,21,Hatherly Alan,Team Jayco AlUla,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,22,Van Hautegem Leander,Wagner Bazin WB,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,23,Iribar Unai,Equipo Kern Pharma,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,24,Oliveira Ivo,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-1,2025-01-28,Stage 1,p2,Normal,25,Dauphin Florian,Team TotalEnergies,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,1,Pidcock Thomas,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,2,Kepplinger Rainer,Bahrain - Victorious,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,3,Hatherly Alan,Team Jayco AlUla,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,4,Dunbar Eddie,Team Jayco AlUla,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,5,De Bod Stefan,Terengganu Cycling Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,6,Dversnes Fredrik,Uno-X Mobility,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,7,Voisard Yannis,Tudor Pro Cycling Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,8,Majka Rafał,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,9,Aznar Hugo,Equipo Kern Pharma,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,10,Fancellu Alessandro,JCL Team UKYO,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,11,Holter Ådne,Uno-X Mobility,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,12,Jegat Jordan,Team TotalEnergies,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,13,Van Den Broek Frank,Team Picnic PostNL,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,14,Kulset Johannes,Uno-X Mobility,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,15,Van Der Meulen Max,Bahrain - Victorious,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,16,Uriarte Diego,Equipo Kern Pharma,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,17,Johnston Calum,Caja Rural - Seguros RGA,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,18,Iribar Unai,Equipo Kern Pharma,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,19,Bregnhøj Mathias,Terengganu Cycling Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,20,Pericas Adrià,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,21,Carrascosa Pablo,Equipo Kern Pharma,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,22,Garibbo Nicolò,JCL Team UKYO,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,23,Vinokurov Nicolas,XDS Astana Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,24,Thalmann Roland,Tudor Pro Cycling Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-2,2025-01-29,Stage 2,p3,Normal,25,Bjerg Mikkel,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,1,Merlier Tim,Soudal Quick-Step,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,2,Groenewegen Dylan,Team Jayco AlUla,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,3,Molano Juan Sebastián,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,4,Moschetti Matteo,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,5,Barbier Pierre,Wagner Bazin WB,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,6,Brustenga Marc,Equipo Kern Pharma,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,7,Fedorov Yevgeniy,XDS Astana Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,8,Dauphin Florian,Team TotalEnergies,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,9,Bruttomesso Alberto,Bahrain - Victorious,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,10,Kolze Changizi Sebastian,Tudor Pro Cycling Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,11,Romele Alessandro,XDS Astana Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,12,Van Rooy Kenneth,Wagner Bazin WB,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,13,Degenkolb John,Team Picnic PostNL,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,14,Van Lerberghe Bert,Soudal Quick-Step,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,15,Hatherly Alan,Team Jayco AlUla,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,16,Fancellu Alessandro,JCL Team UKYO,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,17,Basset Pierre-Henry,XDS Astana Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,18,Quick Blake,Roojai Insurance,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,19,Kepplinger Rainer,Bahrain - Victorious,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,20,Johnston Calum,Caja Rural - Seguros RGA,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,21,Pasqualon Andrea,Bahrain - Victorious,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,22,Abrahamsen Jonas,Uno-X Mobility,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,23,Wallin Rasmus Bøgh,Uno-X Mobility,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,24,Oliveira Ivo,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-3,2025-01-30,Stage 3,p2,Normal,25,Dversnes Fredrik,Uno-X Mobility,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,1,Pidcock Thomas,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,2,Hatherly Alan,Team Jayco AlUla,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,3,Kepplinger Rainer,Bahrain - Victorious,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,4,Kulset Johannes,Uno-X Mobility,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,5,Dunbar Eddie,Team Jayco AlUla,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,6,Pesenti Thomas,Soudal Quick-Step,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,7,Azparren Xabier Mikel,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,8,Fancellu Alessandro,JCL Team UKYO,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,9,Delbove Joris,Team TotalEnergies,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,10,Van Der Meulen Max,Bahrain - Victorious,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,11,Dversnes Fredrik,Uno-X Mobility,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,12,Bregnhøj Mathias,Terengganu Cycling Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,13,Voisard Yannis,Tudor Pro Cycling Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,14,Jegat Jordan,Team TotalEnergies,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,15,Van Den Broek Frank,Team Picnic PostNL,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,16,Uriarte Diego,Equipo Kern Pharma,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,17,Iribar Unai,Equipo Kern Pharma,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,18,Pericas Adrià,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,19,Holter Ådne,Uno-X Mobility,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,20,Majka Rafał,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,21,Van Uden Casper,Team Picnic PostNL,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,22,Buratti Nicolò,Bahrain - Victorious,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,23,Fedorov Yevgeniy,XDS Astana Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,24,Bjerg Mikkel,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-4,2025-01-31,Stage 4,p2,Normal,25,Thalmann Roland,Tudor Pro Cycling Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,1,Moschetti Matteo,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,2,Groenewegen Dylan,Team Jayco AlUla,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,3,Molano Juan Sebastián,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,4,Kristoff Alexander,Uno-X Mobility,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,5,Fedorov Yevgeniy,XDS Astana Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,6,Dauphin Florian,Team TotalEnergies,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,7,De Kleijn Arvid,Tudor Pro Cycling Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,8,Bruttomesso Alberto,Bahrain - Victorious,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,9,Weemaes Sasha,Wagner Bazin WB,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,10,Brustenga Marc,Equipo Kern Pharma,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,11,Van Uden Casper,Team Picnic PostNL,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,12,Van Rooy Kenneth,Wagner Bazin WB,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,13,Merlier Tim,Soudal Quick-Step,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,14,Gonov Lev,XDS Astana Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,15,Oliveira Ivo,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,16,Leroux Samuel,Team TotalEnergies,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,17,Jegat Jordan,Team TotalEnergies,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,18,Fancellu Alessandro,JCL Team UKYO,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,19,Van Den Broek Frank,Team Picnic PostNL,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,20,Pesenti Thomas,Soudal Quick-Step,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,21,Parisini Nicolò,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,22,Frison Frederik,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,23,Pidcock Thomas,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,24,Dversnes Fredrik,Uno-X Mobility,0,0,2025-02-14 23:15:07
+alula-tour,2025,stage-5,2025-02-01,Stage 5,p2,Normal,25,Bregnhøj Mathias,Terengganu Cycling Team,0,0,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,1,Pidcock Thomas,Q36.5 Pro Cycling Team,125,100,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,2,Dversnes Fredrik,Uno-X Mobility,85,70,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,3,Kulset Johannes,Uno-X Mobility,70,50,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,4,Holter Ådne,Uno-X Mobility,60,36,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,5,Kepplinger Rainer,Bahrain - Victorious,50,28,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,6,Hatherly Alan,Team Jayco AlUla,40,24,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,7,Van Den Broek Frank,Team Picnic PostNL,35,20,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,8,Fancellu Alessandro,JCL Team UKYO,30,18,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,9,Uriarte Diego,Equipo Kern Pharma,25,16,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,10,Jegat Jordan,Team TotalEnergies,20,14,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,11,Bregnhøj Mathias,Terengganu Cycling Team,15,12,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,12,De Bod Stefan,Terengganu Cycling Team,10,10,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,13,Van Der Meulen Max,Bahrain - Victorious,5,8,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,14,Pesenti Thomas,Soudal Quick-Step,5,7,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,15,Fedorov Yevgeniy,XDS Astana Team,5,6,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,16,Iribar Unai,Equipo Kern Pharma,3,5,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,17,Vinokurov Nicolas,XDS Astana Team,3,4,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,18,Bjerg Mikkel,UAE Team Emirates - XRG,3,3,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,19,Thalmann Roland,Tudor Pro Cycling Team,3,2,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,20,Buratti Nicolò,Bahrain - Victorious,3,1,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,21,Van Rooy Kenneth,Wagner Bazin WB,3,,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,22,Johnston Calum,Caja Rural - Seguros RGA,3,,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,23,Aznar Hugo,Equipo Kern Pharma,3,,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,24,Garibbo Nicolò,JCL Team UKYO,3,,2025-02-14 23:15:07
+alula-tour,2025,gc,2025-02-01,gc,,,25,Elosegui Iñigo,Equipo Kern Pharma,3,,2025-02-14 23:15:07
+great-ocean-road-race,2025,result,,result,,,1,Schmid Mauro,Team Jayco AlUla,300,225,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,2,Gate Aaron,XDS Astana Team,250,150,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,3,Pithie Laurence,Red Bull - BORA - hansgrohe,215,110,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,4,Romo Javier,Movistar Team,175,90,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,5,Bagioli Andrea,Lidl - Trek,120,80,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,6,Strong Corbin,Israel - Premier Tech,115,70,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,7,Sheffield Magnus,INEOS Grenadiers,95,60,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,8,Rochas Rémy,Groupama - FDJ,75,50,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,9,Onley Oscar,Team Picnic PostNL,60,46,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,10,Fisher-Black Finn,Red Bull - BORA - hansgrohe,50,42,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,11,Chaves Esteban,EF Education - EasyPost,40,38,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,12,Woods Michael,Israel - Premier Tech,35,34,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,13,Teutenberg Tim Torn,Lidl - Trek,30,30,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,14,Van Poppel Danny,Red Bull - BORA - hansgrohe,25,26,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,15,Andresen Tobias Lund,Team Picnic PostNL,20,22,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,16,Coquard Bryan,Cofidis,20,20,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,17,Busatto Francesco,Intermarché - Wanty,20,18,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,18,Konrad Patrick,Lidl - Trek,20,17,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,19,Tesfatsion Natnael,Movistar Team,20,16,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,20,Eenkhoorn Pascal,Soudal Quick-Step,20,15,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,21,Canal Carlos,Movistar Team,12,14,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,22,Zimmermann Georg,Intermarché - Wanty,12,13,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,23,Mulubrhan Henok,XDS Astana Team,12,12,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,24,Pacher Quentin,Groupama - FDJ,12,11,2025-02-14 23:15:24
+great-ocean-road-race,2025,result,,result,,,25,Kwiatkowski Michał,INEOS Grenadiers,12,10,2025-02-14 23:15:24
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,1,Milan Jonathan, Lidl - Trek,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,1,Vacek Mathias, Lidl - Trek,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,1,Hoole Daan, Lidl - Trek,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,1,Söderqvist Jakob, Lidl - Trek,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,1,Theuns Edward, Lidl - Trek,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,1,Ghebreigzabhier Amanuel, Lidl - Trek,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,1,Consonni Simone, Lidl - Trek,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,2,O'Connor Ben, Team Jayco AlUla,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,2,Hepburn Michael, Team Jayco AlUla,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,2,Krijnsen Jelte, Team Jayco AlUla,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,2,Sütterlin Jasha, Team Jayco AlUla,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,2,Donaldson Robert, Team Jayco AlUla,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,2,Juul-Jensen Christopher, Team Jayco AlUla,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,2,Zana Filippo, Team Jayco AlUla,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,3,Almeida João, UAE Team Emirates - XRG,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,3,Mcnulty Brandon, UAE Team Emirates - XRG,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,3,Großschartner Felix, UAE Team Emirates - XRG,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,3,Sivakov Pavel, UAE Team Emirates - XRG,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,3,Johansen Julius, UAE Team Emirates - XRG,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,3,Oliveira Ivo, UAE Team Emirates - XRG,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,3,Baroncini Filippo, UAE Team Emirates - XRG,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,4,Vlasov Aleksandr, Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,4,Hindley Jai, Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,4,Sobrero Matteo, Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,4,Wandahl Frederik, Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,4,Aleotti Giovanni, Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,4,Denz Nico, Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,4,Moscon Gianni, Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,5,Rodríguez Carlos, INEOS Grenadiers,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,5,Arensman Thymen, INEOS Grenadiers,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,5,August Andrew, INEOS Grenadiers,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,5,Castroviejo Jonathan, INEOS Grenadiers,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,5,Foss Tobias, INEOS Grenadiers,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,5,Leonard Michael, INEOS Grenadiers,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,5,Jungels Bob, INEOS Grenadiers,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,6,Castrillo Pablo, Movistar Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,6,Romeo Iván, Movistar Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,6,Barta Will, Movistar Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,6,Cepeda Jefferson Alveiro, Movistar Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,6,Oliveira Nelson, Movistar Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,6,Milesi Lorenzo, Movistar Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,6,Arcas Jorge, Movistar Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,7,Bilbao Pello, Bahrain - Victorious,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,7,Buitrago Santiago, Bahrain - Victorious,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,7,Haig Jack, Bahrain - Victorious,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,7,Kepplinger Rainer, Bahrain - Victorious,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,7,Martinez Lenny, Bahrain - Victorious,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,7,Zambanini Edoardo, Bahrain - Victorious,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,7,Gradek Kamil, Bahrain - Victorious,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,8,Blackmore Joseph, Israel - Premier Tech,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,8,Houle Hugo, Israel - Premier Tech,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,8,Lutsenko Alexey, Israel - Premier Tech,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,8,Vernon Ethan, Israel - Premier Tech,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,8,Sheehan Riley, Israel - Premier Tech,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,8,Stewart Jake, Israel - Premier Tech,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,8,Pickrell Riley, Israel - Premier Tech,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,9,Brambilla Gianluca, Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,9,Donovan Mark, Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,9,Calzoni Walter, Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,9,Vader Milan, Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,9,Townsend Rory, Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,9,Steimle Jannik, Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,9,González David, Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,10,Groves Kaden, Alpecin - Deceuninck,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,10,Vermeersch Gianni, Alpecin - Deceuninck,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,10,Riesebeek Oscar, Alpecin - Deceuninck,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,10,Uhlig Henri, Alpecin - Deceuninck,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,10,Planckaert Edward, Alpecin - Deceuninck,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,10,Boven Lars, Alpecin - Deceuninck,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,10,Sentjens Sente, Alpecin - Deceuninck,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,11,Juaristi Txomin, Euskaltel - Euskadi,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,11,Isasa Xabier, Euskaltel - Euskadi,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,11,Agirre Jon, Euskaltel - Euskadi,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,11,Bizkarra Mikel, Euskaltel - Euskadi,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,11,Murguialday Jokin, Euskaltel - Euskadi,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,11,Berasategi Xabier, Euskaltel - Euskadi,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,11,Dina Márton, Euskaltel - Euskadi,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,12,Maestri Mirco, Team Polti VisitMalta,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,12,Muñoz Francisco, Team Polti VisitMalta,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,12,Piganzoli Davide, Team Polti VisitMalta,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,12,Zoccarato Samuele, Team Polti VisitMalta,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,12,Lonardi Giovanni, Team Polti VisitMalta,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,12,Bais Davide, Team Polti VisitMalta,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,12,Tercero Fernando, Team Polti VisitMalta,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,13,Berwick Sebastian, Caja Rural - Seguros RGA,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,13,Guardeño Jaume, Caja Rural - Seguros RGA,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,13,Molenaar Alex, Caja Rural - Seguros RGA,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,13,Otruba Jakub, Caja Rural - Seguros RGA,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,13,Leitão Iúri, Caja Rural - Seguros RGA,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,13,Bou Joan, Caja Rural - Seguros RGA,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,13,Stites Tyler, Caja Rural - Seguros RGA,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,14,Caicedo Jonathan Klever, Petrolike,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,14,Cadena Edgar David, Petrolike,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,14,Ponomar Andrii, Petrolike,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,14,Prieto José Juan, Petrolike,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,14,Garcia Carlos Alfonso, Petrolike,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,14,Macias Cesar, Petrolike,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,14,Galimberti Lorenzo, Petrolike,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,15,Artz Huub, Intermarché - Wanty,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,15,Colleoni Kevin, Intermarché - Wanty,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,15,Meintjes Louis, Intermarché - Wanty,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,15,Van Hoecke Gijs, Intermarché - Wanty,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,15,Kamp Alexander, Intermarché - Wanty,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,15,Thijssen Gerben, Intermarché - Wanty,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,15,Petit Adrien, Intermarché - Wanty,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,16,Gervais Laurent, Project Echelon Racing,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,16,Scala Jr Hugo, Project Echelon Racing,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,16,Haug Kieran, Project Echelon Racing,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,16,Classen Caleb, Project Echelon Racing,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,16,Boardman Samuel, Project Echelon Racing,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,16,Bickmore Cade, Project Echelon Racing,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,16,Rhim Brendan, Project Echelon Racing,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,17,Kmínek Vojtěch, Burgos Burpellet BH,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,17,Alleno Clément, Burgos Burpellet BH,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,17,Martin David, Burgos Burpellet BH,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,17,Okamika Ander, Burgos Burpellet BH,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,17,De La Calle Hugo, Burgos Burpellet BH,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,17,Díaz José Manuel, Burgos Burpellet BH,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,17,Fernández Sinuhé, Burgos Burpellet BH,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,18,Parra José Félix, Equipo Kern Pharma,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,18,Uriarte Diego, Equipo Kern Pharma,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,18,Iribar Unai, Equipo Kern Pharma,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,18,Elosegui Iñigo, Equipo Kern Pharma,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,18,Cobo Iván, Equipo Kern Pharma,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,18,Sosa Iván Ramiro, Equipo Kern Pharma,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,18,Fernández Miguel Ángel, Equipo Kern Pharma,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,19,Covili Luca, VF Group - Bardiani CSF - Faizanè,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,19,Fiorelli Filippo, VF Group - Bardiani CSF - Faizanè,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,19,Paletti Luca, VF Group - Bardiani CSF - Faizanè,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,19,Scalco Matteo, VF Group - Bardiani CSF - Faizanè,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,19,Tolio Alex, VF Group - Bardiani CSF - Faizanè,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,19,Martinelli Alessio, VF Group - Bardiani CSF - Faizanè,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,19,Rojas Vicente, VF Group - Bardiani CSF - Faizanè,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,20,Kopecký Matyáš, Team Novo Nordisk,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,20,Ridolfo Filippo, Team Novo Nordisk,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,20,Smith Nathan, Team Novo Nordisk,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,20,Armitt Hamish, Team Novo Nordisk,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,20,Irvine Declan, Team Novo Nordisk,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,20,Mcdonald Bailey, Team Novo Nordisk,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,20,Polga Antonio, Team Novo Nordisk,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,21,Bezza Quentin, Wagner Bazin WB,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,21,Portsmouth Tom, Wagner Bazin WB,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,21,Lambrecht Michiel, Wagner Bazin WB,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,21,De Tier Floris, Wagner Bazin WB,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,21,Meens Johan, Wagner Bazin WB,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,21,Matthys Louka, Wagner Bazin WB,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,21,Vliegen Loïc, Wagner Bazin WB,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,22,Ariño Gonzalo, Illes Balears Arabay,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,22,García José María, Illes Balears Arabay,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,22,Gonzalez Asier Pablo, Illes Balears Arabay,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,22,Llaneras Pau, Illes Balears Arabay,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,22,Marín José, Illes Balears Arabay,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,22,Riera Joan Albert, Illes Balears Arabay,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-1,2025-02-05,Stage 1 (TTT),p2,TTT,22,Sagrado Alvaro, Illes Balears Arabay,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,1,Buitrago Santiago,Bahrain - Victorious,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,2,Bilbao Pello,Bahrain - Victorious,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,3,Almeida João,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,4,Cepeda Jefferson Alveiro,Movistar Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,5,Arensman Thymen,INEOS Grenadiers,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,6,Sosa Iván Ramiro,Equipo Kern Pharma,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,7,Mcnulty Brandon,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,8,Rodríguez Carlos,INEOS Grenadiers,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,9,Martinez Lenny,Bahrain - Victorious,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,10,Romeo Iván,Movistar Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,11,Castrillo Pablo,Movistar Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,12,Piganzoli Davide,Team Polti VisitMalta,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,13,Vacek Mathias,Lidl - Trek,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,14,Hindley Jai,Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,15,O'Connor Ben,Team Jayco AlUla,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,16,Sivakov Pavel,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,17,Foss Tobias,INEOS Grenadiers,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,18,Haig Jack,Bahrain - Victorious,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,19,Vlasov Aleksandr,Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,20,Lutsenko Alexey,Israel - Premier Tech,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,21,Caicedo Jonathan Klever,Petrolike,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,22,Agirre Jon,Euskaltel - Euskadi,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,23,Vader Milan,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,24,Galimberti Lorenzo,Petrolike,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-2,2025-02-06,Stage 2,p5,Normal,25,Barta Will,Movistar Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,1,Romeo Iván,Movistar Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,2,Buitrago Santiago,Bahrain - Victorious,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,3,Almeida João,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,4,Bilbao Pello,Bahrain - Victorious,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,5,Cepeda Jefferson Alveiro,Movistar Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,6,Castrillo Pablo,Movistar Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,7,Piganzoli Davide,Team Polti VisitMalta,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,8,Hindley Jai,Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,9,O'Connor Ben,Team Jayco AlUla,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,10,Arensman Thymen,INEOS Grenadiers,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,11,Rodríguez Carlos,INEOS Grenadiers,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,12,Mcnulty Brandon,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,13,Martinez Lenny,Bahrain - Victorious,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,14,Foss Tobias,INEOS Grenadiers,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,15,Haig Jack,Bahrain - Victorious,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,16,August Andrew,INEOS Grenadiers,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,17,Vlasov Aleksandr,Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,18,Lutsenko Alexey,Israel - Premier Tech,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,19,Sivakov Pavel,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,20,Juaristi Txomin,Euskaltel - Euskadi,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,21,Díaz José Manuel,Burgos Burpellet BH,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,22,Vader Milan,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,23,Cobo Iván,Equipo Kern Pharma,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,24,Alleno Clément,Burgos Burpellet BH,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-3,2025-02-07,Stage 3,p5,Normal,25,Paletti Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,1,Buitrago Santiago,Bahrain - Victorious,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,2,Milan Jonathan,Lidl - Trek,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,3,Söderqvist Jakob,Lidl - Trek,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,4,Sheehan Riley,Israel - Premier Tech,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,5,Arensman Thymen,INEOS Grenadiers,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,6,Bilbao Pello,Bahrain - Victorious,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,7,Almeida João,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,8,Sobrero Matteo,Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,9,Mcnulty Brandon,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,10,Hindley Jai,Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,11,Rodríguez Carlos,INEOS Grenadiers,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,12,Martinez Lenny,Bahrain - Victorious,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,13,De La Calle Hugo,Burgos Burpellet BH,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,14,Paletti Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,15,Cepeda Jefferson Alveiro,Movistar Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,16,Piganzoli Davide,Team Polti VisitMalta,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,17,Alleno Clément,Burgos Burpellet BH,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,18,O'Connor Ben,Team Jayco AlUla,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,19,Foss Tobias,INEOS Grenadiers,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,20,Ponomar Andrii,Petrolike,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,21,Cobo Iván,Equipo Kern Pharma,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,22,Romeo Iván,Movistar Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,23,Sivakov Pavel,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,24,Haig Jack,Bahrain - Victorious,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-4,2025-02-08,Stage 4,p3,Normal,25,Denz Nico,Red Bull - BORA - hansgrohe,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,1,Milan Jonathan,Lidl - Trek,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,2,Stewart Jake,Israel - Premier Tech,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,3,Lonardi Giovanni,Team Polti VisitMalta,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,4,Thijssen Gerben,Intermarché - Wanty,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,5,Berasategi Xabier,Euskaltel - Euskadi,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,6,Sentjens Sente,Alpecin - Deceuninck,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,7,Vernon Ethan,Israel - Premier Tech,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,8,Fernández Miguel Ángel,Equipo Kern Pharma,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,9,Macias Cesar,Petrolike,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,10,Lambrecht Michiel,Wagner Bazin WB,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,11,Kopecký Matyáš,Team Novo Nordisk,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,12,Maestri Mirco,Team Polti VisitMalta,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,13,Townsend Rory,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,14,Krijnsen Jelte,Team Jayco AlUla,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,15,Fiorelli Filippo,VF Group - Bardiani CSF - Faizanè,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,16,Prieto José Juan,Petrolike,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,17,Consonni Simone,Lidl - Trek,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,18,Scala Jr Hugo,Project Echelon Racing,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,19,Milesi Lorenzo,Movistar Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,20,Baroncini Filippo,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,21,Alleno Clément,Burgos Burpellet BH,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,22,Stites Tyler,Caja Rural - Seguros RGA,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,23,Oliveira Ivo,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,24,Muñoz Francisco,Team Polti VisitMalta,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,stage-5,2025-02-09,Stage 5,p1,Normal,25,Castrillo Pablo,Movistar Team,0,0,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,1,Buitrago Santiago,Bahrain - Victorious,200,150,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,2,Almeida João,UAE Team Emirates - XRG,150,110,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,3,Bilbao Pello,Bahrain - Victorious,125,90,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,4,Arensman Thymen,INEOS Grenadiers,100,80,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,5,Mcnulty Brandon,UAE Team Emirates - XRG,85,70,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,6,Rodríguez Carlos,INEOS Grenadiers,70,60,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,7,Cepeda Jefferson Alveiro,Movistar Team,60,55,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,8,Romeo Iván,Movistar Team,50,50,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,9,Hindley Jai,Red Bull - BORA - hansgrohe,40,45,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,10,O'Connor Ben,Team Jayco AlUla,35,40,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,11,Martinez Lenny,Bahrain - Victorious,30,36,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,12,Castrillo Pablo,Movistar Team,25,32,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,13,Foss Tobias,INEOS Grenadiers,20,28,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,14,Piganzoli Davide,Team Polti VisitMalta,15,24,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,15,Sivakov Pavel,UAE Team Emirates - XRG,10,20,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,16,Haig Jack,Bahrain - Victorious,5,16,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,17,Vlasov Aleksandr,Red Bull - BORA - hansgrohe,5,14,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,18,Lutsenko Alexey,Israel - Premier Tech,5,12,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,19,Vader Milan,Q36.5 Pro Cycling Team,5,10,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,20,Juaristi Txomin,Euskaltel - Euskadi,5,8,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,21,Ponomar Andrii,Petrolike,5,6,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,22,Alleno Clément,Burgos Burpellet BH,5,4,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,23,Barta Will,Movistar Team,5,3,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,24,Cobo Iván,Equipo Kern Pharma,5,2,2025-02-14 23:15:34
+vuelta-a-la-comunidad-valenciana,2025,gc,2025-02-09,gc,,,25,Paletti Luca,VF Group - Bardiani CSF - Faizanè,5,1,2025-02-14 23:15:34
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,1,Kooij Olav,Team Visma | Lease a Bike,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,2,Bittner Pavel,Team Picnic PostNL,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,3,Blikra Erlend,Uno-X Mobility,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,4,D'Amato Andrea,JCL Team UKYO,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,5,Pluimers Rick,Tudor Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,6,Gaviria Fernando,Movistar Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,7,Turgis Anthony,Team TotalEnergies,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,8,Jeannière Emilien,Team TotalEnergies,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,9,Giaimi Luca,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,10,Nizzolo Giacomo,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,11,Kanter Max,XDS Astana Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,12,Bouglas Georgios,Burgos Burpellet BH,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,13,Capiot Amaury,Arkéa - B&B Hotels,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,14,Vermeersch Florian,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,15,Álvarez Rodrigo,Burgos Burpellet BH,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,16,Quick Blake,Roojai Insurance,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,17,Biermans Jenthe,Arkéa - B&B Hotels,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,18,Hayter Ethan,Soudal Quick-Step,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,19,Lozouet Léandre,Arkéa - B&B Hotels,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,20,Guerreiro Ruben,Movistar Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,21,Brenner Marco,Tudor Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,22,Paleni Enzo,Groupama - FDJ,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,23,Masuda Nariyuki,JCL Team UKYO,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,24,Flynn Sean,Team Picnic PostNL,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-1,2025-02-08,Stage 1,p2,Normal,25,Aular Orluis,Movistar Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,1,Vervaeke Louis,Soudal Quick-Step,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,2,Paret-Peintre Valentin,Soudal Quick-Step,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,3,Flynn Sean,Team Picnic PostNL,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,4,Engelhardt Felix,Team Jayco AlUla,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,5,Brenner Marco,Tudor Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,6,Mulubrhan Henok,XDS Astana Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,7,Cras Steff,Team TotalEnergies,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,8,Yates Adam,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,9,Rondel Mathys,Tudor Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,10,Gaudu David,Groupama - FDJ,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,11,Fancellu Alessandro,JCL Team UKYO,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,12,Ulissi Diego,XDS Astana Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,13,Howson Damien,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,14,Warbasse Larry,Tudor Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,15,Delgado David,Burgos Burpellet BH,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,16,Uijtdebroeks Cian,Team Visma | Lease a Bike,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,17,Badilatti Matteo,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,18,Barguil Warren,Team Picnic PostNL,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,19,Poels Wout,XDS Astana Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,20,Aparicio Mario,Burgos Burpellet BH,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,21,García Pierna Carlos,Burgos Burpellet BH,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,22,Majka Rafał,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,23,Dalby Simon,Uno-X Mobility,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,24,Bregnhøj Mathias,Terengganu Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-2,2025-02-09,Stage 2,p3,Normal,25,Svestad-Bårdseng Embret,Arkéa - B&B Hotels,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,1,Gaudu David,Groupama - FDJ,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,2,Yates Adam,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,3,Howson Damien,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,4,Paret-Peintre Valentin,Soudal Quick-Step,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,5,Brenner Marco,Tudor Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,6,Uijtdebroeks Cian,Team Visma | Lease a Bike,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,7,Harper Chris,Team Jayco AlUla,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,8,Ulissi Diego,XDS Astana Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,9,Guerreiro Ruben,Movistar Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,10,Poels Wout,XDS Astana Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,11,Svestad-Bårdseng Embret,Arkéa - B&B Hotels,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,12,Zeray Nahom,JCL Team UKYO,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,13,Dalby Simon,Uno-X Mobility,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,14,Vermaerke Kevin,Team Picnic PostNL,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,15,Majka Rafał,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,16,Aparicio Mario,Burgos Burpellet BH,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,17,Delgado David,Burgos Burpellet BH,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,18,Barguil Warren,Team Picnic PostNL,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,19,De La Cruz David,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,20,Badilatti Matteo,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,21,Mulubrhan Henok,XDS Astana Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,22,Rondel Mathys,Tudor Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,23,Van Engelen Adne,Terengganu Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,24,Faura José Luis,Burgos Burpellet BH,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-3,2025-02-10,Stage 3,p3,Normal,25,Garibbo Nicolò,JCL Team UKYO,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,1,Kooij Olav,Team Visma | Lease a Bike,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,2,Nizzolo Giacomo,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,3,Aular Orluis,Movistar Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,4,Blikra Erlend,Uno-X Mobility,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,5,Kanter Max,XDS Astana Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,6,Bittner Pavel,Team Picnic PostNL,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,7,Jeannière Emilien,Team TotalEnergies,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,8,García Cortina Iván,Movistar Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,9,Capiot Amaury,Arkéa - B&B Hotels,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,10,Vermeersch Florian,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,11,D'Amato Andrea,JCL Team UKYO,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,12,Biermans Jenthe,Arkéa - B&B Hotels,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,13,Quick Blake,Roojai Insurance,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,14,Pluimers Rick,Tudor Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,15,Álvarez Rodrigo,Burgos Burpellet BH,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,16,Fancellu Alessandro,JCL Team UKYO,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,17,De Pretto Davide,Team Jayco AlUla,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,18,Engelhardt Felix,Team Jayco AlUla,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,19,Bouglas Georgios,Burgos Burpellet BH,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,20,Garibbo Nicolò,JCL Team UKYO,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,21,Phonarjthan Patompob,Roojai Insurance,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,22,Guerreiro Ruben,Movistar Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,23,Brenner Marco,Tudor Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,24,Yates Adam,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-4,2025-02-11,Stage 4,p1,Normal,25,Howson Damien,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,1,Paret-Peintre Valentin,Soudal Quick-Step,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,2,Yates Adam,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,3,Gaudu David,Groupama - FDJ,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,4,Svestad-Bårdseng Embret,Arkéa - B&B Hotels,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,5,Uijtdebroeks Cian,Team Visma | Lease a Bike,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,6,Poels Wout,XDS Astana Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,7,Howson Damien,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,8,Harper Chris,Team Jayco AlUla,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,9,Vine Jay,UAE Team Emirates - XRG,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,10,Brenner Marco,Tudor Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,11,Dalby Simon,Uno-X Mobility,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,12,Zeray Nahom,JCL Team UKYO,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,13,Badilatti Matteo,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,14,Guerreiro Ruben,Movistar Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,15,Aparicio Mario,Burgos Burpellet BH,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,16,De La Cruz David,Q36.5 Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,17,Warbasse Larry,Tudor Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,18,Garofoli Gianmarco,Soudal Quick-Step,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,19,Van Engelen Adne,Terengganu Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,20,Vermaerke Kevin,Team Picnic PostNL,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,21,Gesbert Élie,Arkéa - B&B Hotels,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,22,Rondel Mathys,Tudor Pro Cycling Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,23,Faura José Luis,Burgos Burpellet BH,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,24,Ries Michel,Arkéa - B&B Hotels,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,stage-5,2025-02-12,Stage 5,p5,Normal,25,Mulubrhan Henok,XDS Astana Team,0,0,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,1,Yates Adam,UAE Team Emirates - XRG,200,150,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,2,Paret-Peintre Valentin,Soudal Quick-Step,150,110,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,3,Gaudu David,Groupama - FDJ,125,90,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,4,Howson Damien,Q36.5 Pro Cycling Team,100,80,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,5,Uijtdebroeks Cian,Team Visma | Lease a Bike,85,70,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,6,Harper Chris,Team Jayco AlUla,70,60,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,7,Poels Wout,XDS Astana Team,60,55,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,8,Svestad-Bårdseng Embret,Arkéa - B&B Hotels,50,50,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,9,Brenner Marco,Tudor Pro Cycling Team,40,45,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,10,Dalby Simon,Uno-X Mobility,35,40,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,11,Guerreiro Ruben,Movistar Team,30,36,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,12,Zeray Nahom,JCL Team UKYO,25,32,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,13,Badilatti Matteo,Q36.5 Pro Cycling Team,20,28,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,14,Aparicio Mario,Burgos Burpellet BH,15,24,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,15,De La Cruz David,Q36.5 Pro Cycling Team,10,20,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,16,Vermaerke Kevin,Team Picnic PostNL,5,16,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,17,Rondel Mathys,Tudor Pro Cycling Team,5,14,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,18,Warbasse Larry,Tudor Pro Cycling Team,5,12,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,19,Van Engelen Adne,Terengganu Cycling Team,5,10,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,20,Gesbert Élie,Arkéa - B&B Hotels,5,8,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,21,Mulubrhan Henok,XDS Astana Team,5,6,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,22,Garofoli Gianmarco,Soudal Quick-Step,5,4,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,23,Majka Rafał,UAE Team Emirates - XRG,5,3,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,24,Fancellu Alessandro,JCL Team UKYO,5,2,2025-02-14 23:15:52
+tour-of-oman,2025,gc,2025-02-12,gc,,,25,Budyak Anatoliy,Terengganu Cycling Team,5,1,2025-02-14 23:15:52
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,1,Bennett Sam,Decathlon AG2R La Mondiale Team,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,2,Kubiš Lukáš,Unibet Tietema Rockets,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,3,Renard Alexis,Cofidis,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,4,Russo Clément,Groupama - FDJ,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,5,Pedersen Mads,Lidl - Trek,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,6,Van Den Berg Marijn,EF Education - EasyPost,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,7,Stewart Jake,Israel - Premier Tech,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,8,Gruel Thibaud,Groupama - FDJ,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,9,Burgaudeau Mathieu,Team TotalEnergies,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,10,Wright Fred,Bahrain - Victorious,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,11,Gautherat Pierre,Decathlon AG2R La Mondiale Team,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,12,Godon Dorian,Decathlon AG2R La Mondiale Team,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,13,García Pierna Raúl,Arkéa - B&B Hotels,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,14,Mohorič Matej,Bahrain - Victorious,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,15,Tizza Marco,Wagner Bazin WB,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,16,Vadic Baptiste,Team TotalEnergies,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,17,Guglielmi Simon,Arkéa - B&B Hotels,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,18,Ferron Valentin,Cofidis,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,19,Gibbons Ryan,Lidl - Trek,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,20,Bloem Joren,Unibet Tietema Rockets,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,21,Kopecký Tomáš,Unibet Tietema Rockets,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,22,Simmons Colby,EF Education - EasyPost,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,23,Beneteau Lucas,St Michel - Preference Home - Auber93,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,24,Costiou Ewen,Arkéa - B&B Hotels,0,0,2025-02-14 23:16:08
+tour-cycliste-international-la-provence,2025,stage-1,2025-02-14,Stage 1,p2,Normal,25,Årnes Daniel,Van Rysel Roubaix,0,0,2025-02-14 23:16:08
