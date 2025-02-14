@@ -2462,10 +2462,626 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Tour de La Provence</td>
+      <td>Ackermann, Pascal</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Aniołkowski, Stanisław</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Asbroeck, Tom Van</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Barbier, Pierre</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Barthe, Cyril</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Battistella, Samuele</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Bennett, Sam</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>15</td>
+      <td>stage-1: 15</td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Berg, Marijn van den</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>5</td>
+      <td>stage-1: 5</td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Bernard, Julien</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Bezza, Quentin</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Bloem, Joren</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Boivin, Guillaume</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Bondt, Dries De</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Boniface, Lucas</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Budding, Martijn</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Buratti, Nicolò</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Burgaudeau, Mathieu</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>2</td>
+      <td>stage-1: 2</td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Cepeda, Jefferson Alexander</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Chamberlain, Oscar</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Costiou, Ewen</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Dauge, Lucas</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Declercq, Tim</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Desal, Cériel</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Doull, Owain</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Dujardin, Sandy</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Ermakov, Roman</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Ferron, Valentin</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>García, Raúl</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Gautherat, Pierre</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Gendt, Aimé De</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Gibbons, Ryan</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Godon, Dorian</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Govekar, Matevž</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Grellier, Fabien</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Gruel, Thibaud</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>3</td>
+      <td>stage-1: 3</td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Gudmestad, Tord</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Guglielmi, Simon</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Huys, Laurens</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Johannink, Jelle</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Kirsch, Alex</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Knight, Oliver</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Kopecký, Matyáš</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Kopecký, Tomáš</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Kubiš, Lukáš</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>12</td>
+      <td>stage-1: 12</td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Le Berre, Mathis</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Le Gac, Olivier</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Leroux, Samuel</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Louvel, Matîs</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Lozano, David</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Matthys, Louka</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Mohorič, Matej</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Mollema, Bauke</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Muller, Anton</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Pedersen, Mads</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>6</td>
+      <td>stage-1: 6</td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Penhoët, Paul</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Peron, Andrea</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Perracchione, Alessandro</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Pestel, Sander De</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Pickrell, Riley</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Poli, Umberto</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Rafferty, Darren</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Renard, Alexis</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>10</td>
+      <td>stage-1: 10</td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Renard-Haquin, Henri-François</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Robeet, Ludovic</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Rooy, Kenneth Van</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Russo, Clément</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>8</td>
+      <td>stage-1: 8</td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Schwarzmann, Michael</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Skujins, Toms</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Stewart, Jake</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>4</td>
+      <td>stage-1: 4</td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Stockman, Abram</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Stockwell, Oliver</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Tizza, Marco</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Touzé, Damien</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Vadic, Baptiste</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Vercher, Mattéo</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Vries, Hartthijs de</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tour de La Provence</td>
+      <td>Wright, Fred</td>
+      <td>Tour Cat. 3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>stage-1: 1</td>
+    </tr>
+    <tr>
       <td>Tour of Oman</td>
       <td>Alvarez, Rodrigo</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2473,23 +3089,23 @@ hide:
       <td>Tour of Oman</td>
       <td>Aparicio, Mario</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>4</td>
+      <td>gc: 4</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>Aular, Orluis</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>10</td>
+      <td>stage-4: 10</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>Azparren, Xabier</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2497,15 +3113,15 @@ hide:
       <td>Tour of Oman</td>
       <td>Badilatti, Matteo</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>6</td>
+      <td>gc: 6</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>Barguil, Warren</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2513,7 +3129,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Behrens, Niklas</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2521,7 +3137,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Berhe, Welay Hagos</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2529,7 +3145,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Biermans, Jenthe</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2537,23 +3153,23 @@ hide:
       <td>Tour of Oman</td>
       <td>Bittner, Pavel</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>12</td>
-      <td>stage-1: 12</td>
+      <td>6</td>
+      <td>17</td>
+      <td>stage-1: 12 / stage-4: 5</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>Blikra, Erlend</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>10</td>
-      <td>stage-1: 10</td>
+      <td>6</td>
+      <td>18</td>
+      <td>stage-1: 10 / stage-4: 8</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>Bouglas, Georgios</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2561,7 +3177,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Boulahoite, Rayan</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2569,7 +3185,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Braz Afonso, Clément</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2577,15 +3193,15 @@ hide:
       <td>Tour of Oman</td>
       <td>Brenner, Marco</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
       <td>6</td>
-      <td>stage-2: 6</td>
+      <td>27</td>
+      <td>stage-2: 6 / stage-3: 6 / stage-5: 1 / gc: 14</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>Camprubi, Marcel</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2593,15 +3209,15 @@ hide:
       <td>Tour of Oman</td>
       <td>Capiot, Amaury</td>
       <td>Tour Cat. 3</td>
+      <td>6</td>
       <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>stage-4: 2</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>Charmig, Anthon</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2609,7 +3225,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Cimolai, Davide</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2617,7 +3233,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Cras, Steff</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>5</td>
       <td>4</td>
       <td>stage-2: 4</td>
     </tr>
@@ -2625,23 +3241,23 @@ hide:
       <td>Tour of Oman</td>
       <td>Dalby, Simon</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>12</td>
+      <td>gc: 12</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>De La Cruz, David</td>
       <td>Tour Cat. 3</td>
+      <td>6</td>
       <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>gc: 2</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>De Pretto, Davide</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2649,7 +3265,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Delgado, David</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2657,7 +3273,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Dhondt, Robbe</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2665,7 +3281,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Donnenwirth, Tom</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2673,7 +3289,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Double, Paul</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2681,7 +3297,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Engelhardt, Felix</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>8</td>
       <td>stage-2: 8</td>
     </tr>
@@ -2689,7 +3305,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Eriksson, Lucas</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2697,7 +3313,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Flynn, Sean</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>10</td>
       <td>stage-2: 10</td>
     </tr>
@@ -2705,7 +3321,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Fredheim, Stian</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2713,15 +3329,15 @@ hide:
       <td>Tour of Oman</td>
       <td>García Cortina, Iván</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>3</td>
+      <td>stage-4: 3</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>García, Carlos</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2729,7 +3345,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Garofoli, Gianmarco</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2737,15 +3353,15 @@ hide:
       <td>Tour of Oman</td>
       <td>Gaudu, David</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>1</td>
-      <td>stage-2: 1</td>
+      <td>6</td>
+      <td>61</td>
+      <td>stage-2: 1 / stage-3: 15 / stage-5: 10 / gc: 35</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>Gaviria, Fernando</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>5</td>
       <td>5</td>
       <td>stage-1: 5</td>
     </tr>
@@ -2753,7 +3369,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Germani, Lorenzo</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2761,7 +3377,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Gesbert, Elie</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2769,23 +3385,23 @@ hide:
       <td>Tour of Oman</td>
       <td>Guerreiro, Ruben</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>12</td>
+      <td>stage-3: 2 / gc: 10</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>Harper, Chris</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>27</td>
+      <td>stage-3: 4 / stage-5: 3 / gc: 20</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>Hayter, Ethan</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2793,7 +3409,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Hellemose, Asbjørn</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2801,23 +3417,23 @@ hide:
       <td>Tour of Oman</td>
       <td>Howson, Damien</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>44</td>
+      <td>stage-3: 10 / stage-5: 4 / gc: 30</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>Jeanniere, Emilien</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>3</td>
-      <td>stage-1: 3</td>
+      <td>6</td>
+      <td>7</td>
+      <td>stage-1: 3 / stage-4: 4</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>Jousseaume, Alan</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2825,23 +3441,23 @@ hide:
       <td>Tour of Oman</td>
       <td>Kanter, Max</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>6</td>
+      <td>stage-4: 6</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>Kooij, Olav</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>15</td>
-      <td>stage-1: 15</td>
+      <td>6</td>
+      <td>30</td>
+      <td>stage-1: 15 / stage-4: 15</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>Koyama, Tomoya</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2849,7 +3465,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Kruijswijk, Steven</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2857,7 +3473,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Kulset, Magnus</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2865,7 +3481,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Laengen, Vegard Stake</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2873,7 +3489,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Lozouet, Léandre</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2881,7 +3497,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Løland, Sakarias Koller</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2889,7 +3505,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Madouas, Valentin</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2897,7 +3513,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Majka, Rafał</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2905,7 +3521,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Manzin, Lorrenzo</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2913,7 +3529,7 @@ hide:
       <td>Tour of Oman</td>
       <td>McLay, Daniel</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2921,7 +3537,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Molard, Rudy</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2929,7 +3545,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Mulubrhan, Henok</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>5</td>
       <td>stage-2: 5</td>
     </tr>
@@ -2937,7 +3553,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Naberman, Tim</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2945,9 +3561,9 @@ hide:
       <td>Tour of Oman</td>
       <td>Nizzolo, Giacomo</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>1</td>
-      <td>stage-1: 1</td>
+      <td>6</td>
+      <td>13</td>
+      <td>stage-1: 1 / stage-4: 12</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
@@ -2961,7 +3577,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Paleni, Enzo</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2969,15 +3585,15 @@ hide:
       <td>Tour of Oman</td>
       <td>Paret-Peintre, Valentin</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>12</td>
-      <td>stage-2: 12</td>
+      <td>6</td>
+      <td>75</td>
+      <td>stage-2: 12 / stage-3: 8 / stage-5: 15 / gc: 40</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>Pedersen, Henrik</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2985,7 +3601,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Pedrero, Antonio</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2993,7 +3609,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Pluimers, Rick</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>6</td>
       <td>stage-1: 6</td>
     </tr>
@@ -3001,15 +3617,15 @@ hide:
       <td>Tour of Oman</td>
       <td>Poels, Wout</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>24</td>
+      <td>stage-3: 1 / stage-5: 5 / gc: 18</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>Reinderink, Pepijn</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -3017,7 +3633,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Ries, Michel</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -3025,7 +3641,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Rondel, Mathys</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>2</td>
       <td>stage-2: 2</td>
     </tr>
@@ -3033,7 +3649,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Roosen, Timo</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -3041,7 +3657,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Soupe, Geoffrey</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -3049,15 +3665,15 @@ hide:
       <td>Tour of Oman</td>
       <td>Svestad-Bårdseng, Embret</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>24</td>
+      <td>stage-5: 8 / gc: 16</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>Toneatti, Davide</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -3065,7 +3681,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Turgis, Anthony</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>4</td>
       <td>stage-1: 4</td>
     </tr>
@@ -3073,17 +3689,17 @@ hide:
       <td>Tour of Oman</td>
       <td>Uijtdebroeks, Cian</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>36</td>
+      <td>stage-3: 5 / stage-5: 6 / gc: 25</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>Ulissi, Diego</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>3</td>
+      <td>stage-3: 3</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
@@ -3097,7 +3713,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Vansevenant, Mauri</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -3105,7 +3721,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Vermaerke, Kevin</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -3113,15 +3729,15 @@ hide:
       <td>Tour of Oman</td>
       <td>Vermeersch, Florian</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>1</td>
+      <td>stage-4: 1</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>Vervaeke, Louis</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>15</td>
       <td>stage-2: 15</td>
     </tr>
@@ -3129,15 +3745,15 @@ hide:
       <td>Tour of Oman</td>
       <td>Vine, Jay</td>
       <td>Tour Cat. 3</td>
+      <td>6</td>
       <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>stage-5: 2</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>
       <td>Vinokurov, Nicolas</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -3145,7 +3761,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Wallin, Rasmus Bøgh</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -3153,7 +3769,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Warbasse, Larry</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -3161,7 +3777,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Warlop, Jordi</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -3169,7 +3785,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Weiss, Fabian</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -3177,7 +3793,7 @@ hide:
       <td>Tour of Oman</td>
       <td>Wirtgen, Luc</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -3185,9 +3801,9 @@ hide:
       <td>Tour of Oman</td>
       <td>Yates, Adam</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>3</td>
-      <td>stage-2: 3</td>
+      <td>6</td>
+      <td>77</td>
+      <td>stage-2: 3 / stage-3: 12 / stage-5: 12 / gc: 50</td>
     </tr>
     <tr>
       <td>Volta a la Comunitat Valenciana</td>

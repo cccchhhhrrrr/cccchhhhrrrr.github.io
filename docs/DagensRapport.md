@@ -4,6 +4,58 @@ hide:
   - toc
 ---
 
+## 2025-02-14
+### Hovedspillet
+Pedersen, Mads **6** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
+
+### Cheapo
+Renard, Alexis **10** (Knak, Visti)  
+Russo, Clément **8** (Jarma)  
+
+
+
+
+
+## 2025-02-12
+### Hovedspillet
+Uijtdebroeks, Cian **31** (Hustlersen)  
+Brenner, Marco **15** (Hustlersen)  
+
+### Cheapo
+Dalby, Simon **12** (Hustlersen)  
+
+
+
+
+
+## 2025-02-11
+### Hovedspillet
+Kooij, Olav **15** (Kenk, Matti, Tommy, Visti)  
+Aular, Orluis **10** (Visti)  
+Kanter, Max **6** (Hustlersen)  
+Jeanniere, Emilien **4** (Chrelle, Jappo, Knak)  
+Vermeersch, Florian **1** (Kenk, Visti)  
+
+### Cheapo
+Blikra, Erlend **8** (Hustlersen)  
+Capiot, Amaury **2** (Chrelle, Jappo, Jarma, Knak)  
+
+
+
+
+
+## 2025-02-10
+### Hovedspillet
+Brenner, Marco **6** (Hustlersen)  
+Uijtdebroeks, Cian **5** (Hustlersen)  
+Ulissi, Diego **3** (Knak)  
+
+### Cheapo
+
+
+
+
+
 ## 2025-02-09
 ### Hovedspillet
 Buitrago, Santiago **50** (Matti)  
