@@ -4,6 +4,40 @@ hide:
   - toc
 ---
 
+## 2025-02-16
+### Hovedspillet
+Pedersen, Mads **52** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
+Fretin, Milan **35** (Matti)  
+Kanter, Max **30** (Hustlersen)  
+Jeanniere, Emilien **26** (Chrelle, Jappo, Knak)  
+Lie, Arnaud De **22** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)  
+Aular, Orluis **6** (Visti)  
+Penhoët, Paul **6** (Jarma)  
+Rex, Laurenz **5** (Chrelle, Jappo, Jarma, Kenk, Visti)  
+
+### Cheapo
+Ferron, Valentin **10** (Chrelle)  
+Tizza, Marco **8** (Jarma, Knak)  
+Kirsch, Alex **6** (Hustlersen)  
+Galván, Francisco **2** (Knak)  
+
+
+
+
+
+## 2025-02-15
+### Hovedspillet
+Pedersen, Mads **15** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
+Penhoët, Paul **5** (Jarma)  
+Mollema, Bauke **2** (Knak)  
+
+### Cheapo
+Kirsch, Alex **4** (Hustlersen)  
+
+
+
+
+
 ## 2025-02-14
 ### Hovedspillet
 Pedersen, Mads **6** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  

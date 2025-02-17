@@ -45,72 +45,72 @@ hide:
     <tr>
       <td>Hustlersen</td>
       <td>327.8</td>
-      <td>83</td>
-      <td>585</td>
-      <td>7.05</td>
+      <td>88</td>
+      <td>704</td>
+      <td>8.00</td>
     </tr>
     <tr>
       <td>Chrelle</td>
       <td>350.0</td>
-      <td>60</td>
-      <td>489</td>
-      <td>8.15</td>
+      <td>65</td>
+      <td>609</td>
+      <td>9.37</td>
     </tr>
     <tr>
       <td>Kenk</td>
       <td>349.9</td>
-      <td>65</td>
-      <td>460</td>
-      <td>7.08</td>
-    </tr>
-    <tr>
-      <td>Tommy</td>
-      <td>350.0</td>
-      <td>73</td>
-      <td>331</td>
-      <td>4.53</td>
-    </tr>
-    <tr>
-      <td>Matti</td>
-      <td>349.1</td>
-      <td>49</td>
-      <td>325</td>
-      <td>6.63</td>
+      <td>68</td>
+      <td>532</td>
+      <td>7.82</td>
     </tr>
     <tr>
       <td>Jappo</td>
       <td>350.0</td>
-      <td>57</td>
-      <td>311</td>
-      <td>5.46</td>
+      <td>62</td>
+      <td>431</td>
+      <td>6.95</td>
     </tr>
     <tr>
-      <td>Okholm</td>
+      <td>Matti</td>
+      <td>349.1</td>
+      <td>52</td>
+      <td>427</td>
+      <td>8.21</td>
+    </tr>
+    <tr>
+      <td>Tommy</td>
       <td>350.0</td>
-      <td>58</td>
-      <td>300</td>
+      <td>77</td>
+      <td>398</td>
       <td>5.17</td>
     </tr>
     <tr>
       <td>Visti</td>
       <td>350.0</td>
-      <td>51</td>
-      <td>271</td>
-      <td>5.31</td>
+      <td>56</td>
+      <td>371</td>
+      <td>6.62</td>
+    </tr>
+    <tr>
+      <td>Okholm</td>
+      <td>350.0</td>
+      <td>61</td>
+      <td>322</td>
+      <td>5.28</td>
     </tr>
     <tr>
       <td>Knak</td>
       <td>349.8</td>
-      <td>58</td>
-      <td>262</td>
-      <td>4.52</td>
+      <td>61</td>
+      <td>290</td>
+      <td>4.75</td>
     </tr>
     <tr>
       <td>Jarma</td>
       <td>350.0</td>
-      <td>35</td>
-      <td>142</td>
-      <td>4.06</td>
+      <td>41</td>
+      <td>180</td>
+      <td>4.39</td>
     </tr>
   </tbody>
 </table>
