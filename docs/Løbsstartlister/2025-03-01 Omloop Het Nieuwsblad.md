@@ -302,7 +302,7 @@
       <td>Van Baarle Dylan</td>
       <td class = "startlist">Teuns Dylan</td>
       <td>Andresen Tobias Lund</td>
-      <td>Sheehan Riley</td>
+      <td class = "startlist">Sheehan Riley</td>
       <td>Campenaerts Victor</td>
       <td>Van Dijke Tim</td>
     </tr>

@@ -200,7 +200,7 @@
       <td>Hayter Ethan</td>
       <td>Plapp Luke</td>
       <td class = "startlist">Powless Neilson</td>
-      <td>Poole Max</td>
+      <td class = "startlist">Poole Max</td>
       <td>Magnier Paul</td>
       <td class = "startlist">Grégoire Romain</td>
       <td>Gall Felix</td>
@@ -225,7 +225,7 @@
     <tr>
       <th>13</th>
       <td>14</td>
-      <td>Poole Max</td>
+      <td class = "startlist">Poole Max</td>
       <td class = "startlist">Mihkels Madis</td>
       <td>Hayter Ethan</td>
       <td>Bagioli Andrea</td>

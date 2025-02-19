@@ -4,6 +4,63 @@ hide:
   - toc
 ---
 
+## 2025-02-19
+### Hovedspillet
+Pogačar, Tadej **25** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
+Onley, Oscar **20** (Hustlersen, Okholm)  
+Gall, Felix **16** (Chrelle, Matti, Visti)  
+Gils, Maxim Van **15** (Kenk, Matti)  
+Eetvelt, Lennert Van **14** (Jappo, Kenk, Tommy)  
+Fisher-Black, Finn **10** (Chrelle, Jappo)  
+Sivakov, Pavel **10** (Jarma, Okholm)  
+Romeo, Iván **8** (Matti)  
+Castrillo, Pablo **6** (Matti)  
+Pidcock, Tom **3** (Chrelle, Jappo, Knak)  
+Seixas, Paul **3** (Matti)  
+
+### Cheapo
+Romeo, Iván **8** (Chrelle, Jappo)  
+Arrieta, Igor **2** (Jappo, Jarma)  
+Langellotti, Victor **2** (Hustlersen)  
+Gachignard, Thomas **1** (Chrelle, Knak)  
+
+
+
+
+
+## 2025-02-18
+### Hovedspillet
+Tarling, Josh **25** (Chrelle)  
+Pogačar, Tadej **16** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
+Castrillo, Pablo **10** (Matti)  
+Romeo, Iván **8** (Matti)  
+Vermeersch, Florian **4** (Kenk, Visti)  
+Fisher-Black, Finn **3** (Chrelle, Jappo)  
+
+### Cheapo
+Romeo, Iván **8** (Chrelle, Jappo)  
+
+
+
+
+
+## 2025-02-17
+### Hovedspillet
+Milan, Jonathan **25** (Jarma, Kenk, Matti, Okholm, Visti)  
+Fisher-Black, Finn **20** (Chrelle, Jappo)  
+Andresen, Tobias Lund **16** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)  
+Eetvelt, Lennert Van **14** (Jappo, Kenk, Tommy)  
+Onley, Oscar **12** (Hustlersen, Okholm)  
+Pogačar, Tadej **3** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
+
+### Cheapo
+Taminiaux, Lionel **6** (Jarma)  
+Langellotti, Victor **1** (Hustlersen)  
+
+
+
+
+
 ## 2025-02-16
 ### Hovedspillet
 Pedersen, Mads **52** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  

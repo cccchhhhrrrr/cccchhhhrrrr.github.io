@@ -338,7 +338,7 @@
       <th>21</th>
       <td>22</td>
       <td>Rex Laurenz</td>
-      <td>Foldager Anders</td>
+      <td class = "startlist">Foldager Anders</td>
       <td>Rex Laurenz</td>
       <td>Pedersen Rasmus Søjberg</td>
       <td>Teutenberg Tim Torn</td>
@@ -380,7 +380,7 @@
       <th>24</th>
       <td>25</td>
       <td>Withen Philipsen Albert</td>
-      <td>August Andrew</td>
+      <td class = "startlist">August Andrew</td>
       <td>Withen Philipsen Albert</td>
       <td>Del Grosso Tibor</td>
       <td>Rolland Brieuc</td>
