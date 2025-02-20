@@ -176,7 +176,7 @@
       <td>Narváez Jhonatan</td>
       <td>Healy Ben</td>
       <td>Girmay Biniam</td>
-      <td>Gee Derek</td>
+      <td class = "startlist">Gee Derek</td>
       <td>Nys Thibau</td>
       <td>Gall Felix</td>
     </tr>
@@ -185,7 +185,7 @@
       <td>11</td>
       <td>Grégoire Romain</td>
       <td>Nys Thibau</td>
-      <td>Gee Derek</td>
+      <td class = "startlist">Gee Derek</td>
       <td>Sivakov Pavel</td>
       <td>Nys Thibau</td>
       <td>Nys Thibau</td>
@@ -197,7 +197,7 @@
     <tr>
       <th>11</th>
       <td>12</td>
-      <td>Hayter Ethan</td>
+      <td class = "startlist">Hayter Ethan</td>
       <td>Plapp Luke</td>
       <td>Powless Neilson</td>
       <td>Poole Max</td>
@@ -215,7 +215,7 @@
       <td>Welsford Sam</td>
       <td>Nys Thibau</td>
       <td>Magnier Paul</td>
-      <td>Kron Andreas</td>
+      <td class = "startlist">Kron Andreas</td>
       <td>Martinez Lenny</td>
       <td>Castrillo Pablo</td>
       <td>Vacek Mathias</td>
@@ -227,7 +227,7 @@
       <td>14</td>
       <td>Poole Max</td>
       <td>Mihkels Madis</td>
-      <td>Hayter Ethan</td>
+      <td class = "startlist">Hayter Ethan</td>
       <td>Bagioli Andrea</td>
       <td>Christen Jan</td>
       <td>Strong Corbin</td>
@@ -354,7 +354,7 @@
       <td>Staune-Mittet Johannes</td>
       <td>Brenner Marco</td>
       <td>Jeannière Emilien</td>
-      <td>Frigo Marco</td>
+      <td class = "startlist">Frigo Marco</td>
       <td>Wandahl Frederik</td>
       <td>Naesen Oliver</td>
       <td>Staune-Mittet Johannes</td>

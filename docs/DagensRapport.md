@@ -4,6 +4,23 @@ hide:
   - toc
 ---
 
+## 2025-02-20
+### Hovedspillet
+Milan, Jonathan **25** (Jarma, Kenk, Matti, Okholm, Visti)  
+Merlier, Tim **20** (Jappo, Knak, Matti, Tommy)  
+Philipsen, Jasper **16** (Jarma, Knak)  
+Pidcock, Tom **15** (Chrelle, Jappo, Knak)  
+Sivakov, Pavel **10** (Jarma, Okholm)  
+Gils, Maxim Van **5** (Kenk, Matti)  
+
+### Cheapo
+Hoelgaard, Markus **4** (Hustlersen)  
+Schuyteneer, Steffen De **4** (Chrelle, Jappo, Jarma)  
+
+
+
+
+
 ## 2025-02-19
 ### Hovedspillet
 Pogačar, Tadej **25** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
