@@ -4,14 +4,66 @@ hide:
   - toc
 ---
 
+## 2025-02-22
+### Hovedspillet
+Merlier, Tim **25** (Jappo, Knak, Matti, Tommy)  
+Philipsen, Jasper **20** (Jarma, Knak)  
+Milan, Jonathan **16** (Jarma, Kenk, Matti, Okholm, Visti)  
+Fretin, Milan **15** (Matti)  
+Lie, Arnaud De **8** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)  
+Girmay, Biniam **6** (Jappo, Knak, Matti, Okholm, Visti)  
+Mihkels, Madis **5** (Hustlersen, Matti, Visti)  
+Aert, Wout van **4** (Chrelle, Jarma, Matti, Okholm, Tommy)  
+Welsford, Sam **4** (Chrelle, Hustlersen, Tommy)  
+
+### Cheapo
+Schuyteneer, Steffen De **3** (Chrelle, Jappo, Jarma)  
+
+
+
+
+
+## 2025-02-21
+### Hovedspillet
+Merlier, Tim **25** (Jappo, Knak, Matti, Tommy)  
+Milan, Jonathan **16** (Jarma, Kenk, Matti, Okholm, Visti)  
+Welsford, Sam **14** (Chrelle, Hustlersen, Tommy)  
+Girmay, Biniam **12** (Jappo, Knak, Matti, Okholm, Visti)  
+Gils, Maxim Van **10** (Kenk, Matti)  
+Lie, Arnaud De **10** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)  
+Pidcock, Tom **8** (Chrelle, Jappo, Knak)  
+Fretin, Milan **6** (Matti)  
+Naesen, Oliver **6** (Knak)  
+Mihkels, Madis **5** (Hustlersen, Matti, Visti)  
+Aert, Wout van **4** (Chrelle, Jarma, Matti, Okholm, Tommy)  
+Foldager, Anders **3** (Hustlersen)  
+Watson, Samuel **2** (Tommy)  
+
+### Cheapo
+Naesen, Oliver **6** (Jarma, Knak, Visti)  
+Foldager, Anders **3** (Hustlersen, Jappo, Kenk, Visti)  
+Jacobs, Johan **1** (Jarma)  
+
+
+
+
+
 ## 2025-02-20
 ### Hovedspillet
 Milan, Jonathan **25** (Jarma, Kenk, Matti, Okholm, Visti)  
 Merlier, Tim **20** (Jappo, Knak, Matti, Tommy)  
 Philipsen, Jasper **16** (Jarma, Knak)  
+Christen, Jan **15** (Kenk)  
 Pidcock, Tom **15** (Chrelle, Jappo, Knak)  
+Almeida, João **12** (Chrelle, Kenk)  
+Plus, Laurens De **10** (Okholm)  
 Sivakov, Pavel **10** (Jarma, Okholm)  
+Morgado, António **6** (Hustlersen, Jappo, Matti, Visti)  
 Gils, Maxim Van **5** (Kenk, Matti)  
+Vingegaard, Jonas **5** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)  
+Geoghegan Hart, Tao **3** (Jarma, Okholm)  
+Roglič, Primož **2** (Hustlersen, Knak)  
+Powless, Neilson **1** (Jappo)  
 
 ### Cheapo
 Hoelgaard, Markus **4** (Hustlersen)  

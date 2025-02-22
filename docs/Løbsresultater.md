@@ -4649,7 +4649,7 @@ hide:
       <td>UAE Tour</td>
       <td>Andresen, Tobias Lund</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>16</td>
       <td>stage-1: 16</td>
     </tr>
@@ -4657,7 +4657,7 @@ hide:
       <td>UAE Tour</td>
       <td>Armirail, Bruno</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>2</td>
       <td>stage-2: 2</td>
     </tr>
@@ -4665,7 +4665,7 @@ hide:
       <td>UAE Tour</td>
       <td>Barta, Will</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4673,7 +4673,7 @@ hide:
       <td>UAE Tour</td>
       <td>Bastiaens, Ayco</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4681,15 +4681,15 @@ hide:
       <td>UAE Tour</td>
       <td>Bauhaus, Phil</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>10</td>
-      <td>stage-1: 4 / stage-4: 6</td>
+      <td>6</td>
+      <td>18</td>
+      <td>stage-1: 4 / stage-4: 6 / stage-5: 6 / stage-6: 2</td>
     </tr>
     <tr>
       <td>UAE Tour</td>
       <td>Behrens, Niklas</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4697,7 +4697,7 @@ hide:
       <td>UAE Tour</td>
       <td>Berg, Julius van den</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4705,7 +4705,7 @@ hide:
       <td>UAE Tour</td>
       <td>Biagini, Frederico</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4713,7 +4713,7 @@ hide:
       <td>UAE Tour</td>
       <td>Bilbao, Pello</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>6</td>
       <td>stage-2: 6</td>
     </tr>
@@ -4721,7 +4721,7 @@ hide:
       <td>UAE Tour</td>
       <td>Bissegger, Stefan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>20</td>
       <td>stage-2: 20</td>
     </tr>
@@ -4729,7 +4729,7 @@ hide:
       <td>UAE Tour</td>
       <td>Bjerg, Mikkel</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4737,7 +4737,7 @@ hide:
       <td>UAE Tour</td>
       <td>Bouchard, Geoffrey</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4745,7 +4745,7 @@ hide:
       <td>UAE Tour</td>
       <td>Carthy, Hugh</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4753,7 +4753,7 @@ hide:
       <td>UAE Tour</td>
       <td>Castrillo, Pablo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>16</td>
       <td>stage-2: 10 / stage-3: 6</td>
     </tr>
@@ -4761,7 +4761,7 @@ hide:
       <td>UAE Tour</td>
       <td>Castroviejo, Jonathan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4769,7 +4769,7 @@ hide:
       <td>UAE Tour</td>
       <td>Cerný, Josef</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4777,7 +4777,7 @@ hide:
       <td>UAE Tour</td>
       <td>Chaves, Esteban</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4785,7 +4785,7 @@ hide:
       <td>UAE Tour</td>
       <td>Ciccone, Giulio</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>12</td>
       <td>stage-3: 12</td>
     </tr>
@@ -4793,7 +4793,7 @@ hide:
       <td>UAE Tour</td>
       <td>Cimolai, Davide</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4801,7 +4801,7 @@ hide:
       <td>UAE Tour</td>
       <td>Colleoni, Kevin</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4809,7 +4809,7 @@ hide:
       <td>UAE Tour</td>
       <td>Conforti, Lorenzo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4817,7 +4817,7 @@ hide:
       <td>UAE Tour</td>
       <td>Consonni, Simone</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4825,7 +4825,7 @@ hide:
       <td>UAE Tour</td>
       <td>Coté, Pier-André</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4833,7 +4833,7 @@ hide:
       <td>UAE Tour</td>
       <td>Craps, Lars</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4841,7 +4841,7 @@ hide:
       <td>UAE Tour</td>
       <td>Currie, Logan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4849,7 +4849,7 @@ hide:
       <td>UAE Tour</td>
       <td>Debruyne, Ramses</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4857,7 +4857,7 @@ hide:
       <td>UAE Tour</td>
       <td>Dillier, Silvan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4865,7 +4865,7 @@ hide:
       <td>UAE Tour</td>
       <td>Donaldson, Robert</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4873,7 +4873,7 @@ hide:
       <td>UAE Tour</td>
       <td>Durbridge, Luke</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4881,7 +4881,7 @@ hide:
       <td>UAE Tour</td>
       <td>Durić, Dorđe</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4889,7 +4889,7 @@ hide:
       <td>UAE Tour</td>
       <td>Edmondson, Alex</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4897,7 +4897,7 @@ hide:
       <td>UAE Tour</td>
       <td>Eenkhoorn, Pascal</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4905,7 +4905,7 @@ hide:
       <td>UAE Tour</td>
       <td>Eetvelt, Lennert Van</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>28</td>
       <td>stage-1: 14 / stage-3: 14</td>
     </tr>
@@ -4913,7 +4913,7 @@ hide:
       <td>UAE Tour</td>
       <td>Fiorelli, Filippo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4921,7 +4921,7 @@ hide:
       <td>UAE Tour</td>
       <td>Fisher-Black, Finn</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>33</td>
       <td>stage-1: 20 / stage-2: 3 / stage-3: 10</td>
     </tr>
@@ -4929,7 +4929,7 @@ hide:
       <td>UAE Tour</td>
       <td>Fortin, Filippo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4937,7 +4937,7 @@ hide:
       <td>UAE Tour</td>
       <td>Froome, Chris</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4945,7 +4945,7 @@ hide:
       <td>UAE Tour</td>
       <td>Gall, Felix</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>16</td>
       <td>stage-3: 16</td>
     </tr>
@@ -4953,7 +4953,7 @@ hide:
       <td>UAE Tour</td>
       <td>Gate, Aaron</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>10</td>
       <td>stage-1: 10</td>
     </tr>
@@ -4961,7 +4961,7 @@ hide:
       <td>UAE Tour</td>
       <td>Gaviria, Fernando</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>12</td>
       <td>stage-4: 12</td>
     </tr>
@@ -4969,7 +4969,7 @@ hide:
       <td>UAE Tour</td>
       <td>Ghebreigzabhier, Amanuel</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4977,7 +4977,7 @@ hide:
       <td>UAE Tour</td>
       <td>Ghys, Robbe</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -4993,7 +4993,7 @@ hide:
       <td>UAE Tour</td>
       <td>González, Roberto</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5001,7 +5001,7 @@ hide:
       <td>UAE Tour</td>
       <td>Goossens, Kobe</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5009,7 +5009,7 @@ hide:
       <td>UAE Tour</td>
       <td>Gregaard, Jonas</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5017,7 +5017,7 @@ hide:
       <td>UAE Tour</td>
       <td>Groenewegen, Dylan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>8</td>
       <td>stage-4: 8</td>
     </tr>
@@ -5033,7 +5033,7 @@ hide:
       <td>UAE Tour</td>
       <td>Heiduk, Kim</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5041,7 +5041,7 @@ hide:
       <td>UAE Tour</td>
       <td>Herregodts, Rune</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5049,7 +5049,7 @@ hide:
       <td>UAE Tour</td>
       <td>Higuita, Sergio</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5057,7 +5057,7 @@ hide:
       <td>UAE Tour</td>
       <td>Hirt, Jan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5065,7 +5065,7 @@ hide:
       <td>UAE Tour</td>
       <td>Hoecke, Gijs Van</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5073,7 +5073,7 @@ hide:
       <td>UAE Tour</td>
       <td>Hoole, Daan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5081,15 +5081,15 @@ hide:
       <td>UAE Tour</td>
       <td>Jakobsen, Fabio</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>10</td>
-      <td>stage-4: 10</td>
+      <td>6</td>
+      <td>22</td>
+      <td>stage-4: 10 / stage-6: 12</td>
     </tr>
     <tr>
       <td>UAE Tour</td>
       <td>Kajamini, Florian</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5097,7 +5097,7 @@ hide:
       <td>UAE Tour</td>
       <td>Kepplinger, Rainer</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5105,7 +5105,7 @@ hide:
       <td>UAE Tour</td>
       <td>Kielich, Timo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5113,15 +5113,15 @@ hide:
       <td>UAE Tour</td>
       <td>Kleijn, Arvid de</td>
       <td>Tour Cat. 2</td>
+      <td>6</td>
       <td>4</td>
-      <td>2</td>
-      <td>stage-4: 2</td>
+      <td>stage-4: 2 / stage-5: 2</td>
     </tr>
     <tr>
       <td>UAE Tour</td>
       <td>Kluckers, Arthur</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5129,15 +5129,15 @@ hide:
       <td>UAE Tour</td>
       <td>Kogut, Oded</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>12</td>
+      <td>stage-5: 12</td>
     </tr>
     <tr>
       <td>UAE Tour</td>
       <td>Kolze Changizi, Sebastian</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5145,7 +5145,7 @@ hide:
       <td>UAE Tour</td>
       <td>Konrad, Patrick</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5161,7 +5161,7 @@ hide:
       <td>UAE Tour</td>
       <td>Krieger, Alexander</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5169,7 +5169,7 @@ hide:
       <td>UAE Tour</td>
       <td>Kuypers, Gerben</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5177,7 +5177,7 @@ hide:
       <td>UAE Tour</td>
       <td>Langellotti, Victor</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>3</td>
       <td>stage-1: 1 / stage-3: 2</td>
     </tr>
@@ -5185,7 +5185,7 @@ hide:
       <td>UAE Tour</td>
       <td>Lecerf, William Junior</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5193,7 +5193,7 @@ hide:
       <td>UAE Tour</td>
       <td>Lee, Jardi van der</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5201,7 +5201,7 @@ hide:
       <td>UAE Tour</td>
       <td>Leijnse, Enzo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5209,7 +5209,7 @@ hide:
       <td>UAE Tour</td>
       <td>Lemmen, Bart</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5217,7 +5217,7 @@ hide:
       <td>UAE Tour</td>
       <td>Leonard, Michael</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5225,7 +5225,7 @@ hide:
       <td>UAE Tour</td>
       <td>Lerberghe, Bert Van</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5233,7 +5233,7 @@ hide:
       <td>UAE Tour</td>
       <td>Lutsenko, Alexey</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5241,7 +5241,7 @@ hide:
       <td>UAE Tour</td>
       <td>Maciejuk, Filip</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5249,7 +5249,7 @@ hide:
       <td>UAE Tour</td>
       <td>Mackellar, Alastair</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5257,15 +5257,15 @@ hide:
       <td>UAE Tour</td>
       <td>Malucelli, Matteo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>20</td>
+      <td>stage-5: 20</td>
     </tr>
     <tr>
       <td>UAE Tour</td>
       <td>McLay, Daniel</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>14</td>
       <td>stage-4: 14</td>
     </tr>
@@ -5273,15 +5273,15 @@ hide:
       <td>UAE Tour</td>
       <td>Merlier, Tim</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>20</td>
-      <td>stage-4: 20</td>
+      <td>6</td>
+      <td>70</td>
+      <td>stage-4: 20 / stage-5: 25 / stage-6: 25</td>
     </tr>
     <tr>
       <td>UAE Tour</td>
       <td>Meulen, Max van der</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5289,17 +5289,17 @@ hide:
       <td>UAE Tour</td>
       <td>Mezgec, Luka</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>3</td>
+      <td>stage-5: 3</td>
     </tr>
     <tr>
       <td>UAE Tour</td>
       <td>Milan, Jonathan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>50</td>
-      <td>stage-1: 25 / stage-4: 25</td>
+      <td>6</td>
+      <td>82</td>
+      <td>stage-1: 25 / stage-4: 25 / stage-5: 16 / stage-6: 16</td>
     </tr>
     <tr>
       <td>UAE Tour</td>
@@ -5313,7 +5313,7 @@ hide:
       <td>UAE Tour</td>
       <td>Moro, Manlio</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5321,7 +5321,7 @@ hide:
       <td>UAE Tour</td>
       <td>Mullen, Ryan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5329,7 +5329,7 @@ hide:
       <td>UAE Tour</td>
       <td>Märkl, Niklas</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5337,7 +5337,7 @@ hide:
       <td>UAE Tour</td>
       <td>Novak, Domen</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5345,7 +5345,7 @@ hide:
       <td>UAE Tour</td>
       <td>Onley, Oscar</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>32</td>
       <td>stage-1: 12 / stage-3: 20</td>
     </tr>
@@ -5353,7 +5353,7 @@ hide:
       <td>UAE Tour</td>
       <td>Palzer, Anton</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5361,7 +5361,7 @@ hide:
       <td>UAE Tour</td>
       <td>Pasqualon, Andrea</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5369,7 +5369,7 @@ hide:
       <td>UAE Tour</td>
       <td>Pedersen, Casper</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5377,7 +5377,7 @@ hide:
       <td>UAE Tour</td>
       <td>Pedersen, Rasmus Søjberg</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5385,7 +5385,7 @@ hide:
       <td>UAE Tour</td>
       <td>Petilli, Simone</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5393,7 +5393,7 @@ hide:
       <td>UAE Tour</td>
       <td>Petit, Adrien</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5401,15 +5401,15 @@ hide:
       <td>UAE Tour</td>
       <td>Philipsen, Jasper</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>16</td>
-      <td>stage-4: 16</td>
+      <td>6</td>
+      <td>36</td>
+      <td>stage-4: 16 / stage-6: 20</td>
     </tr>
     <tr>
       <td>UAE Tour</td>
       <td>Pinarello, Alessandro</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5417,7 +5417,7 @@ hide:
       <td>UAE Tour</td>
       <td>Pinazzi, Mattia</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5425,7 +5425,7 @@ hide:
       <td>UAE Tour</td>
       <td>Pogačar, Tadej</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>44</td>
       <td>stage-1: 3 / stage-2: 16 / stage-3: 25</td>
     </tr>
@@ -5433,7 +5433,7 @@ hide:
       <td>UAE Tour</td>
       <td>Pollefliet, Gianluca</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5441,15 +5441,15 @@ hide:
       <td>UAE Tour</td>
       <td>Poppel, Danny van</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>8</td>
+      <td>stage-5: 8</td>
     </tr>
     <tr>
       <td>UAE Tour</td>
       <td>Price-Pejtersen, Johan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5457,7 +5457,7 @@ hide:
       <td>UAE Tour</td>
       <td>Quartucci, Lorenzo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5473,7 +5473,7 @@ hide:
       <td>UAE Tour</td>
       <td>Raisberg, Nadav</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5481,23 +5481,23 @@ hide:
       <td>UAE Tour</td>
       <td>Rajović, Dušan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>1</td>
-      <td>stage-4: 1</td>
+      <td>6</td>
+      <td>11</td>
+      <td>stage-4: 1 / stage-6: 10</td>
     </tr>
     <tr>
       <td>UAE Tour</td>
       <td>Reinders, Elmar</td>
       <td>Tour Cat. 2</td>
+      <td>6</td>
       <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>stage-5: 4</td>
     </tr>
     <tr>
       <td>UAE Tour</td>
       <td>Riccitello, Matthew</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>4</td>
       <td>stage-3: 4</td>
     </tr>
@@ -5505,7 +5505,7 @@ hide:
       <td>UAE Tour</td>
       <td>Rickaert, Jonas</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5513,7 +5513,7 @@ hide:
       <td>UAE Tour</td>
       <td>Rodriguez, Carlos</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5521,7 +5521,7 @@ hide:
       <td>UAE Tour</td>
       <td>Romeo, Iván</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>16</td>
       <td>stage-2: 8 / stage-3: 8</td>
     </tr>
@@ -5529,7 +5529,7 @@ hide:
       <td>UAE Tour</td>
       <td>Rootkin-Gray, Jack</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5537,7 +5537,7 @@ hide:
       <td>UAE Tour</td>
       <td>Rubio, Einer</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5545,7 +5545,7 @@ hide:
       <td>UAE Tour</td>
       <td>Samudio, Carlos</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5553,7 +5553,7 @@ hide:
       <td>UAE Tour</td>
       <td>Sande, Tosh Van der</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5561,7 +5561,7 @@ hide:
       <td>UAE Tour</td>
       <td>Sbaragli, Kristian</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5569,7 +5569,7 @@ hide:
       <td>UAE Tour</td>
       <td>Schelling, Ide</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5577,15 +5577,15 @@ hide:
       <td>UAE Tour</td>
       <td>Schuyteneer, Steffen De</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>4</td>
-      <td>stage-4: 4</td>
+      <td>6</td>
+      <td>7</td>
+      <td>stage-4: 4 / stage-6: 3</td>
     </tr>
     <tr>
       <td>UAE Tour</td>
       <td>Seixas, Paul</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>3</td>
       <td>stage-3: 3</td>
     </tr>
@@ -5593,15 +5593,15 @@ hide:
       <td>UAE Tour</td>
       <td>Skerl, Daniel</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>8</td>
+      <td>stage-6: 8</td>
     </tr>
     <tr>
       <td>UAE Tour</td>
       <td>Steinhauser, Georg</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5609,7 +5609,7 @@ hide:
       <td>UAE Tour</td>
       <td>Storer, Michael</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5617,7 +5617,7 @@ hide:
       <td>UAE Tour</td>
       <td>Su, Haoyu</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5625,7 +5625,7 @@ hide:
       <td>UAE Tour</td>
       <td>Swift, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5633,7 +5633,7 @@ hide:
       <td>UAE Tour</td>
       <td>Taminiaux, Lionel</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>6</td>
       <td>stage-1: 6</td>
     </tr>
@@ -5641,7 +5641,7 @@ hide:
       <td>UAE Tour</td>
       <td>Tarling, Josh</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>25</td>
       <td>stage-2: 25</td>
     </tr>
@@ -5649,7 +5649,7 @@ hide:
       <td>UAE Tour</td>
       <td>Tarozzi, Manuele</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5657,7 +5657,7 @@ hide:
       <td>UAE Tour</td>
       <td>Tejada, Harold</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>10</td>
       <td>stage-1: 8 / stage-2: 1 / stage-3: 1</td>
     </tr>
@@ -5665,23 +5665,23 @@ hide:
       <td>UAE Tour</td>
       <td>Theuns, Edward</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>1</td>
+      <td>stage-5: 1</td>
     </tr>
     <tr>
       <td>UAE Tour</td>
       <td>Thijssen, Gerben</td>
       <td>Tour Cat. 2</td>
+      <td>6</td>
       <td>4</td>
-      <td>3</td>
-      <td>stage-4: 3</td>
+      <td>stage-4: 3 / stage-6: 1</td>
     </tr>
     <tr>
       <td>UAE Tour</td>
       <td>Thompson, Reuben</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5689,7 +5689,7 @@ hide:
       <td>UAE Tour</td>
       <td>Træen, Torstein</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5697,7 +5697,7 @@ hide:
       <td>UAE Tour</td>
       <td>Vermeersch, Florian</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>4</td>
       <td>stage-2: 4</td>
     </tr>
@@ -5713,7 +5713,7 @@ hide:
       <td>UAE Tour</td>
       <td>Vine, Jay</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>14</td>
       <td>stage-2: 14</td>
     </tr>
@@ -5721,23 +5721,23 @@ hide:
       <td>UAE Tour</td>
       <td>Walscheid, Max</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>12</td>
-      <td>stage-2: 12</td>
+      <td>6</td>
+      <td>26</td>
+      <td>stage-2: 12 / stage-6: 14</td>
     </tr>
     <tr>
       <td>UAE Tour</td>
       <td>Welsford, Sam</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>18</td>
+      <td>stage-5: 14 / stage-6: 4</td>
     </tr>
     <tr>
       <td>UAE Tour</td>
       <td>Wilksch, Hannes</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -5745,23 +5745,23 @@ hide:
       <td>UAE Tour</td>
       <td>Zanoncello, Enrico</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>6</td>
+      <td>stage-6: 6</td>
     </tr>
     <tr>
       <td>UAE Tour</td>
       <td>Zijlaard, Maikel</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>10</td>
+      <td>stage-5: 10</td>
     </tr>
     <tr>
       <td>UAE Tour</td>
       <td>Zwiehoff, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6817,15 +6817,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Aert, Wout van</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>8</td>
+      <td>stage-3: 4 / stage-4: 4</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Alaphilippe, Julian</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6833,7 +6833,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Allegaert, Piet</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6841,15 +6841,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Almeida, João</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>12</td>
+      <td>stage-2: 12</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Arensman, Thymen</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6857,7 +6857,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Asgreen, Kasper</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6865,7 +6865,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Askey, Lewis</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6873,15 +6873,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Bardet, Romain</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>8</td>
+      <td>stage-2: 8</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Bayer, Tobias</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6889,7 +6889,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Belle, Loe van</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6897,7 +6897,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Benoot, Tiesj</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6905,7 +6905,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Beullens, Cedric</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6913,7 +6913,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Bou, Joan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6921,7 +6921,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Braet, Vito</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6929,7 +6929,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Broek, Frank van den</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6937,7 +6937,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Bruttomesso, Alberto</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6945,7 +6945,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Buchmann, Emanuel</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6953,15 +6953,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Buratti, Nicolò</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>3</td>
+      <td>stage-4: 3</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Buyst, Jasper De</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6969,7 +6969,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Caruso, Damiano</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6977,7 +6977,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Cattaneo, Mattia</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6985,7 +6985,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Cavagna, Rémi</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6993,15 +6993,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Christen, Jan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>15</td>
+      <td>stage-2: 15</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Combaud, Romain</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7009,7 +7009,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Costa, Rui</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7017,7 +7017,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Dainese, Alberto</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7025,7 +7025,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Degenkolb, John</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7033,7 +7033,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Drizners, Jarrad</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7041,7 +7041,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Eulálio, Afonso</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7049,15 +7049,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Fretin, Milan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>21</td>
+      <td>stage-3: 6 / stage-4: 15</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Froideveaux, Robin</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7065,15 +7065,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Ganna, Filippo</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>10</td>
+      <td>stage-4: 10</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Gelders, Gil</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7081,15 +7081,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Geoghegan Hart, Tao</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>3</td>
+      <td>stage-2: 3</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Gestel, Dries Van</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7097,15 +7097,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Girmay, Biniam</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>18</td>
+      <td>stage-3: 12 / stage-4: 6</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Glivar, Gal</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7113,7 +7113,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>González, Abner</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7121,7 +7121,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Grignard, Sébastien</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7129,7 +7129,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Grossschartner, Felix</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7137,7 +7137,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Grégoire, Romain</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7145,7 +7145,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Haller, Marco</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7153,7 +7153,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Hermans, Quinten</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7161,7 +7161,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Herrada, Jesús</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7169,7 +7169,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Hollmann, Juri</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7177,7 +7177,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Honoré, Mikkel</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7185,7 +7185,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Ibañez, Javier</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7193,7 +7193,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Izagirre, Ion</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7201,15 +7201,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Jacobs, Johan</td>
       <td>Tour Cat. 3</td>
+      <td>4</td>
       <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>stage-3: 1</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Johnston, Calum</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7217,7 +7217,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Kamp, Alexander</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7225,7 +7225,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Kelderman, Wilco</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7233,7 +7233,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Koch, Jonas</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7241,7 +7241,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Kuss, Sepp</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7249,7 +7249,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Küng, Stefan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7257,7 +7257,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Lampaert, Yves</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7265,7 +7265,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Lazkano, Oier</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7273,7 +7273,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Leitão, Iúri</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7281,15 +7281,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Lie, Arnaud De</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>18</td>
+      <td>stage-3: 10 / stage-4: 8</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Lienhard, Fabian</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7297,7 +7297,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Livyns, Arjen</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7305,7 +7305,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Mechelen, Vlad Van</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7313,15 +7313,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Meeus, Jordi</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>27</td>
+      <td>stage-3: 15 / stage-4: 12</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Meurisse, Xandro</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7329,15 +7329,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Mihkels, Madis</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>10</td>
+      <td>stage-3: 5 / stage-4: 5</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Moer, Brent Van</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7345,15 +7345,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Morgado, António</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>6</td>
+      <td>stage-2: 6</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Mosca, Jacopo</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7361,7 +7361,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Oliveira, Ivo</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7369,7 +7369,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Oliveira, Rui</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7377,7 +7377,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Oomen, Sam</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7385,7 +7385,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Otruba, Jakub</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7393,15 +7393,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Plus, Laurens De</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>10</td>
+      <td>stage-2: 10</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Politt, Nils</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7409,7 +7409,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Poole, Max</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7417,15 +7417,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Powless, Neilson</td>
       <td>Tour Cat. 3</td>
+      <td>4</td>
       <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>stage-2: 1</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Puccio, Salvatore</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7433,7 +7433,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Rex, Laurenz</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7441,7 +7441,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Rochas, Rémy</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7449,15 +7449,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Roglič, Primož</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>2</td>
+      <td>stage-2: 2</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Rolland, Brieuc</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7465,7 +7465,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Rota, Lorenzo</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7473,7 +7473,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Rutsch, Jonas</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7481,7 +7481,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Schachmann, Maximilian</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7489,7 +7489,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Shaw, James</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7497,7 +7497,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Shmidt, Artem</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7505,7 +7505,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Sintmaartensdijk, Roel van</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7513,7 +7513,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Sorarrain, Gorka</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7521,7 +7521,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Stork, Florian</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7529,15 +7529,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Stuyven, Jasper</td>
       <td>Tour Cat. 3</td>
+      <td>4</td>
       <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>stage-4: 1</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Teuns, Dylan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7545,7 +7545,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Thomas, Benjamin</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7553,7 +7553,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Thomas, Geraint</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7561,7 +7561,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Tiberi, Antonio</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7569,7 +7569,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Tratnik, Jan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7585,7 +7585,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Tulett, Ben</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7593,15 +7593,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Uden, Casper van</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>10</td>
+      <td>stage-3: 8 / stage-4: 2</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Vacek, Mathias</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7609,7 +7609,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Valgren, Michael</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7617,7 +7617,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Vangheluwe, Warre</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7625,15 +7625,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Vergallito, Luca</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>4</td>
+      <td>stage-2: 4</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Verona, Carlos</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7641,15 +7641,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Vingegaard, Jonas</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>5</td>
+      <td>stage-2: 5</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Voisard, Yannis</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7657,7 +7657,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Wandahl, Frederik</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7665,15 +7665,15 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Watson, Samuel</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>2</td>
+      <td>stage-3: 2</td>
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
       <td>Welten, Bram</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7681,7 +7681,7 @@ hide:
       <td>Volta ao Algarve</td>
       <td>Wilder, Ilan Van</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7689,7 +7689,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Aleotti, Giovanni</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7697,7 +7697,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Alleno, Clément</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7705,7 +7705,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Aparicio, Mario</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7713,15 +7713,15 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Arcas, Jorge</td>
       <td>Tour Cat. 3</td>
+      <td>4</td>
       <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>stage-4: 1</td>
     </tr>
     <tr>
       <td>Vuelta a Andalucía</td>
       <td>Arrieta, Igor</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>2</td>
       <td>stage-1: 2</td>
     </tr>
@@ -7737,7 +7737,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Baguelin, Jocelyn</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7745,7 +7745,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Barceló, Fernando</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7753,23 +7753,23 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Barrenetxea, Jon</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>2</td>
+      <td>stage-3: 2</td>
     </tr>
     <tr>
       <td>Vuelta a Andalucía</td>
       <td>Berhe, Welay Hagos</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>4</td>
+      <td>stage-4: 4</td>
     </tr>
     <tr>
       <td>Vuelta a Andalucía</td>
       <td>Berthet, Clément</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>4</td>
       <td>14</td>
       <td>stage-1: 6 / stage-2: 8</td>
     </tr>
@@ -7777,15 +7777,15 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Berwick, Sebastian</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>6</td>
+      <td>stage-4: 6</td>
     </tr>
     <tr>
       <td>Vuelta a Andalucía</td>
       <td>Blume Levy, William</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7793,7 +7793,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Brambilla, Gianluca</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7801,7 +7801,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Carboni, Giovanni</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7817,7 +7817,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Christophersen, Cedrik</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7825,7 +7825,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Clynhens, Toon</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7833,7 +7833,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Colman, Alex</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7841,7 +7841,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Cras, Steff</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>4</td>
       <td>4</td>
       <td>stage-1: 4</td>
     </tr>
@@ -7849,7 +7849,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Darder, Sergi</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7857,9 +7857,9 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Dauphin, Florian</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>4</td>
+      <td>stage-3: 4</td>
     </tr>
     <tr>
       <td>Vuelta a Andalucía</td>
@@ -7873,7 +7873,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Dekker, David</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7881,7 +7881,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Delgado, David</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7889,7 +7889,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Deweirdt, Siebe</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7897,7 +7897,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Dewulf, Stan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7905,7 +7905,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Diaz, José Manuel</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>4</td>
       <td>1</td>
       <td>stage-2: 1</td>
     </tr>
@@ -7913,7 +7913,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Double, Paul</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7921,15 +7921,15 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Foldager, Anders</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>3</td>
+      <td>stage-3: 3</td>
     </tr>
     <tr>
       <td>Vuelta a Andalucía</td>
       <td>Fraile, Omar</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7937,7 +7937,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Frison, Frederik</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7945,7 +7945,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Gachignard, Thomas</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>1</td>
       <td>stage-1: 1</td>
     </tr>
@@ -7953,7 +7953,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>García, Carlos</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7961,15 +7961,15 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Gils, Maxim Van</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>20</td>
-      <td>stage-1: 15 / stage-2: 5</td>
+      <td>4</td>
+      <td>30</td>
+      <td>stage-1: 15 / stage-2: 5 / stage-3: 10</td>
     </tr>
     <tr>
       <td>Vuelta a Andalucía</td>
       <td>Gimeno, Nil</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7977,7 +7977,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>González, David</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7985,7 +7985,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Guardeño, Jaume</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7993,7 +7993,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Guerreiro, Ruben</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>3</td>
       <td>2</td>
       <td>stage-2: 2</td>
     </tr>
@@ -8009,7 +8009,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Hajek, Alexander</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8017,7 +8017,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Hatherly, Alan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8025,7 +8025,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Hautegem, Leander Van</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8033,7 +8033,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Hemelen, Vincent Van</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8041,7 +8041,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Herzog, Emil</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8049,7 +8049,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Hoelgaard, Markus</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>4</td>
       <td>4</td>
       <td>stage-2: 4</td>
     </tr>
@@ -8057,7 +8057,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Holter, Ådne</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8065,7 +8065,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Howson, Damien</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8073,7 +8073,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Iribar, Unai</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8081,15 +8081,15 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Johannessen, Anders</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>3</td>
+      <td>stage-4: 3</td>
     </tr>
     <tr>
       <td>Vuelta a Andalucía</td>
       <td>Johannessen, Tobias</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8097,7 +8097,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Johansen, Julius</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8105,15 +8105,15 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Jousseaume, Alan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>12</td>
+      <td>stage-4: 12</td>
     </tr>
     <tr>
       <td>Vuelta a Andalucía</td>
       <td>Juul-Jensen, Chris</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8121,15 +8121,15 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Kristoff, Alexander</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>15</td>
+      <td>stage-3: 15</td>
     </tr>
     <tr>
       <td>Vuelta a Andalucía</td>
       <td>Kyffin, Zeb</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8137,7 +8137,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Labrosse, Jordan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8153,7 +8153,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Lambrecht, Michiel</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8161,7 +8161,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Lanhove, Milan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8169,7 +8169,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Latour, Pierre</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8177,7 +8177,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Laurance, Axel</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8185,7 +8185,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Leknessund, Andreas</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>5</td>
       <td>stage-1: 5</td>
     </tr>
@@ -8193,15 +8193,15 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Liepiņš, Emīls</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>2</td>
+      <td>stage-4: 2</td>
     </tr>
     <tr>
       <td>Vuelta a Andalucía</td>
       <td>Lopez, Jordi</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8209,7 +8209,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Lopez, Joseba</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8217,7 +8217,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Marcerou, Nicola</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8225,7 +8225,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Maris, Elias</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8233,15 +8233,15 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Martín, David</td>
       <td>Tour Cat. 3</td>
+      <td>4</td>
       <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>stage-3: 1</td>
     </tr>
     <tr>
       <td>Vuelta a Andalucía</td>
       <td>Martín, Gotzon</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8249,7 +8249,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Mas, Enric</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>4</td>
       <td>6</td>
       <td>stage-2: 6</td>
     </tr>
@@ -8257,7 +8257,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Mintegi, Iker</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8265,7 +8265,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Mühlberger, Gregor</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8273,15 +8273,15 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Naesen, Oliver</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>6</td>
+      <td>stage-3: 6</td>
     </tr>
     <tr>
       <td>Vuelta a Andalucía</td>
       <td>Nicolau, Joel</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8289,7 +8289,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Nielsen, Sebastian</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8297,7 +8297,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Okamika, Ander</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8305,7 +8305,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Papon, Victor</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8313,7 +8313,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Parra, José Félix</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8321,7 +8321,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Persico, Davide</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8329,15 +8329,15 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Pidcock, Tom</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
-      <td>18</td>
-      <td>stage-1: 3 / stage-2: 15</td>
+      <td>4</td>
+      <td>26</td>
+      <td>stage-1: 3 / stage-2: 15 / stage-3: 8</td>
     </tr>
     <tr>
       <td>Vuelta a Andalucía</td>
       <td>Prodhomme, Nicolas</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8345,7 +8345,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Quintana, Nairo</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8353,7 +8353,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Rivera, Brandon</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>4</td>
       <td>12</td>
       <td>stage-2: 12</td>
     </tr>
@@ -8361,9 +8361,9 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Scotson, Callum</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>8</td>
+      <td>stage-4: 8</td>
     </tr>
     <tr>
       <td>Vuelta a Andalucía</td>
@@ -8377,7 +8377,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Silva, Thomas</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8385,7 +8385,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Sivakov, Pavel</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>4</td>
       <td>20</td>
       <td>stage-1: 10 / stage-2: 10</td>
     </tr>
@@ -8393,7 +8393,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Soler, Marc</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>8</td>
       <td>stage-1: 8</td>
     </tr>
@@ -8401,7 +8401,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Sosa, Ivan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8409,7 +8409,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Soupe, Geoffrey</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8417,7 +8417,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Staune-Mittet, Johannes</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8425,7 +8425,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Stokbro, Andreas</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8433,7 +8433,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Sutton, Louis</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8441,15 +8441,15 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Swift, Connor</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>10</td>
+      <td>stage-4: 10</td>
     </tr>
     <tr>
       <td>Vuelta a Andalucía</td>
       <td>Sütterlin, Jasha</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8457,7 +8457,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Tier, Floris De</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8465,7 +8465,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Torres, Pablo</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8473,7 +8473,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Toupalík, Adam</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8481,31 +8481,31 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Turner, Ben</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>12</td>
+      <td>stage-3: 12</td>
     </tr>
     <tr>
       <td>Vuelta a Andalucía</td>
       <td>Tuuk, Danny van der</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>5</td>
+      <td>stage-4: 5</td>
     </tr>
     <tr>
       <td>Vuelta a Andalucía</td>
       <td>Uriarte, Diego</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>15</td>
+      <td>stage-4: 15</td>
     </tr>
     <tr>
       <td>Vuelta a Andalucía</td>
       <td>Vandenstorme, Dylan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8513,7 +8513,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Vermoote, Jelle</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -8521,7 +8521,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Wellens, Tim</td>
       <td>Tour Cat. 3</td>
-      <td>2</td>
+      <td>4</td>
       <td>15</td>
       <td>stage-1: 12 / stage-2: 3</td>
     </tr>
@@ -8529,7 +8529,7 @@ hide:
       <td>Vuelta a Andalucía</td>
       <td>Zukowsky, Nick</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
