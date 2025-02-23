@@ -4,6 +4,51 @@ hide:
   - toc
 ---
 
+## 2025-02-23
+### Hovedspillet
+Pogačar, Tadej **125** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
+Romeo, Iván **74** (Matti)  
+Vingegaard, Jonas **65** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)  
+Onley, Oscar **62** (Hustlersen, Okholm)  
+Fisher-Black, Finn **53** (Chrelle, Jappo)  
+Sivakov, Pavel **50** (Jarma, Okholm)  
+Castrillo, Pablo **50** (Matti)  
+Almeida, João **45** (Chrelle, Kenk)  
+Plus, Laurens De **38** (Okholm)  
+Grégoire, Romain **38** (Chrelle, Jarma, Knak)  
+Pidcock, Tom **36** (Chrelle, Jappo, Knak)  
+Gils, Maxim Van **35** (Kenk, Matti)  
+Schachmann, Maximilian **31** (Jarma, Knak)  
+Staune-Mittet, Johannes **26** (Chrelle, Matti)  
+Powless, Neilson **24** (Jappo)  
+Eetvelt, Lennert Van **21** (Jappo, Kenk, Tommy)  
+Wilder, Ilan Van **20** (Chrelle)  
+Steinhauser, Georg **18** (Hustlersen)  
+Roglič, Primož **16** (Hustlersen, Knak)  
+Geoghegan Hart, Tao **14** (Jarma, Okholm)  
+Aert, Wout van **12** (Chrelle, Jarma, Matti, Okholm, Tommy)  
+Christen, Jan **12** (Kenk)  
+Morgado, António **10** (Hustlersen, Jappo, Matti, Visti)  
+Vacek, Mathias **8** (Okholm)  
+Poole, Max **6** (Chrelle, Jarma)  
+Aleotti, Giovanni **6** (Okholm)  
+Gall, Felix **6** (Chrelle, Matti, Visti)  
+Teuns, Dylan **4** (Knak)  
+Foldager, Anders **3** (Hustlersen)  
+Naesen, Oliver **2** (Knak)  
+
+### Cheapo
+Romeo, Iván **74** (Chrelle, Jappo)  
+Kepplinger, Rainer **16** (Chrelle)  
+Gachignard, Thomas **16** (Chrelle, Knak)  
+Hoelgaard, Markus **14** (Hustlersen)  
+Foldager, Anders **3** (Hustlersen, Jappo, Kenk, Visti)  
+Naesen, Oliver **2** (Jarma, Knak, Visti)  
+
+
+
+
+
 ## 2025-02-22
 ### Hovedspillet
 Merlier, Tim **25** (Jappo, Knak, Matti, Tommy)  

@@ -288,7 +288,7 @@
       <td>Vermeersch Florian</td>
       <td>Segaert Alec</td>
       <td>Laurance Axel</td>
-      <td>De Plus Laurens</td>
+      <td class = "startlist">De Plus Laurens</td>
       <td>Segaert Alec</td>
       <td>Segaert Alec</td>
     </tr>
