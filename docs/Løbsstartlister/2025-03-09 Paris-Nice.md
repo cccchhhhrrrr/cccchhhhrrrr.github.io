@@ -1,7 +1,7 @@
 <html>
     <head>
     <style>
-         body {
+      body {
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
       }
 

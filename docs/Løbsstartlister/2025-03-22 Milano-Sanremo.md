@@ -1,7 +1,7 @@
 <html>
     <head>
     <style>
-         body {
+      body {
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
       }
 
@@ -88,7 +88,7 @@
       <td class = "startlist">Pedersen Mads</td>
       <td class = "startlist">Pedersen Mads</td>
       <td>Van Eetvelt Lennert</td>
-      <td>Van Der Poel Mathieu</td>
+      <td class = "startlist">Van Der Poel Mathieu</td>
       <td class = "startlist">Milan Jonathan</td>
       <td class = "startlist">Philipsen Jasper</td>
       <td class = "startlist">Milan Jonathan</td>

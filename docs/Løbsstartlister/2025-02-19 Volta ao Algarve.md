@@ -1,7 +1,7 @@
 <html>
     <head>
     <style>
-         body {
+      body {
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
       }
 
@@ -63,7 +63,7 @@
       <td class = "startlist">Vingegaard Jonas</td>
       <td class = "startlist">Vingegaard Jonas</td>
       <td class = "startlist">Vingegaard Jonas</td>
-      <td>Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
       <td class = "startlist">Vingegaard Jonas</td>
       <td class = "startlist">Vingegaard Jonas</td>
       <td class = "startlist">Vingegaard Jonas</td>
@@ -71,15 +71,15 @@
     <tr>
       <th>2</th>
       <td>3</td>
-      <td>Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
       <td class = "startlist">Roglič Primož</td>
       <td>Pedersen Mads</td>
-      <td>Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
       <td>Pedersen Mads</td>
       <td class = "startlist">Roglič Primož</td>
       <td>Pedersen Mads</td>
-      <td>Van Aert Wout</td>
-      <td>Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
       <td>Pedersen Mads</td>
     </tr>
     <tr>
@@ -344,7 +344,7 @@
       <td>Teutenberg Tim Torn</td>
       <td>Andresen Tobias Lund</td>
       <td>Romeo Iván</td>
-      <td>Van Den Broek Frank</td>
+      <td class = "startlist">Van Den Broek Frank</td>
       <td>Rafferty Darren</td>
       <td>Aular Orluis</td>
     </tr>

@@ -1,7 +1,7 @@
 <html>
     <head>
     <style>
-         body {
+      body {
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
       }
 
@@ -88,7 +88,7 @@
       <td>Pedersen Mads</td>
       <td>Pedersen Mads</td>
       <td>Van Eetvelt Lennert</td>
-      <td>Van Der Poel Mathieu</td>
+      <td class = "startlist">Van Der Poel Mathieu</td>
       <td class = "startlist">Milan Jonathan</td>
       <td>Philipsen Jasper</td>
       <td class = "startlist">Milan Jonathan</td>
@@ -299,7 +299,7 @@
       <td>Brennan Matthew</td>
       <td>Laurance Axel</td>
       <td class = "startlist">Penhoët Paul</td>
-      <td>Van Baarle Dylan</td>
+      <td class = "startlist">Van Baarle Dylan</td>
       <td>Teuns Dylan</td>
       <td>Andresen Tobias Lund</td>
       <td>Sheehan Riley</td>
@@ -374,7 +374,7 @@
       <td>Seixas Paul</td>
       <td>Rafferty Darren</td>
       <td>Wandahl Frederik</td>
-      <td>Van Baarle Dylan</td>
+      <td class = "startlist">Van Baarle Dylan</td>
     </tr>
     <tr>
       <th>24</th>

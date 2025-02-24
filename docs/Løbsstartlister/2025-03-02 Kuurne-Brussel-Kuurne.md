@@ -1,7 +1,7 @@
 <html>
     <head>
     <style>
-         body {
+      body {
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
       }
 
@@ -63,7 +63,7 @@
       <td>Vingegaard Jonas</td>
       <td>Vingegaard Jonas</td>
       <td>Vingegaard Jonas</td>
-      <td>Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
       <td>Vingegaard Jonas</td>
       <td>Vingegaard Jonas</td>
       <td>Vingegaard Jonas</td>
@@ -71,15 +71,15 @@
     <tr>
       <th>2</th>
       <td>3</td>
-      <td>Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
       <td>Roglič Primož</td>
       <td>Pedersen Mads</td>
-      <td>Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
       <td>Pedersen Mads</td>
       <td>Roglič Primož</td>
       <td>Pedersen Mads</td>
-      <td>Van Aert Wout</td>
-      <td>Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
       <td>Pedersen Mads</td>
     </tr>
     <tr>
@@ -257,7 +257,7 @@
       <td>Steinhauser Georg</td>
       <td>Magnier Paul</td>
       <td>Schachmann Maximilian</td>
-      <td>Van Dijke Tim</td>
+      <td class = "startlist">Van Dijke Tim</td>
       <td>Schachmann Maximilian</td>
       <td class = "startlist">Lazkano Oier</td>
       <td class = "startlist">Lazkano Oier</td>
@@ -304,7 +304,7 @@
       <td>Andresen Tobias Lund</td>
       <td class = "startlist">Sheehan Riley</td>
       <td class = "startlist">Campenaerts Victor</td>
-      <td>Van Dijke Tim</td>
+      <td class = "startlist">Van Dijke Tim</td>
     </tr>
     <tr>
       <th>19</th>
