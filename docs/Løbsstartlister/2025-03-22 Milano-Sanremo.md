@@ -312,7 +312,7 @@
       <td>Andresen Tobias Lund</td>
       <td>Uhlig Henri</td>
       <td>Andresen Tobias Lund</td>
-      <td>Rex Laurenz</td>
+      <td class = "startlist">Rex Laurenz</td>
       <td>Brennan Matthew</td>
       <td>Mollema Bauke</td>
       <td>Morgado António</td>
@@ -327,7 +327,7 @@
       <td>Teutenberg Tim Torn</td>
       <td>Morgado António</td>
       <td>Louvel Matis</td>
-      <td>Rex Laurenz</td>
+      <td class = "startlist">Rex Laurenz</td>
       <td>Ulissi Diego</td>
       <td>Fretin Milan</td>
       <td>Andresen Tobias Lund</td>
@@ -337,9 +337,9 @@
     <tr>
       <th>21</th>
       <td>22</td>
-      <td>Rex Laurenz</td>
+      <td class = "startlist">Rex Laurenz</td>
       <td>Foldager Anders</td>
-      <td>Rex Laurenz</td>
+      <td class = "startlist">Rex Laurenz</td>
       <td>Pedersen Rasmus Søjberg</td>
       <td>Teutenberg Tim Torn</td>
       <td>Andresen Tobias Lund</td>
@@ -388,7 +388,7 @@
       <td>Withen Philipsen Albert</td>
       <td>Withen Philipsen Albert</td>
       <td>Withen Philipsen Albert</td>
-      <td>Rex Laurenz</td>
+      <td class = "startlist">Rex Laurenz</td>
     </tr>
   </tbody>
 </table>

@@ -59,16 +59,16 @@ hide:
     <tr>
       <td>Kenk</td>
       <td>349.9</td>
-      <td>140</td>
+      <td>143</td>
       <td>1071</td>
-      <td>7.65</td>
+      <td>7.49</td>
     </tr>
     <tr>
       <td>Jappo</td>
       <td>350.0</td>
-      <td>149</td>
-      <td>1030</td>
-      <td>6.91</td>
+      <td>152</td>
+      <td>1046</td>
+      <td>6.88</td>
     </tr>
     <tr>
       <td>Matti</td>
@@ -80,9 +80,9 @@ hide:
     <tr>
       <td>Okholm</td>
       <td>350.0</td>
-      <td>149</td>
-      <td>958</td>
-      <td>6.43</td>
+      <td>152</td>
+      <td>974</td>
+      <td>6.41</td>
     </tr>
     <tr>
       <td>Knak</td>
@@ -108,9 +108,9 @@ hide:
     <tr>
       <td>Jarma</td>
       <td>350.0</td>
-      <td>114</td>
+      <td>117</td>
       <td>737</td>
-      <td>6.46</td>
+      <td>6.30</td>
     </tr>
   </tbody>
 </table>

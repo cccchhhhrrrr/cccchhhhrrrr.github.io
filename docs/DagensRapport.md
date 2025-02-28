@@ -4,6 +4,38 @@ hide:
   - toc
 ---
 
+## 2025-02-28
+### Hovedspillet
+Gee, Derek **15** (Jappo, Okholm)  
+
+### Cheapo
+Dversnes, Fredrik **3** (Chrelle, Hustlersen, Jappo, Kenk)  
+
+
+
+
+
+## 2025-02-27
+### Hovedspillet
+Gee, Derek **1** (Jappo, Okholm)  
+
+### Cheapo
+Canal, Carlos **10** (Chrelle, Jappo, Jarma, Kenk, Visti)  
+
+
+
+
+
+## 2025-02-26
+### Hovedspillet
+
+### Cheapo
+Canal, Carlos **3** (Chrelle, Jappo, Jarma, Kenk, Visti)  
+
+
+
+
+
 ## 2025-02-23
 ### Hovedspillet
 Pogačar, Tadej **125** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  

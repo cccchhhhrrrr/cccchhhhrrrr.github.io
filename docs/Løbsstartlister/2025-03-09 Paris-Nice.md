@@ -101,10 +101,10 @@
       <td>5</td>
       <td class = "startlist">Almeida João</td>
       <td>Ayuso Juan</td>
-      <td>Merlier Tim</td>
+      <td class = "startlist">Merlier Tim</td>
       <td>Philipsen Jasper</td>
       <td>Ayuso Juan</td>
-      <td>Merlier Tim</td>
+      <td class = "startlist">Merlier Tim</td>
       <td class = "startlist">Skjelmose Mattias</td>
       <td>De Lie Arnaud</td>
       <td class = "startlist">Skjelmose Mattias</td>
@@ -149,7 +149,7 @@
       <td>Girmay Biniam</td>
       <td>Van Gils Maxim</td>
       <td>Yates Simon</td>
-      <td>Merlier Tim</td>
+      <td class = "startlist">Merlier Tim</td>
       <td>Landa Mikel</td>
     </tr>
     <tr>
@@ -161,7 +161,7 @@
       <td>Geoghegan Hart Tao</td>
       <td>Van Gils Maxim</td>
       <td>Hirschi Marc</td>
-      <td>Merlier Tim</td>
+      <td class = "startlist">Merlier Tim</td>
       <td>Onley Oscar</td>
       <td>Pithie Laurence</td>
       <td>Girmay Biniam</td>
@@ -186,11 +186,11 @@
       <td>Grégoire Romain</td>
       <td>Nys Thibau</td>
       <td>Gee Derek</td>
-      <td>Sivakov Pavel</td>
+      <td class = "startlist">Sivakov Pavel</td>
       <td>Nys Thibau</td>
       <td>Nys Thibau</td>
       <td class = "startlist">Buitrago Santiago</td>
-      <td>Sheffield Magnus</td>
+      <td class = "startlist">Sheffield Magnus</td>
       <td class = "startlist">Martinez Lenny</td>
       <td>Nys Thibau</td>
     </tr>
@@ -246,14 +246,14 @@
       <td>Bagioli Andrea</td>
       <td>Lapeira Paul</td>
       <td class = "startlist">Martinez Lenny</td>
-      <td>Sivakov Pavel</td>
+      <td class = "startlist">Sivakov Pavel</td>
       <td>Lapeira Paul</td>
       <td>Schmid Mauro</td>
     </tr>
     <tr>
       <th>15</th>
       <td>16</td>
-      <td>Tarling Joshua</td>
+      <td class = "startlist">Tarling Joshua</td>
       <td>Steinhauser Georg</td>
       <td>Magnier Paul</td>
       <td class = "startlist">Schachmann Maximilian</td>
@@ -272,7 +272,7 @@
       <td>Fisher-Black Finn</td>
       <td>Nerurkar Lukas</td>
       <td class = "startlist">Andresen Tobias Lund</td>
-      <td>Trentin Matteo</td>
+      <td class = "startlist">Trentin Matteo</td>
       <td>Mihkels Madis</td>
       <td class = "startlist">Adrià Roger</td>
       <td class = "startlist">Zingle Axel</td>
@@ -352,7 +352,7 @@
       <th>22</th>
       <td>23</td>
       <td>Staune-Mittet Johannes</td>
-      <td>Brenner Marco</td>
+      <td class = "startlist">Brenner Marco</td>
       <td>Jeannière Emilien</td>
       <td>Frigo Marco</td>
       <td>Wandahl Frederik</td>

@@ -134,7 +134,7 @@
       <td>Van Eetvelt Lennert</td>
       <td>Carapaz Richard</td>
       <td class = "startlist">Kooij Olav</td>
-      <td class = "startlist">Girmay Biniam</td>
+      <td>Girmay Biniam</td>
       <td class = "startlist">Kooij Olav</td>
       <td>De Lie Arnaud</td>
     </tr>
@@ -146,7 +146,7 @@
       <td>Landa Mikel</td>
       <td>Landa Mikel</td>
       <td class = "startlist">Kooij Olav</td>
-      <td class = "startlist">Girmay Biniam</td>
+      <td>Girmay Biniam</td>
       <td>Van Gils Maxim</td>
       <td>Yates Simon</td>
       <td class = "startlist">Merlier Tim</td>
@@ -157,14 +157,14 @@
       <td>9</td>
       <td>Van Wilder Ilan</td>
       <td class = "startlist">Narváez Jhonatan</td>
-      <td class = "startlist">Girmay Biniam</td>
+      <td>Girmay Biniam</td>
       <td>Geoghegan Hart Tao</td>
       <td>Van Gils Maxim</td>
       <td>Hirschi Marc</td>
       <td class = "startlist">Merlier Tim</td>
       <td>Onley Oscar</td>
       <td>Pithie Laurence</td>
-      <td class = "startlist">Girmay Biniam</td>
+      <td>Girmay Biniam</td>
     </tr>
     <tr>
       <th>9</th>
@@ -175,7 +175,7 @@
       <td>Grégoire Romain</td>
       <td class = "startlist">Narváez Jhonatan</td>
       <td>Healy Ben</td>
-      <td class = "startlist">Girmay Biniam</td>
+      <td>Girmay Biniam</td>
       <td>Gee Derek</td>
       <td>Nys Thibau</td>
       <td>Gall Felix</td>
@@ -324,14 +324,14 @@
       <th>20</th>
       <td>21</td>
       <td>Brennan Matthew</td>
-      <td class = "startlist">Teutenberg Tim Torn</td>
+      <td>Teutenberg Tim Torn</td>
       <td>Morgado António</td>
       <td class = "startlist">Louvel Matis</td>
       <td>Rex Laurenz</td>
       <td>Ulissi Diego</td>
       <td class = "startlist">Fretin Milan</td>
       <td>Andresen Tobias Lund</td>
-      <td class = "startlist">Teutenberg Tim Torn</td>
+      <td>Teutenberg Tim Torn</td>
       <td>Morgado António</td>
     </tr>
     <tr>
@@ -341,7 +341,7 @@
       <td>Foldager Anders</td>
       <td>Rex Laurenz</td>
       <td class = "startlist">Pedersen Rasmus Søjberg</td>
-      <td class = "startlist">Teutenberg Tim Torn</td>
+      <td>Teutenberg Tim Torn</td>
       <td>Andresen Tobias Lund</td>
       <td>Romeo Iván</td>
       <td>Van Den Broek Frank</td>

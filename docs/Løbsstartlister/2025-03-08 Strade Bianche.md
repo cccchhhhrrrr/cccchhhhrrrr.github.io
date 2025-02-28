@@ -257,7 +257,7 @@
       <td>Steinhauser Georg</td>
       <td>Magnier Paul</td>
       <td>Schachmann Maximilian</td>
-      <td>Van Dijke Tim</td>
+      <td class = "startlist">Van Dijke Tim</td>
       <td>Schachmann Maximilian</td>
       <td>Lazkano Oier</td>
       <td>Lazkano Oier</td>
@@ -285,7 +285,7 @@
       <td>Morgado António</td>
       <td>Torres Pablo</td>
       <td>Lafay Victor</td>
-      <td>Vermeersch Florian</td>
+      <td class = "startlist">Vermeersch Florian</td>
       <td>Segaert Alec</td>
       <td>Laurance Axel</td>
       <td>De Plus Laurens</td>
@@ -304,7 +304,7 @@
       <td>Andresen Tobias Lund</td>
       <td class = "startlist">Sheehan Riley</td>
       <td>Campenaerts Victor</td>
-      <td>Van Dijke Tim</td>
+      <td class = "startlist">Van Dijke Tim</td>
     </tr>
     <tr>
       <th>19</th>
@@ -328,7 +328,7 @@
       <td>Morgado António</td>
       <td>Louvel Matis</td>
       <td>Rex Laurenz</td>
-      <td>Ulissi Diego</td>
+      <td class = "startlist">Ulissi Diego</td>
       <td>Fretin Milan</td>
       <td>Andresen Tobias Lund</td>
       <td>Teutenberg Tim Torn</td>
@@ -360,7 +360,7 @@
       <td>Staune-Mittet Johannes</td>
       <td>Aleotti Giovanni</td>
       <td>Watson Samuel</td>
-      <td>Vermeersch Florian</td>
+      <td class = "startlist">Vermeersch Florian</td>
     </tr>
     <tr>
       <th>23</th>

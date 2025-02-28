@@ -109,7 +109,7 @@ hide:
       <td>Agirre, Jon</td>
       <td>Euskaltel - Euskadi</td>
       <td>1.0</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -179,7 +179,7 @@ hide:
       <td>Alustiza, Nicolás</td>
       <td>Euskaltel - Euskadi</td>
       <td>1.0</td>
-      <td>0</td>
+      <td>3</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -269,7 +269,7 @@ hide:
       <td>Arcas, Jorge</td>
       <td>Movistar Team</td>
       <td>1.0</td>
-      <td>10</td>
+      <td>13</td>
       <td>1</td>
       <td>1.0</td>
       <td>Ja</td>
@@ -329,7 +329,7 @@ hide:
       <td>Arriolabengoa, Julen</td>
       <td>Caja Rural - Seguros RGA</td>
       <td>1.0</td>
-      <td>0</td>
+      <td>3</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -409,7 +409,7 @@ hide:
       <td>Azanza, Ibai</td>
       <td>Equipo Kern Pharma</td>
       <td>1.0</td>
-      <td>6</td>
+      <td>9</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -429,7 +429,7 @@ hide:
       <td>Aznar, Unai</td>
       <td>Equipo Kern Pharma</td>
       <td>1.0</td>
-      <td>0</td>
+      <td>3</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -539,7 +539,7 @@ hide:
       <td>Balderstone, Abel</td>
       <td>Caja Rural - Seguros RGA</td>
       <td>1.0</td>
-      <td>0</td>
+      <td>3</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -879,9 +879,9 @@ hide:
       <td>Berrade, Urko</td>
       <td>Equipo Kern Pharma</td>
       <td>4.6</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>3</td>
+      <td>4</td>
+      <td>0.9</td>
       <td></td>
       <td></td>
     </tr>
@@ -1259,7 +1259,7 @@ hide:
       <td>Braz Afonso, Clément</td>
       <td>Groupama - FDJ</td>
       <td>1.3</td>
-      <td>5</td>
+      <td>8</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -1349,7 +1349,7 @@ hide:
       <td>Bugge, Martin Urianstad</td>
       <td>Uno-X Mobility</td>
       <td>1.0</td>
-      <td>0</td>
+      <td>3</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -1389,7 +1389,7 @@ hide:
       <td>Burnett, Josh</td>
       <td>Burgos Burpellet BH</td>
       <td>1.0</td>
-      <td>0</td>
+      <td>3</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -1469,9 +1469,9 @@ hide:
       <td>Canal, Carlos</td>
       <td>Movistar Team</td>
       <td>2.0</td>
-      <td>7</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>10</td>
+      <td>13</td>
+      <td>6.5</td>
       <td>Ja</td>
       <td></td>
     </tr>
@@ -1549,7 +1549,7 @@ hide:
       <td>Castellon, Jan</td>
       <td>Caja Rural - Seguros RGA</td>
       <td>1.0</td>
-      <td>5</td>
+      <td>8</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -1599,9 +1599,9 @@ hide:
       <td>Cavia, Daniel</td>
       <td>Burgos Burpellet BH</td>
       <td>1.0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>4</td>
+      <td>8</td>
+      <td>8.0</td>
       <td>Ja</td>
       <td></td>
     </tr>
@@ -1619,7 +1619,7 @@ hide:
       <td>Cepeda, Jefferson Alveiro</td>
       <td>Movistar Team</td>
       <td>2.9</td>
-      <td>4</td>
+      <td>7</td>
       <td>32</td>
       <td>11.0</td>
       <td></td>
@@ -1719,9 +1719,9 @@ hide:
       <td>Chumil, Sergio</td>
       <td>Burgos Burpellet BH</td>
       <td>1.0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>3</td>
+      <td>2</td>
+      <td>2.0</td>
       <td>Ja</td>
       <td></td>
     </tr>
@@ -1749,7 +1749,7 @@ hide:
       <td>Clarke, Simon</td>
       <td>Israel - Premier Tech</td>
       <td>2.4</td>
-      <td>7</td>
+      <td>10</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -1769,9 +1769,9 @@ hide:
       <td>Cobo, Iván</td>
       <td>Equipo Kern Pharma</td>
       <td>1.0</td>
-      <td>4</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>7</td>
+      <td>12</td>
+      <td>12.0</td>
       <td>Ja</td>
       <td></td>
     </tr>
@@ -1879,9 +1879,9 @@ hide:
       <td>Cort, Magnus</td>
       <td>Uno-X Mobility</td>
       <td>5.2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>3</td>
+      <td>38</td>
+      <td>7.3</td>
       <td></td>
       <td></td>
     </tr>
@@ -1939,7 +1939,7 @@ hide:
       <td>Covili, Luca</td>
       <td>VF Group - Bardiani CSF - Faizanè</td>
       <td>1.2</td>
-      <td>5</td>
+      <td>8</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -2019,7 +2019,7 @@ hide:
       <td>Dalby, Simon</td>
       <td>Uno-X Mobility</td>
       <td>1.1</td>
-      <td>5</td>
+      <td>8</td>
       <td>12</td>
       <td>10.9</td>
       <td>Ja</td>
@@ -2339,7 +2339,7 @@ hide:
       <td>Diaz, Alex</td>
       <td>Caja Rural - Seguros RGA</td>
       <td>1.0</td>
-      <td>0</td>
+      <td>3</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -2519,9 +2519,9 @@ hide:
       <td>Dversnes, Fredrik</td>
       <td>Uno-X Mobility</td>
       <td>1.0</td>
-      <td>5</td>
-      <td>45</td>
-      <td>45.0</td>
+      <td>8</td>
+      <td>48</td>
+      <td>48.0</td>
       <td>Ja</td>
       <td></td>
     </tr>
@@ -2709,9 +2709,9 @@ hide:
       <td>Fagúndez, Eric</td>
       <td>Burgos Burpellet BH</td>
       <td>1.0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>3</td>
+      <td>5</td>
+      <td>5.0</td>
       <td>Ja</td>
       <td></td>
     </tr>
@@ -2759,7 +2759,7 @@ hide:
       <td>Fernández, Samuel</td>
       <td>Caja Rural - Seguros RGA</td>
       <td>1.0</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -2769,7 +2769,7 @@ hide:
       <td>Fernández, Sinuhé</td>
       <td>Burgos Burpellet BH</td>
       <td>1.0</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -2919,7 +2919,7 @@ hide:
       <td>Frigo, Marco</td>
       <td>Israel - Premier Tech</td>
       <td>2.1</td>
-      <td>0</td>
+      <td>3</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -2969,7 +2969,7 @@ hide:
       <td>Fuglsang, Jakob</td>
       <td>Israel - Premier Tech</td>
       <td>2.5</td>
-      <td>0</td>
+      <td>3</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -3029,7 +3029,7 @@ hide:
       <td>Ganzabal, Ander</td>
       <td>Euskaltel - Euskadi</td>
       <td>1.0</td>
-      <td>0</td>
+      <td>3</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -3149,9 +3149,9 @@ hide:
       <td>Gee, Derek</td>
       <td>Israel - Premier Tech</td>
       <td>12.3</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>3</td>
+      <td>16</td>
+      <td>1.3</td>
       <td></td>
       <td>Jappo, Okholm</td>
     </tr>
@@ -3969,9 +3969,9 @@ hide:
       <td>Houle, Hugo</td>
       <td>Israel - Premier Tech</td>
       <td>2.1</td>
-      <td>4</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>7</td>
+      <td>2</td>
+      <td>1.0</td>
       <td>Ja</td>
       <td></td>
     </tr>
@@ -4279,9 +4279,9 @@ hide:
       <td>Juaristi, Txomin</td>
       <td>Euskaltel - Euskadi</td>
       <td>1.3</td>
-      <td>4</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>7</td>
+      <td>5</td>
+      <td>3.8</td>
       <td>Ja</td>
       <td></td>
     </tr>
@@ -4439,7 +4439,7 @@ hide:
       <td>Knox, James</td>
       <td>Soudal - Quick-Step</td>
       <td>1.9</td>
-      <td>7</td>
+      <td>10</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -4569,7 +4569,7 @@ hide:
       <td>Kron, Andreas</td>
       <td>Uno-X Mobility</td>
       <td>8.3</td>
-      <td>0</td>
+      <td>3</td>
       <td>0</td>
       <td>0.0</td>
       <td></td>
@@ -4609,7 +4609,7 @@ hide:
       <td>Kulset, Johannes</td>
       <td>Uno-X Mobility</td>
       <td>1.6</td>
-      <td>5</td>
+      <td>8</td>
       <td>43</td>
       <td>26.9</td>
       <td>Ja</td>
@@ -5009,7 +5009,7 @@ hide:
       <td>Løland, Sakarias Koller</td>
       <td>Uno-X Mobility</td>
       <td>1.0</td>
-      <td>5</td>
+      <td>8</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -5019,9 +5019,9 @@ hide:
       <td>Lonardi, Giovanni</td>
       <td>Team Polti VisitMalta</td>
       <td>4.1</td>
-      <td>5</td>
-      <td>28</td>
-      <td>6.8</td>
+      <td>8</td>
+      <td>38</td>
+      <td>9.3</td>
       <td></td>
       <td></td>
     </tr>
@@ -5059,7 +5059,7 @@ hide:
       <td>Lopez, Jordi</td>
       <td>Euskaltel - Euskadi</td>
       <td>1.0</td>
-      <td>5</td>
+      <td>8</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -5169,7 +5169,7 @@ hide:
       <td>Maestri, Mirco</td>
       <td>Team Polti VisitMalta</td>
       <td>1.4</td>
-      <td>5</td>
+      <td>8</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -5179,9 +5179,9 @@ hide:
       <td>Magli, Filippo</td>
       <td>VF Group - Bardiani CSF - Faizanè</td>
       <td>1.6</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>3</td>
+      <td>1</td>
+      <td>0.6</td>
       <td>Ja</td>
       <td></td>
     </tr>
@@ -5269,9 +5269,9 @@ hide:
       <td>Marcellusi, Martin</td>
       <td>VF Group - Bardiani CSF - Faizanè</td>
       <td>1.3</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>4</td>
+      <td>12</td>
+      <td>9.2</td>
       <td>Ja</td>
       <td></td>
     </tr>
@@ -5649,7 +5649,7 @@ hide:
       <td>Mintegi, Iker</td>
       <td>Euskaltel - Euskadi</td>
       <td>1.0</td>
-      <td>5</td>
+      <td>8</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -5709,9 +5709,9 @@ hide:
       <td>Molenaar, Alex</td>
       <td>Caja Rural - Seguros RGA</td>
       <td>1.8</td>
-      <td>4</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>7</td>
+      <td>1</td>
+      <td>0.6</td>
       <td>Ja</td>
       <td></td>
     </tr>
@@ -5869,7 +5869,7 @@ hide:
       <td>Murguialday, Jokin</td>
       <td>Euskaltel - Euskadi</td>
       <td>1.0</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -6029,7 +6029,7 @@ hide:
       <td>Okamika, Ander</td>
       <td>Burgos Burpellet BH</td>
       <td>1.0</td>
-      <td>7</td>
+      <td>10</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -6059,7 +6059,7 @@ hide:
       <td>Oliveira, Nelson</td>
       <td>Movistar Team</td>
       <td>2.5</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -6189,7 +6189,7 @@ hide:
       <td>Paletti, Luca</td>
       <td>VF Group - Bardiani CSF - Faizanè</td>
       <td>1.0</td>
-      <td>5</td>
+      <td>8</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -6319,7 +6319,7 @@ hide:
       <td>Pedrero, Antonio</td>
       <td>Movistar Team</td>
       <td>1.7</td>
-      <td>5</td>
+      <td>8</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -6359,9 +6359,9 @@ hide:
       <td>Peñuela, Francisco</td>
       <td>Caja Rural - Seguros RGA</td>
       <td>1.0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>4</td>
+      <td>5</td>
+      <td>5.0</td>
       <td>Ja</td>
       <td></td>
     </tr>
@@ -6419,7 +6419,7 @@ hide:
       <td>Pescador, Diego</td>
       <td>Movistar Team</td>
       <td>1.0</td>
-      <td>7</td>
+      <td>10</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -6539,7 +6539,7 @@ hide:
       <td>Pietrobon, Andrea</td>
       <td>Team Polti VisitMalta</td>
       <td>1.2</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -6549,9 +6549,9 @@ hide:
       <td>Piganzoli, Davide</td>
       <td>Team Polti VisitMalta</td>
       <td>5.6</td>
-      <td>4</td>
-      <td>8</td>
-      <td>1.4</td>
+      <td>7</td>
+      <td>23</td>
+      <td>4.1</td>
       <td></td>
       <td></td>
     </tr>
@@ -6959,7 +6959,7 @@ hide:
       <td>Retegi, Mikel</td>
       <td>Equipo Kern Pharma</td>
       <td>1.3</td>
-      <td>0</td>
+      <td>3</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -7059,9 +7059,9 @@ hide:
       <td>Rochas, Rémy</td>
       <td>Groupama - FDJ</td>
       <td>2.7</td>
-      <td>12</td>
-      <td>45</td>
-      <td>16.7</td>
+      <td>15</td>
+      <td>49</td>
+      <td>18.1</td>
       <td></td>
       <td></td>
     </tr>
@@ -7239,7 +7239,7 @@ hide:
       <td>Ruiz, Ibon</td>
       <td>Equipo Kern Pharma</td>
       <td>1.0</td>
-      <td>0</td>
+      <td>2</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -7279,7 +7279,7 @@ hide:
       <td>Sainbayar, Jambaljamts</td>
       <td>Burgos Burpellet BH</td>
       <td>1.0</td>
-      <td>0</td>
+      <td>3</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -7339,7 +7339,7 @@ hide:
       <td>Scalco, Matteo</td>
       <td>VF Group - Bardiani CSF - Faizanè</td>
       <td>1.0</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -7509,7 +7509,7 @@ hide:
       <td>Sevilla, Diego Pablo</td>
       <td>Team Polti VisitMalta</td>
       <td>1.0</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -8019,7 +8019,7 @@ hide:
       <td>Tercero, Fernando</td>
       <td>Team Polti VisitMalta</td>
       <td>1.0</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -8219,7 +8219,7 @@ hide:
       <td>Tolio, Alex</td>
       <td>VF Group - Bardiani CSF - Faizanè</td>
       <td>1.0</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -8239,7 +8239,7 @@ hide:
       <td>Tonelli, Alessandro</td>
       <td>Team Polti VisitMalta</td>
       <td>1.7</td>
-      <td>0</td>
+      <td>3</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -8249,7 +8249,7 @@ hide:
       <td>Torres, Albert</td>
       <td>Movistar Team</td>
       <td>1.0</td>
-      <td>0</td>
+      <td>3</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -8389,7 +8389,7 @@ hide:
       <td>Turconi, Filippo</td>
       <td>VF Group - Bardiani CSF - Faizanè</td>
       <td>1.0</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
@@ -8599,7 +8599,7 @@ hide:
       <td>Vansevenant, Mauri</td>
       <td>Soudal - Quick-Step</td>
       <td>8.4</td>
-      <td>5</td>
+      <td>8</td>
       <td>0</td>
       <td>0.0</td>
       <td></td>
@@ -8939,7 +8939,7 @@ hide:
       <td>Walls, Matthew</td>
       <td>Groupama - FDJ</td>
       <td>1.2</td>
-      <td>7</td>
+      <td>8</td>
       <td>23</td>
       <td>19.2</td>
       <td>Ja</td>
@@ -8979,9 +8979,9 @@ hide:
       <td>Warlop, Jordi</td>
       <td>Soudal - Quick-Step</td>
       <td>1.1</td>
-      <td>10</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>13</td>
+      <td>6</td>
+      <td>5.5</td>
       <td>Ja</td>
       <td></td>
     </tr>
@@ -9059,7 +9059,7 @@ hide:
       <td>Wenzel, Mats</td>
       <td>Equipo Kern Pharma</td>
       <td>1.0</td>
-      <td>0</td>
+      <td>3</td>
       <td>0</td>
       <td>0.0</td>
       <td>Ja</td>
