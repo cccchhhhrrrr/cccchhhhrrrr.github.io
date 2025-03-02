@@ -229,7 +229,7 @@
       <td>Mihkels Madis</td>
       <td>Hayter Ethan</td>
       <td>Bagioli Andrea</td>
-      <td class = "startlist">Christen Jan</td>
+      <td>Christen Jan</td>
       <td>Strong Corbin</td>
       <td>Nys Thibau</td>
       <td>Martinez Lenny</td>

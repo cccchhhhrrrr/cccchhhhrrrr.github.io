@@ -4,6 +4,24 @@ hide:
   - toc
 ---
 
+## 2025-03-02
+### Hovedspillet
+Gee, Derek **50** (Jappo, Okholm)  
+Philipsen, Jasper **35** (Jarma, Knak)  
+Kooij, Olav **30** (Kenk, Matti, Tommy, Visti)  
+Milan, Jonathan **14** (Jarma, Kenk, Matti, Okholm, Visti)  
+Fretin, Milan **6** (Matti)  
+Merlier, Tim **1** (Jappo, Knak, Matti, Tommy)  
+
+### Cheapo
+Marit, Arne **22** (Kenk, Visti)  
+Pluimers, Rick **18** (Chrelle, Jappo, Jarma, Knak)  
+Canal, Carlos **16** (Chrelle, Jappo, Jarma, Kenk, Visti)  
+
+
+
+
+
 ## 2025-03-01
 ### Hovedspillet
 Magnier, Paul **60** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)  
@@ -13,14 +31,14 @@ Aert, Wout van **12** (Chrelle, Jarma, Matti, Okholm, Tommy)
 Gee, Derek **12** (Jappo, Okholm)  
 Trentin, Matteo **10** (Knak)  
 Pedersen, Rasmus Søjberg **8** (Jarma)  
-Vacek, Mathias **6** (Okholm)  
+Dijke, Tim van **6** (Kenk, Visti)  
+Vacek, Mathias **5** (Okholm)  
 
 ### Cheapo
 Moer, Brent Van **40** (Visti)  
 Allegaert, Piet **26** (Knak)  
 Pedersen, Rasmus Søjberg **8** (Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)  
 Renard, Alexis **7** (Knak, Visti)  
-Capiot, Amaury **1** (Chrelle, Jappo, Jarma, Knak)  
 
 
 

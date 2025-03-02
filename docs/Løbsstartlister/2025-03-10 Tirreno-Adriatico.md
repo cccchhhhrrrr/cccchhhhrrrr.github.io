@@ -257,7 +257,7 @@
       <td>Steinhauser Georg</td>
       <td class = "startlist">Magnier Paul</td>
       <td>Schachmann Maximilian</td>
-      <td>Van Dijke Tim</td>
+      <td class = "startlist">Van Dijke Tim</td>
       <td>Schachmann Maximilian</td>
       <td>Lazkano Oier</td>
       <td>Lazkano Oier</td>
@@ -304,7 +304,7 @@
       <td>Andresen Tobias Lund</td>
       <td>Sheehan Riley</td>
       <td>Campenaerts Victor</td>
-      <td>Van Dijke Tim</td>
+      <td class = "startlist">Van Dijke Tim</td>
     </tr>
     <tr>
       <th>19</th>

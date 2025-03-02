@@ -2230,10 +2230,1394 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Abrahamsen, Jonas</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Adrià, Roger</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Aert, Wout van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Affini, Edoardo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Albanese, Vincenzo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Allegaert, Piet</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Aniołkowski, Stanisław</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Artz, Huub</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Asgreen, Kasper</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Askey, Lewis</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Aular, Orluis</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Ballerini, Davide</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Barrenetxea, Jon</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Barthe, Cyril</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Belle, Loe van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Bennett, Sam</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Benoot, Tiesj</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Berg, Julius van den</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Berg, Marijn van den</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>12</td>
+      <td>result: 12</td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Beullens, Cedric</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Bissegger, Stefan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Bittner, Pavel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>10</td>
+      <td>result: 10</td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Bjerg, Mikkel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Bloem, Joren</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Blume Levy, William</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Boivin, Guillaume</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Bol, Cees</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Bondt, Dries De</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Braet, Vito</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>4</td>
+      <td>result: 4</td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Bruttomesso, Alberto</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Campenaerts, Victor</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Capiot, Amaury</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Christen, Fabio</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Cimolai, Davide</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Coquard, Bryan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Crabbe, Tom</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Davy, Clément</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Degenkolb, John</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Dehairs, Simon</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Desal, Cériel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Deweirdt, Siebe</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Dewulf, Stan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Dijke, Mick van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Dijke, Tim van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Dillier, Silvan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Donaldson, Robert</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Doull, Owain</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Démare, Arnaud</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>2</td>
+      <td>result: 2</td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Eddy, Patrick</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Epis, Giosuè</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Flynn, Sean</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Fretin, Milan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>6</td>
+      <td>result: 6</td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Froideveaux, Robin</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>García Cortina, Iván</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Gazzoli, Michele</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Gendt, Aimé De</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Gestel, Dries Van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Govekar, Matevž</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Grignard, Sébastien</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Grondin, Donavan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Groves, Kaden</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Gudmestad, Tord</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Hautegem, Leander Van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Herregodts, Rune</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Hesters, Jules</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Hofstetter, Hugo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>26</td>
+      <td>result: 26</td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Honoré, Mikkel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Hoole, Daan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Hoorn, Taco van der</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Hvideberg, Jonas</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Jacobs, Johan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Jansen, Amund Grøndahl</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Jorgenson, Matteo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Kanter, Max</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Kelemen, Petr</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Kielich, Timo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Kooij, Olav</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>30</td>
+      <td>result: 30</td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Kopecký, Tomáš</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Krieger, Alexander</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Krijnsen, Jelte</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Kubiš, Lukáš</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>8</td>
+      <td>result: 8</td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Lambrecht, Michiel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Lampaert, Yves</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Lanhove, Milan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Lazkano, Oier</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Le Huitouze, Eddy</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Leijnse, Enzo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Lerberghe, Bert Van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Lienhard, Fabian</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Livyns, Arjen</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Louvel, Matîs</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Marit, Arne</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>22</td>
+      <td>result: 22</td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Mayrhofer, Marius</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Małecki, Kamil</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Mechelen, Vlad Van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Meeus, Jordi</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>5</td>
+      <td>result: 5</td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Merlier, Tim</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>result: 1</td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Mihkels, Madis</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Milan, Jonathan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>14</td>
+      <td>result: 14</td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Milesi, Lorenzo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Moer, Brent Van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Mohorič, Matej</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Moro, Manlio</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Moschetti, Matteo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Mozzato, Luca</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>3</td>
+      <td>result: 3</td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Mullen, Ryan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Naberman, Tim</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Naesen, Oliver</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Narváez, Jhonatan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Nielsen, Sebastian</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Nizzolo, Giacomo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Norsgaard, Mathias</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>O'Brien, Kelland</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Oliveira, Rui</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Parisini, Nicolò</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Pasqualon, Andrea</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Pedersen, Rasmus Søjberg</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Penhoët, Paul</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Petegem, Axandre Van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Philipsen, Jasper</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>35</td>
+      <td>result: 35</td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Pickrell, Riley</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Pluimers, Rick</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>18</td>
+      <td>result: 18</td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Politt, Nils</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Pooter, Dries De</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Price-Pejtersen, Johan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Reinderink, Pepijn</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Reinders, Elmar</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Renard, Alexis</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Reynders, Jens</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Rickaert, Jonas</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Romele, Alessandro</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Rooy, Kenneth Van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Russo, Clément</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Rutsch, Jonas</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Schelling, Ide</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Schuyteneer, Steffen De</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Schwarzmann, Michael</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Scotson, Miles</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Segaert, Alec</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Sheehan, Riley</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Sintmaartensdijk, Roel van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Skaarseth, Anders</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Skujins, Toms</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Stannard, Robert</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Steimle, Jannik</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Stewart, Jake</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Stockman, Abram</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Stokbro, Andreas</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Stuyven, Jasper</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Svrček, Martin</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Sénéchal, Florian</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Sütterlin, Jasha</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Taminiaux, Lionel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Teunissen, Mike</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Teuns, Dylan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Theuns, Edward</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Tiller, Rasmus</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Tratnik, Jan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Trentin, Matteo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Vacek, Mathias</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Valgren, Michael</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Vandenbranden, Noah</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Vandevelde, Yentl</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Vangheluwe, Warre</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Vanhoof, Ward</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Vermeersch, Florian</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Vliegen, Loïc</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Vries, Hartthijs de</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Walscheid, Max</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Wellens, Tim</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Wright, Fred</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Wærenskjold, Søren</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kuurne-Brussel-Kuurne</td>
+      <td>Zukowsky, Nick</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>O Gran Camiño</td>
       <td>Agirre, Jon</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2241,7 +3625,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Alustiza, Nicolás</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2249,7 +3633,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Arcas, Jorge</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2257,7 +3641,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Arriolabengoa, Julen</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2273,7 +3657,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Aznar, Unai</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2281,7 +3665,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Balderstone, Abel</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2289,7 +3673,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Berrade, Urko</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>4</td>
       <td>stage-3: 4</td>
     </tr>
@@ -2297,7 +3681,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Braz Afonso, Clément</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2305,7 +3689,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Bugge, Martin Urianstad</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2313,7 +3697,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Burnett, Josh</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2321,15 +3705,15 @@ hide:
       <td>O Gran Camiño</td>
       <td>Canal, Carlos</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>13</td>
-      <td>stage-1: 3 / stage-2: 10</td>
+      <td>6</td>
+      <td>29</td>
+      <td>stage-1: 3 / stage-2: 10 / stage-5: 12 / gc: 4</td>
     </tr>
     <tr>
       <td>O Gran Camiño</td>
       <td>Castellon, Jan</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2337,7 +3721,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Cavia, Daniel</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>8</td>
       <td>stage-1: 8</td>
     </tr>
@@ -2345,23 +3729,23 @@ hide:
       <td>O Gran Camiño</td>
       <td>Cepeda, Jefferson Alveiro</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>8</td>
-      <td>stage-4: 8</td>
+      <td>6</td>
+      <td>26</td>
+      <td>stage-4: 8 / gc: 18</td>
     </tr>
     <tr>
       <td>O Gran Camiño</td>
       <td>Chumil, Sergio</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>17</td>
-      <td>stage-2: 2 / stage-4: 15</td>
+      <td>6</td>
+      <td>37</td>
+      <td>stage-2: 2 / stage-4: 15 / gc: 20</td>
     </tr>
     <tr>
       <td>O Gran Camiño</td>
       <td>Clarke, Simon</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2369,23 +3753,23 @@ hide:
       <td>O Gran Camiño</td>
       <td>Cobo, Iván</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>12</td>
-      <td>stage-2: 6 / stage-3: 6</td>
+      <td>6</td>
+      <td>42</td>
+      <td>stage-2: 6 / stage-3: 6 / gc: 30</td>
     </tr>
     <tr>
       <td>O Gran Camiño</td>
       <td>Cort, Magnus</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>43</td>
-      <td>stage-1: 15 / stage-2: 15 / stage-3: 8 / stage-4: 5</td>
+      <td>6</td>
+      <td>93</td>
+      <td>stage-1: 15 / stage-2: 15 / stage-3: 8 / stage-4: 5 / stage-5: 15 / gc: 35</td>
     </tr>
     <tr>
       <td>O Gran Camiño</td>
       <td>Covili, Luca</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2393,7 +3777,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Dalby, Simon</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2401,7 +3785,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Diaz, Alex</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2409,7 +3793,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Dversnes, Fredrik</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>3</td>
       <td>stage-3: 3</td>
     </tr>
@@ -2417,15 +3801,15 @@ hide:
       <td>O Gran Camiño</td>
       <td>Fagúndez, Eric</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>9</td>
-      <td>stage-2: 5 / stage-4: 4</td>
+      <td>6</td>
+      <td>34</td>
+      <td>stage-2: 5 / stage-4: 4 / gc: 25</td>
     </tr>
     <tr>
       <td>O Gran Camiño</td>
       <td>Fernández, Samuel</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2433,7 +3817,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Fernández, Sinuhé</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2441,7 +3825,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Frigo, Marco</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2449,7 +3833,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Fuglsang, Jakob</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2457,7 +3841,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Ganzabal, Ander</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2465,15 +3849,15 @@ hide:
       <td>O Gran Camiño</td>
       <td>Gee, Derek</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>28</td>
-      <td>stage-2: 1 / stage-3: 15 / stage-4: 12</td>
+      <td>6</td>
+      <td>78</td>
+      <td>stage-2: 1 / stage-3: 15 / stage-4: 12 / gc: 50</td>
     </tr>
     <tr>
       <td>O Gran Camiño</td>
       <td>Houle, Hugo</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>2</td>
       <td>stage-3: 2</td>
     </tr>
@@ -2481,15 +3865,15 @@ hide:
       <td>O Gran Camiño</td>
       <td>Juaristi, Txomin</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>5</td>
-      <td>stage-3: 5</td>
+      <td>6</td>
+      <td>11</td>
+      <td>stage-3: 5 / gc: 6</td>
     </tr>
     <tr>
       <td>O Gran Camiño</td>
       <td>Knox, James</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2497,7 +3881,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Kron, Andreas</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2505,23 +3889,23 @@ hide:
       <td>O Gran Camiño</td>
       <td>Kulset, Johannes</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>12</td>
+      <td>gc: 12</td>
     </tr>
     <tr>
       <td>O Gran Camiño</td>
       <td>Lonardi, Giovanni</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
-      <td>10</td>
-      <td>stage-1: 10</td>
+      <td>6</td>
+      <td>20</td>
+      <td>stage-1: 10 / stage-5: 10</td>
     </tr>
     <tr>
       <td>O Gran Camiño</td>
       <td>Lopez, Jordi</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2529,7 +3913,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Løland, Sakarias Koller</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2537,15 +3921,15 @@ hide:
       <td>O Gran Camiño</td>
       <td>Maestri, Mirco</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>6</td>
+      <td>stage-5: 6</td>
     </tr>
     <tr>
       <td>O Gran Camiño</td>
       <td>Magli, Filippo</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>6</td>
       <td>1</td>
       <td>stage-1: 1</td>
     </tr>
@@ -2553,7 +3937,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Marcellusi, Martin</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>12</td>
       <td>stage-2: 12</td>
     </tr>
@@ -2561,7 +3945,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Mintegi, Iker</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2569,7 +3953,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Molenaar, Alex</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>1</td>
       <td>stage-3: 1</td>
     </tr>
@@ -2577,7 +3961,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Murguialday, Jokin</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2585,7 +3969,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Okamika, Ander</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2593,7 +3977,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Oliveira, Nelson</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2601,15 +3985,15 @@ hide:
       <td>O Gran Camiño</td>
       <td>Paletti, Luca</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>2</td>
+      <td>gc: 2</td>
     </tr>
     <tr>
       <td>O Gran Camiño</td>
       <td>Pedrero, Antonio</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2617,7 +4001,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Pescador, Diego</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2625,15 +4009,15 @@ hide:
       <td>O Gran Camiño</td>
       <td>Peñuela, Francisco</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>5</td>
-      <td>stage-1: 5</td>
+      <td>6</td>
+      <td>8</td>
+      <td>stage-1: 5 / stage-5: 3</td>
     </tr>
     <tr>
       <td>O Gran Camiño</td>
       <td>Pietrobon, Andrea</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2641,15 +4025,15 @@ hide:
       <td>O Gran Camiño</td>
       <td>Piganzoli, Davide</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>25</td>
-      <td>stage-2: 3 / stage-3: 12 / stage-4: 10</td>
+      <td>6</td>
+      <td>69</td>
+      <td>stage-2: 3 / stage-3: 12 / stage-4: 10 / stage-5: 4 / gc: 40</td>
     </tr>
     <tr>
       <td>O Gran Camiño</td>
       <td>Retegi, Mikel</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2657,7 +4041,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Rochas, Rémy</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>4</td>
       <td>stage-2: 4</td>
     </tr>
@@ -2673,7 +4057,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Sainbayar, Jambaljamts</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2681,7 +4065,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Scalco, Matteo</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2689,7 +4073,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Sevilla, Diego Pablo</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2697,7 +4081,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Tercero, Fernando</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2705,7 +4089,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Tolio, Alex</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2713,7 +4097,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Tonelli, Alessandro</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2721,7 +4105,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Torres, Albert</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2729,7 +4113,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Turconi, Filippo</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2737,9 +4121,9 @@ hide:
       <td>O Gran Camiño</td>
       <td>Vansevenant, Mauri</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>1</td>
-      <td>stage-4: 1</td>
+      <td>6</td>
+      <td>15</td>
+      <td>stage-4: 1 / gc: 14</td>
     </tr>
     <tr>
       <td>O Gran Camiño</td>
@@ -2753,7 +4137,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Warlop, Jordi</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>5</td>
       <td>6</td>
       <td>stage-1: 6</td>
     </tr>
@@ -2761,7 +4145,7 @@ hide:
       <td>O Gran Camiño</td>
       <td>Wenzel, Mats</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2946,8 +4330,8 @@ hide:
       <td>Bol, Cees</td>
       <td>Classics Cat. 2</td>
       <td>1</td>
-      <td>4</td>
-      <td>result: 4</td>
+      <td>3</td>
+      <td>result: 3</td>
     </tr>
     <tr>
       <td>Omloop Het Nieuwsblad</td>
@@ -3010,8 +4394,8 @@ hide:
       <td>Capiot, Amaury</td>
       <td>Classics Cat. 2</td>
       <td>1</td>
-      <td>1</td>
-      <td>result: 1</td>
+      <td>0</td>
+      <td></td>
     </tr>
     <tr>
       <td>Omloop Het Nieuwsblad</td>
@@ -3098,8 +4482,8 @@ hide:
       <td>Dijke, Tim van</td>
       <td>Classics Cat. 2</td>
       <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>result: 6</td>
     </tr>
     <tr>
       <td>Omloop Het Nieuwsblad</td>
@@ -3506,8 +4890,8 @@ hide:
       <td>Livyns, Arjen</td>
       <td>Classics Cat. 2</td>
       <td>1</td>
-      <td>5</td>
-      <td>result: 5</td>
+      <td>4</td>
+      <td>result: 4</td>
     </tr>
     <tr>
       <td>Omloop Het Nieuwsblad</td>
@@ -3922,8 +5306,8 @@ hide:
       <td>Stewart, Jake</td>
       <td>Classics Cat. 2</td>
       <td>1</td>
-      <td>2</td>
-      <td>result: 2</td>
+      <td>1</td>
+      <td>result: 1</td>
     </tr>
     <tr>
       <td>Omloop Het Nieuwsblad</td>
@@ -3986,8 +5370,8 @@ hide:
       <td>Teunissen, Mike</td>
       <td>Classics Cat. 2</td>
       <td>1</td>
-      <td>3</td>
-      <td>result: 3</td>
+      <td>2</td>
+      <td>result: 2</td>
     </tr>
     <tr>
       <td>Omloop Het Nieuwsblad</td>
@@ -4058,8 +5442,8 @@ hide:
       <td>Vacek, Mathias</td>
       <td>Classics Cat. 2</td>
       <td>1</td>
-      <td>6</td>
-      <td>result: 6</td>
+      <td>5</td>
+      <td>result: 5</td>
     </tr>
     <tr>
       <td>Omloop Het Nieuwsblad</td>
