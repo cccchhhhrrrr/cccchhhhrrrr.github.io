@@ -4,6 +4,23 @@ hide:
   - toc
 ---
 
+## 2025-03-04
+### Hovedspillet
+Poel, Mathieu van der **35** (Jarma)  
+Magnier, Paul **30** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)  
+Jeanniere, Emilien **26** (Chrelle, Jappo, Knak)  
+Lie, Arnaud De **2** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)  
+
+### Cheapo
+Capiot, Amaury **8** (Chrelle, Jappo, Jarma, Knak)  
+Marit, Arne **4** (Kenk, Visti)  
+Mechelen, Vlad Van **3** (Kenk)  
+Boven, Luca Van **1** (Jappo, Kenk, Visti)  
+
+
+
+
+
 ## 2025-03-02
 ### Hovedspillet
 Gee, Derek **50** (Jappo, Okholm)  

@@ -199,7 +199,7 @@
       <td>12</td>
       <td>Hayter Ethan</td>
       <td>Plapp Luke</td>
-      <td>Powless Neilson</td>
+      <td class = "startlist">Powless Neilson</td>
       <td>Poole Max</td>
       <td>Magnier Paul</td>
       <td>Grégoire Romain</td>
@@ -240,7 +240,7 @@
       <th>14</th>
       <td>15</td>
       <td>Magnier Paul</td>
-      <td>Nerurkar Lukas</td>
+      <td class = "startlist">Nerurkar Lukas</td>
       <td>Martinez Lenny</td>
       <td>Schmid Mauro</td>
       <td>Bagioli Andrea</td>
@@ -270,7 +270,7 @@
       <td>Fisher-Black Finn</td>
       <td>Kanter Max</td>
       <td>Fisher-Black Finn</td>
-      <td>Nerurkar Lukas</td>
+      <td class = "startlist">Nerurkar Lukas</td>
       <td>Andresen Tobias Lund</td>
       <td>Trentin Matteo</td>
       <td>Mihkels Madis</td>
@@ -283,7 +283,7 @@
       <td>18</td>
       <td>Lazkano Oier</td>
       <td class = "startlist">Morgado António</td>
-      <td class = "startlist">Torres Pablo</td>
+      <td>Torres Pablo</td>
       <td>Lafay Victor</td>
       <td>Vermeersch Florian</td>
       <td>Segaert Alec</td>
@@ -338,7 +338,7 @@
       <th>21</th>
       <td>22</td>
       <td>Rex Laurenz</td>
-      <td>Foldager Anders</td>
+      <td class = "startlist">Foldager Anders</td>
       <td>Rex Laurenz</td>
       <td>Pedersen Rasmus Søjberg</td>
       <td>Teutenberg Tim Torn</td>

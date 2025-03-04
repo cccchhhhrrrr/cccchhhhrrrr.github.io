@@ -352,7 +352,7 @@
       <th>22</th>
       <td>23</td>
       <td>Staune-Mittet Johannes</td>
-      <td class = "startlist">Brenner Marco</td>
+      <td>Brenner Marco</td>
       <td>Jeannière Emilien</td>
       <td>Frigo Marco</td>
       <td>Wandahl Frederik</td>

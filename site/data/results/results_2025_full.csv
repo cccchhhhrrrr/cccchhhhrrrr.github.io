@@ -6508,633 +6508,1079 @@ volta-ao-algarve,2025,gc,2025-02-23,gc,,,142,Campos Francisco,APHotels & Resorts
 volta-ao-algarve,2025,gc,2025-02-23,gc,,,143,Ferreira António,Efapel Cycling,,,2025-02-23 18:17:46
 volta-ao-algarve,2025,gc,2025-02-23,gc,,,144,Martins João,Rádio Popular - Paredes - Boavista,,,2025-02-23 18:17:46
 volta-ao-algarve,2025,gc,2025-02-23,gc,,,145,Borges José,FEIRENSE - BEECELER,,,2025-02-23 18:17:46
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,1,Cort Magnus,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,2,Mesa Santiago,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,3,Lonardi Giovanni,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,4,Cavia Daniel,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,5,Warlop Jordi,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,6,Peñuela Francisco Joel,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,7,Macias Cesar,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,8,Canal Carlos,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,9,Prieto José Juan,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,10,Magli Filippo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,11,Matias João,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,12,Trueba Sergio,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,13,Fagúndez Eric Antonio,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,14,Sainbayar Jambaljamts,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,15,Pesenti Thomas,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,16,Rota Raúl,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,17,Lima Daniel,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,18,Silva Pedro,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,19,Alustiza Nicolás,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,20,Nilsson-Julien Oscar,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,21,Diaz Alex,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,22,Fernández Samuel,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,23,Arcas Jorge,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,24,Cobo Iván,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,25,Barbas Rafael,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,26,Salgueiro Carlos Miguel,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,27,Gonçalves Hélder,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,28,Molenaar Alex,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,29,Rochas Rémy,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,30,Prieto José Antonio,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,31,Soenens Viktor,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,32,Fonte César,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,33,Urianstad Bugge Martin,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,34,Ponomar Andrii,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,35,Dversnes Fredrik,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,36,Pescador Diego,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,37,Campos Francisco,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,38,Maestri Mirco,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,39,Clarke Simon,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,40,Marcellusi Martin,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,41,Gee Derek,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,42,Vansevenant Mauri,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,43,Turconi Filippo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,44,Piganzoli Davide,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,45,Ganzabal Ander,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,46,Houle Hugo,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,47,Braz Afonso Clément,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,48,Ariño Gonzalo,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,49,Paletti Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,50,Fernández Rubén,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,51,Covili Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,52,Decomble Maxime,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,53,Burnett Josh,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,54,Chumil Sergio Geovani,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,55,Fernández Delio,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,56,Fernández Sinuhé,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,57,D'Aiuto Filippo,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,58,Carvalho Gonçalo,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,59,Daumas Rémi,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,60,Savino Federico,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,61,Lasa Ailetz,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,62,Marín José,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,63,Callejas Santos Edison Alejandro,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,64,Tercero Fernando,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,65,Silva Afonso,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,66,Caicedo Jonathan Klever,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,67,Murguialday Jokin,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,68,Martínez Victor,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,69,Kulset Johannes,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,70,Kron Andreas,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,71,Cepeda Jefferson Alveiro,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,72,Servranckx Gauthier,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,73,Oliveira Nelson,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,74,Sagrado Alvaro,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,75,Scalco Matteo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,76,Tolio Alex,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,77,Reis Rafael,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,78,Silva Joaquim,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,79,Tonelli Alessandro,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,80,Balderstone Abel,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,81,Pinto Pedro,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,82,Dalby Simon,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,83,Lopes Lucas,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,84,Sevilla Diego Pablo,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,85,Martí Pau,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,86,Wood Harrison,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,87,Castellon Jan,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,88,Peña Jesús David,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,89,Pietrobon Andrea,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,90,Leal Tiago,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,91,Swirbul Keegan,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,92,Okamika Ander,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,93,Esparza Unai,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,94,Wenzel Mats,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,95,Knox James,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,96,Fuglsang Jakob,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,97,Torres Albert,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,98,Løland Sakarias Koller,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,99,Frigo Marco,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,100,Pedrero Antonio,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,101,Carvalho André,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,102,Arriola-Bengoa Julen,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,103,Agirre Jon,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,104,Berrade Urko,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,105,Retegi Mikel,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,106,Gonzalez Asier Pablo,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,107,Moreira Mauricio,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,108,Bock Max,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,109,López Jordi,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,110,Ruiz Ibon,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,111,Aznar Unai,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,112,Azanza Ibai,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,113,Llaneras Pau,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,114,Castro Pinto Pedro,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,115,Cañellas Xavier,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,116,Juaristi Txomin,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,117,Mintegi Iker,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,118,Dejesus Lois,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,119,Alves Francisco,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,120,Mestre Guilherme,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,121,Sánchez Ángel,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,122,Barbio António,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,123,Nych Artem,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,124,Dias Daniel,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,125,Alvarez Alberto,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,DNS,Walls Matthew,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,1,Cort Magnus,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,2,Marcellusi Martin,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,3,Canal Carlos,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,4,Pesenti Thomas,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,5,Cobo Iván,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,6,Fagúndez Eric Antonio,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,7,Rochas Rémy,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,8,Piganzoli Davide,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,9,Chumil Sergio Geovani,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,10,Gee Derek,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,11,Fernández Rubén,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,12,Cepeda Jefferson Alveiro,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,13,Peña Jesús David,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,14,Vansevenant Mauri,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,15,Braz Afonso Clément,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,16,Kulset Johannes,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,17,López Jordi,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,18,Balderstone Abel,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,19,Kron Andreas,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,20,Wenzel Mats,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,21,Soenens Viktor,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,22,Oliveira Nelson,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,23,Knox James,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,24,Fernández Samuel,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,25,Covili Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,26,Wood Harrison,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,27,Juaristi Txomin,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,28,Dalby Simon,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,29,Burnett Josh,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,30,Agirre Jon,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,31,Murguialday Jokin,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,32,Berrade Urko,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,33,Paletti Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,34,Decomble Maxime,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,35,Dversnes Fredrik,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,36,Prieto José Antonio,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,37,Callejas Santos Edison Alejandro,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,38,Silva Afonso,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,39,Arriola-Bengoa Julen,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,40,Lopes Lucas,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,41,Gonçalves Hélder,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,42,Tolio Alex,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,43,Scalco Matteo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,44,Peñuela Francisco Joel,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,45,Leal Tiago,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,46,Alustiza Nicolás,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,47,Swirbul Keegan,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,48,Fuglsang Jakob,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,49,Servranckx Gauthier,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,50,Molenaar Alex,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,51,Tercero Fernando,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,52,Pinto Pedro,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,53,Sainbayar Jambaljamts,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,54,Houle Hugo,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,55,Frigo Marco,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,56,Caicedo Jonathan Klever,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,57,Diaz Alex,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,58,Castellon Jan,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,59,Gonzalez Asier Pablo,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,60,Carvalho Gonçalo,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,61,Silva Pedro,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,62,Marín José,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,63,Prieto José Juan,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,64,Rota Raúl,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,65,Ponomar Andrii,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,66,Tonelli Alessandro,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,67,Maestri Mirco,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,68,Savino Federico,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,69,Pescador Diego,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,70,Fonte César,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,71,Fernández Sinuhé,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,72,Pedrero Antonio,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,73,Warlop Jordi,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,74,Løland Sakarias Koller,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,75,Urianstad Bugge Martin,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,76,Nych Artem,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,77,Reis Rafael,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,78,Fernández Delio,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,79,Arcas Jorge,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,80,Ganzabal Ander,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,81,Turconi Filippo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,82,Martí Pau,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,83,Sevilla Diego Pablo,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,84,Sagrado Alvaro,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,85,Lonardi Giovanni,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,86,D'Aiuto Filippo,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,87,Pietrobon Andrea,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,88,Clarke Simon,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,89,Magli Filippo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,90,Carvalho André,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,91,Okamika Ander,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,92,Cavia Daniel,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,93,Lasa Ailetz,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,94,Daumas Rémi,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,95,Bock Max,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,96,Esparza Unai,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,97,Retegi Mikel,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,98,Azanza Ibai,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,99,Aznar Unai,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,100,Mintegi Iker,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,101,Trueba Sergio,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,102,Cañellas Xavier,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,103,Llaneras Pau,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,104,Silva Joaquim,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,105,Castro Pinto Pedro,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,106,Torres Albert,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,107,Martínez Victor,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,108,Salgueiro Carlos Miguel,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,109,Dejesus Lois,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,110,Mestre Guilherme,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,111,Moreira Mauricio,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,112,Macias Cesar,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,113,Lima Daniel,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,114,Alves Francisco,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,115,Matias João,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,116,Dias Daniel,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,117,Nilsson-Julien Oscar,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,118,Alvarez Alberto,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,119,Sánchez Ángel,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,120,Ariño Gonzalo,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,121,Campos Francisco,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,122,Mesa Santiago,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,123,Barbio António,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,124,Barbas Rafael,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,DNF,Ruiz Ibon,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,1,Gee Derek,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,2,Piganzoli Davide,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,3,Decomble Maxime,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,4,Cort Magnus,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,5,Cobo Iván,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,6,Juaristi Txomin,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,7,Berrade Urko,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,8,Dversnes Fredrik,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,9,Houle Hugo,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,10,Molenaar Alex,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,11,Fagúndez Eric Antonio,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,12,Oliveira Nelson,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,13,Balderstone Abel,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,14,Savino Federico,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,15,Frigo Marco,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,16,Paletti Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,17,Reis Rafael,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,18,Soenens Viktor,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,19,Tonelli Alessandro,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,20,Fernández Rubén,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,21,Canal Carlos,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,22,Clarke Simon,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,23,Vansevenant Mauri,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,24,Kulset Johannes,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,25,Fernández Samuel,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,26,Rochas Rémy,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,27,Pesenti Thomas,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,28,Cepeda Jefferson Alveiro,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,29,Wenzel Mats,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,30,Marcellusi Martin,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,31,Murguialday Jokin,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,32,Braz Afonso Clément,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,33,Swirbul Keegan,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,34,Martí Pau,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,35,Lopes Lucas,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,36,López Jordi,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,37,Nych Artem,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,38,Kron Andreas,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,39,Knox James,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,40,Fuglsang Jakob,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,41,Burnett Josh,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,42,Tolio Alex,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,43,Sainbayar Jambaljamts,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,44,Silva Joaquim,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,45,Cañellas Xavier,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,46,Pietrobon Andrea,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,47,Pinto Pedro,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,48,Chumil Sergio Geovani,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,49,Lima Daniel,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,50,Salgueiro Carlos Miguel,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,51,Maestri Mirco,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,52,Bock Max,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,53,Peña Jesús David,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,54,Covili Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,55,Scalco Matteo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,56,Dalby Simon,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,57,Ganzabal Ander,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,58,Rota Raúl,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,59,Wood Harrison,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,60,Leal Tiago,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,61,Nilsson-Julien Oscar,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,62,Agirre Jon,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,63,Callejas Santos Edison Alejandro,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,64,Aznar Unai,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,65,Turconi Filippo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,66,Retegi Mikel,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,67,Dias Daniel,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,68,Sevilla Diego Pablo,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,69,Marín José,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,70,Pedrero Antonio,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,71,Servranckx Gauthier,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,72,Cavia Daniel,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,73,Peñuela Francisco Joel,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,74,Alustiza Nicolás,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,75,Pescador Diego,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,76,Mintegi Iker,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,77,Gonçalves Hélder,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,78,Prieto José Antonio,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,79,Arriola-Bengoa Julen,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,80,Prieto José Juan,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,81,Fernández Sinuhé,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,82,Barbas Rafael,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,83,Okamika Ander,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,84,Daumas Rémi,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,85,Arcas Jorge,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,86,Diaz Alex,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,87,Magli Filippo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,88,Silva Pedro,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,89,Ponomar Andrii,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,90,Lonardi Giovanni,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,91,Castro Pinto Pedro,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,92,Tercero Fernando,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,93,Esparza Unai,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,94,Gonzalez Asier Pablo,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,95,Caicedo Jonathan Klever,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,96,Castellon Jan,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,97,Løland Sakarias Koller,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,98,Trueba Sergio,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,99,D'Aiuto Filippo,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,100,Fernández Delio,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,101,Carvalho André,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,102,Warlop Jordi,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,103,Urianstad Bugge Martin,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,104,Lasa Ailetz,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,105,Silva Afonso,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,106,Llaneras Pau,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,107,Sagrado Alvaro,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,108,Torres Albert,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,109,Ariño Gonzalo,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,110,Fonte César,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,111,Martínez Victor,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,112,Barbio António,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,113,Mesa Santiago,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,114,Carvalho Gonçalo,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,115,Macias Cesar,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,116,Mestre Guilherme,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,117,Alvarez Alberto,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,118,Matias João,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,119,Campos Francisco,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,120,Dejesus Lois,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,121,Sánchez Ángel,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,122,Alves Francisco,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,DNF,Azanza Ibai,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,DNS,Moreira Mauricio,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,1,Chumil Sergio Geovani,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,2,Gee Derek,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,3,Piganzoli Davide,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,4,Cepeda Jefferson Alveiro,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,5,Peña Jesús David,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,6,Cort Magnus,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,7,Fagúndez Eric Antonio,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,8,Caicedo Jonathan Klever,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,9,Soenens Viktor,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,10,Vansevenant Mauri,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,11,Cobo Iván,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,12,Burnett Josh,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,13,Callejas Santos Edison Alejandro,Petrolike,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,14,Kulset Johannes,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,15,Canal Carlos,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,16,Paletti Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,17,Berrade Urko,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,18,Fernández Rubén,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,19,Decomble Maxime,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,20,Swirbul Keegan,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,21,Dalby Simon,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,22,Balderstone Abel,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,23,Fuglsang Jakob,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,24,Juaristi Txomin,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,25,Sagrado Alvaro,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,26,Fernández Samuel,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,27,Murguialday Jokin,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,28,Rochas Rémy,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,29,Tolio Alex,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,30,Braz Afonso Clément,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,31,Knox James,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,32,Wood Harrison,Anicolor / Tien 21,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,33,Pinto Pedro,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,34,Covili Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,35,Frigo Marco,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,36,Wenzel Mats,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,37,Diaz Alex,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,38,Arriola-Bengoa Julen,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,39,Lopes Lucas,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,40,Oliveira Nelson,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,41,Alustiza Nicolás,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,42,Peñuela Francisco Joel,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,43,Barbas Rafael,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,44,Marín José,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,45,Dversnes Fredrik,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,46,Daumas Rémi,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,47,Pescador Diego,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,48,Leal Tiago,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,49,Tonelli Alessandro,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,50,Silva Joaquim,Efapel Cycling,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,51,Houle Hugo,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,52,Sainbayar Jambaljamts,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,53,Bock Max,Groupama - FDJ,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,54,Arcas Jorge,Movistar Team,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,55,Turconi Filippo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,56,López Jordi,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,57,Rota Raúl,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,58,Marcellusi Martin,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,59,Gonzalez Asier Pablo,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,60,Cavia Daniel,Burgos Burpellet BH,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,61,Fernández Delio,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,62,Løland Sakarias Koller,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,63,Urianstad Bugge Martin,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,64,Kron Andreas,Uno-X Mobility,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,65,Servranckx Gauthier,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,66,Warlop Jordi,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,67,Savino Federico,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,68,Scalco Matteo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,69,Pesenti Thomas,Soudal Quick-Step,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,70,Ganzabal Ander,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,71,Maestri Mirco,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,72,Castellon Jan,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,73,Pietrobon Andrea,Team Polti VisitMalta,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,74,Clarke Simon,Israel - Premier Tech,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,75,Ariño Gonzalo,Illes Balears Arabay,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,76,Retegi Mikel,Equipo Kern Pharma,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,77,Gonçalves Hélder,Rádio Popular - Paredes - Boavista,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,78,Agirre Jon,Euskaltel - Euskadi,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,79,Molenaar Alex,Caja Rural - Seguros RGA,0,0,2025-03-01 18:09:04
-gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,80,Pedrero Antonio,Movistar Team,0,0,2025-03-01 18:09:04
-omloop-het-nieuwsblad,2025,result,,result,,,1,Wærenskjold Søren,Uno-X Mobility,300,225,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,2,Magnier Paul,Soudal Quick-Step,250,150,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,3,Philipsen Jasper,Alpecin - Deceuninck,215,110,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,4,Van Moer Brent,Lotto,175,90,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,5,Watson Samuel,INEOS Grenadiers,120,80,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,6,Kubiš Lukáš,Unibet Tietema Rockets,115,70,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,7,Allegaert Piet,Cofidis,95,60,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,8,Albanese Vincenzo,EF Education - EasyPost,75,50,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,9,Van Den Berg Marijn,EF Education - EasyPost,60,46,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,10,Askey Lewis,Groupama - FDJ,50,42,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,11,Van Aert Wout,Team Visma | Lease a Bike,40,38,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,12,Trentin Matteo,Tudor Pro Cycling Team,35,34,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,13,Pedersen Rasmus Søjberg,Decathlon AG2R La Mondiale Team,30,30,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,14,Renard Alexis,Cofidis,25,26,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,15,Vacek Mathias,Lidl - Trek,20,22,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,16,Livyns Arjen,Lotto,20,20,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,17,Bol Cees,XDS Astana Team,20,18,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,18,Teunissen Mike,XDS Astana Team,20,17,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,19,Stewart Jake,Israel - Premier Tech,20,16,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,20,Capiot Amaury,Arkéa - B&B Hotels,20,15,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,21,Naesen Oliver,Decathlon AG2R La Mondiale Team,12,14,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,22,Adrià Roger,Red Bull - BORA - hansgrohe,12,13,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,23,Pluimers Rick,Tudor Pro Cycling Team,12,12,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,24,Bissegger Stefan,Decathlon AG2R La Mondiale Team,12,11,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,25,Van Dijke Mick,Red Bull - BORA - hansgrohe,12,10,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,26,Reinders Elmar,Team Jayco AlUla,12,9,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,27,Louvel Matis,Israel - Premier Tech,12,8,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,28,Biermans Jenthe,Arkéa - B&B Hotels,12,7,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,29,Skujiņš Toms,Lidl - Trek,12,6,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,30,Küng Stefan,Groupama - FDJ,12,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,31,Dewulf Stan,Decathlon AG2R La Mondiale Team,5,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,32,Braet Vito,Intermarché - Wanty,5,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,33,Pedersen Casper,Soudal Quick-Step,5,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,34,De Vries Hartthijs,Unibet Tietema Rockets,5,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,35,Geniets Kevin,Groupama - FDJ,5,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,36,Pidcock Thomas,Q36.5 Pro Cycling Team,5,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,37,Wright Fred,Bahrain - Victorious,5,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,38,Asgreen Kasper,EF Education - EasyPost,5,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,39,Rutsch Jonas,Intermarché - Wanty,5,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,40,Morgado António,UAE Team Emirates - XRG,5,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,41,Narváez Jhonatan,UAE Team Emirates - XRG,5,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,42,Benoot Tiesj,Team Visma | Lease a Bike,5,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,43,Teuns Dylan,Cofidis,5,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,44,Wellens Tim,UAE Team Emirates - XRG,5,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,45,Tarling Joshua,INEOS Grenadiers,5,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,46,Stuyven Jasper,Lidl - Trek,5,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,47,Vermeersch Gianni,Alpecin - Deceuninck,5,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,48,Politt Nils,UAE Team Emirates - XRG,5,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,49,Lampaert Yves,Soudal Quick-Step,5,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,50,Jorgenson Matteo,Team Visma | Lease a Bike,5,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,51,Abrahamsen Jonas,Uno-X Mobility,2,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,52,Van Boven Luca,Intermarché - Wanty,2,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,53,Christen Fabio,Q36.5 Pro Cycling Team,2,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,54,Deweirdt Siebe,Team Flanders - Baloise,2,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,55,Eenkhoorn Pascal,Soudal Quick-Step,2,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,56,Vercouillie Victor,Team Flanders - Baloise,1,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,57,Tratnik Jan,Red Bull - BORA - hansgrohe,1,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,58,Van Den Berg Julius,Team Picnic PostNL,1,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,59,Leijnse Enzo,Team Picnic PostNL,1,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,60,Honoré Mikkel Frølich,EF Education - EasyPost,1,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,61,Meurisse Xandro,Alpecin - Deceuninck,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,62,Van Gestel Dries,Soudal Quick-Step,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,63,Groves Kaden,Alpecin - Deceuninck,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,64,Marit Arne,Intermarché - Wanty,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,65,Tiller Rasmus,Uno-X Mobility,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,66,Steimle Jannik,Q36.5 Pro Cycling Team,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,67,Brennan Matthew,Team Visma | Lease a Bike,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,68,Bjerg Mikkel,UAE Team Emirates - XRG,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,69,Van Asbroeck Tom,Israel - Premier Tech,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,70,Huens Axel,Unibet Tietema Rockets,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,71,Krijnsen Jelte,Team Jayco AlUla,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,72,Pasqualon Andrea,Bahrain - Victorious,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,73,Bystrøm Sven Erik,Groupama - FDJ,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,74,Flynn Sean,Team Picnic PostNL,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,75,De Bondt Dries,Decathlon AG2R La Mondiale Team,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,76,Vanhoof Ward,Team Flanders - Baloise,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,77,Stockman Abram,Unibet Tietema Rockets,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,78,O'Brien Kelland,Team Jayco AlUla,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,79,García Cortina Iván,Movistar Team,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,80,Barrenetxea Jon,Movistar Team,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,81,Thierry Pierre,Arkéa - B&B Hotels,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,82,Johannink Jelle,Unibet Tietema Rockets,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,83,De Lie Arnaud,Lotto,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,84,Skaarseth Anders,Uno-X Mobility,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,85,Ermakov Roman,Bahrain - Victorious,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,86,Grignard Sébastien,Lotto,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,87,Donaldson Robert,Team Jayco AlUla,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,88,Foldager Anders,Team Jayco AlUla,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,89,Beullens Cedric,Lotto,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,90,Doull Owain,EF Education - EasyPost,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,91,Blackmore Joseph,Israel - Premier Tech,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,92,Kopecký Tomáš,Unibet Tietema Rockets,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,93,Declercq Tim,Lidl - Trek,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,94,Hvideberg Jonas Iversby,Uno-X Mobility,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,95,Epis Giosuè,Arkéa - B&B Hotels,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,96,Shmidt Artem,INEOS Grenadiers,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,97,Sheehan Riley,Israel - Premier Tech,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,98,Herregodts Rune,UAE Team Emirates - XRG,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,99,Geleijn Owen,Unibet Tietema Rockets,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,100,Stannard Robert,Bahrain - Victorious,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,101,Dillier Silvan,Alpecin - Deceuninck,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,102,Russo Clément,Groupama - FDJ,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,103,Gazzoli Michele,XDS Astana Team,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,104,Hoole Daan,Lidl - Trek,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,105,Le Gac Olivier,Groupama - FDJ,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,106,Sénéchal Florian,Arkéa - B&B Hotels,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,107,Reinderink Pepijn,Soudal Quick-Step,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,108,Romele Alessandro,XDS Astana Team,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,109,Aular Orluis,Movistar Team,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,110,Vandenstorme Dylan,Team Flanders - Baloise,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,111,Gradek Kamil,Bahrain - Victorious,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,112,Gelders Gil,Soudal Quick-Step,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,113,Bettiol Alberto,XDS Astana Team,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,114,Heiduk Kim,INEOS Grenadiers,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,115,Lienhard Fabian,Tudor Pro Cycling Team,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,116,Swift Connor,INEOS Grenadiers,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,117,Jungels Bob,INEOS Grenadiers,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,118,Haller Marco,Tudor Pro Cycling Team,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,119,Turner Ben,INEOS Grenadiers,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,120,Theuns Edward,Lidl - Trek,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,121,Gudmestad Tord,Decathlon AG2R La Mondiale Team,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,122,Hagenes Per Strand,Team Visma | Lease a Bike,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,123,Riesebeek Oscar,Alpecin - Deceuninck,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,124,Lazkano Oier,Red Bull - BORA - hansgrohe,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,125,De Gendt Aimé,Cofidis,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,126,Mayrhofer Marius,Tudor Pro Cycling Team,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,127,Schelling Ide,XDS Astana Team,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,128,Valgren Michael,EF Education - EasyPost,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,129,De Buyst Jasper,Lotto,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,130,Campenaerts Victor,Team Visma | Lease a Bike,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,131,Froidevaux Robin,Tudor Pro Cycling Team,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,132,Ghys Robbe,Alpecin - Deceuninck,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,133,Taminiaux Lionel,Lotto,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,134,Coquard Bryan,Cofidis,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,135,Ballerini Davide,XDS Astana Team,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,136,Norsgaard Mathias,Movistar Team,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,137,Mahoudo Nolann,Cofidis,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,138,Vermeersch Florian,UAE Team Emirates - XRG,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,139,Jacobs Johan,Groupama - FDJ,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,140,Zukowsky Nickolas,Q36.5 Pro Cycling Team,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,141,Scotson Miles,Arkéa - B&B Hotels,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,142,Deman Brem,Team Flanders - Baloise,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,143,Kelemen Petr,Tudor Pro Cycling Team,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,144,Pollefliet Gianluca,Decathlon AG2R La Mondiale Team,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,145,Teutenberg Tim Torn,Lidl - Trek,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,146,Jansen Amund Grøndahl,Uno-X Mobility,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,147,Robeet Ludovic,Cofidis,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,148,Mohorič Matej,Bahrain - Victorious,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,149,Affini Edoardo,Team Visma | Lease a Bike,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,150,Govekar Matevž,Bahrain - Victorious,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,151,Stewart Campbell,Team Jayco AlUla,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,152,Sütterlin Jasha,Team Jayco AlUla,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,153,Moro Manlio,Movistar Team,,5,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Colman Alex,Team Flanders - Baloise,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Pickrell Riley,Israel - Premier Tech,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Resell Erik Nordsæter,Uno-X Mobility,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Frison Frederik,Q36.5 Pro Cycling Team,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Małecki Kamil,Q36.5 Pro Cycling Team,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Parisini Nicolò,Q36.5 Pro Cycling Team,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Petit Adrien,Intermarché - Wanty,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Milesi Lorenzo,Movistar Team,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Boivin Guillaume,Israel - Premier Tech,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Vandevelde Yentl,Team Flanders - Baloise,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Eddy Patrick,Team Picnic PostNL,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Naberman Tim,Team Picnic PostNL,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Degenkolb John,Team Picnic PostNL,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Cimolai Davide,Movistar Team,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Mihkels Madis,EF Education - EasyPost,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Grondin Donavan,Arkéa - B&B Hotels,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Van Sintmaartensdijk Roel,Intermarché - Wanty,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Rex Laurenz,Intermarché - Wanty,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Van Dijke Tim,Red Bull - BORA - hansgrohe,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Mullen Ryan,Red Bull - BORA - hansgrohe,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNF,Meeus Jordi,Red Bull - BORA - hansgrohe,,,2025-03-01 18:09:25
-omloop-het-nieuwsblad,2025,result,,result,,,DNS,Edmondson Alex,Team Picnic PostNL,,,2025-03-01 18:09:25
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,1,Cort Magnus,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,2,Mesa Santiago,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,3,Lonardi Giovanni,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,4,Cavia Daniel,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,5,Warlop Jordi,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,6,Peñuela Francisco Joel,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,7,Macias Cesar,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,8,Canal Carlos,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,9,Prieto José Juan,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,10,Magli Filippo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,11,Matias João,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,12,Trueba Sergio,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,13,Fagúndez Eric Antonio,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,14,Sainbayar Jambaljamts,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,15,Pesenti Thomas,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,16,Rota Raúl,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,17,Lima Daniel,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,18,Silva Pedro,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,19,Alustiza Nicolás,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,20,Nilsson-Julien Oscar,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,21,Diaz Alex,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,22,Fernández Samuel,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,23,Arcas Jorge,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,24,Cobo Iván,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,25,Barbas Rafael,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,26,Salgueiro Carlos Miguel,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,27,Gonçalves Hélder,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,28,Molenaar Alex,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,29,Rochas Rémy,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,30,Prieto José Antonio,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,31,Soenens Viktor,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,32,Fonte César,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,33,Urianstad Bugge Martin,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,34,Ponomar Andrii,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,35,Dversnes Fredrik,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,36,Pescador Diego,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,37,Campos Francisco,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,38,Maestri Mirco,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,39,Clarke Simon,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,40,Marcellusi Martin,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,41,Gee Derek,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,42,Vansevenant Mauri,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,43,Turconi Filippo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,44,Piganzoli Davide,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,45,Ganzabal Ander,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,46,Houle Hugo,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,47,Braz Afonso Clément,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,48,Ariño Gonzalo,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,49,Paletti Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,50,Fernández Rubén,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,51,Covili Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,52,Decomble Maxime,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,53,Burnett Josh,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,54,Chumil Sergio Geovani,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,55,Fernández Delio,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,56,Fernández Sinuhé,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,57,D'Aiuto Filippo,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,58,Carvalho Gonçalo,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,59,Daumas Rémi,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,60,Savino Federico,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,61,Lasa Ailetz,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,62,Marín José,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,63,Callejas Santos Edison Alejandro,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,64,Tercero Fernando,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,65,Silva Afonso,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,66,Caicedo Jonathan Klever,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,67,Murguialday Jokin,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,68,Martínez Victor,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,69,Kulset Johannes,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,70,Kron Andreas,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,71,Cepeda Jefferson Alveiro,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,72,Servranckx Gauthier,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,73,Oliveira Nelson,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,74,Sagrado Alvaro,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,75,Scalco Matteo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,76,Tolio Alex,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,77,Reis Rafael,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,78,Silva Joaquim,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,79,Tonelli Alessandro,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,80,Balderstone Abel,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,81,Pinto Pedro,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,82,Dalby Simon,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,83,Lopes Lucas,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,84,Sevilla Diego Pablo,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,85,Martí Pau,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,86,Wood Harrison,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,87,Castellon Jan,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,88,Peña Jesús David,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,89,Pietrobon Andrea,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,90,Leal Tiago,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,91,Swirbul Keegan,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,92,Okamika Ander,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,93,Esparza Unai,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,94,Wenzel Mats,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,95,Knox James,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,96,Fuglsang Jakob,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,97,Torres Albert,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,98,Løland Sakarias Koller,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,99,Frigo Marco,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,100,Pedrero Antonio,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,101,Carvalho André,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,102,Arriola-Bengoa Julen,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,103,Agirre Jon,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,104,Berrade Urko,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,105,Retegi Mikel,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,106,Gonzalez Asier Pablo,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,107,Moreira Mauricio,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,108,Bock Max,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,109,López Jordi,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,110,Ruiz Ibon,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,111,Aznar Unai,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,112,Azanza Ibai,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,113,Llaneras Pau,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,114,Castro Pinto Pedro,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,115,Cañellas Xavier,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,116,Juaristi Txomin,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,117,Mintegi Iker,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,118,Dejesus Lois,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,119,Alves Francisco,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,120,Mestre Guilherme,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,121,Sánchez Ángel,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,122,Barbio António,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,123,Nych Artem,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,124,Dias Daniel,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,125,Alvarez Alberto,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-1,2025-02-26,Stage 1,p2,Normal,DNS,Walls Matthew,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,1,Cort Magnus,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,2,Marcellusi Martin,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,3,Canal Carlos,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,4,Pesenti Thomas,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,5,Cobo Iván,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,6,Fagúndez Eric Antonio,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,7,Rochas Rémy,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,8,Piganzoli Davide,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,9,Chumil Sergio Geovani,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,10,Gee Derek,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,11,Fernández Rubén,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,12,Cepeda Jefferson Alveiro,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,13,Peña Jesús David,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,14,Vansevenant Mauri,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,15,Braz Afonso Clément,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,16,Kulset Johannes,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,17,López Jordi,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,18,Balderstone Abel,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,19,Kron Andreas,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,20,Wenzel Mats,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,21,Soenens Viktor,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,22,Oliveira Nelson,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,23,Knox James,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,24,Fernández Samuel,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,25,Covili Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,26,Wood Harrison,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,27,Juaristi Txomin,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,28,Dalby Simon,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,29,Burnett Josh,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,30,Agirre Jon,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,31,Murguialday Jokin,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,32,Berrade Urko,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,33,Paletti Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,34,Decomble Maxime,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,35,Dversnes Fredrik,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,36,Prieto José Antonio,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,37,Callejas Santos Edison Alejandro,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,38,Silva Afonso,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,39,Arriola-Bengoa Julen,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,40,Lopes Lucas,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,41,Gonçalves Hélder,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,42,Tolio Alex,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,43,Scalco Matteo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,44,Peñuela Francisco Joel,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,45,Leal Tiago,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,46,Alustiza Nicolás,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,47,Swirbul Keegan,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,48,Fuglsang Jakob,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,49,Servranckx Gauthier,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,50,Molenaar Alex,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,51,Tercero Fernando,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,52,Pinto Pedro,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,53,Sainbayar Jambaljamts,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,54,Houle Hugo,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,55,Frigo Marco,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,56,Caicedo Jonathan Klever,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,57,Diaz Alex,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,58,Castellon Jan,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,59,Gonzalez Asier Pablo,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,60,Carvalho Gonçalo,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,61,Silva Pedro,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,62,Marín José,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,63,Prieto José Juan,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,64,Rota Raúl,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,65,Ponomar Andrii,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,66,Tonelli Alessandro,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,67,Maestri Mirco,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,68,Savino Federico,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,69,Pescador Diego,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,70,Fonte César,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,71,Fernández Sinuhé,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,72,Pedrero Antonio,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,73,Warlop Jordi,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,74,Løland Sakarias Koller,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,75,Urianstad Bugge Martin,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,76,Nych Artem,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,77,Reis Rafael,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,78,Fernández Delio,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,79,Arcas Jorge,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,80,Ganzabal Ander,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,81,Turconi Filippo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,82,Martí Pau,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,83,Sevilla Diego Pablo,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,84,Sagrado Alvaro,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,85,Lonardi Giovanni,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,86,D'Aiuto Filippo,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,87,Pietrobon Andrea,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,88,Clarke Simon,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,89,Magli Filippo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,90,Carvalho André,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,91,Okamika Ander,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,92,Cavia Daniel,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,93,Lasa Ailetz,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,94,Daumas Rémi,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,95,Bock Max,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,96,Esparza Unai,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,97,Retegi Mikel,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,98,Azanza Ibai,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,99,Aznar Unai,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,100,Mintegi Iker,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,101,Trueba Sergio,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,102,Cañellas Xavier,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,103,Llaneras Pau,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,104,Silva Joaquim,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,105,Castro Pinto Pedro,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,106,Torres Albert,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,107,Martínez Victor,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,108,Salgueiro Carlos Miguel,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,109,Dejesus Lois,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,110,Mestre Guilherme,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,111,Moreira Mauricio,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,112,Macias Cesar,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,113,Lima Daniel,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,114,Alves Francisco,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,115,Matias João,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,116,Dias Daniel,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,117,Nilsson-Julien Oscar,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,118,Alvarez Alberto,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,119,Sánchez Ángel,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,120,Ariño Gonzalo,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,121,Campos Francisco,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,122,Mesa Santiago,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,123,Barbio António,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,124,Barbas Rafael,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-2,2025-02-27,Stage 2,p3,Normal,DNF,Ruiz Ibon,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,1,Gee Derek,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,2,Piganzoli Davide,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,3,Decomble Maxime,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,4,Cort Magnus,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,5,Cobo Iván,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,6,Juaristi Txomin,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,7,Berrade Urko,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,8,Dversnes Fredrik,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,9,Houle Hugo,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,10,Molenaar Alex,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,11,Fagúndez Eric Antonio,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,12,Oliveira Nelson,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,13,Balderstone Abel,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,14,Savino Federico,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,15,Frigo Marco,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,16,Paletti Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,17,Reis Rafael,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,18,Soenens Viktor,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,19,Tonelli Alessandro,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,20,Fernández Rubén,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,21,Canal Carlos,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,22,Clarke Simon,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,23,Vansevenant Mauri,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,24,Kulset Johannes,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,25,Fernández Samuel,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,26,Rochas Rémy,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,27,Pesenti Thomas,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,28,Cepeda Jefferson Alveiro,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,29,Wenzel Mats,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,30,Marcellusi Martin,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,31,Murguialday Jokin,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,32,Braz Afonso Clément,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,33,Swirbul Keegan,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,34,Martí Pau,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,35,Lopes Lucas,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,36,López Jordi,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,37,Nych Artem,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,38,Kron Andreas,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,39,Knox James,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,40,Fuglsang Jakob,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,41,Burnett Josh,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,42,Tolio Alex,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,43,Sainbayar Jambaljamts,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,44,Silva Joaquim,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,45,Cañellas Xavier,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,46,Pietrobon Andrea,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,47,Pinto Pedro,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,48,Chumil Sergio Geovani,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,49,Lima Daniel,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,50,Salgueiro Carlos Miguel,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,51,Maestri Mirco,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,52,Bock Max,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,53,Peña Jesús David,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,54,Covili Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,55,Scalco Matteo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,56,Dalby Simon,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,57,Ganzabal Ander,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,58,Rota Raúl,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,59,Wood Harrison,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,60,Leal Tiago,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,61,Nilsson-Julien Oscar,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,62,Agirre Jon,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,63,Callejas Santos Edison Alejandro,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,64,Aznar Unai,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,65,Turconi Filippo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,66,Retegi Mikel,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,67,Dias Daniel,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,68,Sevilla Diego Pablo,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,69,Marín José,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,70,Pedrero Antonio,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,71,Servranckx Gauthier,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,72,Cavia Daniel,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,73,Peñuela Francisco Joel,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,74,Alustiza Nicolás,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,75,Pescador Diego,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,76,Mintegi Iker,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,77,Gonçalves Hélder,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,78,Prieto José Antonio,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,79,Arriola-Bengoa Julen,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,80,Prieto José Juan,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,81,Fernández Sinuhé,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,82,Barbas Rafael,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,83,Okamika Ander,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,84,Daumas Rémi,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,85,Arcas Jorge,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,86,Diaz Alex,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,87,Magli Filippo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,88,Silva Pedro,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,89,Ponomar Andrii,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,90,Lonardi Giovanni,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,91,Castro Pinto Pedro,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,92,Tercero Fernando,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,93,Esparza Unai,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,94,Gonzalez Asier Pablo,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,95,Caicedo Jonathan Klever,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,96,Castellon Jan,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,97,Løland Sakarias Koller,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,98,Trueba Sergio,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,99,D'Aiuto Filippo,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,100,Fernández Delio,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,101,Carvalho André,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,102,Warlop Jordi,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,103,Urianstad Bugge Martin,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,104,Lasa Ailetz,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,105,Silva Afonso,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,106,Llaneras Pau,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,107,Sagrado Alvaro,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,108,Torres Albert,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,109,Ariño Gonzalo,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,110,Fonte César,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,111,Martínez Victor,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,112,Barbio António,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,113,Mesa Santiago,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,114,Carvalho Gonçalo,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,115,Macias Cesar,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,116,Mestre Guilherme,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,117,Alvarez Alberto,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,118,Matias João,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,119,Campos Francisco,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,120,Dejesus Lois,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,121,Sánchez Ángel,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,122,Alves Francisco,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,DNF,Azanza Ibai,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-3,2025-02-28,Stage 3 (ITT),p2,ITT,DNS,Moreira Mauricio,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,1,Chumil Sergio Geovani,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,2,Gee Derek,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,3,Piganzoli Davide,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,4,Cepeda Jefferson Alveiro,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,5,Peña Jesús David,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,6,Cort Magnus,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,7,Fagúndez Eric Antonio,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,8,Caicedo Jonathan Klever,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,9,Soenens Viktor,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,10,Vansevenant Mauri,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,11,Cobo Iván,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,12,Burnett Josh,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,13,Callejas Santos Edison Alejandro,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,14,Kulset Johannes,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,15,Canal Carlos,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,16,Paletti Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,17,Berrade Urko,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,18,Fernández Rubén,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,19,Decomble Maxime,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,20,Swirbul Keegan,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,21,Dalby Simon,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,22,Balderstone Abel,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,23,Fuglsang Jakob,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,24,Juaristi Txomin,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,25,Sagrado Alvaro,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,26,Fernández Samuel,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,27,Murguialday Jokin,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,28,Rochas Rémy,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,29,Tolio Alex,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,30,Braz Afonso Clément,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,31,Knox James,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,32,Wood Harrison,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,33,Pinto Pedro,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,34,Covili Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,35,Frigo Marco,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,36,Wenzel Mats,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,37,Diaz Alex,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,38,Arriola-Bengoa Julen,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,39,Lopes Lucas,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,40,Oliveira Nelson,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,41,Alustiza Nicolás,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,42,Peñuela Francisco Joel,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,43,Barbas Rafael,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,44,Marín José,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,45,Dversnes Fredrik,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,46,Daumas Rémi,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,47,Pescador Diego,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,48,Leal Tiago,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,49,Tonelli Alessandro,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,50,Silva Joaquim,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,51,Houle Hugo,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,52,Sainbayar Jambaljamts,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,53,Bock Max,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,54,Arcas Jorge,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,55,Turconi Filippo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,56,López Jordi,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,57,Rota Raúl,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,58,Marcellusi Martin,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,59,Gonzalez Asier Pablo,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,60,Cavia Daniel,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,61,Fernández Delio,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,62,Løland Sakarias Koller,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,63,Urianstad Bugge Martin,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,64,Kron Andreas,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,65,Servranckx Gauthier,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,66,Warlop Jordi,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,67,Savino Federico,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,68,Scalco Matteo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,69,Pesenti Thomas,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,70,Ganzabal Ander,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,71,Maestri Mirco,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,72,Castellon Jan,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,73,Pietrobon Andrea,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,74,Clarke Simon,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,75,Ariño Gonzalo,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,76,Retegi Mikel,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,77,Gonçalves Hélder,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,78,Agirre Jon,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,79,Molenaar Alex,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,80,Pedrero Antonio,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,81,Reis Rafael,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,82,Aznar Unai,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,83,Sevilla Diego Pablo,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,84,Tercero Fernando,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,85,Lasa Ailetz,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,86,Silva Afonso,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,87,Nilsson-Julien Oscar,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,88,Martínez Victor,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,89,Magli Filippo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,90,Alvarez Alberto,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,91,Mestre Guilherme,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,92,Macias Cesar,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,93,Trueba Sergio,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,94,Mintegi Iker,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,95,Lonardi Giovanni,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,96,Torres Albert,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,97,D'Aiuto Filippo,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,98,Prieto José Antonio,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,99,Llaneras Pau,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,100,Ponomar Andrii,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,101,Carvalho Gonçalo,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,102,Esparza Unai,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,103,Cañellas Xavier,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,104,Nych Artem,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,105,Okamika Ander,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,106,Prieto José Juan,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,107,Dias Daniel,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,108,Mesa Santiago,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,109,Fernández Sinuhé,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,110,Martí Pau,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,111,Lima Daniel,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,112,Silva Pedro,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,113,Fonte César,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,114,Carvalho André,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,115,Castro Pinto Pedro,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,116,Campos Francisco,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,117,Salgueiro Carlos Miguel,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,118,Matias João,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,119,Sánchez Ángel,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,120,Dejesus Lois,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,121,Barbio António,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-4,2025-03-01,Stage 4,p3,Normal,DNF,Alves Francisco,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,1,Cort Magnus,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,2,Canal Carlos,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,3,Lonardi Giovanni,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,4,Macias Cesar,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,5,Maestri Mirco,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,6,Cañellas Xavier,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,7,Piganzoli Davide,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,8,Peñuela Francisco Joel,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,9,Prieto José Antonio,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,10,Pesenti Thomas,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,11,Cavia Daniel,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,12,Vansevenant Mauri,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,13,Peña Jesús David,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,14,Molenaar Alex,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,15,Chumil Sergio Geovani,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,16,Decomble Maxime,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,17,López Jordi,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,18,Fagúndez Eric Antonio,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,19,Fernández Rubén,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,20,Juaristi Txomin,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,21,Cobo Iván,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,22,Paletti Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,23,Covili Luca,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,24,Gee Derek,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,25,Soenens Viktor,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,26,Kulset Johannes,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,27,Cepeda Jefferson Alveiro,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,28,Arcas Jorge,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,29,Sevilla Diego Pablo,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,30,Tonelli Alessandro,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,31,Fuglsang Jakob,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,32,Løland Sakarias Koller,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,33,Dversnes Fredrik,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,34,Esparza Unai,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,35,Magli Filippo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,36,Fernández Samuel,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,37,Braz Afonso Clément,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,38,Burnett Josh,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,39,Swirbul Keegan,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,40,Tolio Alex,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,41,Scalco Matteo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,42,Sagrado Alvaro,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,43,Lopes Lucas,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,44,Daumas Rémi,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,45,Callejas Santos Edison Alejandro,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,46,Gonçalves Hélder,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,47,Silva Pedro,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,48,Marín José,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,49,Murguialday Jokin,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,50,Barbas Rafael,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,51,Oliveira Nelson,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,52,Pescador Diego,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,53,Diaz Alex,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,54,Fonte César,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,55,Dalby Simon,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,56,Wood Harrison,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,57,Castellon Jan,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,58,Berrade Urko,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,59,Arriola-Bengoa Julen,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,60,Agirre Jon,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,61,Silva Joaquim,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,62,Tercero Fernando,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,63,Retegi Mikel,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,64,Pinto Pedro,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,65,Pietrobon Andrea,Team Polti VisitMalta,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,66,Clarke Simon,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,67,Frigo Marco,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,68,Wenzel Mats,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,69,Houle Hugo,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,70,Carvalho Gonçalo,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,71,Carvalho André,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,72,Knox James,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,73,Caicedo Jonathan Klever,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,74,Fernández Delio,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,75,Martínez Victor,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,76,Rota Raúl,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,77,Llaneras Pau,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,78,Dias Daniel,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,79,Rochas Rémy,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,80,Prieto José Juan,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,81,Gonzalez Asier Pablo,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,82,Ganzabal Ander,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,83,Alustiza Nicolás,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,84,Turconi Filippo,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,85,Aznar Unai,Equipo Kern Pharma,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,86,Okamika Ander,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,87,Martí Pau,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,88,Fernández Sinuhé,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,89,Lasa Ailetz,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,90,Sainbayar Jambaljamts,Burgos Burpellet BH,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,91,Ariño Gonzalo,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,92,D'Aiuto Filippo,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,93,Bock Max,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,94,Alvarez Alberto,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,95,Nych Artem,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,96,Reis Rafael,Anicolor / Tien 21,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,97,Marcellusi Martin,VF Group - Bardiani CSF - Faizanè,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,98,Dejesus Lois,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,99,Servranckx Gauthier,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,100,Savino Federico,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,101,Salgueiro Carlos Miguel,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,102,Mestre Guilherme,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,103,Mesa Santiago,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,104,Urianstad Bugge Martin,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,105,Pedrero Antonio,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,106,Castro Pinto Pedro,Efapel Cycling,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,107,Lima Daniel,Israel - Premier Tech,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,108,Barbio António,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,DNF,Nilsson-Julien Oscar,Groupama - FDJ,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,DNF,Torres Albert,Movistar Team,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,DNF,Kron Andreas,Uno-X Mobility,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,DNF,Mintegi Iker,Euskaltel - Euskadi,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,DNF,Balderstone Abel,Caja Rural - Seguros RGA,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,DNF,Ponomar Andrii,Petrolike,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,DNF,Sánchez Ángel,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,DNF,Matias João,Tavfer-Ovos Matinados-Mortágua,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,DNF,Silva Afonso,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,DNF,Campos Francisco,APHotels & Resorts / Tavira / SC Farense,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,DNF,Leal Tiago,Rádio Popular - Paredes - Boavista,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,DNF,Trueba Sergio,Illes Balears Arabay,0,0,2025-03-02 20:22:30
+gran-camino,2025,stage-5,2025-03-02,Stage 5,p3,Normal,DNS,Warlop Jordi,Soudal Quick-Step,0,0,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,1,Gee Derek,Israel - Premier Tech,125,100,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,2,Piganzoli Davide,Team Polti VisitMalta,85,70,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,3,Cort Magnus,Uno-X Mobility,70,50,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,4,Cobo Iván,Equipo Kern Pharma,60,36,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,5,Fagúndez Eric Antonio,Burgos Burpellet BH,50,28,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,6,Chumil Sergio Geovani,Burgos Burpellet BH,40,24,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,7,Cepeda Jefferson Alveiro,Movistar Team,35,20,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,8,Soenens Viktor,Soudal Quick-Step,30,18,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,9,Vansevenant Mauri,Soudal Quick-Step,25,16,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,10,Kulset Johannes,Uno-X Mobility,20,14,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,11,Peña Jesús David,APHotels & Resorts / Tavira / SC Farense,15,12,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,12,Decomble Maxime,Groupama - FDJ,10,10,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,13,Juaristi Txomin,Euskaltel - Euskadi,5,8,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,14,Canal Carlos,Movistar Team,5,7,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,15,Paletti Luca,VF Group - Bardiani CSF - Faizanè,5,6,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,16,Fernández Rubén,Anicolor / Tien 21,3,5,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,17,Burnett Josh,Burgos Burpellet BH,3,4,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,18,Fernández Samuel,Caja Rural - Seguros RGA,3,3,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,19,Berrade Urko,Equipo Kern Pharma,3,2,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,20,Murguialday Jokin,Euskaltel - Euskadi,3,1,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,21,Dalby Simon,Uno-X Mobility,3,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,22,Callejas Santos Edison Alejandro,Petrolike,3,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,23,Fuglsang Jakob,Israel - Premier Tech,3,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,24,Swirbul Keegan,Efapel Cycling,3,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,25,Braz Afonso Clément,Groupama - FDJ,3,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,26,Covili Luca,VF Group - Bardiani CSF - Faizanè,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,27,Wood Harrison,Anicolor / Tien 21,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,28,Oliveira Nelson,Movistar Team,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,29,Dversnes Fredrik,Uno-X Mobility,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,30,Rochas Rémy,Groupama - FDJ,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,31,Caicedo Jonathan Klever,Petrolike,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,32,Tolio Alex,VF Group - Bardiani CSF - Faizanè,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,33,Knox James,Soudal Quick-Step,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,34,Frigo Marco,Israel - Premier Tech,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,35,Pinto Pedro,Efapel Cycling,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,36,Wenzel Mats,Equipo Kern Pharma,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,37,Lopes Lucas,Rádio Popular - Paredes - Boavista,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,38,Tonelli Alessandro,Team Polti VisitMalta,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,39,Peñuela Francisco Joel,Caja Rural - Seguros RGA,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,40,Arriola-Bengoa Julen,Caja Rural - Seguros RGA,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,41,Houle Hugo,Israel - Premier Tech,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,42,Marín José,Illes Balears Arabay,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,43,Pescador Diego,Movistar Team,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,44,Diaz Alex,Caja Rural - Seguros RGA,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,45,Sagrado Alvaro,Illes Balears Arabay,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,46,López Jordi,Euskaltel - Euskadi,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,47,Pesenti Thomas,Soudal Quick-Step,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,48,Daumas Rémi,Groupama - FDJ,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,49,Molenaar Alex,Caja Rural - Seguros RGA,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,50,Scalco Matteo,VF Group - Bardiani CSF - Faizanè,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,51,Alustiza Nicolás,Euskaltel - Euskadi,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,52,Silva Joaquim,Efapel Cycling,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,53,Agirre Jon,Euskaltel - Euskadi,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,54,Sainbayar Jambaljamts,Burgos Burpellet BH,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,55,Arcas Jorge,Movistar Team,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,56,Rota Raúl,Rádio Popular - Paredes - Boavista,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,57,Maestri Mirco,Team Polti VisitMalta,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,58,Gonçalves Hélder,Rádio Popular - Paredes - Boavista,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,59,Marcellusi Martin,VF Group - Bardiani CSF - Faizanè,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,60,Løland Sakarias Koller,Uno-X Mobility,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,61,Cavia Daniel,Burgos Burpellet BH,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,62,Castellon Jan,Caja Rural - Seguros RGA,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,63,Prieto José Antonio,Petrolike,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,64,Pietrobon Andrea,Team Polti VisitMalta,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,65,Tercero Fernando,Team Polti VisitMalta,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,66,Clarke Simon,Israel - Premier Tech,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,67,Barbas Rafael,Tavfer-Ovos Matinados-Mortágua,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,68,Gonzalez Asier Pablo,Illes Balears Arabay,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,69,Silva Pedro,Anicolor / Tien 21,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,70,Fernández Delio,APHotels & Resorts / Tavira / SC Farense,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,71,Fonte César,Rádio Popular - Paredes - Boavista,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,72,Bock Max,Groupama - FDJ,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,73,Turconi Filippo,VF Group - Bardiani CSF - Faizanè,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,74,Servranckx Gauthier,Soudal Quick-Step,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,75,Savino Federico,Soudal Quick-Step,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,76,Carvalho Gonçalo,Tavfer-Ovos Matinados-Mortágua,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,77,Retegi Mikel,Equipo Kern Pharma,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,78,Sevilla Diego Pablo,Team Polti VisitMalta,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,79,Lonardi Giovanni,Team Polti VisitMalta,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,80,Ganzabal Ander,Euskaltel - Euskadi,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,81,Magli Filippo,VF Group - Bardiani CSF - Faizanè,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,82,Cañellas Xavier,Anicolor / Tien 21,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,83,Prieto José Juan,Petrolike,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,84,Esparza Unai,Illes Balears Arabay,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,85,Pedrero Antonio,Movistar Team,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,86,Fernández Sinuhé,Burgos Burpellet BH,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,87,Carvalho André,Efapel Cycling,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,88,Urianstad Bugge Martin,Uno-X Mobility,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,89,Reis Rafael,Anicolor / Tien 21,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,90,Martí Pau,Israel - Premier Tech,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,91,Macias Cesar,Petrolike,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,92,Okamika Ander,Burgos Burpellet BH,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,93,D'Aiuto Filippo,Petrolike,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,94,Lasa Ailetz,APHotels & Resorts / Tavira / SC Farense,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,95,Llaneras Pau,Illes Balears Arabay,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,96,Aznar Unai,Equipo Kern Pharma,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,97,Ariño Gonzalo,Illes Balears Arabay,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,98,Martínez Victor,Anicolor / Tien 21,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,99,Nych Artem,Anicolor / Tien 21,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,100,Dias Daniel,Rádio Popular - Paredes - Boavista,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,101,Mesa Santiago,Efapel Cycling,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,102,Castro Pinto Pedro,Efapel Cycling,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,103,Alvarez Alberto,Rádio Popular - Paredes - Boavista,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,104,Lima Daniel,Israel - Premier Tech,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,105,Salgueiro Carlos Miguel,APHotels & Resorts / Tavira / SC Farense,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,106,Mestre Guilherme,APHotels & Resorts / Tavira / SC Farense,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,107,Dejesus Lois,Tavfer-Ovos Matinados-Mortágua,,,2025-03-02 20:22:30
+gran-camino,2025,gc,2025-03-02,gc,,,108,Barbio António,Tavfer-Ovos Matinados-Mortágua,,,2025-03-02 20:22:30
+omloop-het-nieuwsblad,2025,result,,result,,,1,Wærenskjold Søren,Uno-X Mobility,300,225,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,2,Magnier Paul,Soudal Quick-Step,250,150,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,3,Philipsen Jasper,Alpecin - Deceuninck,215,110,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,4,Van Moer Brent,Lotto,175,90,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,5,Watson Samuel,INEOS Grenadiers,120,80,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,6,Kubiš Lukáš,Unibet Tietema Rockets,115,70,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,7,Allegaert Piet,Cofidis,95,60,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,8,Albanese Vincenzo,EF Education - EasyPost,75,50,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,9,Van Den Berg Marijn,EF Education - EasyPost,60,46,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,10,Askey Lewis,Groupama - FDJ,50,42,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,11,Van Aert Wout,Team Visma | Lease a Bike,40,38,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,12,Trentin Matteo,Tudor Pro Cycling Team,35,34,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,13,Pedersen Rasmus Søjberg,Decathlon AG2R La Mondiale Team,30,30,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,14,Renard Alexis,Cofidis,25,26,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,15,Van Dijke Tim,Red Bull - BORA - hansgrohe,20,22,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,16,Vacek Mathias,Lidl - Trek,20,20,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,17,Livyns Arjen,Lotto,20,18,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,18,Bol Cees,XDS Astana Team,20,17,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,19,Teunissen Mike,XDS Astana Team,20,16,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,20,Stewart Jake,Israel - Premier Tech,20,15,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,21,Capiot Amaury,Arkéa - B&B Hotels,12,14,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,22,Naesen Oliver,Decathlon AG2R La Mondiale Team,12,13,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,23,Adrià Roger,Red Bull - BORA - hansgrohe,12,12,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,24,Pluimers Rick,Tudor Pro Cycling Team,12,11,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,25,Bissegger Stefan,Decathlon AG2R La Mondiale Team,12,10,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,26,Van Dijke Mick,Red Bull - BORA - hansgrohe,12,9,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,27,Reinders Elmar,Team Jayco AlUla,12,8,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,28,Louvel Matis,Israel - Premier Tech,12,7,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,29,Biermans Jenthe,Arkéa - B&B Hotels,12,6,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,30,Rex Laurenz,Intermarché - Wanty,12,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,31,Skujiņš Toms,Lidl - Trek,5,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,32,Küng Stefan,Groupama - FDJ,5,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,33,Dewulf Stan,Decathlon AG2R La Mondiale Team,5,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,34,Braet Vito,Intermarché - Wanty,5,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,35,Pedersen Casper,Soudal Quick-Step,5,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,36,De Vries Hartthijs,Unibet Tietema Rockets,5,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,37,Geniets Kevin,Groupama - FDJ,5,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,38,Pidcock Thomas,Q36.5 Pro Cycling Team,5,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,39,Wright Fred,Bahrain - Victorious,5,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,40,Asgreen Kasper,EF Education - EasyPost,5,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,41,Rutsch Jonas,Intermarché - Wanty,5,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,42,Morgado António,UAE Team Emirates - XRG,5,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,43,Narváez Jhonatan,UAE Team Emirates - XRG,5,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,44,Benoot Tiesj,Team Visma | Lease a Bike,5,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,45,Teuns Dylan,Cofidis,5,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,46,Wellens Tim,UAE Team Emirates - XRG,5,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,47,Tarling Joshua,INEOS Grenadiers,5,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,48,Stuyven Jasper,Lidl - Trek,5,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,49,Vermeersch Gianni,Alpecin - Deceuninck,5,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,50,Politt Nils,UAE Team Emirates - XRG,5,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,51,Lampaert Yves,Soudal Quick-Step,2,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,52,Jorgenson Matteo,Team Visma | Lease a Bike,2,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,53,Abrahamsen Jonas,Uno-X Mobility,2,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,54,Van Boven Luca,Intermarché - Wanty,2,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,55,Christen Fabio,Q36.5 Pro Cycling Team,2,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,56,Deweirdt Siebe,Team Flanders - Baloise,1,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,57,Eenkhoorn Pascal,Soudal Quick-Step,1,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,58,Vercouillie Victor,Team Flanders - Baloise,1,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,59,Tratnik Jan,Red Bull - BORA - hansgrohe,1,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,60,Van Den Berg Julius,Team Picnic PostNL,1,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,61,Leijnse Enzo,Team Picnic PostNL,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,62,Honoré Mikkel Frølich,EF Education - EasyPost,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,63,Meurisse Xandro,Alpecin - Deceuninck,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,64,Van Gestel Dries,Soudal Quick-Step,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,65,Groves Kaden,Alpecin - Deceuninck,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,66,Marit Arne,Intermarché - Wanty,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,67,Tiller Rasmus,Uno-X Mobility,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,68,Steimle Jannik,Q36.5 Pro Cycling Team,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,69,Brennan Matthew,Team Visma | Lease a Bike,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,70,Bjerg Mikkel,UAE Team Emirates - XRG,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,71,Van Asbroeck Tom,Israel - Premier Tech,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,72,Huens Axel,Unibet Tietema Rockets,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,73,Krijnsen Jelte,Team Jayco AlUla,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,74,Pasqualon Andrea,Bahrain - Victorious,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,75,Bystrøm Sven Erik,Groupama - FDJ,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,76,Flynn Sean,Team Picnic PostNL,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,77,De Bondt Dries,Decathlon AG2R La Mondiale Team,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,78,Vanhoof Ward,Team Flanders - Baloise,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,79,Stockman Abram,Unibet Tietema Rockets,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,80,O'Brien Kelland,Team Jayco AlUla,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,81,García Cortina Iván,Movistar Team,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,82,Barrenetxea Jon,Movistar Team,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,83,Thierry Pierre,Arkéa - B&B Hotels,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,84,Johannink Jelle,Unibet Tietema Rockets,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,85,De Lie Arnaud,Lotto,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,86,Skaarseth Anders,Uno-X Mobility,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,87,Ermakov Roman,Bahrain - Victorious,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,88,Grignard Sébastien,Lotto,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,89,Donaldson Robert,Team Jayco AlUla,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,90,Foldager Anders,Team Jayco AlUla,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,91,Beullens Cedric,Lotto,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,92,Doull Owain,EF Education - EasyPost,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,93,Blackmore Joseph,Israel - Premier Tech,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,94,Kopecký Tomáš,Unibet Tietema Rockets,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,95,Declercq Tim,Lidl - Trek,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,96,Hvideberg Jonas Iversby,Uno-X Mobility,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,97,Epis Giosuè,Arkéa - B&B Hotels,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,98,Shmidt Artem,INEOS Grenadiers,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,99,Sheehan Riley,Israel - Premier Tech,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,100,Herregodts Rune,UAE Team Emirates - XRG,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,101,Geleijn Owen,Unibet Tietema Rockets,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,102,Stannard Robert,Bahrain - Victorious,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,103,Dillier Silvan,Alpecin - Deceuninck,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,104,Russo Clément,Groupama - FDJ,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,105,Gazzoli Michele,XDS Astana Team,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,106,Hoole Daan,Lidl - Trek,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,107,Le Gac Olivier,Groupama - FDJ,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,108,Sénéchal Florian,Arkéa - B&B Hotels,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,109,Reinderink Pepijn,Soudal Quick-Step,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,110,Romele Alessandro,XDS Astana Team,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,111,Aular Orluis,Movistar Team,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,112,Vandenstorme Dylan,Team Flanders - Baloise,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,113,Gradek Kamil,Bahrain - Victorious,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,114,Gelders Gil,Soudal Quick-Step,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,115,Bettiol Alberto,XDS Astana Team,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,116,Heiduk Kim,INEOS Grenadiers,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,117,Lienhard Fabian,Tudor Pro Cycling Team,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,118,Swift Connor,INEOS Grenadiers,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,119,Jungels Bob,INEOS Grenadiers,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,120,Haller Marco,Tudor Pro Cycling Team,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,121,Turner Ben,INEOS Grenadiers,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,122,Theuns Edward,Lidl - Trek,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,123,Gudmestad Tord,Decathlon AG2R La Mondiale Team,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,124,Hagenes Per Strand,Team Visma | Lease a Bike,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,125,Riesebeek Oscar,Alpecin - Deceuninck,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,126,Lazkano Oier,Red Bull - BORA - hansgrohe,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,127,De Gendt Aimé,Cofidis,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,128,Mayrhofer Marius,Tudor Pro Cycling Team,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,129,Schelling Ide,XDS Astana Team,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,130,Valgren Michael,EF Education - EasyPost,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,131,De Buyst Jasper,Lotto,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,132,Campenaerts Victor,Team Visma | Lease a Bike,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,133,Froidevaux Robin,Tudor Pro Cycling Team,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,134,Ghys Robbe,Alpecin - Deceuninck,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,135,Taminiaux Lionel,Lotto,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,136,Coquard Bryan,Cofidis,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,137,Ballerini Davide,XDS Astana Team,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,138,Norsgaard Mathias,Movistar Team,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,139,Mahoudo Nolann,Cofidis,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,140,Vermeersch Florian,UAE Team Emirates - XRG,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,141,Jacobs Johan,Groupama - FDJ,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,142,Zukowsky Nickolas,Q36.5 Pro Cycling Team,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,143,Scotson Miles,Arkéa - B&B Hotels,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,144,Deman Brem,Team Flanders - Baloise,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,145,Kelemen Petr,Tudor Pro Cycling Team,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,146,Pollefliet Gianluca,Decathlon AG2R La Mondiale Team,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,147,Teutenberg Tim Torn,Lidl - Trek,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,148,Jansen Amund Grøndahl,Uno-X Mobility,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,149,Robeet Ludovic,Cofidis,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,150,Mohorič Matej,Bahrain - Victorious,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,151,Affini Edoardo,Team Visma | Lease a Bike,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,152,Govekar Matevž,Bahrain - Victorious,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,153,Stewart Campbell,Team Jayco AlUla,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,154,Sütterlin Jasha,Team Jayco AlUla,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,155,Moro Manlio,Movistar Team,,5,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,DNF,Eddy Patrick,Team Picnic PostNL,,,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,DNF,Colman Alex,Team Flanders - Baloise,,,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,DNF,Milesi Lorenzo,Movistar Team,,,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,DNF,Petit Adrien,Intermarché - Wanty,,,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,DNF,Vandevelde Yentl,Team Flanders - Baloise,,,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,DNF,Parisini Nicolò,Q36.5 Pro Cycling Team,,,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,DNF,Małecki Kamil,Q36.5 Pro Cycling Team,,,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,DNF,Frison Frederik,Q36.5 Pro Cycling Team,,,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,DNF,Resell Erik Nordsæter,Uno-X Mobility,,,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,DNF,Boivin Guillaume,Israel - Premier Tech,,,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,DNF,Naberman Tim,Team Picnic PostNL,,,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,DNF,Degenkolb John,Team Picnic PostNL,,,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,DNF,Cimolai Davide,Movistar Team,,,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,DNF,Mihkels Madis,EF Education - EasyPost,,,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,DNF,Grondin Donavan,Arkéa - B&B Hotels,,,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,DNF,Van Sintmaartensdijk Roel,Intermarché - Wanty,,,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,DNF,Meeus Jordi,Red Bull - BORA - hansgrohe,,,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,DNF,Mullen Ryan,Red Bull - BORA - hansgrohe,,,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,DNF,Pickrell Riley,Israel - Premier Tech,,,2025-03-02 20:22:51
+omloop-het-nieuwsblad,2025,result,,result,,,DNS,Edmondson Alex,Team Picnic PostNL,,,2025-03-02 20:22:51
+kuurne-brussel-kuurne,2025,result,,result,,,1,Philipsen Jasper,Alpecin - Deceuninck,200,125,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,2,Kooij Olav,Team Visma | Lease a Bike,150,85,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,3,Hofstetter Hugo,Israel - Premier Tech,125,60,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,4,Marit Arne,Intermarché - Wanty,100,50,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,5,Pluimers Rick,Tudor Pro Cycling Team,85,45,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,6,Milan Jonathan,Lidl - Trek,70,40,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,7,Van Den Berg Marijn,EF Education - EasyPost,60,35,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,8,Bittner Pavel,Team Picnic PostNL,50,30,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,9,Kubiš Lukáš,Unibet Tietema Rockets,40,26,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,10,Fretin Milan,Cofidis,35,22,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,11,Meeus Jordi,Red Bull - BORA - hansgrohe,30,20,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,12,Braet Vito,Intermarché - Wanty,25,18,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,13,Mozzato Luca,Arkéa - B&B Hotels,20,16,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,14,Démare Arnaud,Arkéa - B&B Hotels,15,14,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,15,Merlier Tim,Soudal Quick-Step,10,12,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,16,Askey Lewis,Groupama - FDJ,5,10,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,17,Bennett Sam,Decathlon AG2R La Mondiale Team,5,9,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,18,Wright Fred,Bahrain - Victorious,5,8,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,19,Abrahamsen Jonas,Uno-X Mobility,5,7,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,20,Bol Cees,XDS Astana Team,5,6,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,21,Naesen Oliver,Decathlon AG2R La Mondiale Team,5,5,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,22,García Cortina Iván,Movistar Team,5,4,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,23,Hesters Jules,Team Flanders - Baloise,5,3,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,24,Beullens Cedric,Lotto,5,2,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,25,Mayrhofer Marius,Tudor Pro Cycling Team,5,1,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,26,Reinders Elmar,Team Jayco AlUla,5,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,27,Doull Owain,EF Education - EasyPost,5,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,28,Barrenetxea Jon,Movistar Team,5,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,29,Teunissen Mike,XDS Astana Team,5,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,30,Oliveira Rui,UAE Team Emirates - XRG,5,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,31,Ballerini Davide,XDS Astana Team,3,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,32,Barthe Cyril,Groupama - FDJ,3,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,33,Boivin Guillaume,Israel - Premier Tech,3,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,34,Bloem Joren,Unibet Tietema Rockets,3,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,35,Allegaert Piet,Cofidis,3,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,36,De Schuyteneer Steffen,Lotto,3,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,37,Van Dijke Mick,Red Bull - BORA - hansgrohe,3,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,38,Stuyven Jasper,Lidl - Trek,3,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,39,Capiot Amaury,Arkéa - B&B Hotels,3,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,40,Degenkolb John,Team Picnic PostNL,3,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,41,Rickaert Jonas,Alpecin - Deceuninck,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,42,Pedersen Rasmus Søjberg,Decathlon AG2R La Mondiale Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,43,Politt Nils,UAE Team Emirates - XRG,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,44,Narváez Jhonatan,UAE Team Emirates - XRG,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,45,Zukowsky Nickolas,Q36.5 Pro Cycling Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,46,Aniołkowski Stanisław,Cofidis,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,47,Tiller Rasmus,Uno-X Mobility,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,48,Sénéchal Florian,Arkéa - B&B Hotels,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,49,Van Dijke Tim,Red Bull - BORA - hansgrohe,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,50,Desal Ceriel,Wagner Bazin WB,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,51,De Vries Hartthijs,Unibet Tietema Rockets,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,52,Vanhoof Ward,Team Flanders - Baloise,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,53,Lanhove Milan,Team Flanders - Baloise,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,54,Taminiaux Lionel,Lotto,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,55,Rutsch Jonas,Intermarché - Wanty,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,56,Le Huitouze Eddy,Groupama - FDJ,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,57,Groves Kaden,Alpecin - Deceuninck,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,58,Hvideberg Jonas Iversby,Uno-X Mobility,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,59,Dewulf Stan,Decathlon AG2R La Mondiale Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,60,Teuns Dylan,Cofidis,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,61,Vermeersch Florian,UAE Team Emirates - XRG,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,62,Benoot Tiesj,Team Visma | Lease a Bike,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,63,Russo Clément,Groupama - FDJ,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,64,Jacobs Johan,Groupama - FDJ,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,65,Stokbro Andreas,Unibet Tietema Rockets,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,66,Jorgenson Matteo,Team Visma | Lease a Bike,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,67,Van Moer Brent,Lotto,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,68,Pasqualon Andrea,Bahrain - Victorious,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,69,Lampaert Yves,Soudal Quick-Step,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,70,Stewart Jake,Israel - Premier Tech,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,71,Wellens Tim,UAE Team Emirates - XRG,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,72,Svrček Martin,Soudal Quick-Step,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,73,Adrià Roger,Red Bull - BORA - hansgrohe,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,74,Campenaerts Victor,Team Visma | Lease a Bike,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,75,Van Aert Wout,Team Visma | Lease a Bike,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,76,Skaarseth Anders,Uno-X Mobility,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,77,Kielich Timo,Alpecin - Deceuninck,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,78,Gazzoli Michele,XDS Astana Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,79,Honoré Mikkel Frølich,EF Education - EasyPost,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,80,Kopecký Tomáš,Unibet Tietema Rockets,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,81,Van Gestel Dries,Soudal Quick-Step,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,82,Skujiņš Toms,Lidl - Trek,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,83,Livyns Arjen,Lotto,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,84,Van Lerberghe Bert,Soudal Quick-Step,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,85,Aular Orluis,Movistar Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,86,Albanese Vincenzo,EF Education - EasyPost,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,87,Vacek Mathias,Lidl - Trek,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,88,Flynn Sean,Team Picnic PostNL,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,89,De Gendt Aimé,Cofidis,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,90,Asgreen Kasper,EF Education - EasyPost,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,91,Trentin Matteo,Tudor Pro Cycling Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,92,Valgren Michael,EF Education - EasyPost,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,93,Louvel Matis,Israel - Premier Tech,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,94,Coquard Bryan,Cofidis,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,95,Segaert Alec,Lotto,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,96,Blume Levy William,Uno-X Mobility,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,97,Froidevaux Robin,Tudor Pro Cycling Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,98,Reinderink Pepijn,Soudal Quick-Step,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,99,De Bondt Dries,Decathlon AG2R La Mondiale Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,100,Vangheluwe Warre,Soudal Quick-Step,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,101,Hoole Daan,Lidl - Trek,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,102,Bissegger Stefan,Decathlon AG2R La Mondiale Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,103,Bjerg Mikkel,UAE Team Emirates - XRG,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,104,Donaldson Robert,Team Jayco AlUla,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,105,Reynders Jens,Wagner Bazin WB,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,106,Van Petegem Axandre,Wagner Bazin WB,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,107,Steimle Jannik,Q36.5 Pro Cycling Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,108,Stockman Abram,Unibet Tietema Rockets,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,109,Kanter Max,XDS Astana Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,110,Parisini Nicolò,Q36.5 Pro Cycling Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,111,Epis Giosuè,Arkéa - B&B Hotels,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,112,Lambrecht Michiel,Wagner Bazin WB,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,113,Price-Pejtersen Johan,Alpecin - Deceuninck,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,114,Van Hautegem Leander,Wagner Bazin WB,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,115,Stannard Robert,Bahrain - Victorious,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,116,Davy Clément,Groupama - FDJ,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,117,Walscheid Max,Team Jayco AlUla,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,118,Theuns Edward,Lidl - Trek,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,119,Gudmestad Tord,Decathlon AG2R La Mondiale Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,120,Moschetti Matteo,Q36.5 Pro Cycling Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,121,Van Mechelen Vlad,Bahrain - Victorious,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,122,Artz Huub,Intermarché - Wanty,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,123,Romele Alessandro,XDS Astana Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,124,O'Brien Kelland,Team Jayco AlUla,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,125,Moro Manlio,Movistar Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,126,Van Der Hoorn Taco,Intermarché - Wanty,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,127,Tratnik Jan,Red Bull - BORA - hansgrohe,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,128,Sheehan Riley,Israel - Premier Tech,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,129,Pickrell Riley,Israel - Premier Tech,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,130,Christen Fabio,Q36.5 Pro Cycling Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,131,Lienhard Fabian,Tudor Pro Cycling Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,132,Van Belle Loe,Team Visma | Lease a Bike,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,133,Affini Edoardo,Team Visma | Lease a Bike,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Van Den Berg Julius,Team Picnic PostNL,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Norsgaard Mathias,Movistar Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Scotson Miles,Arkéa - B&B Hotels,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Herregodts Rune,UAE Team Emirates - XRG,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Grondin Donavan,Arkéa - B&B Hotels,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Leijnse Enzo,Team Picnic PostNL,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Jansen Amund Grøndahl,Uno-X Mobility,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Mullen Ryan,Red Bull - BORA - hansgrohe,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Wærenskjold Søren,Uno-X Mobility,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Bruttomesso Alberto,Bahrain - Victorious,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Eddy Patrick,Team Picnic PostNL,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Govekar Matevž,Bahrain - Victorious,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Dillier Silvan,Alpecin - Deceuninck,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Dehairs Simon,Alpecin - Deceuninck,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Sütterlin Jasha,Team Jayco AlUla,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Kramer Jesse,Team Jayco AlUla,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Van Rooy Kenneth,Wagner Bazin WB,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Krijnsen Jelte,Team Jayco AlUla,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Naberman Tim,Team Picnic PostNL,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Vliegen Loïc,Wagner Bazin WB,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Milesi Lorenzo,Movistar Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Schelling Ide,XDS Astana Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Söderqvist Jakob,Lidl - Trek,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Deweirdt Siebe,Team Flanders - Baloise,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Renard Alexis,Cofidis,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Vandenbranden Noah,Team Flanders - Baloise,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Schwarzmann Michael,Israel - Premier Tech,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Vandevelde Yentl,Team Flanders - Baloise,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Crabbe Tom,Team Flanders - Baloise,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Nielsen Sebastian,Unibet Tietema Rockets,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Cimolai Davide,Movistar Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Van Sintmaartensdijk Roel,Intermarché - Wanty,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Kelemen Petr,Tudor Pro Cycling Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Krieger Alexander,Tudor Pro Cycling Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Nizzolo Giacomo,Q36.5 Pro Cycling Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,De Pooter Dries,Intermarché - Wanty,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Penhoët Paul,Groupama - FDJ,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Małecki Kamil,Q36.5 Pro Cycling Team,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Lazkano Oier,Red Bull - BORA - hansgrohe,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Grignard Sébastien,Lotto,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNF,Mohorič Matej,Bahrain - Victorious,,,2025-03-02 20:23:07
+kuurne-brussel-kuurne,2025,result,,result,,,DNS,Mihkels Madis,EF Education - EasyPost,,,2025-03-02 20:23:07

@@ -88,7 +88,7 @@
       <td>Pedersen Mads</td>
       <td>Pedersen Mads</td>
       <td>Van Eetvelt Lennert</td>
-      <td>Van Der Poel Mathieu</td>
+      <td class = "startlist">Van Der Poel Mathieu</td>
       <td>Milan Jonathan</td>
       <td>Philipsen Jasper</td>
       <td>Milan Jonathan</td>
@@ -298,7 +298,7 @@
       <td>Welsford Sam</td>
       <td>Brennan Matthew</td>
       <td>Laurance Axel</td>
-      <td class = "startlist">Penhoët Paul</td>
+      <td>Penhoët Paul</td>
       <td>Van Baarle Dylan</td>
       <td>Teuns Dylan</td>
       <td>Andresen Tobias Lund</td>
@@ -310,7 +310,7 @@
       <th>19</th>
       <td>20</td>
       <td>Andresen Tobias Lund</td>
-      <td class = "startlist">Uhlig Henri</td>
+      <td>Uhlig Henri</td>
       <td>Andresen Tobias Lund</td>
       <td class = "startlist">Rex Laurenz</td>
       <td>Brennan Matthew</td>
