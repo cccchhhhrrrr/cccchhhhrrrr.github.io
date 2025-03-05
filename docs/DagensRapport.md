@@ -4,6 +4,21 @@ hide:
   - toc
 ---
 
+## 2025-03-05
+### Hovedspillet
+Ayuso, Juan **35** (Hustlersen, Kenk)  
+Powless, Neilson **22** (Jappo)  
+Sheffield, Magnus **14** (Okholm)  
+
+### Cheapo
+Barré, Louis **10** (Chrelle, Knak)  
+Vercher, Mattéo **8** (Knak)  
+Costiou, Ewen **4** (Jappo, Kenk, Knak)  
+
+
+
+
+
 ## 2025-03-04
 ### Hovedspillet
 Poel, Mathieu van der **35** (Jarma)  

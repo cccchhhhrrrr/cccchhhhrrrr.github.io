@@ -8790,6 +8790,862 @@ hide:
       <td>stage-2: 3 / stage-3: 12 / stage-5: 12 / gc: 50</td>
     </tr>
     <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Arrieta, Igor</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Ayuso, Juan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>35</td>
+      <td>result: 35</td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Badilatti, Matteo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Baguelin, Jocelyn</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Bais, Davide</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Bais, Mattia</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Baldaccini, Davide</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Balmer, Alexandre</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Baroncini, Filippo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Barré, Louis</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>10</td>
+      <td>result: 10</td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Battistella, Samuele</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Bettiol, Alberto</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>12</td>
+      <td>result: 12</td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Bonneu, Kamiel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Bou, Joan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Boulahoite, Rayan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Bouwman, Koen</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Brambilla, Gianluca</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Burgaudeau, Mathieu</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Calzoni, Walter</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Carboni, Giovanni</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>18</td>
+      <td>result: 18</td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Cepeda, Jefferson Alexander</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Christen, Fabio</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Colleoni, Kevin</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Conci, Nicola</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Conti, Valerio</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Costiou, Ewen</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>4</td>
+      <td>result: 4</td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Covi, Alessandro</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Covili, Luca</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>De Cassan, Davide</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>De Marchi, Alessandro</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>De Pretto, Davide</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>5</td>
+      <td>result: 5</td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Delettre, Alexandre</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Diaz, Alex</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Eiking, Odd Christian</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Engelhardt, Felix</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Eriksson, Jacob</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Faure Prost, Alexy</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Ferron, Valentin</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Foldager, Anders</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Fraile, Omar</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Geleijn, Owen</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>González, Abner</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>González, Roberto</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Hellemose, Asbjørn</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Herrada, Jesús</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>result: 1</td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Honoré, Mikkel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Huyet, Baptiste</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Izquierdo, Clément</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Jegat, Jordan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Kwiatkowski, Michal</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>3</td>
+      <td>result: 3</td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Lastra, Jonathan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Latour, Pierre</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Laurance, Axel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Le Berre, Mathis</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Leonard, Michael</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Lopez, Joseba</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Maas, Jan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Maire, Adrien</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Martín, Alex</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Matthys, Louka</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Meens, Johan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Meris, Sergio</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Molenaar, Alex</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Moniquet, Sylvain</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Morgado, António</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Nerurkar, Lukas</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Paletti, Luca</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Persico, Davide</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Petilli, Simone</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Peñuela, Francisco</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Pidcock, Joe</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Pinarello, Alessandro</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>2</td>
+      <td>result: 2</td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Powless, Neilson</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>22</td>
+      <td>result: 22</td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Prades, Eduard</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Puccio, Salvatore</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Rafferty, Darren</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Ries, Michel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Rota, Lorenzo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Ryan, Archie</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Sbaragli, Kristian</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Scalco, Matteo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Scaroni, Christian</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>30</td>
+      <td>result: 30</td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Serrano, Javi</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Sevilla, Diego Pablo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Sheffield, Magnus</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>14</td>
+      <td>result: 14</td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Shmidt, Artem</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Storer, Michael</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>26</td>
+      <td>result: 26</td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Tarozzi, Manuele</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Thalmann, Roland</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Thomas, Benjamin</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Tier, Floris De</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Tissières, Arnaud</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Tizza, Marco</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Tolio, Alex</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Toupalík, Adam</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Tsarenko, Kyrylo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Ulissi, Diego</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Vanhoucke, Harm</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Velasco, Simone</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Vercher, Mattéo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>8</td>
+      <td>result: 8</td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Verre, Alessandro</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Villa, Giacomo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Warbasse, Larry</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Weiss, Fabian</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Wilksch, Hannes</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Zana, Filippo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trofeo Laigueglia</td>
+      <td>Zoccarato, Samuele</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>UAE Tour</td>
       <td>Andresen, Tobias Lund</td>
       <td>Tour Cat. 2</td>

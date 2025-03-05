@@ -120,7 +120,7 @@
       <td class = "startlist">Almeida João</td>
       <td>Pidcock Thomas</td>
       <td>Rodríguez Carlos</td>
-      <td>Lipowitz Florian</td>
+      <td class = "startlist">Lipowitz Florian</td>
       <td>Van Eetvelt Lennert</td>
       <td>Kooij Olav</td>
     </tr>
@@ -212,7 +212,7 @@
       <th>12</th>
       <td>13</td>
       <td class = "startlist">Plapp Luke</td>
-      <td class = "startlist">Welsford Sam</td>
+      <td>Welsford Sam</td>
       <td>Nys Thibau</td>
       <td>Magnier Paul</td>
       <td>Kron Andreas</td>
@@ -233,7 +233,7 @@
       <td>Strong Corbin</td>
       <td>Nys Thibau</td>
       <td class = "startlist">Martinez Lenny</td>
-      <td class = "startlist">Welsford Sam</td>
+      <td>Welsford Sam</td>
       <td>Magnier Paul</td>
     </tr>
     <tr>
@@ -274,7 +274,7 @@
       <td class = "startlist">Andresen Tobias Lund</td>
       <td class = "startlist">Trentin Matteo</td>
       <td>Mihkels Madis</td>
-      <td class = "startlist">Adrià Roger</td>
+      <td>Adrià Roger</td>
       <td class = "startlist">Zingle Axel</td>
       <td>Mihkels Madis</td>
     </tr>
@@ -295,7 +295,7 @@
     <tr>
       <th>18</th>
       <td>19</td>
-      <td class = "startlist">Welsford Sam</td>
+      <td>Welsford Sam</td>
       <td>Brennan Matthew</td>
       <td>Laurance Axel</td>
       <td>Penhoët Paul</td>

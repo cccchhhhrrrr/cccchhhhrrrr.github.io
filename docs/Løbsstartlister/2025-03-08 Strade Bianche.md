@@ -147,7 +147,7 @@
       <td class = "startlist">Landa Mikel</td>
       <td>Kooij Olav</td>
       <td>Girmay Biniam</td>
-      <td class = "startlist">Van Gils Maxim</td>
+      <td>Van Gils Maxim</td>
       <td>Yates Simon</td>
       <td>Merlier Tim</td>
       <td class = "startlist">Landa Mikel</td>
@@ -159,7 +159,7 @@
       <td>Narváez Jhonatan</td>
       <td>Girmay Biniam</td>
       <td>Geoghegan Hart Tao</td>
-      <td class = "startlist">Van Gils Maxim</td>
+      <td>Van Gils Maxim</td>
       <td class = "startlist">Hirschi Marc</td>
       <td>Merlier Tim</td>
       <td>Onley Oscar</td>
@@ -244,10 +244,10 @@
       <td>Martinez Lenny</td>
       <td>Schmid Mauro</td>
       <td class = "startlist">Bagioli Andrea</td>
-      <td class = "startlist">Lapeira Paul</td>
+      <td>Lapeira Paul</td>
       <td>Martinez Lenny</td>
       <td>Sivakov Pavel</td>
-      <td class = "startlist">Lapeira Paul</td>
+      <td>Lapeira Paul</td>
       <td>Schmid Mauro</td>
     </tr>
     <tr>
