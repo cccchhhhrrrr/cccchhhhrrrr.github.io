@@ -4,6 +4,25 @@ hide:
   - toc
 ---
 
+## 2025-03-08
+### Hovedspillet
+Pogačar, Tadej **120** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
+Pidcock, Tom **100** (Chrelle, Jappo, Knak)  
+Healy, Ben **70** (Knak)  
+Eetvelt, Lennert Van **30** (Jappo, Kenk, Tommy)  
+Adrià, Roger **25** (Okholm)  
+Landa, Mikel **20** (Jappo, Jarma, Visti)  
+Vermeersch, Florian **8** (Kenk, Visti)  
+Hirschi, Marc **2** (Hustlersen, Jappo, Knak)  
+Withen Philipsen, Albert **1** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Okholm, Tommy)  
+
+### Cheapo
+Dversnes, Fredrik **5** (Chrelle, Hustlersen, Jappo, Kenk)  
+
+
+
+
+
 ## 2025-03-05
 ### Hovedspillet
 Ayuso, Juan **35** (Hustlersen, Kenk)  

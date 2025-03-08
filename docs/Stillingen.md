@@ -45,72 +45,72 @@ hide:
     <tr>
       <td>Chrelle</td>
       <td>350.0</td>
-      <td>176</td>
-      <td>1392</td>
-      <td>7.91</td>
+      <td>181</td>
+      <td>1613</td>
+      <td>8.91</td>
     </tr>
     <tr>
       <td>Jappo</td>
       <td>350.0</td>
-      <td>167</td>
-      <td>1249</td>
-      <td>7.48</td>
+      <td>173</td>
+      <td>1522</td>
+      <td>8.80</td>
     </tr>
     <tr>
       <td>Kenk</td>
       <td>349.9</td>
-      <td>161</td>
-      <td>1246</td>
-      <td>7.74</td>
+      <td>167</td>
+      <td>1405</td>
+      <td>8.41</td>
     </tr>
     <tr>
       <td>Hustlersen</td>
       <td>327.8</td>
-      <td>164</td>
-      <td>1178</td>
-      <td>7.18</td>
-    </tr>
-    <tr>
-      <td>Matti</td>
-      <td>349.1</td>
-      <td>172</td>
-      <td>1085</td>
-      <td>6.31</td>
-    </tr>
-    <tr>
-      <td>Okholm</td>
-      <td>350.0</td>
-      <td>170</td>
-      <td>1083</td>
-      <td>6.37</td>
-    </tr>
-    <tr>
-      <td>Jarma</td>
-      <td>350.0</td>
-      <td>139</td>
-      <td>983</td>
-      <td>7.07</td>
-    </tr>
-    <tr>
-      <td>Tommy</td>
-      <td>350.0</td>
-      <td>150</td>
-      <td>980</td>
-      <td>6.53</td>
+      <td>168</td>
+      <td>1301</td>
+      <td>7.74</td>
     </tr>
     <tr>
       <td>Knak</td>
       <td>349.8</td>
-      <td>143</td>
-      <td>952</td>
-      <td>6.66</td>
+      <td>153</td>
+      <td>1245</td>
+      <td>8.14</td>
+    </tr>
+    <tr>
+      <td>Okholm</td>
+      <td>350.0</td>
+      <td>176</td>
+      <td>1229</td>
+      <td>6.98</td>
+    </tr>
+    <tr>
+      <td>Tommy</td>
+      <td>350.0</td>
+      <td>153</td>
+      <td>1131</td>
+      <td>7.39</td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>350.0</td>
+      <td>144</td>
+      <td>1123</td>
+      <td>7.80</td>
+    </tr>
+    <tr>
+      <td>Matti</td>
+      <td>349.1</td>
+      <td>173</td>
+      <td>1086</td>
+      <td>6.28</td>
     </tr>
     <tr>
       <td>Visti</td>
       <td>350.0</td>
-      <td>150</td>
-      <td>938</td>
-      <td>6.25</td>
+      <td>154</td>
+      <td>1086</td>
+      <td>7.05</td>
     </tr>
   </tbody>
 </table>

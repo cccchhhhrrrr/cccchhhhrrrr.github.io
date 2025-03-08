@@ -215,7 +215,7 @@
       <td>Welsford Sam</td>
       <td>Nys Thibau</td>
       <td>Magnier Paul</td>
-      <td class = "startlist">Kron Andreas</td>
+      <td>Kron Andreas</td>
       <td>Martinez Lenny</td>
       <td>Castrillo Pablo</td>
       <td class = "startlist">Vacek Mathias</td>
@@ -288,7 +288,7 @@
       <td class = "startlist">Vermeersch Florian</td>
       <td>Segaert Alec</td>
       <td>Laurance Axel</td>
-      <td class = "startlist">De Plus Laurens</td>
+      <td>De Plus Laurens</td>
       <td>Segaert Alec</td>
       <td>Segaert Alec</td>
     </tr>
@@ -310,7 +310,7 @@
       <th>19</th>
       <td>20</td>
       <td>Andresen Tobias Lund</td>
-      <td class = "startlist">Uhlig Henri</td>
+      <td>Uhlig Henri</td>
       <td>Andresen Tobias Lund</td>
       <td>Rex Laurenz</td>
       <td>Brennan Matthew</td>

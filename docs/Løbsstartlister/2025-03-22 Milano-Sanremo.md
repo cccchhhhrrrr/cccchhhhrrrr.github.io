@@ -199,7 +199,7 @@
       <td>12</td>
       <td>Hayter Ethan</td>
       <td>Plapp Luke</td>
-      <td>Powless Neilson</td>
+      <td class = "startlist">Powless Neilson</td>
       <td>Poole Max</td>
       <td class = "startlist">Magnier Paul</td>
       <td class = "startlist">Grégoire Romain</td>
