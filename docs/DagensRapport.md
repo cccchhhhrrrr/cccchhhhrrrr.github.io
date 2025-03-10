@@ -4,6 +4,40 @@ hide:
   - toc
 ---
 
+## 2025-03-10
+### Hovedspillet
+Merlier, Tim **25** (Jappo, Knak, Matti, Tommy)  
+Ayuso, Juan **20** (Hustlersen, Kenk)  
+Jeanniere, Emilien **20** (Chrelle, Jappo, Knak)  
+Pedersen, Mads **16** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
+Milan, Jonathan **12** (Jarma, Kenk, Matti, Okholm, Visti)  
+Gee, Derek **10** (Jappo, Okholm)  
+Zingle, Axel **10** (Tommy, Visti)  
+Del Grosso, Tibor **2** (Jarma)  
+
+### Cheapo
+Price-Pejtersen, Johan **16** (Jappo)  
+Kielich, Timo **12** (Kenk, Visti)  
+Del Grosso, Tibor **2** (Chrelle, Jappo, Jarma, Kenk)  
+
+
+
+
+
+## 2025-03-09
+### Hovedspillet
+Merlier, Tim **25** (Jappo, Knak, Matti, Tommy)  
+Zingle, Axel **12** (Tommy, Visti)  
+Pedersen, Mads **1** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
+
+### Cheapo
+Dijke, Mick van **8** (Jarma, Kenk, Visti)  
+Kielich, Timo **6** (Kenk, Visti)  
+
+
+
+
+
 ## 2025-03-08
 ### Hovedspillet
 Pogačar, Tadej **120** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
