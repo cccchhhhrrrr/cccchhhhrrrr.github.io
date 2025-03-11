@@ -1222,13 +1222,13 @@ hide:
     </tr>
     <tr>
       <td>Bennett, Sam</td>
-      <td>30</td>
+      <td>40</td>
       <td>0</td>
       <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>10</td>
+      <td>25.0</td>
       <td>30</td>
-      <td>100.0</td>
+      <td>75.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -2342,19 +2342,19 @@ hide:
     </tr>
     <tr>
       <td>Capiot, Amaury</td>
-      <td>10</td>
+      <td>11</td>
       <td>0</td>
       <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>1</td>
+      <td>9.1</td>
       <td>2</td>
-      <td>20.0</td>
+      <td>18.2</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>8</td>
-      <td>80.0</td>
+      <td>72.7</td>
     </tr>
     <tr>
       <td>Carapaz, Richard</td>
@@ -2934,11 +2934,11 @@ hide:
     </tr>
     <tr>
       <td>Consonni, Simone</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>12</td>
       <td>0</td>
       <td>0.0</td>
+      <td>12</td>
+      <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -2966,17 +2966,17 @@ hide:
     </tr>
     <tr>
       <td>Coquard, Bryan</td>
-      <td>66</td>
+      <td>70</td>
       <td>0</td>
       <td>0.0</td>
-      <td>61</td>
-      <td>92.4</td>
+      <td>65</td>
+      <td>92.9</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>5</td>
-      <td>7.6</td>
+      <td>7.1</td>
       <td>0</td>
       <td>0.0</td>
     </tr>
@@ -3766,17 +3766,17 @@ hide:
     </tr>
     <tr>
       <td>Dijke, Tim van</td>
-      <td>6</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>12</td>
       <td>0</td>
       <td>0.0</td>
       <td>6</td>
-      <td>100.0</td>
+      <td>50.0</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>6</td>
+      <td>50.0</td>
       <td>0</td>
       <td>0.0</td>
     </tr>
@@ -7174,19 +7174,19 @@ hide:
     </tr>
     <tr>
       <td>Kooij, Olav</td>
-      <td>60</td>
+      <td>74</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>14</td>
+      <td>18.9</td>
+      <td>30</td>
+      <td>40.5</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>30</td>
-      <td>50.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>30</td>
-      <td>50.0</td>
+      <td>40.5</td>
     </tr>
     <tr>
       <td>Kopecký, Matyáš</td>
@@ -8982,19 +8982,19 @@ hide:
     </tr>
     <tr>
       <td>Milan, Jonathan</td>
-      <td>135</td>
+      <td>160</td>
       <td>0</td>
       <td>0.0</td>
-      <td>94</td>
-      <td>69.6</td>
+      <td>119</td>
+      <td>74.4</td>
       <td>27</td>
-      <td>20.0</td>
+      <td>16.9</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>14</td>
-      <td>10.4</td>
+      <td>8.8</td>
     </tr>
     <tr>
       <td>Milesi, Lorenzo</td>
@@ -10134,13 +10134,13 @@ hide:
     </tr>
     <tr>
       <td>Penhoët, Paul</td>
-      <td>11</td>
+      <td>27</td>
       <td>0</td>
       <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>16</td>
+      <td>59.3</td>
       <td>11</td>
-      <td>100.0</td>
+      <td>40.7</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -12438,17 +12438,17 @@ hide:
     </tr>
     <tr>
       <td>Stewart, Jake</td>
-      <td>35</td>
+      <td>43</td>
       <td>0</td>
       <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>8</td>
+      <td>18.6</td>
       <td>34</td>
-      <td>97.1</td>
+      <td>79.1</td>
       <td>0</td>
       <td>0.0</td>
       <td>1</td>
-      <td>2.9</td>
+      <td>2.3</td>
       <td>0</td>
       <td>0.0</td>
     </tr>
@@ -13462,13 +13462,13 @@ hide:
     </tr>
     <tr>
       <td>Uden, Casper van</td>
-      <td>10</td>
+      <td>12</td>
       <td>0</td>
       <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>2</td>
+      <td>16.7</td>
       <td>10</td>
-      <td>100.0</td>
+      <td>83.3</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -14678,10 +14678,10 @@ hide:
     </tr>
     <tr>
       <td>Zanoncello, Enrico</td>
-      <td>6</td>
+      <td>9</td>
       <td>0</td>
       <td>0.0</td>
-      <td>6</td>
+      <td>9</td>
       <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
@@ -14694,13 +14694,13 @@ hide:
     </tr>
     <tr>
       <td>Zijlaard, Maikel</td>
-      <td>20</td>
+      <td>40</td>
       <td>0</td>
       <td>0.0</td>
+      <td>30</td>
+      <td>75.0</td>
       <td>10</td>
-      <td>50.0</td>
-      <td>10</td>
-      <td>50.0</td>
+      <td>25.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>

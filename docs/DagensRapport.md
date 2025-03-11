@@ -4,6 +4,20 @@ hide:
   - toc
 ---
 
+## 2025-03-11
+### Hovedspillet
+Milan, Jonathan **25** (Jarma, Kenk, Matti, Okholm, Visti)  
+Penhoët, Paul **16** (Jarma)  
+Kooij, Olav **14** (Kenk, Matti, Tommy, Visti)  
+Dijke, Tim van **6** (Kenk, Visti)  
+
+### Cheapo
+Capiot, Amaury **1** (Chrelle, Jappo, Jarma, Knak)  
+
+
+
+
+
 ## 2025-03-10
 ### Hovedspillet
 Merlier, Tim **25** (Jappo, Knak, Matti, Tommy)  
