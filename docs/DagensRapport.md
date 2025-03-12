@@ -4,6 +4,29 @@ hide:
   - toc
 ---
 
+## 2025-03-12
+### Hovedspillet
+Almeida, João **25** (Chrelle, Kenk)  
+Pidcock, Tom **20** (Chrelle, Jappo, Knak)  
+Vingegaard, Jonas **20** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)  
+Grégoire, Romain **16** (Chrelle, Jarma, Knak)  
+Skjelmose, Mattias **16** (Matti, Tommy)  
+Martinez, Lenny **14** (Jappo, Knak, Matti, Okholm, Tommy, Visti)  
+Adrià, Roger **12** (Okholm)  
+Lipowitz, Florian **12** (Okholm)  
+Ayuso, Juan **2** (Hustlersen, Kenk)  
+Wilder, Ilan Van **2** (Chrelle)  
+Castrillo, Pablo **1** (Matti)  
+
+### Cheapo
+Pluimers, Rick **14** (Chrelle, Jappo, Jarma, Knak)  
+Fiorelli, Filippo **8** (Kenk)  
+Champoussin, Clément **3** (Chrelle, Hustlersen, Visti)  
+
+
+
+
+
 ## 2025-03-11
 ### Hovedspillet
 Milan, Jonathan **25** (Jarma, Kenk, Matti, Okholm, Visti)  
