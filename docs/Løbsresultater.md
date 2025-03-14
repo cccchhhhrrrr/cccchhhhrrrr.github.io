@@ -6377,7 +6377,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Abrahamsen, Jonas</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6385,7 +6385,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Affini, Edoardo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6393,15 +6393,15 @@ hide:
       <td>Paris-Nice</td>
       <td>Alaphilippe, Julian</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>2</td>
+      <td>stage-5: 2</td>
     </tr>
     <tr>
       <td>Paris-Nice</td>
       <td>Albanese, Vincenzo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>4</td>
       <td>stage-1: 4</td>
     </tr>
@@ -6409,15 +6409,15 @@ hide:
       <td>Paris-Nice</td>
       <td>Almeida, João</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>25</td>
-      <td>stage-4: 25</td>
+      <td>4</td>
+      <td>35</td>
+      <td>stage-4: 25 / stage-5: 10</td>
     </tr>
     <tr>
       <td>Paris-Nice</td>
       <td>Andresen, Tobias Lund</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6425,7 +6425,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Aniołkowski, Stanisław</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>2</td>
       <td>stage-1: 2</td>
     </tr>
@@ -6433,7 +6433,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Arensman, Thymen</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>4</td>
       <td>stage-4: 4</td>
     </tr>
@@ -6441,7 +6441,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Armirail, Bruno</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6457,7 +6457,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Barguil, Warren</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6465,7 +6465,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Barta, Will</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6473,7 +6473,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Bastiaens, Ayco</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6481,7 +6481,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Bayer, Tobias</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6489,7 +6489,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Berg, Julius van den</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6505,7 +6505,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Berwick, Sebastian</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6513,7 +6513,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Bissegger, Stefan</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6521,7 +6521,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Bol, Cees</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>3</td>
       <td>stage-2: 3</td>
     </tr>
@@ -6537,7 +6537,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Campenaerts, Victor</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6545,7 +6545,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Castrillo, Pablo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>1</td>
       <td>stage-4: 1</td>
     </tr>
@@ -6553,7 +6553,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Cavagna, Rémi</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6561,7 +6561,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Cepeda, Jefferson Alveiro</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6569,15 +6569,15 @@ hide:
       <td>Paris-Nice</td>
       <td>Champoussin, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>3</td>
-      <td>stage-4: 3</td>
+      <td>4</td>
+      <td>23</td>
+      <td>stage-4: 3 / stage-5: 20</td>
     </tr>
     <tr>
       <td>Paris-Nice</td>
       <td>Charmig, Anthon</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6585,7 +6585,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Costiou, Ewen</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6601,7 +6601,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Dainese, Alberto</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>16</td>
       <td>stage-1: 16</td>
     </tr>
@@ -6609,7 +6609,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Debruyne, Ramses</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6617,7 +6617,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Degenkolb, John</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6625,7 +6625,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Del Grosso, Tibor</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>2</td>
       <td>stage-2: 2</td>
     </tr>
@@ -6633,7 +6633,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Delettre, Alexandre</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6641,7 +6641,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Dijke, Mick van</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>8</td>
       <td>stage-1: 8</td>
     </tr>
@@ -6649,7 +6649,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Doull, Owain</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6665,7 +6665,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Démare, Arnaud</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>28</td>
       <td>stage-1: 20 / stage-2: 8</td>
     </tr>
@@ -6673,7 +6673,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Fedorov, Yevgeniy</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>11</td>
       <td>stage-1: 10 / stage-2: 1</td>
     </tr>
@@ -6681,7 +6681,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Fernández, Samuel</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6689,7 +6689,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Flynn, Sean</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6697,7 +6697,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Foss, Tobias</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6705,7 +6705,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Froideveaux, Robin</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6713,7 +6713,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Gachignard, Thomas</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6721,7 +6721,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Gall, Felix</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6729,7 +6729,7 @@ hide:
       <td>Paris-Nice</td>
       <td>García Cortina, Iván</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6737,7 +6737,7 @@ hide:
       <td>Paris-Nice</td>
       <td>García, Raúl</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6745,7 +6745,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Gendt, Aimé De</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6753,7 +6753,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Geniets, Kévin</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6761,7 +6761,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Gestel, Dries Van</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6769,7 +6769,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Gibbons, Ryan</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6777,7 +6777,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Goossens, Kobe</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6785,7 +6785,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Govekar, Matevž</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>6</td>
       <td>stage-2: 6</td>
     </tr>
@@ -6793,7 +6793,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Gradek, Kamil</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6801,7 +6801,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Gruel, Thibaud</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6809,7 +6809,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Guernalec, Thibault</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6817,7 +6817,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Guernalec, Victor</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6825,7 +6825,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Hagenes, Per Strand</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6833,7 +6833,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Haig, Jack</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6841,7 +6841,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Haller, Marco</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6849,7 +6849,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Hepburn, Michael</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6857,7 +6857,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Hoole, Daan</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6873,7 +6873,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Izquierdo, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6881,7 +6881,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Jacobs, Johan</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6889,7 +6889,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Jakobsen, Fabio</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>4</td>
       <td>stage-2: 4</td>
     </tr>
@@ -6905,7 +6905,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Jeanniere, Emilien</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>20</td>
       <td>stage-2: 20</td>
     </tr>
@@ -6913,7 +6913,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Jegat, Jordan</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6921,15 +6921,15 @@ hide:
       <td>Paris-Nice</td>
       <td>Jorgenson, Matteo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>10</td>
-      <td>stage-4: 10</td>
+      <td>4</td>
+      <td>26</td>
+      <td>stage-4: 10 / stage-5: 16</td>
     </tr>
     <tr>
       <td>Paris-Nice</td>
       <td>Jungels, Bob</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6937,7 +6937,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Kielich, Timo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>18</td>
       <td>stage-1: 6 / stage-2: 12</td>
     </tr>
@@ -6945,7 +6945,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Kirsch, Alex</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6953,7 +6953,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Kristoff, Alexander</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>14</td>
       <td>stage-2: 14</td>
     </tr>
@@ -6961,7 +6961,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Kulset, Johannes</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6969,7 +6969,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Küng, Stefan</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6977,7 +6977,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Lampaert, Yves</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6985,7 +6985,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Leitão, Iúri</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -6993,7 +6993,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Leknessund, Andreas</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7001,7 +7001,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Lemmen, Bart</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7009,7 +7009,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Lerberghe, Bert Van</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7017,7 +7017,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Leroux, Samuel</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7025,7 +7025,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Lienhard, Fabian</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7033,9 +7033,9 @@ hide:
       <td>Paris-Nice</td>
       <td>Lipowitz, Florian</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>12</td>
-      <td>stage-4: 12</td>
+      <td>4</td>
+      <td>24</td>
+      <td>stage-4: 12 / stage-5: 12</td>
     </tr>
     <tr>
       <td>Paris-Nice</td>
@@ -7049,7 +7049,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Martin, Guillaume</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7057,15 +7057,15 @@ hide:
       <td>Paris-Nice</td>
       <td>Martinez, Lenny</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>14</td>
-      <td>stage-4: 14</td>
+      <td>4</td>
+      <td>39</td>
+      <td>stage-4: 14 / stage-5: 25</td>
     </tr>
     <tr>
       <td>Paris-Nice</td>
       <td>Matthews, Michael</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7073,15 +7073,15 @@ hide:
       <td>Paris-Nice</td>
       <td>McNulty, Brandon</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>8</td>
-      <td>stage-4: 8</td>
+      <td>4</td>
+      <td>16</td>
+      <td>stage-4: 8 / stage-5: 8</td>
     </tr>
     <tr>
       <td>Paris-Nice</td>
       <td>Merlier, Tim</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>50</td>
       <td>stage-1: 25 / stage-2: 25</td>
     </tr>
@@ -7089,7 +7089,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Milesi, Lorenzo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7097,7 +7097,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Molano, Sebastián</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>14</td>
       <td>stage-1: 14</td>
     </tr>
@@ -7105,7 +7105,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Moniquet, Sylvain</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7113,7 +7113,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Moro, Manlio</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7121,7 +7121,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Mullen, Ryan</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7129,7 +7129,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Naberman, Tim</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7137,7 +7137,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Naesen, Oliver</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7145,7 +7145,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Narváez, Jhonatan</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7153,7 +7153,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Nicolau, Joel</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7161,7 +7161,7 @@ hide:
       <td>Paris-Nice</td>
       <td>O'Brien, Kelland</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7169,7 +7169,7 @@ hide:
       <td>Paris-Nice</td>
       <td>O'Connor, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7177,7 +7177,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Oliveira, Ivo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7185,7 +7185,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Otruba, Jakub</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7193,7 +7193,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Page, Hugo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7201,7 +7201,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Paleni, Enzo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7209,15 +7209,15 @@ hide:
       <td>Paris-Nice</td>
       <td>Paret-Peintre, Aurélien</td>
       <td>Tour Cat. 2</td>
+      <td>4</td>
       <td>3</td>
-      <td>0</td>
-      <td></td>
+      <td>stage-5: 3</td>
     </tr>
     <tr>
       <td>Paris-Nice</td>
       <td>Pedersen, Mads</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>17</td>
       <td>stage-1: 1 / stage-2: 16</td>
     </tr>
@@ -7225,7 +7225,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Perez, Anthony</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7233,7 +7233,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Pestel, Sander De</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7241,7 +7241,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Petit, Adrien</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7249,7 +7249,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Planckaert, Edward</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7257,7 +7257,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Politt, Nils</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7273,7 +7273,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Powless, Neilson</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7281,7 +7281,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Riesebeek, Oscar</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7289,7 +7289,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Romeo, Iván</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7297,7 +7297,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Samitier, Sergio</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7305,7 +7305,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Schachmann, Maximilian</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7313,7 +7313,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Schmid, Mauro</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7321,7 +7321,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Scotson, Callum</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7329,7 +7329,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Scotson, Miles</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7337,15 +7337,15 @@ hide:
       <td>Paris-Nice</td>
       <td>Sheffield, Magnus</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>4</td>
+      <td>stage-5: 4</td>
     </tr>
     <tr>
       <td>Paris-Nice</td>
       <td>Silva, Thomas</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7353,7 +7353,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Sintmaartensdijk, Roel van</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7361,7 +7361,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Sivakov, Pavel</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7369,7 +7369,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Skaarseth, Anders</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7377,7 +7377,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Skjelmose, Mattias</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>16</td>
       <td>stage-4: 16</td>
     </tr>
@@ -7385,7 +7385,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Smith, Dion</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7393,7 +7393,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Sobrero, Matteo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7409,7 +7409,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Steinhauser, Georg</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7417,15 +7417,15 @@ hide:
       <td>Paris-Nice</td>
       <td>Storer, Michael</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>1</td>
+      <td>stage-5: 1</td>
     </tr>
     <tr>
       <td>Paris-Nice</td>
       <td>Sweeny, Harry</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7433,7 +7433,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Swift, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7449,7 +7449,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Tarling, Josh</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7457,15 +7457,15 @@ hide:
       <td>Paris-Nice</td>
       <td>Tejada, Harold</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>6</td>
-      <td>stage-4: 6</td>
+      <td>4</td>
+      <td>20</td>
+      <td>stage-4: 6 / stage-5: 14</td>
     </tr>
     <tr>
       <td>Paris-Nice</td>
       <td>Teunissen, Mike</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7473,7 +7473,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Thierry, Pierre</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7481,7 +7481,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Tiller, Rasmus</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7489,7 +7489,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Trentin, Matteo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7497,7 +7497,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Turgis, Anthony</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7505,7 +7505,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Vergaerde, Otto</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7513,7 +7513,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Vergallito, Luca</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7521,7 +7521,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Vingegaard, Jonas</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>20</td>
       <td>stage-4: 20</td>
     </tr>
@@ -7529,7 +7529,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Vinokurov, Nicolas</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7537,7 +7537,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Vlasov, Aleksandr</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7545,7 +7545,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Walker, Max</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7553,7 +7553,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Walscheid, Max</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>3</td>
       <td>stage-1: 3</td>
     </tr>
@@ -7561,7 +7561,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Watson, Samuel</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7569,15 +7569,15 @@ hide:
       <td>Paris-Nice</td>
       <td>Wilder, Ilan Van</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>2</td>
-      <td>stage-4: 2</td>
+      <td>4</td>
+      <td>8</td>
+      <td>stage-4: 2 / stage-5: 6</td>
     </tr>
     <tr>
       <td>Paris-Nice</td>
       <td>Wright, Fred</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7585,7 +7585,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Zambanini, Edoardo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7593,7 +7593,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Zimmermann, Georg</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -7601,7 +7601,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Zingle, Axel</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>22</td>
       <td>stage-1: 12 / stage-2: 10</td>
     </tr>
@@ -7609,7 +7609,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Zwiehoff, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9025,23 +9025,23 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Adrià, Roger</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>12</td>
-      <td>stage-3: 12</td>
+      <td>4</td>
+      <td>14</td>
+      <td>stage-3: 12 / stage-4: 2</td>
     </tr>
     <tr>
       <td>Tirreno-Adriatico</td>
       <td>Aranburu, Alex</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>6</td>
-      <td>stage-3: 6</td>
+      <td>4</td>
+      <td>7</td>
+      <td>stage-3: 6 / stage-4: 1</td>
     </tr>
     <tr>
       <td>Tirreno-Adriatico</td>
       <td>Arcas, Jorge</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9049,7 +9049,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Aular, Orluis</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9057,7 +9057,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Ayuso, Juan</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>22</td>
       <td>stage-1: 20 / stage-3: 2</td>
     </tr>
@@ -9073,7 +9073,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Baarle, Dylan van</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9081,7 +9081,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Bais, Davide</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9097,7 +9097,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Battistella, Samuele</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>4</td>
       <td>stage-3: 4</td>
     </tr>
@@ -9105,7 +9105,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Bennett, Sam</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>10</td>
       <td>stage-2: 10</td>
     </tr>
@@ -9121,7 +9121,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Bilbao, Pello</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>1</td>
       <td>stage-3: 1</td>
     </tr>
@@ -9129,7 +9129,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Blume Levy, William</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9137,7 +9137,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Bondt, Dries De</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9145,7 +9145,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Bonneu, Kamiel</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9153,7 +9153,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Braet, Vito</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9161,7 +9161,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Brambilla, Gianluca</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9169,7 +9169,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Busatto, Francesco</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9177,7 +9177,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Capiot, Amaury</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>1</td>
       <td>stage-2: 1</td>
     </tr>
@@ -9185,7 +9185,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Carapaz, Richard</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9193,7 +9193,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Caruso, Damiano</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9201,7 +9201,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Cattaneo, Mattia</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>8</td>
       <td>stage-1: 8</td>
     </tr>
@@ -9209,7 +9209,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Cerný, Josef</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9217,7 +9217,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Chaves, Esteban</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9225,7 +9225,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Ciccone, Giulio</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9233,7 +9233,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Colleoni, Kevin</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9241,7 +9241,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Conci, Nicola</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9249,7 +9249,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Conforti, Lorenzo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9257,7 +9257,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Consonni, Simone</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>12</td>
       <td>stage-2: 12</td>
     </tr>
@@ -9265,7 +9265,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Coquard, Bryan</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>4</td>
       <td>stage-2: 4</td>
     </tr>
@@ -9273,7 +9273,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Cort, Magnus</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9281,7 +9281,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Costa, Rui</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9289,7 +9289,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Covili, Luca</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9297,7 +9297,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>De La Cruz, David</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9305,7 +9305,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Del Toro, Isaac</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>4</td>
       <td>stage-1: 4</td>
     </tr>
@@ -9313,7 +9313,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Delaplace, Anthony</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9321,7 +9321,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Dijke, Tim van</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>6</td>
       <td>stage-2: 6</td>
     </tr>
@@ -9329,7 +9329,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Donovan, Mark</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9337,7 +9337,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Dunbar, Eddie</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9345,7 +9345,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Dversnes, Fredrik</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9353,7 +9353,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Eulálio, Afonso</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9361,7 +9361,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Ferron, Valentin</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9369,15 +9369,15 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Fiorelli, Filippo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>8</td>
-      <td>stage-3: 8</td>
+      <td>4</td>
+      <td>11</td>
+      <td>stage-3: 8 / stage-4: 3</td>
     </tr>
     <tr>
       <td>Tirreno-Adriatico</td>
       <td>Formolo, Davide</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9385,7 +9385,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Fortunato, Lorenzo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9393,7 +9393,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Frigo, Marco</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9401,7 +9401,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Fuglsang, Jakob</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9409,7 +9409,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Gamper, Patrick</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9417,9 +9417,9 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Ganna, Filippo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>28</td>
-      <td>stage-1: 25 / stage-3: 3</td>
+      <td>4</td>
+      <td>36</td>
+      <td>stage-1: 25 / stage-3: 3 / stage-4: 8</td>
     </tr>
     <tr>
       <td>Tirreno-Adriatico</td>
@@ -9433,7 +9433,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Gaze, Samuel</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9441,7 +9441,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Gee, Derek</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>10</td>
       <td>stage-1: 10</td>
     </tr>
@@ -9449,7 +9449,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Germani, Lorenzo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9457,7 +9457,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Ghebreigzabhier, Amanuel</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9473,7 +9473,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Glivar, Gal</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9481,7 +9481,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Godon, Dorian</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9489,7 +9489,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Groenewegen, Dylan</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9497,7 +9497,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Grossschartner, Felix</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9505,7 +9505,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Grégoire, Romain</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>16</td>
       <td>stage-3: 16</td>
     </tr>
@@ -9513,7 +9513,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Gudmestad, Tord</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9521,7 +9521,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Hamilton, Chris</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9529,7 +9529,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Hamilton, Lucas</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9537,7 +9537,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Healy, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9545,7 +9545,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Hindley, Jai</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9553,7 +9553,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Hirschi, Marc</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9561,7 +9561,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Holter, Ådne</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9577,7 +9577,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Howson, Damien</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9585,7 +9585,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Izagirre, Ion</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9593,7 +9593,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Johannessen, Anders</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9601,7 +9601,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Johannessen, Tobias</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9609,7 +9609,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Kajamini, Florian</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9617,7 +9617,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Koch, Jonas</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9625,7 +9625,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Koerdt, Bjoern</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9633,15 +9633,15 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Kooij, Olav</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>14</td>
-      <td>stage-2: 14</td>
+      <td>4</td>
+      <td>39</td>
+      <td>stage-2: 14 / stage-4: 25</td>
     </tr>
     <tr>
       <td>Tirreno-Adriatico</td>
       <td>Krieger, Alexander</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9649,7 +9649,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Kruijswijk, Steven</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9657,7 +9657,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Kwiatkowski, Michal</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9665,7 +9665,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Landa, Mikel</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9673,7 +9673,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Le Berre, Mathis</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9681,7 +9681,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Leemreize, Gijs</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9689,7 +9689,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Leijnse, Enzo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9697,15 +9697,15 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Lonardi, Giovanni</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>4</td>
+      <td>stage-4: 4</td>
     </tr>
     <tr>
       <td>Tirreno-Adriatico</td>
       <td>Maas, Jan</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9713,7 +9713,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Maciejuk, Filip</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9721,7 +9721,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Madouas, Valentin</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9729,23 +9729,23 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Maestri, Mirco</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>12</td>
+      <td>stage-4: 12</td>
     </tr>
     <tr>
       <td>Tirreno-Adriatico</td>
       <td>Magnier, Paul</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>14</td>
+      <td>stage-4: 14</td>
     </tr>
     <tr>
       <td>Tirreno-Adriatico</td>
       <td>Majka, Rafał</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9753,7 +9753,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>McLay, Daniel</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9761,7 +9761,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Meurisse, Xandro</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9769,7 +9769,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Mezgec, Luka</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9777,7 +9777,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Miholjević, Fran</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9785,7 +9785,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Milan, Jonathan</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>37</td>
       <td>stage-1: 12 / stage-2: 25</td>
     </tr>
@@ -9793,7 +9793,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Moscon, Gianni</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9801,7 +9801,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Muñoz, Fran</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9809,7 +9809,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Märkl, Niklas</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9817,7 +9817,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Novak, Domen</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9825,7 +9825,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Oliveira, Rui</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9833,7 +9833,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Ourselin, Paul</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9841,7 +9841,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Pacher, Quentin</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9865,7 +9865,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Paret-Peintre, Valentin</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9873,7 +9873,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Pasqualon, Andrea</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9881,7 +9881,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Pedersen, Casper</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9889,7 +9889,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Penhoët, Paul</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>16</td>
       <td>stage-2: 16</td>
     </tr>
@@ -9897,15 +9897,15 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Pidcock, Tom</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>20</td>
-      <td>stage-3: 20</td>
+      <td>4</td>
+      <td>26</td>
+      <td>stage-3: 20 / stage-4: 6</td>
     </tr>
     <tr>
       <td>Tirreno-Adriatico</td>
       <td>Pietrobon, Andrea</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9913,7 +9913,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Piganzoli, Davide</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9921,7 +9921,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Pinarello, Alessandro</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9929,15 +9929,15 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Pluimers, Rick</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>14</td>
-      <td>stage-3: 14</td>
+      <td>4</td>
+      <td>34</td>
+      <td>stage-3: 14 / stage-4: 20</td>
     </tr>
     <tr>
       <td>Tirreno-Adriatico</td>
       <td>Plus, Laurens De</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9945,15 +9945,15 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Poel, Mathieu van der</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>16</td>
+      <td>stage-4: 16</td>
     </tr>
     <tr>
       <td>Tirreno-Adriatico</td>
       <td>Poels, Wout</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9961,7 +9961,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Price-Pejtersen, Johan</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>16</td>
       <td>stage-1: 16</td>
     </tr>
@@ -9969,7 +9969,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Prodhomme, Nicolas</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9977,7 +9977,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Puccio, Salvatore</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9985,7 +9985,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Quintana, Nairo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9993,7 +9993,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Raisberg, Nadav</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10001,7 +10001,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Reinderink, Pepijn</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10009,7 +10009,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Reinders, Elmar</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10017,7 +10017,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Rivera, Brandon</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10025,7 +10025,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Rodríguez, Cristian</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10033,7 +10033,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Rubio, Einer</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10041,7 +10041,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Russo, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10049,7 +10049,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Rutsch, Jonas</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10057,7 +10057,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Sanchez, Pelayo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10065,7 +10065,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Scalco, Matteo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10081,7 +10081,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Skujins, Toms</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10089,7 +10089,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Stannard, Robert</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10097,7 +10097,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Staune-Mittet, Johannes</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10105,7 +10105,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Stewart, Jake</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>8</td>
       <td>stage-2: 8</td>
     </tr>
@@ -10113,7 +10113,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Stork, Florian</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10121,7 +10121,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Stuyven, Jasper</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10129,7 +10129,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Swift, Connor</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10137,7 +10137,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Sütterlin, Jasha</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10145,7 +10145,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Tarozzi, Manuele</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10153,7 +10153,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Tesfatsion, Natnael</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10161,7 +10161,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Theuns, Edward</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10169,7 +10169,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Thomas, Benjamin</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>1</td>
       <td>stage-1: 1</td>
     </tr>
@@ -10177,7 +10177,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Tiberi, Antonio</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>14</td>
       <td>stage-1: 14</td>
     </tr>
@@ -10185,7 +10185,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Toneatti, Davide</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10193,7 +10193,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Tonelli, Alessandro</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10201,7 +10201,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Uden, Casper van</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>2</td>
       <td>stage-2: 2</td>
     </tr>
@@ -10209,7 +10209,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Uijtdebroeks, Cian</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10225,7 +10225,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Valter, Attila</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10233,7 +10233,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Vauquelin, Kévin</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>3</td>
       <td>stage-1: 3</td>
     </tr>
@@ -10241,7 +10241,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Velasco, Simone</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>10</td>
       <td>stage-3: 10</td>
     </tr>
@@ -10249,15 +10249,15 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Vendrame, Andrea</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
-      <td>25</td>
-      <td>stage-3: 25</td>
+      <td>4</td>
+      <td>35</td>
+      <td>stage-3: 25 / stage-4: 10</td>
     </tr>
     <tr>
       <td>Tirreno-Adriatico</td>
       <td>Venturini, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10265,7 +10265,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Vermeersch, Gianni</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10273,7 +10273,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Verre, Alessandro</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10281,7 +10281,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Warbasse, Larry</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10289,7 +10289,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Welten, Bram</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10297,7 +10297,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Wilksch, Hannes</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10305,7 +10305,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Wærenskjold, Søren</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>6</td>
       <td>stage-1: 6</td>
     </tr>
@@ -10313,7 +10313,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Yates, Adam</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10321,7 +10321,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Yates, Simon</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10329,7 +10329,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Zana, Filippo</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10337,7 +10337,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Zanoncello, Enrico</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>3</td>
       <td>stage-2: 3</td>
     </tr>
@@ -10345,7 +10345,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Zijlaard, Maikel</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>20</td>
       <td>stage-2: 20</td>
     </tr>
@@ -10353,7 +10353,7 @@ hide:
       <td>Tirreno-Adriatico</td>
       <td>Zukowsky, Nick</td>
       <td>Tour Cat. 2</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>

@@ -4,6 +4,28 @@ hide:
   - toc
 ---
 
+## 2025-03-13
+### Hovedspillet
+Kooij, Olav **25** (Kenk, Matti, Tommy, Visti)  
+Martinez, Lenny **25** (Jappo, Knak, Matti, Okholm, Tommy, Visti)  
+Poel, Mathieu van der **16** (Jarma)  
+Magnier, Paul **14** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)  
+Lipowitz, Florian **12** (Okholm)  
+Almeida, João **10** (Chrelle, Kenk)  
+Pidcock, Tom **6** (Chrelle, Jappo, Knak)  
+Wilder, Ilan Van **6** (Chrelle)  
+Sheffield, Magnus **4** (Okholm)  
+Adrià, Roger **2** (Okholm)  
+
+### Cheapo
+Champoussin, Clément **20** (Chrelle, Hustlersen, Visti)  
+Pluimers, Rick **20** (Chrelle, Jappo, Jarma, Knak)  
+Fiorelli, Filippo **3** (Kenk)  
+
+
+
+
+
 ## 2025-03-12
 ### Hovedspillet
 Almeida, João **25** (Chrelle, Kenk)  
