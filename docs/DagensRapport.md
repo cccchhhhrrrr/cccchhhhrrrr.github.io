@@ -4,6 +4,28 @@ hide:
   - toc
 ---
 
+## 2025-03-14
+### Hovedspillet
+Pedersen, Mads **25** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
+Poel, Mathieu van der **20** (Jarma)  
+Tarling, Josh **20** (Chrelle)  
+Adrià, Roger **16** (Okholm)  
+Watson, Samuel **16** (Tommy)  
+Zingle, Axel **14** (Tommy, Visti)  
+Pidcock, Tom **10** (Chrelle, Jappo, Knak)  
+Sheffield, Magnus **10** (Okholm)  
+Grégoire, Romain **8** (Chrelle, Jarma, Knak)  
+Skjelmose, Mattias **8** (Matti, Tommy)  
+Schachmann, Maximilian **4** (Jarma, Knak)  
+Lipowitz, Florian **2** (Okholm)  
+
+### Cheapo
+Dversnes, Fredrik **25** (Chrelle, Hustlersen, Jappo, Kenk)  
+
+
+
+
+
 ## 2025-03-13
 ### Hovedspillet
 Kooij, Olav **25** (Kenk, Matti, Tommy, Visti)  
