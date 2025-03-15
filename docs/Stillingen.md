@@ -45,72 +45,72 @@ hide:
     <tr>
       <td>Chrelle</td>
       <td>350.0</td>
-      <td>241</td>
-      <td>1832</td>
-      <td>7.60</td>
+      <td>252</td>
+      <td>1865</td>
+      <td>7.40</td>
     </tr>
     <tr>
       <td>Jappo</td>
       <td>350.0</td>
-      <td>233</td>
-      <td>1753</td>
-      <td>7.52</td>
+      <td>244</td>
+      <td>1808</td>
+      <td>7.41</td>
     </tr>
     <tr>
       <td>Kenk</td>
       <td>349.9</td>
-      <td>222</td>
-      <td>1620</td>
-      <td>7.30</td>
+      <td>232</td>
+      <td>1648</td>
+      <td>7.10</td>
     </tr>
     <tr>
       <td>Knak</td>
       <td>349.8</td>
-      <td>218</td>
-      <td>1438</td>
-      <td>6.60</td>
-    </tr>
-    <tr>
-      <td>Tommy</td>
-      <td>350.0</td>
-      <td>213</td>
-      <td>1411</td>
-      <td>6.62</td>
+      <td>230</td>
+      <td>1472</td>
+      <td>6.40</td>
     </tr>
     <tr>
       <td>Okholm</td>
       <td>350.0</td>
-      <td>231</td>
-      <td>1405</td>
-      <td>6.08</td>
+      <td>241</td>
+      <td>1431</td>
+      <td>5.94</td>
     </tr>
     <tr>
       <td>Hustlersen</td>
       <td>327.8</td>
-      <td>203</td>
-      <td>1385</td>
-      <td>6.82</td>
+      <td>209</td>
+      <td>1429</td>
+      <td>6.84</td>
     </tr>
     <tr>
-      <td>Matti</td>
-      <td>349.1</td>
-      <td>236</td>
-      <td>1338</td>
-      <td>5.67</td>
+      <td>Tommy</td>
+      <td>350.0</td>
+      <td>224</td>
+      <td>1422</td>
+      <td>6.35</td>
     </tr>
     <tr>
       <td>Visti</td>
       <td>350.0</td>
-      <td>224</td>
-      <td>1319</td>
-      <td>5.89</td>
+      <td>237</td>
+      <td>1374</td>
+      <td>5.80</td>
+    </tr>
+    <tr>
+      <td>Matti</td>
+      <td>349.1</td>
+      <td>247</td>
+      <td>1373</td>
+      <td>5.56</td>
     </tr>
     <tr>
       <td>Jarma</td>
       <td>350.0</td>
-      <td>204</td>
-      <td>1276</td>
-      <td>6.25</td>
+      <td>215</td>
+      <td>1310</td>
+      <td>6.09</td>
     </tr>
   </tbody>
 </table>

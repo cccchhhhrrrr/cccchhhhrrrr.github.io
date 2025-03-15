@@ -4,6 +4,31 @@ hide:
   - toc
 ---
 
+## 2025-03-15
+### Hovedspillet
+Ayuso, Juan **25** (Hustlersen, Kenk)  
+Pidcock, Tom **20** (Chrelle, Jappo, Knak)  
+Schmid, Mauro **20** (Jarma, Visti)  
+Steinhauser, Georg **16** (Hustlersen)  
+Landa, Mikel **14** (Jappo, Jarma, Visti)  
+Romeo, Iván **14** (Matti)  
+Gall, Felix **10** (Chrelle, Matti, Visti)  
+Gee, Derek **10** (Jappo, Okholm)  
+Martinez, Lenny **8** (Jappo, Knak, Matti, Okholm, Tommy, Visti)  
+Healy, Ben **6** (Knak)  
+Lipowitz, Florian **6** (Okholm)  
+Pedersen, Mads **3** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
+Sheffield, Magnus **2** (Okholm)  
+
+### Cheapo
+Romeo, Iván **14** (Chrelle, Jappo)  
+Jegat, Jordan **12** (Chrelle, Jappo, Knak)  
+Champoussin, Clément **4** (Chrelle, Hustlersen, Visti)  
+
+
+
+
+
 ## 2025-03-14
 ### Hovedspillet
 Pedersen, Mads **25** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
