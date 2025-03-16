@@ -4,6 +4,33 @@ hide:
   - toc
 ---
 
+## 2025-03-16
+### Hovedspillet
+Ayuso, Juan **100** (Hustlersen, Kenk)  
+Lipowitz, Florian **95** (Okholm)  
+Sheffield, Magnus **85** (Okholm)  
+Gee, Derek **60** (Jappo, Okholm)  
+Almeida, João **45** (Chrelle, Kenk)  
+Pidcock, Tom **45** (Chrelle, Jappo, Knak)  
+Landa, Mikel **40** (Jappo, Jarma, Visti)  
+Wilder, Ilan Van **29** (Chrelle)  
+Milan, Jonathan **25** (Jarma, Kenk, Matti, Okholm, Visti)  
+Gall, Felix **22** (Chrelle, Matti, Visti)  
+Castrillo, Pablo **20** (Matti)  
+Kooij, Olav **16** (Kenk, Matti, Tommy, Visti)  
+Yates, Simon **14** (Okholm)  
+Grégoire, Romain **12** (Chrelle, Jarma, Knak)  
+Penhoët, Paul **12** (Jarma)  
+Schachmann, Maximilian **8** (Jarma, Knak)  
+Carapaz, Richard **6** (Knak)  
+
+### Cheapo
+Champoussin, Clément **52** (Chrelle, Hustlersen, Visti)  
+
+
+
+
+
 ## 2025-03-15
 ### Hovedspillet
 Ayuso, Juan **25** (Hustlersen, Kenk)  
