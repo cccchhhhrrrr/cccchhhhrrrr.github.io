@@ -52,9 +52,9 @@ hide:
     <tr>
       <td>Jappo</td>
       <td>350.0</td>
-      <td>255</td>
-      <td>1953</td>
-      <td>7.66</td>
+      <td>256</td>
+      <td>1955</td>
+      <td>7.64</td>
     </tr>
     <tr>
       <td>Kenk</td>
@@ -66,23 +66,23 @@ hide:
     <tr>
       <td>Okholm</td>
       <td>350.0</td>
-      <td>251</td>
+      <td>252</td>
       <td>1710</td>
-      <td>6.81</td>
+      <td>6.79</td>
     </tr>
     <tr>
       <td>Knak</td>
       <td>349.8</td>
-      <td>242</td>
-      <td>1543</td>
-      <td>6.38</td>
+      <td>245</td>
+      <td>1549</td>
+      <td>6.32</td>
     </tr>
     <tr>
       <td>Hustlersen</td>
       <td>327.8</td>
-      <td>215</td>
-      <td>1529</td>
-      <td>7.11</td>
+      <td>217</td>
+      <td>1531</td>
+      <td>7.06</td>
     </tr>
     <tr>
       <td>Visti</td>
@@ -101,9 +101,9 @@ hide:
     <tr>
       <td>Tommy</td>
       <td>350.0</td>
-      <td>233</td>
+      <td>234</td>
       <td>1438</td>
-      <td>6.17</td>
+      <td>6.15</td>
     </tr>
     <tr>
       <td>Jarma</td>

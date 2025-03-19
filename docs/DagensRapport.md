@@ -4,6 +4,19 @@ hide:
   - toc
 ---
 
+## 2025-03-19
+### Hovedspillet
+Ulissi, Diego **4** (Knak)  
+Hirschi, Marc **2** (Hustlersen, Jappo, Knak)  
+
+### Cheapo
+Cepeda, Jefferson Alexander **12** (Hustlersen)  
+Jegat, Jordan **3** (Chrelle, Jappo, Knak)  
+
+
+
+
+
 ## 2025-03-16
 ### Hovedspillet
 Ayuso, Juan **100** (Hustlersen, Kenk)  

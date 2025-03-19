@@ -261,7 +261,7 @@
       <td>Schachmann Maximilian</td>
       <td>Lazkano Oier</td>
       <td>Lazkano Oier</td>
-      <td>Abrahamsen Jonas</td>
+      <td class = "startlist">Abrahamsen Jonas</td>
       <td>Zingle Axel</td>
     </tr>
     <tr>
@@ -302,7 +302,7 @@
       <td>Van Baarle Dylan</td>
       <td>Teuns Dylan</td>
       <td>Andresen Tobias Lund</td>
-      <td>Sheehan Riley</td>
+      <td class = "startlist">Sheehan Riley</td>
       <td>Campenaerts Victor</td>
       <td>Van Dijke Tim</td>
     </tr>
@@ -352,7 +352,7 @@
       <th>22</th>
       <td>23</td>
       <td>Staune-Mittet Johannes</td>
-      <td>Brenner Marco</td>
+      <td class = "startlist">Brenner Marco</td>
       <td>Jeannière Emilien</td>
       <td>Frigo Marco</td>
       <td>Wandahl Frederik</td>
