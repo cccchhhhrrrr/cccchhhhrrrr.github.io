@@ -45,72 +45,72 @@ hide:
     <tr>
       <td>Chrelle</td>
       <td>350.0</td>
-      <td>263</td>
-      <td>2018</td>
-      <td>7.67</td>
+      <td>268</td>
+      <td>2143</td>
+      <td>8.00</td>
     </tr>
     <tr>
       <td>Jappo</td>
       <td>350.0</td>
-      <td>256</td>
-      <td>1955</td>
-      <td>7.64</td>
+      <td>263</td>
+      <td>2094</td>
+      <td>7.96</td>
     </tr>
     <tr>
       <td>Kenk</td>
       <td>349.9</td>
-      <td>242</td>
-      <td>1834</td>
-      <td>7.58</td>
+      <td>250</td>
+      <td>2001</td>
+      <td>8.00</td>
     </tr>
     <tr>
       <td>Okholm</td>
       <td>350.0</td>
-      <td>252</td>
-      <td>1710</td>
-      <td>6.79</td>
+      <td>257</td>
+      <td>1811</td>
+      <td>7.05</td>
     </tr>
     <tr>
       <td>Knak</td>
       <td>349.8</td>
-      <td>245</td>
-      <td>1549</td>
-      <td>6.32</td>
-    </tr>
-    <tr>
-      <td>Hustlersen</td>
-      <td>327.8</td>
-      <td>217</td>
-      <td>1531</td>
-      <td>7.06</td>
+      <td>255</td>
+      <td>1696</td>
+      <td>6.65</td>
     </tr>
     <tr>
       <td>Visti</td>
       <td>350.0</td>
-      <td>250</td>
-      <td>1477</td>
-      <td>5.91</td>
+      <td>261</td>
+      <td>1669</td>
+      <td>6.39</td>
     </tr>
     <tr>
-      <td>Matti</td>
-      <td>349.1</td>
-      <td>257</td>
-      <td>1456</td>
-      <td>5.67</td>
-    </tr>
-    <tr>
-      <td>Tommy</td>
-      <td>350.0</td>
-      <td>234</td>
-      <td>1438</td>
-      <td>6.15</td>
+      <td>Hustlersen</td>
+      <td>327.8</td>
+      <td>222</td>
+      <td>1656</td>
+      <td>7.46</td>
     </tr>
     <tr>
       <td>Jarma</td>
       <td>350.0</td>
-      <td>226</td>
-      <td>1407</td>
-      <td>6.23</td>
+      <td>238</td>
+      <td>1612</td>
+      <td>6.77</td>
+    </tr>
+    <tr>
+      <td>Tommy</td>
+      <td>350.0</td>
+      <td>241</td>
+      <td>1598</td>
+      <td>6.63</td>
+    </tr>
+    <tr>
+      <td>Matti</td>
+      <td>349.1</td>
+      <td>264</td>
+      <td>1552</td>
+      <td>5.88</td>
     </tr>
   </tbody>
 </table>

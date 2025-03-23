@@ -212,7 +212,7 @@
       <th>12</th>
       <td>13</td>
       <td>Plapp Luke</td>
-      <td class = "startlist">Welsford Sam</td>
+      <td>Welsford Sam</td>
       <td>Nys Thibau</td>
       <td class = "startlist">Magnier Paul</td>
       <td>Kron Andreas</td>
@@ -233,7 +233,7 @@
       <td>Strong Corbin</td>
       <td>Nys Thibau</td>
       <td>Martinez Lenny</td>
-      <td class = "startlist">Welsford Sam</td>
+      <td>Welsford Sam</td>
       <td class = "startlist">Magnier Paul</td>
     </tr>
     <tr>
@@ -295,11 +295,11 @@
     <tr>
       <th>18</th>
       <td>19</td>
-      <td class = "startlist">Welsford Sam</td>
+      <td>Welsford Sam</td>
       <td>Brennan Matthew</td>
       <td>Laurance Axel</td>
       <td class = "startlist">Penhoët Paul</td>
-      <td>Van Baarle Dylan</td>
+      <td class = "startlist">Van Baarle Dylan</td>
       <td>Teuns Dylan</td>
       <td class = "startlist">Andresen Tobias Lund</td>
       <td>Sheehan Riley</td>
@@ -338,12 +338,12 @@
       <th>21</th>
       <td>22</td>
       <td class = "startlist">Rex Laurenz</td>
-      <td class = "startlist">Foldager Anders</td>
+      <td>Foldager Anders</td>
       <td class = "startlist">Rex Laurenz</td>
       <td>Pedersen Rasmus Søjberg</td>
       <td>Teutenberg Tim Torn</td>
       <td class = "startlist">Andresen Tobias Lund</td>
-      <td class = "startlist">Romeo Iván</td>
+      <td>Romeo Iván</td>
       <td>Van Den Broek Frank</td>
       <td>Rafferty Darren</td>
       <td class = "startlist">Aular Orluis</td>
@@ -367,14 +367,14 @@
       <td>24</td>
       <td class = "startlist">Jeannière Emilien</td>
       <td>Withen Philipsen Albert</td>
-      <td class = "startlist">Behrens Niklas</td>
+      <td>Behrens Niklas</td>
       <td>Artz Huub</td>
       <td>Withen Philipsen Albert</td>
       <td class = "startlist">Jeannière Emilien</td>
       <td>Seixas Paul</td>
       <td>Rafferty Darren</td>
       <td>Wandahl Frederik</td>
-      <td>Van Baarle Dylan</td>
+      <td class = "startlist">Van Baarle Dylan</td>
     </tr>
     <tr>
       <th>24</th>

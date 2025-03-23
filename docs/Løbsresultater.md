@@ -4438,6 +4438,1406 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Milano-Sanremo</td>
+      <td>Abrahamsen, Jonas</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Adrià, Roger</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>result: 2</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Alaphilippe, Julian</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Albanese, Vincenzo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Aranburu, Alex</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>12</td>
+      <td>result: 12</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Askey, Lewis</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Aular, Orluis</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Azparren, Xabier</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Bagioli, Andrea</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Ballerini, Davide</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Barguil, Warren</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Barrenetxea, Jon</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>6</td>
+      <td>result: 6</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Bastiaens, Ayco</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Berckmoes, Jenno</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Bettiol, Alberto</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Beullens, Cedric</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Boven, Luca Van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Brenner, Marco</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Busatto, Francesco</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Bystrøm, Sven Erik</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Campenaerts, Victor</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Canal, Carlos</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Caruso, Damiano</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Cattaneo, Mattia</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Cerný, Josef</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Christen, Fabio</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Ciccone, Giulio</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Clarke, Simon</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Combaud, Romain</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Cort, Magnus</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>50</td>
+      <td>result: 50</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Coté, Pier-André</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>De Pretto, Davide</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Degenkolb, John</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Del Toro, Isaac</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>16</td>
+      <td>result: 16</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Delaplace, Anthony</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Dillier, Silvan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Donovan, Mark</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Drizners, Jarrad</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Dversnes, Fredrik</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Engelhardt, Felix</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Fedorov, Yevgeniy</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Fiorelli, Filippo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Flynn, Sean</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Foss, Tobias</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Frigo, Marco</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Fuglsang, Jakob</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Gamper, Patrick</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Ganna, Filippo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>100</td>
+      <td>result: 100</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>García Cortina, Iván</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>5</td>
+      <td>result: 5</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>García, Raúl</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Gautherat, Pierre</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Geniets, Kévin</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Giddings, Joshua</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Gils, Maxim Van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>7</td>
+      <td>result: 7</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Girmay, Biniam</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>14</td>
+      <td>result: 14</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>González, Roberto</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Gradek, Kamil</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Grignard, Sébastien</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Groves, Kaden</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>60</td>
+      <td>result: 60</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Gruel, Thibaud</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Grégoire, Romain</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Gudmestad, Tord</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Guernalec, Thibault</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Guernalec, Victor</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Haller, Marco</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Hamilton, Chris</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Hermans, Quinten</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Hoelgaard, Markus</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Honoré, Mikkel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>9</td>
+      <td>result: 9</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Hoorn, Taco van der</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Johannessen, Anders</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Johannessen, Tobias</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Kirsch, Alex</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Koerdt, Bjoern</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Kooij, Olav</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>35</td>
+      <td>result: 35</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Krieger, Alexander</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Laengen, Vegard Stake</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Lafay, Victor</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Lastra, Jonathan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Laurance, Axel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Le Berre, Mathis</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Lienhard, Fabian</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Liepiņš, Emīls</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Livyns, Arjen</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>result: 1</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Louvel, Matîs</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Maas, Jan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Maciejuk, Filip</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Mackellar, Alastair</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Mahoudo, Nolann</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Marcellusi, Martin</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Martinelli, Alessio</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Matthews, Michael</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>70</td>
+      <td>result: 70</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>McLay, Daniel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Meo, Felix James</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Meurisse, Xandro</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Mihkels, Madis</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Milan, Jonathan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Milesi, Lorenzo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Mohorič, Matej</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Moro, Manlio</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Mosca, Jacopo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Moscon, Gianni</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Mullen, Ryan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Naesen, Oliver</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Narváez, Jhonatan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Nencini, Tommaso</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Novak, Domen</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Ourselin, Paul</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Pacher, Quentin</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Paletti, Luca</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Paquot, Tom</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Paret-Peintre, Aurélien</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Pasqualon, Andrea</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Pedersen, Casper</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Pedersen, Mads</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>40</td>
+      <td>result: 40</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Pestel, Sander De</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Philipsen, Jasper</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Pidcock, Tom</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Pithie, Laurence</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Pluimers, Rick</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Poel, Mathieu van der</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>120</td>
+      <td>result: 120</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Pogačar, Tadej</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>85</td>
+      <td>result: 85</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Politt, Nils</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Poppel, Danny van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Powless, Neilson</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Rajović, Dušan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Reinderink, Pepijn</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Rex, Laurenz</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Riesebeek, Oscar</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Rojas, Vicente</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Russo, Clément</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Rutsch, Jonas</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Samitier, Sergio</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Sande, Tosh Van der</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Sbaragli, Kristian</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Schachmann, Maximilian</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Schmid, Mauro</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Serrano, Gonzalo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Skaarseth, Anders</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Stannard, Robert</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Stewart, Jake</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Stewart, Mark</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Strong, Corbin</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>18</td>
+      <td>result: 18</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Stuyven, Jasper</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>3</td>
+      <td>result: 3</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Svrček, Martin</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Sweeny, Harry</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Swift, Ben</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Swift, Connor</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Sütterlin, Jasha</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Tarozzi, Manuele</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Teunissen, Mike</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>20</td>
+      <td>result: 20</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Thomas, Geraint</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Touzé, Damien</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Trentin, Matteo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>30</td>
+      <td>result: 30</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Tronchon, Bastien</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Tsarenko, Kyrylo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Tulett, Ben</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>10</td>
+      <td>result: 10</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Turconi, Filippo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Turner, Ben</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Ulissi, Diego</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Vader, Milan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Valter, Attila</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Vauquelin, Kévin</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Veistroffer, Baptiste</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Velasco, Simone</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>4</td>
+      <td>result: 4</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Vermaerke, Kevin</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Verre, Alessandro</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Vinokurov, Nicolas</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Walker, Max</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Wellens, Tim</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Wright, Fred</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>25</td>
+      <td>result: 25</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Zambanini, Edoardo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>8</td>
+      <td>result: 8</td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Zana, Filippo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Zingle, Axel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Milano-Sanremo</td>
+      <td>Zukowsky, Nick</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Milano-Torino</td>
       <td>Abrahamsen, Jonas</td>
       <td>Classics Cat. 3</td>

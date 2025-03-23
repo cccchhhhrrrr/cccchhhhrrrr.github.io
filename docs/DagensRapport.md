@@ -4,6 +4,24 @@ hide:
   - toc
 ---
 
+## 2025-03-22
+### Hovedspillet
+Poel, Mathieu van der **120** (Jarma)  
+Pogačar, Tadej **85** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
+Pedersen, Mads **40** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
+Kooij, Olav **35** (Kenk, Matti, Tommy, Visti)  
+Trentin, Matteo **30** (Knak)  
+Strong, Corbin **18** (Knak, Visti)  
+Girmay, Biniam **14** (Jappo, Knak, Matti, Okholm, Visti)  
+Gils, Maxim Van **7** (Kenk, Matti)  
+Adrià, Roger **2** (Okholm)  
+
+### Cheapo
+
+
+
+
+
 ## 2025-03-19
 ### Hovedspillet
 Ulissi, Diego **4** (Knak)  
