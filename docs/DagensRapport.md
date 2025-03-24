@@ -4,6 +4,22 @@ hide:
   - toc
 ---
 
+## 2025-03-24
+### Hovedspillet
+Brennan, Matthew **25** (Chrelle, Hustlersen, Kenk)  
+Del Grosso, Tibor **16** (Jarma)  
+Strong, Corbin **10** (Knak, Visti)  
+Landa, Mikel **6** (Jappo, Jarma, Visti)  
+Eetvelt, Lennert Van **4** (Jappo, Kenk, Tommy)  
+Plus, Laurens De **3** (Okholm)  
+
+### Cheapo
+Del Grosso, Tibor **16** (Chrelle, Jappo, Jarma, Kenk)  
+
+
+
+
+
 ## 2025-03-22
 ### Hovedspillet
 Poel, Mathieu van der **120** (Jarma)  
