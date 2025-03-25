@@ -199,7 +199,7 @@
       <td>12</td>
       <td>Hayter Ethan</td>
       <td>Plapp Luke</td>
-      <td>Powless Neilson</td>
+      <td class = "startlist">Powless Neilson</td>
       <td>Poole Max</td>
       <td>Magnier Paul</td>
       <td>Grégoire Romain</td>
@@ -226,7 +226,7 @@
       <th>13</th>
       <td>14</td>
       <td>Poole Max</td>
-      <td>Mihkels Madis</td>
+      <td class = "startlist">Mihkels Madis</td>
       <td>Hayter Ethan</td>
       <td>Bagioli Andrea</td>
       <td>Christen Jan</td>
@@ -253,7 +253,7 @@
     <tr>
       <th>15</th>
       <td>16</td>
-      <td>Tarling Joshua</td>
+      <td class = "startlist">Tarling Joshua</td>
       <td>Steinhauser Georg</td>
       <td>Magnier Paul</td>
       <td>Schachmann Maximilian</td>
@@ -272,11 +272,11 @@
       <td>Fisher-Black Finn</td>
       <td>Nerurkar Lukas</td>
       <td>Andresen Tobias Lund</td>
-      <td>Trentin Matteo</td>
-      <td>Mihkels Madis</td>
+      <td class = "startlist">Trentin Matteo</td>
+      <td class = "startlist">Mihkels Madis</td>
       <td>Adrià Roger</td>
       <td>Zingle Axel</td>
-      <td>Mihkels Madis</td>
+      <td class = "startlist">Mihkels Madis</td>
     </tr>
     <tr>
       <th>17</th>
@@ -326,7 +326,7 @@
       <td>Brennan Matthew</td>
       <td class = "startlist">Teutenberg Tim Torn</td>
       <td>Morgado António</td>
-      <td>Louvel Matis</td>
+      <td class = "startlist">Louvel Matis</td>
       <td>Rex Laurenz</td>
       <td>Ulissi Diego</td>
       <td>Fretin Milan</td>
@@ -346,7 +346,7 @@
       <td class = "startlist">Romeo Iván</td>
       <td>Van Den Broek Frank</td>
       <td>Rafferty Darren</td>
-      <td>Aular Orluis</td>
+      <td class = "startlist">Aular Orluis</td>
     </tr>
     <tr>
       <th>22</th>
@@ -359,7 +359,7 @@
       <td class = "startlist">Naesen Oliver</td>
       <td>Staune-Mittet Johannes</td>
       <td>Aleotti Giovanni</td>
-      <td>Watson Samuel</td>
+      <td class = "startlist">Watson Samuel</td>
       <td>Vermeersch Florian</td>
     </tr>
     <tr>

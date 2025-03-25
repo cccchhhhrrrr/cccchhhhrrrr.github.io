@@ -17009,9 +17009,9 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Aberasturi, Jon</td>
       <td>Tour Cat. 2</td>
+      <td>2</td>
       <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>stage-2: 1</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
@@ -17025,7 +17025,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Aleotti, Giovanni</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17033,7 +17033,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Alustiza, Nicolás</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17041,15 +17041,15 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Aniołkowski, Stanisław</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>2</td>
+      <td>6</td>
+      <td>stage-2: 6</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Aparicio, Mario</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17057,7 +17057,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Armirail, Bruno</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17065,7 +17065,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Ayuso, Juan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17073,7 +17073,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Babor, Daniel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17081,7 +17081,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Balderstone, Abel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17089,7 +17089,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Barta, Will</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17097,7 +17097,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Bekkum, Darren van</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17105,7 +17105,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Bennett, George</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17113,15 +17113,15 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Berg, Marijn van den</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>2</td>
+      <td>8</td>
+      <td>stage-2: 8</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Berhe, Welay Hagos</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17129,7 +17129,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Bernal, Egan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17137,7 +17137,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Berrade, Urko</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17145,7 +17145,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Berthet, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17153,7 +17153,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Berwick, Sebastian</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17161,15 +17161,15 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Bittner, Pavel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>2</td>
+      <td>12</td>
+      <td>stage-2: 12</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Bizkarra, Mikel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17185,7 +17185,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Bouchard, Geoffrey</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17193,7 +17193,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Bouwman, Koen</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17201,7 +17201,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Braz Afonso, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17209,15 +17209,15 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Brennan, Matthew</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>25</td>
-      <td>stage-1: 25</td>
+      <td>2</td>
+      <td>45</td>
+      <td>stage-1: 25 / stage-2: 20</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Broek, Frank van den</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17225,7 +17225,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Buchmann, Emanuel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17233,7 +17233,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Buratti, Nicolò</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17241,7 +17241,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Burnett, Josh</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17249,7 +17249,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Carapaz, Richard</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17257,7 +17257,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Carthy, Hugh</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17265,7 +17265,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Castellon, Jan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17273,7 +17273,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Chaves, Esteban</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17281,7 +17281,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Chumil, Sergio</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17289,7 +17289,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Clarke, Simon</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17297,7 +17297,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Cobo, Iván</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17305,7 +17305,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Colleoni, Kevin</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17313,7 +17313,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Combaud, Romain</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17321,7 +17321,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Currie, Logan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17329,7 +17329,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>De Marchi, Alessandro</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17337,7 +17337,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Del Grosso, Tibor</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>16</td>
       <td>stage-1: 16</td>
     </tr>
@@ -17345,7 +17345,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Denz, Nico</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17353,7 +17353,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Dhondt, Robbe</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17361,7 +17361,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Diaz, José Manuel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17369,7 +17369,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Dina, Márton</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17377,7 +17377,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Donnenwirth, Tom</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17385,7 +17385,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Drizners, Jarrad</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17393,7 +17393,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Eddy, Patrick</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17401,7 +17401,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Eekhoff, Nils</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17409,7 +17409,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Eetvelt, Lennert Van</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>4</td>
       <td>stage-1: 4</td>
     </tr>
@@ -17417,7 +17417,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Einhorn, Itamar</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17425,7 +17425,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Eulálio, Afonso</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17433,7 +17433,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Fagúndez, Eric</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17441,7 +17441,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Faure Prost, Alexy</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17449,15 +17449,15 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Foldager, Anders</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>2</td>
+      <td>3</td>
+      <td>stage-2: 3</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Fortunato, Lorenzo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17465,7 +17465,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Fraile, Omar</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17473,7 +17473,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Gall, Felix</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17481,7 +17481,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>García, Carlos</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17489,7 +17489,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Garofoli, Gianmarco</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17497,7 +17497,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Geoghegan Hart, Tao</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17505,7 +17505,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Germani, Lorenzo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17513,7 +17513,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Gesbert, Elie</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17521,7 +17521,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Ghebreigzabhier, Amanuel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17529,7 +17529,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Glivar, Gal</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17537,15 +17537,15 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Godon, Dorian</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>14</td>
-      <td>stage-1: 14</td>
+      <td>2</td>
+      <td>24</td>
+      <td>stage-1: 14 / stage-2: 10</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Govekar, Matevž</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17553,7 +17553,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Gregaard, Jonas</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17561,15 +17561,15 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Groves, Kaden</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>20</td>
-      <td>stage-1: 20</td>
+      <td>2</td>
+      <td>36</td>
+      <td>stage-1: 20 / stage-2: 16</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Guardeño, Jaume</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17577,7 +17577,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Hajek, Alexander</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17585,7 +17585,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Hamilton, Lucas</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17593,7 +17593,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Hayter, Ethan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17601,7 +17601,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Hellemose, Asbjørn</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17609,7 +17609,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Hermans, Quinten</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17617,7 +17617,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Herrada, Jesús</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17625,7 +17625,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Huising, Menno</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17633,7 +17633,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Huys, Laurens</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17641,7 +17641,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Janssens, Jimmy</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17649,7 +17649,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Johansen, Julius</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17657,7 +17657,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Johnston, Calum</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17665,7 +17665,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Juul-Jensen, Chris</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17673,7 +17673,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Kelderman, Wilco</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17681,7 +17681,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Kepplinger, Rainer</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17689,7 +17689,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Knox, James</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17697,7 +17697,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Kruijswijk, Steven</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17705,7 +17705,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Kuss, Sepp</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17713,7 +17713,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Kämna, Lennard</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17721,7 +17721,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Landa, Mikel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>6</td>
       <td>stage-1: 6</td>
     </tr>
@@ -17729,7 +17729,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Lastra, Jonathan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17737,23 +17737,23 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Laurance, Axel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>2</td>
+      <td>14</td>
+      <td>stage-2: 14</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Lecerf, William Junior</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
       <td>2</td>
-      <td>stage-1: 2</td>
+      <td>4</td>
+      <td>stage-1: 2 / stage-2: 2</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Lemmen, Bart</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17761,7 +17761,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Leonard, Michael</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17769,7 +17769,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Lopez, Harold Martin</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17777,7 +17777,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Lopez, Juan Pedro</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17785,7 +17785,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Mahoudo, Nolann</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17793,7 +17793,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Martinez, Lenny</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17801,7 +17801,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Mas, Enric</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>1</td>
       <td>stage-1: 1</td>
     </tr>
@@ -17809,7 +17809,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Meintjes, Louis</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17817,7 +17817,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Miholjević, Fran</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17825,7 +17825,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Miquel, Pau</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17833,7 +17833,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Molard, Rudy</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17841,7 +17841,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Molenaar, Alex</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17849,7 +17849,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Moniquet, Sylvain</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17857,7 +17857,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Mulubrhan, Henok</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17865,7 +17865,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Murguialday, Jokin</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17873,7 +17873,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Mühlberger, Gregor</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17881,7 +17881,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Novak, Domen</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17889,7 +17889,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>O'Connor, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17897,7 +17897,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Oomen, Sam</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17905,7 +17905,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Paleni, Enzo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17913,7 +17913,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Paquot, Tom</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17921,7 +17921,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Paret-Peintre, Valentin</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17929,7 +17929,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Parra, José Félix</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17937,7 +17937,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Pedrero, Antonio</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17945,7 +17945,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Pellizzari, Giulio</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17953,7 +17953,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Pickering, Finlay</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17961,7 +17961,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Planckaert, Edward</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>8</td>
       <td>stage-1: 8</td>
     </tr>
@@ -17969,7 +17969,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Plus, Laurens De</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>3</td>
       <td>stage-1: 3</td>
     </tr>
@@ -17977,7 +17977,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Poels, Wout</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17985,7 +17985,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Pooter, Dries De</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17993,7 +17993,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Quintana, Nairo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18001,7 +18001,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Rafferty, Darren</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18009,7 +18009,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Riccitello, Matthew</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18017,7 +18017,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Ries, Michel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18025,7 +18025,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Rochas, Rémy</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18033,7 +18033,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Rodríguez, Cristian</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18041,7 +18041,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Roglič, Primož</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18049,7 +18049,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Rolland, Brieuc</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18057,7 +18057,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Roosen, Timo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18065,7 +18065,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Rouland, Louis</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18073,7 +18073,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Schelling, Ide</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18081,7 +18081,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Schultz, Nick</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18089,7 +18089,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Sepúlveda, Eduardo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18097,7 +18097,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Serry, Pieter</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18105,7 +18105,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Shaw, James</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18113,7 +18113,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Simmons, Quinn</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18121,7 +18121,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Sivakov, Pavel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18129,15 +18129,15 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Smith, Dion</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>2</td>
+      <td>4</td>
+      <td>stage-2: 4</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Soler, Marc</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18145,7 +18145,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Sosa, Ivan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18153,7 +18153,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Staune-Mittet, Johannes</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18161,7 +18161,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Steinhauser, Georg</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18169,7 +18169,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Strong, Corbin</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>10</td>
       <td>stage-1: 10</td>
     </tr>
@@ -18177,7 +18177,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Su, Haoyu</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18185,7 +18185,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Svestad-Bårdseng, Embret</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18193,7 +18193,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Thomas, Geraint</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18201,7 +18201,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Thompson, Reuben</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18209,7 +18209,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Torres, Albert</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18217,7 +18217,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Torres, Pablo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18225,7 +18225,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Toumire, Hugo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18233,7 +18233,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Tratnik, Jan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18241,7 +18241,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Tricht, Stan Van</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18249,7 +18249,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Tuuk, Danny van der</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18257,7 +18257,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Uriarte, Diego</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18265,7 +18265,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Vandenabeele, Henri</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18273,7 +18273,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Vendrame, Andrea</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>12</td>
       <td>stage-1: 12</td>
     </tr>
@@ -18281,15 +18281,15 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Vernon, Ethan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>2</td>
+      <td>25</td>
+      <td>stage-2: 25</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Verona, Carlos</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18297,7 +18297,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Wandahl, Frederik</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18305,7 +18305,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Wenzel, Mats</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18313,7 +18313,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Yates, Adam</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18321,7 +18321,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Yates, Simon</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>

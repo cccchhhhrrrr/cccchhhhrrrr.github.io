@@ -4,6 +4,19 @@ hide:
   - toc
 ---
 
+## 2025-03-25
+### Hovedspillet
+Brennan, Matthew **20** (Chrelle, Hustlersen, Kenk)  
+Laurance, Axel **14** (Jappo, Matti, Okholm)  
+Foldager, Anders **3** (Hustlersen)  
+
+### Cheapo
+Foldager, Anders **3** (Hustlersen, Jappo, Kenk, Visti)  
+
+
+
+
+
 ## 2025-03-24
 ### Hovedspillet
 Brennan, Matthew **25** (Chrelle, Hustlersen, Kenk)  
