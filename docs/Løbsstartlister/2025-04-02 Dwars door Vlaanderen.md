@@ -122,7 +122,7 @@
       <td>Rodríguez Carlos</td>
       <td>Lipowitz Florian</td>
       <td>Van Eetvelt Lennert</td>
-      <td>Kooij Olav</td>
+      <td class = "startlist">Kooij Olav</td>
     </tr>
     <tr>
       <th>6</th>
@@ -133,9 +133,9 @@
       <td class = "startlist">De Lie Arnaud</td>
       <td>Van Eetvelt Lennert</td>
       <td>Carapaz Richard</td>
-      <td>Kooij Olav</td>
+      <td class = "startlist">Kooij Olav</td>
       <td class = "startlist">Girmay Biniam</td>
-      <td>Kooij Olav</td>
+      <td class = "startlist">Kooij Olav</td>
       <td class = "startlist">De Lie Arnaud</td>
     </tr>
     <tr>
@@ -145,7 +145,7 @@
       <td>Onley Oscar</td>
       <td>Landa Mikel</td>
       <td>Landa Mikel</td>
-      <td>Kooij Olav</td>
+      <td class = "startlist">Kooij Olav</td>
       <td class = "startlist">Girmay Biniam</td>
       <td>Van Gils Maxim</td>
       <td>Yates Simon</td>
@@ -261,8 +261,8 @@
       <td>Schachmann Maximilian</td>
       <td class = "startlist">Lazkano Oier</td>
       <td class = "startlist">Lazkano Oier</td>
-      <td class = "startlist">Abrahamsen Jonas</td>
-      <td class = "startlist">Zingle Axel</td>
+      <td>Abrahamsen Jonas</td>
+      <td>Zingle Axel</td>
     </tr>
     <tr>
       <th>16</th>
@@ -275,7 +275,7 @@
       <td>Trentin Matteo</td>
       <td class = "startlist">Mihkels Madis</td>
       <td>Adrià Roger</td>
-      <td class = "startlist">Zingle Axel</td>
+      <td>Zingle Axel</td>
       <td class = "startlist">Mihkels Madis</td>
     </tr>
     <tr>
@@ -368,7 +368,7 @@
       <td>Jeannière Emilien</td>
       <td>Withen Philipsen Albert</td>
       <td>Behrens Niklas</td>
-      <td class = "startlist">Artz Huub</td>
+      <td>Artz Huub</td>
       <td>Withen Philipsen Albert</td>
       <td>Jeannière Emilien</td>
       <td>Seixas Paul</td>

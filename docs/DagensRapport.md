@@ -4,6 +4,22 @@ hide:
   - toc
 ---
 
+## 2025-03-27
+### Hovedspillet
+Roglič, Primož **25** (Hustlersen, Knak)  
+Ayuso, Juan **20** (Hustlersen, Kenk)  
+Martinez, Lenny **14** (Jappo, Knak, Matti, Okholm, Tommy, Visti)  
+Landa, Mikel **12** (Jappo, Jarma, Visti)  
+Gall, Felix **10** (Chrelle, Matti, Visti)  
+Eetvelt, Lennert Van **8** (Jappo, Kenk, Tommy)  
+Pellizzari, Giulio **3** (Tommy)  
+
+### Cheapo
+
+
+
+
+
 ## 2025-03-26
 ### Hovedspillet
 Milan, Jonathan **60** (Jarma, Kenk, Matti, Okholm, Visti)  

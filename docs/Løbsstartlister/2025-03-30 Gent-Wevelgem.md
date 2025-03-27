@@ -299,7 +299,7 @@
       <td>Brennan Matthew</td>
       <td>Laurance Axel</td>
       <td class = "startlist">Penhoët Paul</td>
-      <td class = "startlist">Van Baarle Dylan</td>
+      <td>Van Baarle Dylan</td>
       <td>Teuns Dylan</td>
       <td class = "startlist">Andresen Tobias Lund</td>
       <td>Sheehan Riley</td>
@@ -343,7 +343,7 @@
       <td>Pedersen Rasmus Søjberg</td>
       <td>Teutenberg Tim Torn</td>
       <td class = "startlist">Andresen Tobias Lund</td>
-      <td>Romeo Iván</td>
+      <td class = "startlist">Romeo Iván</td>
       <td>Van Den Broek Frank</td>
       <td>Rafferty Darren</td>
       <td class = "startlist">Aular Orluis</td>
@@ -374,7 +374,7 @@
       <td>Seixas Paul</td>
       <td>Rafferty Darren</td>
       <td>Wandahl Frederik</td>
-      <td class = "startlist">Van Baarle Dylan</td>
+      <td>Van Baarle Dylan</td>
     </tr>
     <tr>
       <th>24</th>

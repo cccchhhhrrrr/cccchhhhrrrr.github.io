@@ -106,7 +106,7 @@
       <td>Ayuso Juan</td>
       <td>Merlier Tim</td>
       <td>Skjelmose Mattias</td>
-      <td class = "startlist">De Lie Arnaud</td>
+      <td>De Lie Arnaud</td>
       <td>Skjelmose Mattias</td>
       <td>Rodríguez Carlos</td>
     </tr>
@@ -114,7 +114,7 @@
       <th>5</th>
       <td>6</td>
       <td>Pidcock Thomas</td>
-      <td class = "startlist">De Lie Arnaud</td>
+      <td>De Lie Arnaud</td>
       <td>Pidcock Thomas</td>
       <td>Milan Jonathan</td>
       <td>Almeida João</td>
@@ -127,16 +127,16 @@
     <tr>
       <th>6</th>
       <td>7</td>
-      <td class = "startlist">De Lie Arnaud</td>
+      <td>De Lie Arnaud</td>
       <td>Hirschi Marc</td>
-      <td class = "startlist">De Lie Arnaud</td>
-      <td class = "startlist">De Lie Arnaud</td>
+      <td>De Lie Arnaud</td>
+      <td>De Lie Arnaud</td>
       <td>Van Eetvelt Lennert</td>
       <td>Carapaz Richard</td>
       <td>Kooij Olav</td>
       <td class = "startlist">Girmay Biniam</td>
       <td>Kooij Olav</td>
-      <td class = "startlist">De Lie Arnaud</td>
+      <td>De Lie Arnaud</td>
     </tr>
     <tr>
       <th>7</th>
@@ -212,7 +212,7 @@
       <th>12</th>
       <td>13</td>
       <td>Plapp Luke</td>
-      <td>Welsford Sam</td>
+      <td class = "startlist">Welsford Sam</td>
       <td>Nys Thibau</td>
       <td>Magnier Paul</td>
       <td>Kron Andreas</td>
@@ -233,7 +233,7 @@
       <td>Strong Corbin</td>
       <td>Nys Thibau</td>
       <td>Martinez Lenny</td>
-      <td>Welsford Sam</td>
+      <td class = "startlist">Welsford Sam</td>
       <td>Magnier Paul</td>
     </tr>
     <tr>
@@ -295,14 +295,14 @@
     <tr>
       <th>18</th>
       <td>19</td>
-      <td>Welsford Sam</td>
+      <td class = "startlist">Welsford Sam</td>
       <td>Brennan Matthew</td>
       <td>Laurance Axel</td>
       <td>Penhoët Paul</td>
       <td class = "startlist">Van Baarle Dylan</td>
       <td>Teuns Dylan</td>
       <td>Andresen Tobias Lund</td>
-      <td class = "startlist">Sheehan Riley</td>
+      <td>Sheehan Riley</td>
       <td>Campenaerts Victor</td>
       <td class = "startlist">Van Dijke Tim</td>
     </tr>
@@ -346,7 +346,7 @@
       <td class = "startlist">Romeo Iván</td>
       <td>Van Den Broek Frank</td>
       <td>Rafferty Darren</td>
-      <td class = "startlist">Aular Orluis</td>
+      <td>Aular Orluis</td>
     </tr>
     <tr>
       <th>22</th>

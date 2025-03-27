@@ -614,11 +614,11 @@ hide:
     </tr>
     <tr>
       <td>Ayuso, Juan</td>
-      <td>207</td>
+      <td>227</td>
       <td>0</td>
       <td>0.0</td>
-      <td>172</td>
-      <td>83.1</td>
+      <td>192</td>
+      <td>84.6</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -626,7 +626,7 @@ hide:
       <td>0</td>
       <td>0.0</td>
       <td>35</td>
-      <td>16.9</td>
+      <td>15.4</td>
     </tr>
     <tr>
       <td>Azanza, Ibai</td>
@@ -4086,15 +4086,15 @@ hide:
     </tr>
     <tr>
       <td>Eetvelt, Lennert Van</td>
-      <td>95</td>
+      <td>103</td>
       <td>0</td>
       <td>0.0</td>
-      <td>65</td>
-      <td>68.4</td>
+      <td>73</td>
+      <td>70.9</td>
       <td>0</td>
       <td>0.0</td>
       <td>30</td>
-      <td>31.6</td>
+      <td>29.1</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -4758,10 +4758,10 @@ hide:
     </tr>
     <tr>
       <td>Gall, Felix</td>
-      <td>54</td>
+      <td>64</td>
       <td>0</td>
       <td>0.0</td>
-      <td>54</td>
+      <td>64</td>
       <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
@@ -7558,15 +7558,15 @@ hide:
     </tr>
     <tr>
       <td>Landa, Mikel</td>
-      <td>96</td>
+      <td>108</td>
       <td>0</td>
       <td>0.0</td>
-      <td>76</td>
-      <td>79.2</td>
+      <td>88</td>
+      <td>81.5</td>
       <td>0</td>
       <td>0.0</td>
       <td>20</td>
-      <td>20.8</td>
+      <td>18.5</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -8054,11 +8054,11 @@ hide:
     </tr>
     <tr>
       <td>Lopez, Harold Martin</td>
-      <td>14</td>
+      <td>16</td>
       <td>0</td>
       <td>0.0</td>
-      <td>6</td>
-      <td>42.9</td>
+      <td>8</td>
+      <td>50.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -8066,7 +8066,7 @@ hide:
       <td>0</td>
       <td>0.0</td>
       <td>8</td>
-      <td>57.1</td>
+      <td>50.0</td>
     </tr>
     <tr>
       <td>Lopez, Jordi</td>
@@ -8102,11 +8102,11 @@ hide:
     </tr>
     <tr>
       <td>Lopez, Juan Pedro</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>4</td>
       <td>0</td>
       <td>0.0</td>
+      <td>4</td>
+      <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -8598,13 +8598,13 @@ hide:
     </tr>
     <tr>
       <td>Martinez, Lenny</td>
-      <td>73</td>
+      <td>87</td>
       <td>0</td>
       <td>0.0</td>
-      <td>61</td>
-      <td>83.6</td>
+      <td>75</td>
+      <td>86.2</td>
       <td>12</td>
-      <td>16.4</td>
+      <td>13.8</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -8614,13 +8614,13 @@ hide:
     </tr>
     <tr>
       <td>Mas, Enric</td>
-      <td>17</td>
+      <td>33</td>
       <td>0</td>
       <td>0.0</td>
-      <td>11</td>
-      <td>64.7</td>
+      <td>27</td>
+      <td>81.8</td>
       <td>6</td>
-      <td>35.3</td>
+      <td>18.2</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -10102,11 +10102,11 @@ hide:
     </tr>
     <tr>
       <td>Pellizzari, Giulio</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>3</td>
       <td>0</td>
       <td>0.0</td>
+      <td>3</td>
+      <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -10630,13 +10630,13 @@ hide:
     </tr>
     <tr>
       <td>Poels, Wout</td>
-      <td>24</td>
+      <td>25</td>
       <td>0</td>
       <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>1</td>
+      <td>4.0</td>
       <td>24</td>
-      <td>100.0</td>
+      <td>96.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -11158,10 +11158,10 @@ hide:
     </tr>
     <tr>
       <td>Riccitello, Matthew</td>
-      <td>12</td>
+      <td>18</td>
       <td>0</td>
       <td>0.0</td>
-      <td>12</td>
+      <td>18</td>
       <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
@@ -11334,13 +11334,13 @@ hide:
     </tr>
     <tr>
       <td>Roglič, Primož</td>
-      <td>38</td>
+      <td>63</td>
       <td>0</td>
       <td>0.0</td>
-      <td>20</td>
-      <td>52.6</td>
+      <td>45</td>
+      <td>71.4</td>
       <td>18</td>
-      <td>47.4</td>
+      <td>28.6</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
