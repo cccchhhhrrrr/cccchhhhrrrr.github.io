@@ -1390,6 +1390,1342 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Albanese, Vincenzo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Allegaert, Piet</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Andresen, Tobias Lund</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Arndt, Nikias</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Artz, Huub</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Asbroeck, Tom Van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Aular, Orluis</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Ballerini, Davide</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Barbier, Pierre</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Baroncini, Filippo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Barthe, Cyril</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Bastiaens, Ayco</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Bauhaus, Phil</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>40</td>
+      <td>result: 40</td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Behrens, Niklas</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Belle, Loe van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Berg, Julius van den</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Bjerg, Mikkel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Blikra, Erlend</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>35</td>
+      <td>result: 35</td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Bloem, Joren</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Boivin, Guillaume</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Bomboi, Davide</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>8</td>
+      <td>result: 8</td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Boniface, Lucas</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Bossche, Fabio Van den</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>7</td>
+      <td>result: 7</td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Boulahoite, Rayan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Bruttomesso, Alberto</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Buyst, Jasper De</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Campenaerts, Victor</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Cerný, Josef</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Cimolai, Davide</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Consonni, Simone</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>3</td>
+      <td>result: 3</td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Coté, Pier-André</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Crabbe, Tom</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Dainese, Alberto</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Dauphin, Florian</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Davy, Clément</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Declercq, Tim</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Dens, Tuur</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Desal, Cériel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Dijke, Mick van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Donaldson, Robert</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Doull, Owain</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Démare, Arnaud</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Epis, Giosuè</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Ermakov, Roman</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Eržen, Zak</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Fedorov, Yevgeniy</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>5</td>
+      <td>result: 5</td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Fredheim, Stian</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Fretin, Milan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Froideveaux, Robin</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Gamper, Patrick</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>García Cortina, Iván</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Gaze, Samuel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Gazzoli, Michele</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Gerits, Vince</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Ghys, Robbe</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Giddings, Joshua</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Groenewegen, Dylan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>18</td>
+      <td>result: 18</td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Grondin, Donavan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Heming, Miká</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Herregodts, Rune</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Hesters, Jules</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Hoecke, Gijs Van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Hofstetter, Hugo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Hollmann, Juri</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Hoorn, Taco van der</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Hvideberg, Jonas</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Izquierdo, Clément</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Jacobs, Johan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Jakobsen, Fabio</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Jeanniere, Emilien</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Johannink, Jelle</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Kanter, Max</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>30</td>
+      <td>result: 30</td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Kielich, Timo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Kirsch, Alex</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Kluckers, Arthur</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Knight, Oliver</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Kolze Changizi, Sebastian</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Kooij, Olav</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Kopecký, Tomáš</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Krijnsen, Jelte</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Kristoff, Alexander</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Kubiš, Lukáš</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Laengen, Vegard Stake</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Lambrecht, Michiel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Lampaert, Yves</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Lamperti, Luke</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>6</td>
+      <td>result: 6</td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Lazkano, Oier</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Le Huitouze, Eddy</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Leijnse, Enzo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Lerberghe, Bert Van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Lie, Arnaud De</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Lozouet, Léandre</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Maciejuk, Filip</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Malucelli, Matteo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Manzin, Lorrenzo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Marcerou, Nicola</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>McLay, Daniel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Mechelen, Vlad Van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Merlier, Tim</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Mihkels, Madis</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>50</td>
+      <td>result: 50</td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Mikutis, Aivaras</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Milan, Jonathan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>60</td>
+      <td>result: 60</td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Milesi, Lorenzo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Molano, Sebastián</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>70</td>
+      <td>result: 70</td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Morgado, António</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Moro, Manlio</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Mosca, Jacopo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Moscon, Gianni</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Mozzato, Luca</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>12</td>
+      <td>result: 12</td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Mullen, Ryan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Märkl, Niklas</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Norsgaard, Mathias</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>O'Brien, Kelland</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Penhoët, Paul</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Petit, Adrien</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Philipsen, Jasper</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Pickrell, Riley</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>10</td>
+      <td>result: 10</td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Poppel, Danny van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>4</td>
+      <td>result: 4</td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Raisberg, Nadav</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Reinders, Elmar</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Renard, Alexis</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>26</td>
+      <td>result: 26</td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Renard-Haquin, Henri-François</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Resell, Erik</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Rex, Laurenz</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>22</td>
+      <td>result: 22</td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Reynders, Jens</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Rickaert, Jonas</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>1</td>
+      <td>result: 1</td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Robeet, Ludovic</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Romele, Alessandro</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Rootkin-Gray, Jack</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Rooy, Kenneth Van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Russo, Clément</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>result: 2</td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Sande, Tosh Van der</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Schuyteneer, Steffen De</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Schwarzmann, Michael</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Scotson, Miles</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Serrano, Gonzalo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Sintmaartensdijk, Roel van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Skerl, Daniel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Soupe, Geoffrey</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Stockman, Abram</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Sweeny, Harry</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Taminiaux, Lionel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Teutenberg, Tim Torn</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Theuns, Edward</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Thierry, Pierre</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Thijssen, Gerben</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Todome, Yuhi</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Toneatti, Davide</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Touzé, Damien</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Uden, Casper van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Vandenbranden, Noah</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Vangheluwe, Warre</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Veistroffer, Baptiste</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Vercouillie, Victor</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Vermeersch, Florian</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Vermote, Julien</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Vries, Hartthijs de</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Vylder, Lindsay De</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Walker, Max</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Wallin, Rasmus Bøgh</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Walls, Matthew</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Walscheid, Max</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Weemaes, Sasha</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Welsford, Sam</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>14</td>
+      <td>result: 14</td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Welten, Bram</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Wærenskjold, Søren</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Classic Brugge-De Panne</td>
+      <td>Zijlaard, Maikel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Clásica de Almería</td>
       <td>Allegaert, Piet</td>
       <td>Classics Cat. 3</td>
@@ -17009,7 +18345,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Aberasturi, Jon</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>1</td>
       <td>stage-2: 1</td>
     </tr>
@@ -17025,7 +18361,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Aleotti, Giovanni</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17033,7 +18369,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Alustiza, Nicolás</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17041,7 +18377,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Aniołkowski, Stanisław</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>6</td>
       <td>stage-2: 6</td>
     </tr>
@@ -17049,7 +18385,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Aparicio, Mario</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17057,7 +18393,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Armirail, Bruno</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17065,15 +18401,15 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Ayuso, Juan</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>25</td>
+      <td>stage-3: 25</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Babor, Daniel</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17081,7 +18417,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Balderstone, Abel</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17089,7 +18425,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Barta, Will</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17097,7 +18433,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Bekkum, Darren van</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17105,7 +18441,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Bennett, George</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17113,7 +18449,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Berg, Marijn van den</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>8</td>
       <td>stage-2: 8</td>
     </tr>
@@ -17121,7 +18457,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Berhe, Welay Hagos</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17129,15 +18465,15 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Bernal, Egan</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>8</td>
+      <td>stage-3: 8</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Berrade, Urko</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17145,7 +18481,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Berthet, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17153,7 +18489,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Berwick, Sebastian</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17161,7 +18497,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Bittner, Pavel</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>12</td>
       <td>stage-2: 12</td>
     </tr>
@@ -17169,7 +18505,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Bizkarra, Mikel</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17185,7 +18521,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Bouchard, Geoffrey</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17193,7 +18529,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Bouwman, Koen</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17201,7 +18537,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Braz Afonso, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17209,7 +18545,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Brennan, Matthew</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>45</td>
       <td>stage-1: 25 / stage-2: 20</td>
     </tr>
@@ -17217,7 +18553,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Broek, Frank van den</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17225,7 +18561,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Buchmann, Emanuel</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17233,7 +18569,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Buratti, Nicolò</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17241,7 +18577,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Burnett, Josh</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17249,15 +18585,15 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Carapaz, Richard</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>4</td>
+      <td>stage-3: 4</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Carthy, Hugh</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17265,7 +18601,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Castellon, Jan</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17273,7 +18609,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Chaves, Esteban</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17281,7 +18617,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Chumil, Sergio</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17297,7 +18633,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Cobo, Iván</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17305,7 +18641,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Colleoni, Kevin</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17313,7 +18649,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Combaud, Romain</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17321,7 +18657,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Currie, Logan</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17329,7 +18665,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>De Marchi, Alessandro</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17337,7 +18673,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Del Grosso, Tibor</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>16</td>
       <td>stage-1: 16</td>
     </tr>
@@ -17345,7 +18681,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Denz, Nico</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17353,7 +18689,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Dhondt, Robbe</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17361,7 +18697,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Diaz, José Manuel</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17369,7 +18705,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Dina, Márton</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17377,7 +18713,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Donnenwirth, Tom</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17385,7 +18721,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Drizners, Jarrad</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17393,7 +18729,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Eddy, Patrick</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17401,7 +18737,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Eekhoff, Nils</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17409,15 +18745,15 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Eetvelt, Lennert Van</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>4</td>
-      <td>stage-1: 4</td>
+      <td>3</td>
+      <td>16</td>
+      <td>stage-1: 4 / stage-3: 12</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Einhorn, Itamar</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17425,7 +18761,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Eulálio, Afonso</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17433,7 +18769,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Fagúndez, Eric</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17441,7 +18777,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Faure Prost, Alexy</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17449,7 +18785,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Foldager, Anders</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>3</td>
       <td>stage-2: 3</td>
     </tr>
@@ -17457,7 +18793,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Fortunato, Lorenzo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17465,7 +18801,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Fraile, Omar</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17473,7 +18809,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Gall, Felix</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17481,7 +18817,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>García, Carlos</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17489,7 +18825,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Garofoli, Gianmarco</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17505,7 +18841,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Germani, Lorenzo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17513,7 +18849,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Gesbert, Elie</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17521,7 +18857,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Ghebreigzabhier, Amanuel</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17529,7 +18865,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Glivar, Gal</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17537,7 +18873,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Godon, Dorian</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>24</td>
       <td>stage-1: 14 / stage-2: 10</td>
     </tr>
@@ -17545,7 +18881,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Govekar, Matevž</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17553,7 +18889,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Gregaard, Jonas</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17561,7 +18897,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Groves, Kaden</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>36</td>
       <td>stage-1: 20 / stage-2: 16</td>
     </tr>
@@ -17569,7 +18905,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Guardeño, Jaume</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17577,7 +18913,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Hajek, Alexander</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17585,7 +18921,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Hamilton, Lucas</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17593,7 +18929,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Hayter, Ethan</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17601,7 +18937,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Hellemose, Asbjørn</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17609,7 +18945,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Hermans, Quinten</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17617,7 +18953,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Herrada, Jesús</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17625,7 +18961,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Huising, Menno</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17633,7 +18969,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Huys, Laurens</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17641,7 +18977,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Janssens, Jimmy</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17649,7 +18985,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Johansen, Julius</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17657,7 +18993,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Johnston, Calum</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17665,7 +19001,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Juul-Jensen, Chris</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17673,7 +19009,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Kelderman, Wilco</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17681,7 +19017,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Kepplinger, Rainer</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17689,7 +19025,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Knox, James</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17697,7 +19033,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Kruijswijk, Steven</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17705,15 +19041,15 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Kuss, Sepp</td>
       <td>Tour Cat. 2</td>
+      <td>3</td>
       <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>stage-3: 2</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Kämna, Lennard</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17721,15 +19057,15 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Landa, Mikel</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>6</td>
-      <td>stage-1: 6</td>
+      <td>3</td>
+      <td>22</td>
+      <td>stage-1: 6 / stage-3: 16</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Lastra, Jonathan</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17737,7 +19073,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Laurance, Axel</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>14</td>
       <td>stage-2: 14</td>
     </tr>
@@ -17745,7 +19081,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Lecerf, William Junior</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>4</td>
       <td>stage-1: 2 / stage-2: 2</td>
     </tr>
@@ -17753,7 +19089,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Lemmen, Bart</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17761,7 +19097,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Leonard, Michael</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17769,15 +19105,15 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Lopez, Harold Martin</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>6</td>
+      <td>stage-3: 6</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Lopez, Juan Pedro</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17793,23 +19129,23 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Martinez, Lenny</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>14</td>
+      <td>stage-3: 14</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Mas, Enric</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>1</td>
-      <td>stage-1: 1</td>
+      <td>3</td>
+      <td>11</td>
+      <td>stage-1: 1 / stage-3: 10</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Meintjes, Louis</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17817,7 +19153,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Miholjević, Fran</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17825,7 +19161,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Miquel, Pau</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17833,7 +19169,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Molard, Rudy</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17841,7 +19177,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Molenaar, Alex</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17849,7 +19185,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Moniquet, Sylvain</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17857,7 +19193,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Mulubrhan, Henok</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17865,7 +19201,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Murguialday, Jokin</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17873,7 +19209,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Mühlberger, Gregor</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17881,7 +19217,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Novak, Domen</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17889,7 +19225,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>O'Connor, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17897,7 +19233,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Oomen, Sam</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17905,7 +19241,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Paleni, Enzo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17913,7 +19249,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Paquot, Tom</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17921,7 +19257,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Paret-Peintre, Valentin</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17929,7 +19265,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Parra, José Félix</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17937,7 +19273,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Pedrero, Antonio</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17945,7 +19281,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Pellizzari, Giulio</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17953,7 +19289,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Pickering, Finlay</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17961,7 +19297,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Planckaert, Edward</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>8</td>
       <td>stage-1: 8</td>
     </tr>
@@ -17969,7 +19305,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Plus, Laurens De</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>3</td>
       <td>stage-1: 3</td>
     </tr>
@@ -17977,7 +19313,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Poels, Wout</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17985,7 +19321,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Pooter, Dries De</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17993,7 +19329,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Quintana, Nairo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18001,7 +19337,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Rafferty, Darren</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18009,7 +19345,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Riccitello, Matthew</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18017,7 +19353,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Ries, Michel</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18025,7 +19361,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Rochas, Rémy</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18033,7 +19369,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Rodríguez, Cristian</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18041,15 +19377,15 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Roglič, Primož</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>20</td>
+      <td>stage-3: 20</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Rolland, Brieuc</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18057,7 +19393,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Roosen, Timo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18065,7 +19401,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Rouland, Louis</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18073,7 +19409,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Schelling, Ide</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18081,7 +19417,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Schultz, Nick</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18089,7 +19425,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Sepúlveda, Eduardo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18097,7 +19433,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Serry, Pieter</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18105,7 +19441,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Shaw, James</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18113,7 +19449,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Simmons, Quinn</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18121,7 +19457,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Sivakov, Pavel</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18129,7 +19465,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Smith, Dion</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>4</td>
       <td>stage-2: 4</td>
     </tr>
@@ -18137,7 +19473,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Soler, Marc</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18145,7 +19481,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Sosa, Ivan</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18153,7 +19489,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Staune-Mittet, Johannes</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18161,7 +19497,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Steinhauser, Georg</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18169,7 +19505,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Strong, Corbin</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>10</td>
       <td>stage-1: 10</td>
     </tr>
@@ -18177,7 +19513,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Su, Haoyu</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18185,7 +19521,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Svestad-Bårdseng, Embret</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18193,7 +19529,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Thomas, Geraint</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18201,7 +19537,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Thompson, Reuben</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18209,7 +19545,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Torres, Albert</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18217,7 +19553,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Torres, Pablo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18225,7 +19561,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Toumire, Hugo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18233,7 +19569,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Tratnik, Jan</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18241,7 +19577,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Tricht, Stan Van</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18249,7 +19585,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Tuuk, Danny van der</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18257,7 +19593,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Uriarte, Diego</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18265,7 +19601,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Vandenabeele, Henri</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18273,7 +19609,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Vendrame, Andrea</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>12</td>
       <td>stage-1: 12</td>
     </tr>
@@ -18281,7 +19617,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Vernon, Ethan</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>25</td>
       <td>stage-2: 25</td>
     </tr>
@@ -18289,7 +19625,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Verona, Carlos</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18297,7 +19633,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Wandahl, Frederik</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18305,7 +19641,7 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Wenzel, Mats</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -18313,17 +19649,17 @@ hide:
       <td>Volta Ciclista a Catalunya</td>
       <td>Yates, Adam</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>3</td>
+      <td>stage-3: 3</td>
     </tr>
     <tr>
       <td>Volta Ciclista a Catalunya</td>
       <td>Yates, Simon</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>1</td>
+      <td>stage-3: 1</td>
     </tr>
     <tr>
       <td>Volta a la Comunitat Valenciana</td>

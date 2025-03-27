@@ -4,6 +4,31 @@ hide:
   - toc
 ---
 
+## 2025-03-26
+### Hovedspillet
+Milan, Jonathan **60** (Jarma, Kenk, Matti, Okholm, Visti)  
+Mihkels, Madis **50** (Hustlersen, Matti, Visti)  
+Kanter, Max **30** (Hustlersen)  
+Ayuso, Juan **25** (Hustlersen, Kenk)  
+Rex, Laurenz **22** (Chrelle, Jappo, Jarma, Kenk, Visti)  
+Roglič, Primož **20** (Hustlersen, Knak)  
+Landa, Mikel **16** (Jappo, Jarma, Visti)  
+Martinez, Lenny **14** (Jappo, Knak, Matti, Okholm, Tommy, Visti)  
+Welsford, Sam **14** (Chrelle, Hustlersen, Tommy)  
+Eetvelt, Lennert Van **12** (Jappo, Kenk, Tommy)  
+Carapaz, Richard **4** (Knak)  
+Yates, Simon **1** (Okholm)  
+
+### Cheapo
+Blikra, Erlend **35** (Hustlersen)  
+Renard, Alexis **26** (Knak, Visti)  
+Pickrell, Riley **10** (Hustlersen)  
+Russo, Clément **2** (Jarma)  
+
+
+
+
+
 ## 2025-03-25
 ### Hovedspillet
 Brennan, Matthew **20** (Chrelle, Hustlersen, Kenk)  
