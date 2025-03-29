@@ -4,6 +4,20 @@ hide:
   - toc
 ---
 
+## 2025-03-29
+### Hovedspillet
+Foldager, Anders **16** (Hustlersen)  
+Eetvelt, Lennert Van **14** (Jappo, Kenk, Tommy)  
+Laurance, Axel **6** (Jappo, Matti, Okholm)  
+Carapaz, Richard **2** (Knak)  
+
+### Cheapo
+Foldager, Anders **16** (Hustlersen, Jappo, Kenk, Visti)  
+
+
+
+
+
 ## 2025-03-28
 ### Hovedspillet
 Poel, Mathieu van der **70** (Jarma)  
