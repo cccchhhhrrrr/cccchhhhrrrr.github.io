@@ -329,7 +329,7 @@
       <td class = "startlist">Louvel Matis</td>
       <td class = "startlist">Rex Laurenz</td>
       <td>Ulissi Diego</td>
-      <td class = "startlist">Fretin Milan</td>
+      <td>Fretin Milan</td>
       <td class = "startlist">Andresen Tobias Lund</td>
       <td>Teutenberg Tim Torn</td>
       <td>Morgado António</td>

@@ -4,6 +4,29 @@ hide:
   - toc
 ---
 
+## 2025-03-28
+### Hovedspillet
+Poel, Mathieu van der **70** (Jarma)  
+Pedersen, Mads **60** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
+Brennan, Matthew **25** (Chrelle, Hustlersen, Kenk)  
+Del Grosso, Tibor **20** (Jarma)  
+Strong, Corbin **12** (Knak, Visti)  
+Laurance, Axel **10** (Jappo, Matti, Okholm)  
+Naesen, Oliver **10** (Knak)  
+Trentin, Matteo **7** (Knak)  
+Aert, Wout van **6** (Chrelle, Jarma, Matti, Okholm, Tommy)  
+Ayuso, Juan **3** (Hustlersen, Kenk)  
+Dijke, Tim van **2** (Kenk, Visti)  
+
+### Cheapo
+Pedersen, Casper **40** (Knak)  
+Del Grosso, Tibor **20** (Chrelle, Jappo, Jarma, Kenk)  
+Naesen, Oliver **10** (Jarma, Knak, Visti)  
+
+
+
+
+
 ## 2025-03-27
 ### Hovedspillet
 Roglič, Primož **25** (Hustlersen, Knak)  
