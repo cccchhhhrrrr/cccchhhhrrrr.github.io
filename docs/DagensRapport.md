@@ -4,6 +4,39 @@ hide:
   - toc
 ---
 
+## 2025-03-30
+### Hovedspillet
+Roglič, Primož **125** (Hustlersen, Knak)  
+Ayuso, Juan **85** (Hustlersen, Kenk)  
+Pedersen, Mads **70** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
+Plus, Laurens De **65** (Okholm)  
+Landa, Mikel **60** (Jappo, Jarma, Visti)  
+Merlier, Tim **60** (Jappo, Knak, Matti, Tommy)  
+Eetvelt, Lennert Van **51** (Jappo, Kenk, Tommy)  
+Martinez, Lenny **50** (Jappo, Knak, Matti, Okholm, Tommy, Visti)  
+Milan, Jonathan **50** (Jarma, Kenk, Matti, Okholm, Visti)  
+Yates, Simon **36** (Okholm)  
+Girmay, Biniam **26** (Jappo, Knak, Matti, Okholm, Visti)  
+Carapaz, Richard **25** (Knak)  
+Rex, Laurenz **14** (Chrelle, Jappo, Jarma, Kenk, Visti)  
+Pellizzari, Giulio **10** (Tommy)  
+Strong, Corbin **8** (Knak, Visti)  
+Mihkels, Madis **7** (Hustlersen, Matti, Visti)  
+Trentin, Matteo **6** (Knak)  
+Louvel, Matîs **4** (Jarma)  
+Laurance, Axel **4** (Jappo, Matti, Okholm)  
+Broek, Frank van den **2** (Okholm)  
+
+### Cheapo
+Moniquet, Sylvain **12** (Visti)  
+Russo, Clément **8** (Jarma)  
+Louvel, Matîs **4** (Jarma)  
+Canal, Carlos **1** (Chrelle, Jappo, Jarma, Kenk, Visti)  
+
+
+
+
+
 ## 2025-03-29
 ### Hovedspillet
 Foldager, Anders **16** (Hustlersen)  

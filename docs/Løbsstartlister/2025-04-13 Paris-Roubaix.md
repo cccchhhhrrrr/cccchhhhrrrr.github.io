@@ -43,16 +43,16 @@
     <tr>
       <th>0</th>
       <td>1</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
       <td>Vingegaard Jonas</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
     </tr>
     <tr>
       <th>1</th>
@@ -257,7 +257,7 @@
       <td>Steinhauser Georg</td>
       <td>Magnier Paul</td>
       <td>Schachmann Maximilian</td>
-      <td>Van Dijke Tim</td>
+      <td class = "startlist">Van Dijke Tim</td>
       <td>Schachmann Maximilian</td>
       <td class = "startlist">Lazkano Oier</td>
       <td class = "startlist">Lazkano Oier</td>
@@ -304,7 +304,7 @@
       <td>Andresen Tobias Lund</td>
       <td class = "startlist">Sheehan Riley</td>
       <td>Campenaerts Victor</td>
-      <td>Van Dijke Tim</td>
+      <td class = "startlist">Van Dijke Tim</td>
     </tr>
     <tr>
       <th>19</th>
@@ -367,7 +367,7 @@
       <td>24</td>
       <td>Jeannière Emilien</td>
       <td>Withen Philipsen Albert</td>
-      <td>Behrens Niklas</td>
+      <td class = "startlist">Behrens Niklas</td>
       <td>Artz Huub</td>
       <td>Withen Philipsen Albert</td>
       <td>Jeannière Emilien</td>
