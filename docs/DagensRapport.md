@@ -4,6 +4,24 @@ hide:
   - toc
 ---
 
+## 2025-04-02
+### Hovedspillet
+Powless, Neilson **70** (Jappo)  
+Aert, Wout van **60** (Chrelle, Jarma, Matti, Okholm, Tommy)  
+Pedersen, Mads **35** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
+Del Grosso, Tibor **30** (Jarma)  
+Segaert, Alec **14** (Knak, Tommy, Visti)  
+Girmay, Biniam **4** (Jappo, Knak, Matti, Okholm, Visti)  
+
+### Cheapo
+Del Grosso, Tibor **30** (Chrelle, Jappo, Jarma, Kenk)  
+Gautherat, Pierre **10** (Jappo, Kenk, Knak, Visti)  
+Dijke, Mick van **6** (Jarma, Kenk, Visti)  
+
+
+
+
+
 ## 2025-03-30
 ### Hovedspillet
 Roglič, Primož **125** (Hustlersen, Knak)  

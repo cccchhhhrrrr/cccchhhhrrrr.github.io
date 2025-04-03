@@ -219,7 +219,7 @@
       <td>Martinez Lenny</td>
       <td class = "startlist">Castrillo Pablo</td>
       <td>Vacek Mathias</td>
-      <td class = "startlist">Pellizzari Giulio</td>
+      <td>Pellizzari Giulio</td>
       <td>Strong Corbin</td>
     </tr>
     <tr>

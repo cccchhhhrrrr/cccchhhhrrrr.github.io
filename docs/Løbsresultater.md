@@ -3566,6 +3566,1406 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Abrahamsen, Jonas</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Aert, Wout van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>60</td>
+      <td>result: 60</td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Affini, Edoardo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Allegaert, Piet</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Asbroeck, Tom Van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Askey, Lewis</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Aular, Orluis</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Baarle, Dylan van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Ballerini, Davide</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Baroncini, Filippo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Bayer, Tobias</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Bennett, Sam</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Benoot, Tiesj</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>50</td>
+      <td>result: 50</td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Berckmoes, Jenno</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Berg, Julius van den</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Berg, Marijn van den</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>7</td>
+      <td>result: 7</td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Bettiol, Alberto</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Bezza, Quentin</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Bjerg, Mikkel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Blackmore, Joe</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>1</td>
+      <td>result: 1</td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Blume Levy, William</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Bol, Cees</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>8</td>
+      <td>result: 8</td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Bondt, Dries De</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>26</td>
+      <td>result: 26</td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Bossche, Fabio Van den</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Braet, Vito</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Bruttomesso, Alberto</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Capiot, Amaury</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Chamberlain, Oscar</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Christen, Fabio</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Cimolai, Davide</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Coquard, Bryan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Declercq, Tim</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Degenkolb, John</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Del Grosso, Tibor</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>30</td>
+      <td>result: 30</td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Deman, Bream</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Dens, Tuur</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Desal, Cériel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Dijke, Mick van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>6</td>
+      <td>result: 6</td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Donaldson, Robert</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Doull, Owain</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Démare, Arnaud</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Edmondson, Alex</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Eenkhoorn, Pascal</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Epis, Giosuè</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Ermakov, Roman</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Flynn, Sean</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Foss, Tobias</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Gamper, Patrick</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>García Cortina, Iván</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Gautherat, Pierre</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>10</td>
+      <td>result: 10</td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Gendt, Aimé De</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Gerits, Vince</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Giddings, Joshua</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Girmay, Biniam</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>4</td>
+      <td>result: 4</td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>González, David</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Grignard, Sébastien</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Hagenes, Per Strand</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Hemelen, Vincent Van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Hoelgaard, Markus</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Honoré, Mikkel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Hoorn, Taco van der</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Jacobs, Johan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Jorgenson, Matteo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>40</td>
+      <td>result: 40</td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Jungels, Bob</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Kanter, Max</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Kelemen, Petr</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Kirsch, Alex</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Kluckers, Arthur</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Krieger, Alexander</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Krijnsen, Jelte</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Kristoff, Alexander</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Küng, Stefan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>18</td>
+      <td>result: 18</td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Lambrecht, Michiel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Lampaert, Yves</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>result: 2</td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Le Gac, Olivier</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Le Huitouze, Eddy</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Leijnse, Enzo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Lerberghe, Bert Van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Lienhard, Fabian</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Liepiņš, Emīls</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Livyns, Arjen</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>22</td>
+      <td>result: 22</td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Louvel, Matîs</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Lozouet, Léandre</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Maciejuk, Filip</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Madouas, Valentin</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Magnier, Paul</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Mahoudo, Nolann</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Maisonobe, Sam</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Marit, Arne</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Mayrhofer, Marius</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Mechelen, Vlad Van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Meeus, Jordi</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Merlier, Tim</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Meurisse, Xandro</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Mihkels, Madis</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Mikutis, Aivaras</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Milan, Jonathan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Milesi, Lorenzo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Moer, Brent Van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Mohorič, Matej</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Molano, Sebastián</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Moro, Manlio</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Mozzato, Luca</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Mullen, Ryan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Naberman, Tim</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Narváez, Jhonatan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Nizzolo, Giacomo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Norsgaard, Mathias</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>O'Brien, Kelland</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Oliveira, Rui</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Page, Hugo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Parisini, Nicolò</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Pasqualon, Andrea</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Pedersen, Casper</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Pedersen, Mads</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>35</td>
+      <td>result: 35</td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Pedersen, Rasmus Søjberg</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Pestel, Sander De</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Philipsen, Jasper</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Pickrell, Riley</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Pithie, Laurence</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Planckaert, Edward</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Pluimers, Rick</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Politt, Nils</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Pollefliet, Gianluca</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Poppel, Danny van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Powless, Neilson</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>70</td>
+      <td>result: 70</td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Raisberg, Nadav</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Reinders, Elmar</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Renard, Alexis</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Rex, Laurenz</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Reynders, Jens</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Rickaert, Jonas</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Robeet, Ludovic</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Romele, Alessandro</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Roosen, Timo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Rooy, Kenneth Van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Russo, Clément</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Sande, Tosh Van der</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Schuyteneer, Steffen De</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Scotson, Miles</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Segaert, Alec</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>14</td>
+      <td>result: 14</td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Serrano, Gonzalo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Sheehan, Riley</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Sheffield, Magnus</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Sintmaartensdijk, Roel van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Skaarseth, Anders</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Skujins, Toms</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Stannard, Robert</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Steimle, Jannik</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Stewart, Jake</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Stuyven, Jasper</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>3</td>
+      <td>result: 3</td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Sweeny, Harry</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Swift, Ben</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Swift, Connor</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Sütterlin, Jasha</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Tarling, Josh</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Teunissen, Mike</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Theuns, Edward</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Thierry, Pierre</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Tiller, Rasmus</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>12</td>
+      <td>result: 12</td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Toneatti, Davide</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Townsend, Rory</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Vandenstorme, Dylan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Vandevelde, Yentl</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Vangheluwe, Warre</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Vercouillie, Victor</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Vliegen, Loïc</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Walker, Max</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Walscheid, Max</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Watson, Samuel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Weemaes, Sasha</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Wellens, Tim</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Welsford, Sam</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Wright, Fred</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>5</td>
+      <td>result: 5</td>
+    </tr>
+    <tr>
+      <td>Dwars door Vlaanderen</td>
+      <td>Wærenskjold, Søren</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>E3 Saxo Classic</td>
       <td>Abrahamsen, Jonas</td>
       <td>Classics Cat. 2</td>

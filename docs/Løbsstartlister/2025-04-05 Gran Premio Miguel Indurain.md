@@ -142,7 +142,7 @@
       <th>7</th>
       <td>8</td>
       <td>Gall Felix</td>
-      <td>Onley Oscar</td>
+      <td class = "startlist">Onley Oscar</td>
       <td>Landa Mikel</td>
       <td>Landa Mikel</td>
       <td>Kooij Olav</td>
@@ -162,7 +162,7 @@
       <td>Van Gils Maxim</td>
       <td class = "startlist">Hirschi Marc</td>
       <td>Merlier Tim</td>
-      <td>Onley Oscar</td>
+      <td class = "startlist">Onley Oscar</td>
       <td>Pithie Laurence</td>
       <td>Girmay Biniam</td>
     </tr>
