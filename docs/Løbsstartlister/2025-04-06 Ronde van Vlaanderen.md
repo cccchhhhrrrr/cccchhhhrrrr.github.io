@@ -253,7 +253,7 @@
     <tr>
       <th>15</th>
       <td>16</td>
-      <td class = "startlist">Tarling Joshua</td>
+      <td>Tarling Joshua</td>
       <td>Steinhauser Georg</td>
       <td class = "startlist">Magnier Paul</td>
       <td>Schachmann Maximilian</td>
@@ -326,7 +326,7 @@
       <td>Brennan Matthew</td>
       <td>Teutenberg Tim Torn</td>
       <td class = "startlist">Morgado António</td>
-      <td class = "startlist">Louvel Matis</td>
+      <td>Louvel Matis</td>
       <td class = "startlist">Rex Laurenz</td>
       <td>Ulissi Diego</td>
       <td>Fretin Milan</td>

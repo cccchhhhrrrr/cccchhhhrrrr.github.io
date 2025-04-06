@@ -8590,6 +8590,846 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Adrià, Roger</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Aranburu, Alex</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>18</td>
+      <td>result: 18</td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Arcas, Jorge</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Arrieta, Igor</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>2</td>
+      <td>result: 2</td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Bagioli, Andrea</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>26</td>
+      <td>result: 26</td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Bais, Davide</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Barceló, Fernando</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Barguil, Warren</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Barrenetxea, Jon</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Battistella, Samuele</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Baudin, Alex</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>8</td>
+      <td>result: 8</td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Berrade, Urko</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Bizkarra, Mikel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Bou, Joan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Burgaudeau, Mathieu</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Carthy, Hugh</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Castrillo, Pablo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Champoussin, Clément</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Charmig, Anthon</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Cobo, Iván</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Combaud, Romain</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>De La Calle, Hugo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>De Pretto, Davide</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Del Toro, Isaac</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Delbove, Joris</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Diaz, José Manuel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Doubey, Fabien</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Elosegui, Iñigo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Eriksson, Jacob</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Fagúndez, Eric</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Fernández, Samuel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Fernández, Sinuhé</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Fisher-Black, Finn</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Foldager, Anders</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Ganzabal, Ander</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Gesbert, Elie</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Gils, Maxim Van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Gimeno, Nil</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Grellier, Fabien</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Grossschartner, Felix</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>12</td>
+      <td>result: 12</td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Guernalec, Thibault</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Guernalec, Victor</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Guglielmi, Simon</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Hajek, Alexander</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Hatherly, Alan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Hellemose, Asbjørn</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Herrada, Jesús</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Hirschi, Marc</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>14</td>
+      <td>result: 14</td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Iribar, Unai</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Isasa, Xabier</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Izagirre, Ion</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Jegat, Jordan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Jousseaume, Alan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Juaristi, Txomin</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Juul-Jensen, Chris</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Kajamini, Florian</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Konrad, Patrick</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Laengen, Vegard Stake</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Lastra, Jonathan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Lee, Jardi van der</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Leemreize, Gijs</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Maas, Jan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Martinez, Juan Guillermo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Martín, Alex</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Martín, Gotzon</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Martínez, Daniel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>McNulty, Brandon</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Mintegi, Iker</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Miquel, Pau</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>6</td>
+      <td>result: 6</td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Molenaar, Alex</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>30</td>
+      <td>result: 30</td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Mollema, Bauke</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Mühlberger, Gregor</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Nicolau, Joel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Nys, Thibau</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>35</td>
+      <td>result: 35</td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Okamika, Ander</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Oldani, Stefano</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Oliveira, Nelson</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Onley, Oscar</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Pedrero, Antonio</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Pescador, Diego</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Raccagni, Gabriele</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Ruiz, Ibon</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Ryan, Archie</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>5</td>
+      <td>result: 5</td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Sainbayar, Jambaljamts</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Samitier, Sergio</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Schmid, Mauro</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>3</td>
+      <td>result: 3</td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Silva, Thomas</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>22</td>
+      <td>result: 22</td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Soler, Marc</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Stites, Tyler</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Tejada, Harold</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Tercero, Fernando</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Tjøtta, Martin</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>result: 1</td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Tonelli, Alessandro</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Torres, Pablo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Vauquelin, Kévin</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Velasco, Simone</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>10</td>
+      <td>result: 10</td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Vercher, Mattéo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>4</td>
+      <td>result: 4</td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Vergaerde, Otto</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Verre, Alessandro</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Voisard, Yannis</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Weiss, Fabian</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Wilksch, Hannes</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Wirtgen, Luc</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Zoccarato, Samuele</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gran Premio Miguel Indurain</td>
+      <td>Zubeldia, Unai</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Kuurne-Brussel-Kuurne</td>
       <td>Abrahamsen, Jonas</td>
       <td>Classics Cat. 3</td>
@@ -15404,6 +16244,1398 @@ hide:
       <td>6</td>
       <td>0</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Abrahamsen, Jonas</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Aert, Wout van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>70</td>
+      <td>result: 70</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Affini, Edoardo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Allegaert, Piet</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Asbroeck, Tom Van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Askey, Lewis</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Aular, Orluis</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Baarle, Dylan van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Ballerini, Davide</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>25</td>
+      <td>result: 25</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Bauhaus, Phil</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Benoot, Tiesj</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>50</td>
+      <td>result: 50</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Berckmoes, Jenno</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Berg, Marijn van den</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Bezza, Quentin</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Bissegger, Stefan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>7</td>
+      <td>result: 7</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Bjerg, Mikkel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Blackmore, Joe</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Blume Levy, William</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Boivin, Guillaume</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Bol, Cees</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Bondt, Dries De</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Braet, Vito</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Bystrøm, Sven Erik</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Canal, Carlos</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Capiot, Amaury</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Chamberlain, Oscar</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Christen, Fabio</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Colman, Alex</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Declercq, Tim</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Degenkolb, John</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Deman, Bream</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Desal, Cériel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Dijke, Mick van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Dijke, Tim van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Dillier, Silvan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Donaldson, Robert</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Doull, Owain</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Démare, Arnaud</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Eddy, Patrick</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Edmondson, Alex</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Eenkhoorn, Pascal</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Eetvelt, Lennert Van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Epis, Giosuè</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Ermakov, Roman</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Fedorov, Yevgeniy</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Flynn, Sean</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Ganna, Filippo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>35</td>
+      <td>result: 35</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>García Cortina, Iván</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>30</td>
+      <td>result: 30</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Gautherat, Pierre</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Gazzoli, Michele</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Gendt, Aimé De</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Giddings, Joshua</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Girmay, Biniam</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>González, David</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Gradek, Kamil</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Grignard, Sébastien</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Hagenes, Per Strand</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Haller, Marco</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Hemelen, Vincent Van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Hermans, Quinten</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Hesters, Jules</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Hoecke, Gijs Van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Hoelgaard, Markus</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>14</td>
+      <td>result: 14</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Honoré, Mikkel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Hoole, Daan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Jorgenson, Matteo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Jungels, Bob</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Kielich, Timo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>8</td>
+      <td>result: 8</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Kluckers, Arthur</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Krieger, Alexander</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Krijnsen, Jelte</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Kristoff, Alexander</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Küng, Stefan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>40</td>
+      <td>result: 40</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Lambrecht, Michiel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Lampaert, Yves</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Lamperti, Luke</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Lazkano, Oier</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Le Gac, Olivier</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Le Huitouze, Eddy</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Leijnse, Enzo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Lerberghe, Bert Van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Lienhard, Fabian</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Liepiņš, Emīls</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Livyns, Arjen</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Lozouet, Léandre</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Maciejuk, Filip</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Madouas, Valentin</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>9</td>
+      <td>result: 9</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Magnier, Paul</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Mahoudo, Nolann</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Matthews, Michael</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>16</td>
+      <td>result: 16</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Mayrhofer, Marius</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Mechelen, Vlad Van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Meurisse, Xandro</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Moer, Brent Van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Mohorič, Matej</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>5</td>
+      <td>result: 5</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Morgado, António</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Moro, Manlio</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Mozzato, Luca</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Mullen, Ryan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Naberman, Tim</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Narváez, Jhonatan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Nizzolo, Giacomo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Norsgaard, Mathias</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>O'Brien, Kelland</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Paret-Peintre, Aurélien</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>10</td>
+      <td>result: 10</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Parisini, Nicolò</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Pasqualon, Andrea</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Pedersen, Casper</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Pedersen, Mads</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>100</td>
+      <td>result: 100</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Pedersen, Rasmus Søjberg</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Pestel, Sander De</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Petit, Adrien</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Pickrell, Riley</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Pithie, Laurence</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>20</td>
+      <td>result: 20</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Planckaert, Edward</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Pluimers, Rick</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>result: 2</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Poel, Mathieu van der</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>85</td>
+      <td>result: 85</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Pogačar, Tadej</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>120</td>
+      <td>result: 120</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Politt, Nils</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Poppel, Danny van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Powless, Neilson</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Reinderink, Pepijn</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Reinders, Elmar</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Renard, Alexis</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Resell, Erik</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Rex, Laurenz</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Reynders, Jens</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Robeet, Ludovic</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Romele, Alessandro</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Roosen, Timo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Russo, Clément</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Rutsch, Jonas</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Sande, Tosh Van der</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Scotson, Miles</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Segaert, Alec</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Serrano, Gonzalo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Sheehan, Riley</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Sheffield, Magnus</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>6</td>
+      <td>result: 6</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Sintmaartensdijk, Roel van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Skaarseth, Anders</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Skujins, Toms</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Steimle, Jannik</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Stewart, Jake</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Strong, Corbin</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Stuyven, Jasper</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>60</td>
+      <td>result: 60</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Sweeny, Harry</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Swift, Ben</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Swift, Connor</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Sütterlin, Jasha</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Teunissen, Mike</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>18</td>
+      <td>result: 18</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Teuns, Dylan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Theuns, Edward</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Thierry, Pierre</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Tier, Floris De</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Tiller, Rasmus</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>result: 1</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Toneatti, Davide</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Torres, Albert</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Touzé, Damien</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Townsend, Rory</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Trentin, Matteo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>4</td>
+      <td>result: 4</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Turner, Ben</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Vacek, Mathias</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Vandenstorme, Dylan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Vanhoof, Ward</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Vercouillie, Victor</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Vermeersch, Florian</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Vermeersch, Gianni</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>12</td>
+      <td>result: 12</td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Vermoote, Jelle</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Vliegen, Loïc</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Walker, Max</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Walscheid, Max</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Watson, Samuel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Wellens, Tim</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ronde van Vlaanderen</td>
+      <td>Wright, Fred</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>3</td>
+      <td>result: 3</td>
     </tr>
     <tr>
       <td>Strade Bianche</td>
