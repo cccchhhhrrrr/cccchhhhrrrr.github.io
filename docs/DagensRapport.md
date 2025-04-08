@@ -4,6 +4,24 @@ hide:
   - toc
 ---
 
+## 2025-04-07
+### Hovedspillet
+Schachmann, Maximilian **25** (Jarma, Knak)  
+Almeida, João **20** (Chrelle, Kenk)  
+Lipowitz, Florian **16** (Okholm)  
+Hayter, Ethan **14** (Chrelle, Jappo)  
+Wilder, Ilan Van **10** (Chrelle)  
+Campenaerts, Victor **8** (Tommy)  
+Skjelmose, Mattias **6** (Matti, Tommy)  
+Healy, Ben **2** (Knak)  
+
+### Cheapo
+Leonard, Michael **3** (Hustlersen)  
+
+
+
+
+
 ## 2025-04-06
 ### Hovedspillet
 Pogačar, Tadej **120** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  

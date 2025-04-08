@@ -257,10 +257,10 @@
       <td>Steinhauser Georg</td>
       <td>Magnier Paul</td>
       <td>Schachmann Maximilian</td>
-      <td class = "startlist">Van Dijke Tim</td>
+      <td>Van Dijke Tim</td>
       <td>Schachmann Maximilian</td>
-      <td>Lazkano Oier</td>
-      <td>Lazkano Oier</td>
+      <td class = "startlist">Lazkano Oier</td>
+      <td class = "startlist">Lazkano Oier</td>
       <td>Abrahamsen Jonas</td>
       <td>Zingle Axel</td>
     </tr>
@@ -281,7 +281,7 @@
     <tr>
       <th>17</th>
       <td>18</td>
-      <td>Lazkano Oier</td>
+      <td class = "startlist">Lazkano Oier</td>
       <td>Morgado António</td>
       <td>Torres Pablo</td>
       <td>Lafay Victor</td>
@@ -304,7 +304,7 @@
       <td>Andresen Tobias Lund</td>
       <td>Sheehan Riley</td>
       <td>Campenaerts Victor</td>
-      <td class = "startlist">Van Dijke Tim</td>
+      <td>Van Dijke Tim</td>
     </tr>
     <tr>
       <th>19</th>
