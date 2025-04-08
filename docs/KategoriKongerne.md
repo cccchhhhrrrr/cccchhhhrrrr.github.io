@@ -54,10 +54,10 @@ hide:
   <tbody>
     <tr>
       <td>Aberasturi, Jon</td>
-      <td>1</td>
+      <td>5</td>
       <td>0</td>
       <td>0.0</td>
-      <td>1</td>
+      <td>5</td>
       <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
@@ -374,19 +374,19 @@ hide:
     </tr>
     <tr>
       <td>Aranburu, Alex</td>
-      <td>49</td>
+      <td>50</td>
       <td>0</td>
       <td>0.0</td>
-      <td>19</td>
-      <td>38.8</td>
+      <td>20</td>
+      <td>40.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>12</td>
-      <td>24.5</td>
+      <td>24.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>18</td>
-      <td>36.7</td>
+      <td>36.0</td>
     </tr>
     <tr>
       <td>Arashiro, Yukiya</td>
@@ -1814,17 +1814,17 @@ hide:
     </tr>
     <tr>
       <td>Bossche, Fabio Van den</td>
+      <td>15</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>8</td>
+      <td>53.3</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.0</td>
       <td>7</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>7</td>
-      <td>100.0</td>
+      <td>46.7</td>
       <td>0</td>
       <td>0.0</td>
     </tr>
@@ -1926,19 +1926,19 @@ hide:
     </tr>
     <tr>
       <td>Boven, Luca Van</td>
+      <td>21</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>20</td>
+      <td>95.2</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.0</td>
       <td>1</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>1</td>
-      <td>100.0</td>
+      <td>4.8</td>
     </tr>
     <tr>
       <td>Braet, Vito</td>
@@ -4294,11 +4294,11 @@ hide:
     </tr>
     <tr>
       <td>Ewan, Caleb</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>25</td>
       <td>0</td>
       <td>0.0</td>
+      <td>25</td>
+      <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -4518,13 +4518,13 @@ hide:
     </tr>
     <tr>
       <td>Foldager, Anders</td>
-      <td>25</td>
+      <td>28</td>
       <td>0</td>
       <td>0.0</td>
-      <td>19</td>
-      <td>76.0</td>
+      <td>22</td>
+      <td>78.6</td>
       <td>6</td>
-      <td>24.0</td>
+      <td>21.4</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -5638,13 +5638,13 @@ hide:
     </tr>
     <tr>
       <td>Gruel, Thibaud</td>
-      <td>20</td>
+      <td>34</td>
       <td>0</td>
       <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>14</td>
+      <td>41.2</td>
       <td>20</td>
-      <td>100.0</td>
+      <td>58.8</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -7814,19 +7814,19 @@ hide:
     </tr>
     <tr>
       <td>Leitão, Iúri</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>12</td>
+      <td>60.0</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.0</td>
       <td>8</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>8</td>
-      <td>100.0</td>
+      <td>40.0</td>
     </tr>
     <tr>
       <td>Leknessund, Andreas</td>
@@ -9926,11 +9926,11 @@ hide:
     </tr>
     <tr>
       <td>Paquot, Tom</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>2</td>
       <td>0</td>
       <td>0.0</td>
+      <td>2</td>
+      <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -13334,10 +13334,10 @@ hide:
     </tr>
     <tr>
       <td>Tronchon, Bastien</td>
-      <td>60</td>
+      <td>76</td>
       <td>0</td>
       <td>0.0</td>
-      <td>60</td>
+      <td>76</td>
       <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
@@ -14534,11 +14534,11 @@ hide:
     </tr>
     <tr>
       <td>Wirtgen, Luc</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>6</td>
       <td>0</td>
       <td>0.0</td>
+      <td>6</td>
+      <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -14726,10 +14726,10 @@ hide:
     </tr>
     <tr>
       <td>Zingle, Axel</td>
-      <td>36</td>
+      <td>46</td>
       <td>0</td>
       <td>0.0</td>
-      <td>36</td>
+      <td>46</td>
       <td>100.0</td>
       <td>0</td>
       <td>0.0</td>

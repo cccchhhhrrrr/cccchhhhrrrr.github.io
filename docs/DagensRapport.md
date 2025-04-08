@@ -4,6 +4,20 @@ hide:
   - toc
 ---
 
+## 2025-04-08
+### Hovedspillet
+Zingle, Axel **10** (Tommy, Visti)  
+Foldager, Anders **3** (Hustlersen)  
+
+### Cheapo
+Boven, Luca Van **20** (Jappo, Kenk, Visti)  
+Tronchon, Bastien **16** (Chrelle, Jappo, Kenk, Knak, Visti)  
+Foldager, Anders **3** (Hustlersen, Jappo, Kenk, Visti)  
+
+
+
+
+
 ## 2025-04-07
 ### Hovedspillet
 Schachmann, Maximilian **25** (Jarma, Knak)  
