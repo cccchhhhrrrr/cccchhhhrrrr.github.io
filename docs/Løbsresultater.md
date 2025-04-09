@@ -9449,25 +9449,25 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Alaphilippe, Julian</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>1</td>
+      <td>stage-3: 1</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
       <td>Almeida, João</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>20</td>
-      <td>stage-1: 20</td>
+      <td>3</td>
+      <td>36</td>
+      <td>stage-1: 20 / stage-3: 16</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
       <td>Aranburu, Alex</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>1</td>
-      <td>stage-2: 1</td>
+      <td>3</td>
+      <td>4</td>
+      <td>stage-2: 1 / stage-3: 3</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
@@ -9537,7 +9537,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Barré, Louis</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9577,7 +9577,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Berthet, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9593,7 +9593,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Bisiaux, Léo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9641,7 +9641,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Braz Afonso, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9649,7 +9649,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Buitrago, Santiago</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9665,7 +9665,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Campenaerts, Victor</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>8</td>
       <td>stage-1: 8</td>
     </tr>
@@ -9681,7 +9681,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Castrillo, Pablo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9689,7 +9689,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Champoussin, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9705,7 +9705,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Cobo, Iván</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9721,9 +9721,9 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Cras, Steff</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>6</td>
+      <td>stage-3: 6</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
@@ -9761,7 +9761,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Del Toro, Isaac</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9793,7 +9793,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Diaz, José Manuel</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9841,7 +9841,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Ewan, Caleb</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>25</td>
       <td>stage-2: 25</td>
     </tr>
@@ -9849,7 +9849,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Fagúndez, Eric</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9953,9 +9953,9 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Grégoire, Romain</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>25</td>
+      <td>stage-3: 25</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
@@ -10057,7 +10057,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Iribar, Unai</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10089,7 +10089,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Jegat, Jordan</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10129,9 +10129,9 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Kelderman, Wilco</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>10</td>
+      <td>stage-3: 10</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
@@ -10209,7 +10209,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Laurance, Axel</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10257,9 +10257,9 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Lipowitz, Florian</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>16</td>
-      <td>stage-1: 16</td>
+      <td>3</td>
+      <td>24</td>
+      <td>stage-1: 16 / stage-3: 8</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
@@ -10273,7 +10273,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Martin, Guillaume</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10305,9 +10305,9 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Mas, Enric</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>14</td>
+      <td>stage-3: 14</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
@@ -10345,7 +10345,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Molard, Rudy</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10401,7 +10401,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Oliveira, Nelson</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>1</td>
       <td>stage-1: 1</td>
     </tr>
@@ -10457,7 +10457,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Rolland, Brieuc</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10505,9 +10505,9 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Schachmann, Maximilian</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>25</td>
-      <td>stage-1: 25</td>
+      <td>3</td>
+      <td>45</td>
+      <td>stage-1: 25 / stage-3: 20</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
@@ -10545,7 +10545,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Simmons, Quinn</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10553,9 +10553,9 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Skjelmose, Mattias</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>6</td>
-      <td>stage-1: 6</td>
+      <td>3</td>
+      <td>18</td>
+      <td>stage-1: 6 / stage-3: 12</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
@@ -10585,7 +10585,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Tejada, Harold</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10625,7 +10625,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Valter, Attila</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10633,7 +10633,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Vansevenant, Mauri</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10641,9 +10641,9 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Velasco, Simone</td>
       <td>Tour Cat. 2</td>
+      <td>3</td>
       <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>stage-3: 2</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
@@ -10665,7 +10665,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Vergallito, Luca</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10697,7 +10697,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Vlasov, Aleksandr</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>12</td>
       <td>stage-1: 12</td>
     </tr>
@@ -10721,9 +10721,9 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Wilder, Ilan Van</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>10</td>
-      <td>stage-1: 10</td>
+      <td>3</td>
+      <td>14</td>
+      <td>stage-1: 10 / stage-3: 4</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
@@ -10745,7 +10745,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Zingle, Axel</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>10</td>
       <td>stage-2: 10</td>
     </tr>
@@ -18956,6 +18956,958 @@ hide:
       <td>1</td>
       <td>3</td>
       <td>result: 3</td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Allegaert, Piet</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Aniołkowski, Stanisław</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>14</td>
+      <td>result: 14</td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Azanza, Ibai</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Bastiaens, Ayco</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Bax, Sjoerd</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Berg, Julius van den</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>2</td>
+      <td>result: 2</td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Beullens, Cedric</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Bittner, Pavel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>8</td>
+      <td>result: 8</td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Blikra, Erlend</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Bloem, Joren</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Bol, Cees</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Bomboi, Davide</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Boniface, Lucas</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Braet, Vito</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Brunel, Alexys</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Brustenga, Marc</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Budding, Martijn</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Buyst, Jasper De</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Colman, Alex</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Consonni, Simone</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Dainese, Alberto</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Dauphin, Florian</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Declercq, Tim</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Deman, Bream</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Dens, Tuur</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Desal, Cériel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Donaldson, Robert</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Eddy, Patrick</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Einhorn, Itamar</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Fernández, Miguel Angel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Fretin, Milan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>22</td>
+      <td>result: 22</td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Frison, Frederik</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Galván, Francisco</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>5</td>
+      <td>result: 5</td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Gazzoli, Michele</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Geleijn, Owen</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Ghys, Robbe</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Giddings, Joshua</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Gimeno, Nil</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Groenewegen, Dylan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>4</td>
+      <td>result: 4</td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Hemelen, Vincent Van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Heming, Miká</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Hoecke, Gijs Van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Hoole, Daan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Huens, Axel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Hvideberg, Jonas</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Jansen, Amund Grøndahl</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Kanter, Max</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>12</td>
+      <td>result: 12</td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Kelemen, Petr</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Kielich, Timo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Kogut, Oded</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Kolze Changizi, Sebastian</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Krieger, Alexander</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Krijnsen, Jelte</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Kristoff, Alexander</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>10</td>
+      <td>result: 10</td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Lambrecht, Michiel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Lampaert, Yves</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Lazkano, Oier</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Lerberghe, Bert Van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Leroux, Samuel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Maciejuk, Filip</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Mahoudo, Nolann</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Marit, Arne</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Mayrhofer, Marius</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Meo, Felix James</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Merlier, Tim</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>35</td>
+      <td>result: 35</td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Mezgec, Luka</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Moschetti, Matteo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>26</td>
+      <td>result: 26</td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Mullen, Ryan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Nencini, Tommaso</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Nizzolo, Giacomo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Petegem, Axandre Van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Philipsen, Jasper</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>30</td>
+      <td>result: 30</td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Pidcock, Joe</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Pooter, Dries De</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Poppel, Danny van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>18</td>
+      <td>result: 18</td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Price-Pejtersen, Johan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Raccagni, Andrea</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Reinders, Elmar</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Renard, Alexis</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Resell, Erik</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Reynders, Jens</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Rickaert, Jonas</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Rolando, Joann</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Roosen, Timo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Samudio, Carlos</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Schwarzmann, Michael</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Sintmaartensdijk, Roel van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Skaarseth, Anders</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Soto, Antonio</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Soupe, Geoffrey</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Steimle, Jannik</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Stewart, Campbell</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Stewart, Jake</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Stockman, Abram</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Stokbro, Andreas</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Tesson, Jason</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>result: 1</td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Teutenberg, Tim Torn</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Theuns, Edward</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Thijssen, Gerben</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Toneatti, Davide</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Touzé, Damien</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Townsend, Rory</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Turgis, Anthony</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Vandevelde, Yentl</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Vangheluwe, Warre</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Vanhoof, Ward</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Veistroffer, Baptiste</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Vercouillie, Victor</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Vermoote, Jelle</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Vernon, Ethan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>3</td>
+      <td>result: 3</td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Vliegen, Loïc</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Wallin, Rasmus Bøgh</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Walscheid, Max</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Warlop, Jordi</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Weemaes, Sasha</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>6</td>
+      <td>result: 6</td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Welsford, Sam</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Wenzel, Mats</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Withen Philipsen, Albert</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scheldeprijs</td>
+      <td>Wynkele, Lorenz Van de</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
     </tr>
     <tr>
       <td>Strade Bianche</td>

@@ -4,6 +4,26 @@ hide:
   - toc
 ---
 
+## 2025-04-09
+### Hovedspillet
+Merlier, Tim **35** (Jappo, Knak, Matti, Tommy)  
+Philipsen, Jasper **30** (Jarma, Knak)  
+Grégoire, Romain **25** (Chrelle, Jarma, Knak)  
+Fretin, Milan **22** (Matti)  
+Schachmann, Maximilian **20** (Jarma, Knak)  
+Almeida, João **16** (Chrelle, Kenk)  
+Kanter, Max **12** (Hustlersen)  
+Skjelmose, Mattias **12** (Matti, Tommy)  
+Lipowitz, Florian **8** (Okholm)  
+Wilder, Ilan Van **4** (Chrelle)  
+
+### Cheapo
+Galván, Francisco **5** (Knak)  
+
+
+
+
+
 ## 2025-04-08
 ### Hovedspillet
 Zingle, Axel **10** (Tommy, Visti)  
