@@ -226,7 +226,7 @@
       <th>13</th>
       <td>14</td>
       <td>Poole Max</td>
-      <td>Mihkels Madis</td>
+      <td class = "startlist">Mihkels Madis</td>
       <td>Hayter Ethan</td>
       <td>Bagioli Andrea</td>
       <td>Christen Jan</td>
@@ -273,10 +273,10 @@
       <td>Nerurkar Lukas</td>
       <td>Andresen Tobias Lund</td>
       <td>Trentin Matteo</td>
-      <td>Mihkels Madis</td>
+      <td class = "startlist">Mihkels Madis</td>
       <td>Adrià Roger</td>
       <td>Zingle Axel</td>
-      <td>Mihkels Madis</td>
+      <td class = "startlist">Mihkels Madis</td>
     </tr>
     <tr>
       <th>17</th>
@@ -296,7 +296,7 @@
       <th>18</th>
       <td>19</td>
       <td>Welsford Sam</td>
-      <td>Brennan Matthew</td>
+      <td class = "startlist">Brennan Matthew</td>
       <td>Laurance Axel</td>
       <td>Penhoët Paul</td>
       <td class = "startlist">Van Baarle Dylan</td>
@@ -313,7 +313,7 @@
       <td>Uhlig Henri</td>
       <td>Andresen Tobias Lund</td>
       <td class = "startlist">Rex Laurenz</td>
-      <td>Brennan Matthew</td>
+      <td class = "startlist">Brennan Matthew</td>
       <td>Mollema Bauke</td>
       <td class = "startlist">Morgado António</td>
       <td>Laurance Axel</td>
@@ -323,13 +323,13 @@
     <tr>
       <th>20</th>
       <td>21</td>
-      <td>Brennan Matthew</td>
+      <td class = "startlist">Brennan Matthew</td>
       <td>Teutenberg Tim Torn</td>
       <td class = "startlist">Morgado António</td>
       <td class = "startlist">Louvel Matis</td>
       <td class = "startlist">Rex Laurenz</td>
       <td>Ulissi Diego</td>
-      <td class = "startlist">Fretin Milan</td>
+      <td>Fretin Milan</td>
       <td>Andresen Tobias Lund</td>
       <td>Teutenberg Tim Torn</td>
       <td class = "startlist">Morgado António</td>
@@ -340,7 +340,7 @@
       <td class = "startlist">Rex Laurenz</td>
       <td>Foldager Anders</td>
       <td class = "startlist">Rex Laurenz</td>
-      <td>Pedersen Rasmus Søjberg</td>
+      <td class = "startlist">Pedersen Rasmus Søjberg</td>
       <td>Teutenberg Tim Torn</td>
       <td>Andresen Tobias Lund</td>
       <td>Romeo Iván</td>
