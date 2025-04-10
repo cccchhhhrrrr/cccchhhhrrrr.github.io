@@ -214,7 +214,7 @@ hide:
     </tr>
     <tr>
       <td>Allegaert, Piet</td>
-      <td>26</td>
+      <td>40</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -224,9 +224,9 @@ hide:
       <td>0</td>
       <td>0.0</td>
       <td>26</td>
-      <td>100.0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>65.0</td>
+      <td>14</td>
+      <td>35.0</td>
     </tr>
     <tr>
       <td>Alleno, Clément</td>
@@ -566,19 +566,19 @@ hide:
     </tr>
     <tr>
       <td>Askey, Lewis</td>
-      <td>41</td>
+      <td>53</td>
       <td>0</td>
       <td>0.0</td>
       <td>2</td>
-      <td>4.9</td>
+      <td>3.8</td>
       <td>0</td>
       <td>0.0</td>
       <td>7</td>
-      <td>17.1</td>
+      <td>13.2</td>
       <td>14</td>
-      <td>34.1</td>
-      <td>18</td>
-      <td>43.9</td>
+      <td>26.4</td>
+      <td>30</td>
+      <td>56.6</td>
     </tr>
     <tr>
       <td>August, AJ</td>
@@ -1942,7 +1942,7 @@ hide:
     </tr>
     <tr>
       <td>Braet, Vito</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -1953,7 +1953,7 @@ hide:
       <td>0.0</td>
       <td>0</td>
       <td>0.0</td>
-      <td>4</td>
+      <td>5</td>
       <td>100.0</td>
     </tr>
     <tr>
@@ -3190,19 +3190,19 @@ hide:
     </tr>
     <tr>
       <td>Dainese, Alberto</td>
-      <td>28</td>
+      <td>38</td>
       <td>0</td>
       <td>0.0</td>
       <td>16</td>
-      <td>57.1</td>
+      <td>42.1</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
       <td>0.0</td>
-      <td>12</td>
-      <td>42.9</td>
+      <td>22</td>
+      <td>57.9</td>
     </tr>
     <tr>
       <td>Dalby, Simon</td>
@@ -4054,9 +4054,7 @@ hide:
     </tr>
     <tr>
       <td>Eekhoff, Nils</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>35</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -4067,6 +4065,8 @@ hide:
       <td>0.0</td>
       <td>0</td>
       <td>0.0</td>
+      <td>35</td>
+      <td>100.0</td>
     </tr>
     <tr>
       <td>Eenkhoorn, Pascal</td>
@@ -4614,7 +4614,7 @@ hide:
     </tr>
     <tr>
       <td>Fredheim, Stian</td>
-      <td>14</td>
+      <td>19</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -4625,24 +4625,24 @@ hide:
       <td>0.0</td>
       <td>0</td>
       <td>0.0</td>
-      <td>14</td>
+      <td>19</td>
       <td>100.0</td>
     </tr>
     <tr>
       <td>Fretin, Milan</td>
-      <td>84</td>
+      <td>106</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>21</td>
-      <td>25.0</td>
+      <td>19.8</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
       <td>0.0</td>
-      <td>63</td>
-      <td>75.0</td>
+      <td>85</td>
+      <td>80.2</td>
     </tr>
     <tr>
       <td>Frigo, Marco</td>
@@ -6118,9 +6118,7 @@ hide:
     </tr>
     <tr>
       <td>Hesters, Jules</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>2</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -6131,6 +6129,8 @@ hide:
       <td>0.0</td>
       <td>0</td>
       <td>0.0</td>
+      <td>2</td>
+      <td>100.0</td>
     </tr>
     <tr>
       <td>Higuita, Sergio</td>
@@ -6230,7 +6230,7 @@ hide:
     </tr>
     <tr>
       <td>Hofstetter, Hugo</td>
-      <td>73</td>
+      <td>79</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -6240,9 +6240,9 @@ hide:
       <td>0</td>
       <td>0.0</td>
       <td>35</td>
-      <td>47.9</td>
-      <td>38</td>
-      <td>52.1</td>
+      <td>44.3</td>
+      <td>44</td>
+      <td>55.7</td>
     </tr>
     <tr>
       <td>Hollmann, Juri</td>
@@ -7318,19 +7318,19 @@ hide:
     </tr>
     <tr>
       <td>Kubiš, Lukáš</td>
-      <td>89</td>
+      <td>97</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>45</td>
-      <td>50.6</td>
+      <td>46.4</td>
       <td>0</td>
       <td>0.0</td>
       <td>30</td>
-      <td>33.7</td>
-      <td>14</td>
-      <td>15.7</td>
+      <td>30.9</td>
+      <td>22</td>
+      <td>22.7</td>
     </tr>
     <tr>
       <td>Kudus, Merhawi</td>
@@ -7542,7 +7542,7 @@ hide:
     </tr>
     <tr>
       <td>Lamperti, Luke</td>
-      <td>6</td>
+      <td>32</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -7552,9 +7552,9 @@ hide:
       <td>0</td>
       <td>0.0</td>
       <td>6</td>
-      <td>100.0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>18.8</td>
+      <td>26</td>
+      <td>81.2</td>
     </tr>
     <tr>
       <td>Landa, Mikel</td>
@@ -7974,7 +7974,7 @@ hide:
     </tr>
     <tr>
       <td>Livyns, Arjen</td>
-      <td>27</td>
+      <td>30</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -7982,11 +7982,11 @@ hide:
       <td>0</td>
       <td>0.0</td>
       <td>1</td>
-      <td>3.7</td>
+      <td>3.3</td>
       <td>26</td>
-      <td>96.3</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>86.7</td>
+      <td>3</td>
+      <td>10.0</td>
     </tr>
     <tr>
       <td>Løland, Sakarias Koller</td>
@@ -8822,9 +8822,7 @@ hide:
     </tr>
     <tr>
       <td>Menten, Milan</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>18</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -8835,6 +8833,8 @@ hide:
       <td>0.0</td>
       <td>0</td>
       <td>0.0</td>
+      <td>18</td>
+      <td>100.0</td>
     </tr>
     <tr>
       <td>Meo, Felix James</td>
@@ -9222,19 +9222,19 @@ hide:
     </tr>
     <tr>
       <td>Moschetti, Matteo</td>
-      <td>57</td>
+      <td>87</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>31</td>
-      <td>54.4</td>
+      <td>35.6</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
       <td>0.0</td>
-      <td>26</td>
-      <td>45.6</td>
+      <td>56</td>
+      <td>64.4</td>
     </tr>
     <tr>
       <td>Moscon, Gianni</td>
@@ -11062,19 +11062,19 @@ hide:
     </tr>
     <tr>
       <td>Renard, Alexis</td>
-      <td>47</td>
+      <td>51</td>
       <td>0</td>
       <td>0.0</td>
       <td>4</td>
-      <td>8.5</td>
+      <td>7.8</td>
       <td>10</td>
-      <td>21.3</td>
+      <td>19.6</td>
       <td>0</td>
       <td>0.0</td>
       <td>33</td>
-      <td>70.2</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>64.7</td>
+      <td>4</td>
+      <td>7.8</td>
     </tr>
     <tr>
       <td>Resell, Erik</td>

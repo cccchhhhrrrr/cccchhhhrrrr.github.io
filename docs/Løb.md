@@ -202,7 +202,7 @@ hide:
       <td>Classics Cat. 3</td>
       <td>2025-03-19 11:00:00</td>
       <td>2025-03-19 18:00:00</td>
-      <td>https://www.procyclingstats.com/race/nokere-koers/2025</td>
+      <td>https://www.procyclingstats.com/race/nokere-koerse/2025</td>
     </tr>
     <tr>
       <td>21</td>

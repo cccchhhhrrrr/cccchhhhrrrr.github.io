@@ -284,11 +284,14 @@ Adrià, Roger **2** (Okholm)
 
 ## 2025-03-19
 ### Hovedspillet
+Fretin, Milan **22** (Matti)  
 Ulissi, Diego **4** (Knak)  
 Hirschi, Marc **2** (Hustlersen, Jappo, Knak)  
 
 ### Cheapo
+Allegaert, Piet **14** (Knak)  
 Cepeda, Jefferson Alexander **12** (Hustlersen)  
+Renard, Alexis **4** (Knak, Visti)  
 Jegat, Jordan **3** (Chrelle, Jappo, Knak)  
 
 

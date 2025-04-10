@@ -12719,14 +12719,6 @@ hide:
     </tr>
     <tr>
       <td>Milano-Sanremo</td>
-      <td>Koerdt, Bjoern</td>
-      <td>Classics Cat. 1</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Milano-Sanremo</td>
       <td>Kooij, Olav</td>
       <td>Classics Cat. 1</td>
       <td>1</td>
@@ -13927,14 +13919,6 @@ hide:
     </tr>
     <tr>
       <td>Milano-Torino</td>
-      <td>Koerdt, Bjoern</td>
-      <td>Classics Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Milano-Torino</td>
       <td>Kulset, Johannes</td>
       <td>Classics Cat. 3</td>
       <td>1</td>
@@ -14384,6 +14368,910 @@ hide:
     <tr>
       <td>Milano-Torino</td>
       <td>Zukowsky, Nick</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Aberasturi, Jon</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Allegaert, Piet</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>14</td>
+      <td>result: 14</td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Asbroeck, Tom Van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Askey, Lewis</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>12</td>
+      <td>result: 12</td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Baguelin, Jocelyn</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Baroncini, Filippo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Barthe, Cyril</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Berasategi, Xabier</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Beullens, Cedric</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Bittner, Pavel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Bjerg, Mikkel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Blikra, Erlend</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Boivin, Guillaume</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Bol, Cees</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Boven, Lars</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Braet, Vito</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>result: 1</td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Bruttomesso, Alberto</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Budding, Martijn</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Bugge, Martin Urianstad</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Colman, Alex</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Consonni, Simone</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Dainese, Alberto</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>10</td>
+      <td>result: 10</td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Davy, Clément</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Declercq, Tim</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Dekker, David</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Deweirdt, Siebe</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Dhondt, Robbe</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Eddy, Patrick</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Eekhoff, Nils</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>35</td>
+      <td>result: 35</td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Ermakov, Roman</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Finé, Eddy</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Fredheim, Stian</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>5</td>
+      <td>result: 5</td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Fretin, Milan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>22</td>
+      <td>result: 22</td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Froideveaux, Robin</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Gate, Aaron</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Gazzoli, Michele</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Geens, Jonas</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Gelders, Gil</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Gendt, Aimé De</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Ghys, Robbe</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>González, David</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Grignard, Sébastien</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Hautegem, Leander Van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Heming, Miká</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Hesters, Jules</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>2</td>
+      <td>result: 2</td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Hoecke, Gijs Van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Hofstetter, Hugo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>6</td>
+      <td>result: 6</td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Hvideberg, Jonas</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Janssens, Jimmy</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Johannink, Jelle</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Kanter, Max</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Kluckers, Arthur</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Kogut, Oded</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Kolze Changizi, Sebastian</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Kopecký, Tomáš</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Kubiš, Lukáš</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>8</td>
+      <td>result: 8</td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Lambrecht, Michiel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Lamperti, Luke</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>26</td>
+      <td>result: 26</td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Lanhove, Milan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Le Gac, Olivier</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Le Huitouze, Eddy</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Lerberghe, Bert Van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Lie, Arnaud De</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Liepiņš, Emīls</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Livyns, Arjen</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>3</td>
+      <td>result: 3</td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Lopez de Abetxuko, Andoni</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Marit, Arne</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Martín, Gotzon</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Małecki, Kamil</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Mechelen, Vlad Van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Menten, Milan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>18</td>
+      <td>result: 18</td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Mikutis, Aivaras</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Molano, Sebastián</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Moschetti, Matteo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>30</td>
+      <td>result: 30</td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Naberman, Tim</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Nizzolo, Giacomo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Parisini, Nicolò</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Pedersen, Henrik</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Persico, Davide</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Philipsen, Jasper</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Pickrell, Riley</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Planckaert, Edward</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Pooter, Dries De</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Raccagni, Andrea</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Renard, Alexis</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>4</td>
+      <td>result: 4</td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Renard-Haquin, Henri-François</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Resell, Erik</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Rickaert, Jonas</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Robeet, Ludovic</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Romele, Alessandro</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Roosen, Timo</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Rooy, Kenneth Van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Schwarzmann, Michael</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Sintmaartensdijk, Roel van</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Skerl, Daniel</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Stockman, Abram</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Stockwell, Oliver</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Stokbro, Andreas</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Touzé, Damien</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Townsend, Rory</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Tuuk, Danny van der</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Vandenstorme, Dylan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Vangheluwe, Warre</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Vergaerde, Otto</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Vermeersch, Florian</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Vernon, Ethan</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Vries, Hartthijs de</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Vylder, Lindsay De</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Wallin, Rasmus Bøgh</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Walls, Matthew</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Weemaes, Sasha</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Weiss, Fabian</td>
+      <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nokere Koerse</td>
+      <td>Zubeldia, Unai</td>
       <td>Classics Cat. 3</td>
       <td>1</td>
       <td>0</td>
@@ -16337,7 +17225,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Affini, Edoardo</td>
       <td>Tour Cat. 2</td>
-      <td>6</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16353,7 +17241,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Albanese, Vincenzo</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>4</td>
       <td>stage-1: 4</td>
     </tr>
@@ -16369,7 +17257,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Andresen, Tobias Lund</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16393,7 +17281,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Armirail, Bruno</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16425,7 +17313,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Bastiaens, Ayco</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16433,7 +17321,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Bayer, Tobias</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16441,7 +17329,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Berg, Julius van den</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16457,7 +17345,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Berwick, Sebastian</td>
       <td>Tour Cat. 2</td>
-      <td>6</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16489,7 +17377,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Campenaerts, Victor</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16505,7 +17393,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Cavagna, Rémi</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16529,7 +17417,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Charmig, Anthon</td>
       <td>Tour Cat. 2</td>
-      <td>6</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16537,7 +17425,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Costiou, Ewen</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16561,7 +17449,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Debruyne, Ramses</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16569,7 +17457,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Degenkolb, John</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16577,7 +17465,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Del Grosso, Tibor</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>2</td>
       <td>stage-2: 2</td>
     </tr>
@@ -16585,7 +17473,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Delettre, Alexandre</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16593,7 +17481,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Dijke, Mick van</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>8</td>
       <td>stage-1: 8</td>
     </tr>
@@ -16601,7 +17489,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Doull, Owain</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16625,7 +17513,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Fedorov, Yevgeniy</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>11</td>
       <td>stage-1: 10 / stage-2: 1</td>
     </tr>
@@ -16633,7 +17521,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Fernández, Samuel</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16641,7 +17529,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Flynn, Sean</td>
       <td>Tour Cat. 2</td>
-      <td>6</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16681,7 +17569,7 @@ hide:
       <td>Paris-Nice</td>
       <td>García Cortina, Iván</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16713,7 +17601,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Gestel, Dries Van</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16737,7 +17625,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Govekar, Matevž</td>
       <td>Tour Cat. 2</td>
-      <td>6</td>
+      <td>8</td>
       <td>6</td>
       <td>stage-2: 6</td>
     </tr>
@@ -16745,7 +17633,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Gradek, Kamil</td>
       <td>Tour Cat. 2</td>
-      <td>6</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16753,7 +17641,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Gruel, Thibaud</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16761,7 +17649,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Guernalec, Thibault</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16769,7 +17657,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Guernalec, Victor</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16777,7 +17665,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Hagenes, Per Strand</td>
       <td>Tour Cat. 2</td>
-      <td>6</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16793,7 +17681,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Haller, Marco</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16801,7 +17689,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Hepburn, Michael</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16809,7 +17697,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Hoole, Daan</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16825,7 +17713,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Izquierdo, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>6</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16833,7 +17721,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Jacobs, Johan</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16857,7 +17745,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Jeanniere, Emilien</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>20</td>
       <td>stage-2: 20</td>
     </tr>
@@ -16881,7 +17769,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Jungels, Bob</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16889,7 +17777,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Kielich, Timo</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>18</td>
       <td>stage-1: 6 / stage-2: 12</td>
     </tr>
@@ -16897,7 +17785,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Kirsch, Alex</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16921,7 +17809,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Küng, Stefan</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16929,7 +17817,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Lampaert, Yves</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16937,7 +17825,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Leitão, Iúri</td>
       <td>Tour Cat. 2</td>
-      <td>6</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16953,7 +17841,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Lemmen, Bart</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -16977,7 +17865,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Lienhard, Fabian</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17017,7 +17905,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Matthews, Michael</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17041,7 +17929,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Milesi, Lorenzo</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17065,7 +17953,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Moro, Manlio</td>
       <td>Tour Cat. 2</td>
-      <td>6</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17073,7 +17961,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Mullen, Ryan</td>
       <td>Tour Cat. 2</td>
-      <td>6</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17089,7 +17977,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Naesen, Oliver</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17105,7 +17993,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Nicolau, Joel</td>
       <td>Tour Cat. 2</td>
-      <td>6</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17113,7 +18001,7 @@ hide:
       <td>Paris-Nice</td>
       <td>O'Brien, Kelland</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17129,7 +18017,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Oliveira, Ivo</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17137,7 +18025,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Otruba, Jakub</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17153,7 +18041,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Paleni, Enzo</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17177,7 +18065,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Perez, Anthony</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17185,7 +18073,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Pestel, Sander De</td>
       <td>Tour Cat. 2</td>
-      <td>6</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17201,7 +18089,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Planckaert, Edward</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17233,7 +18121,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Riesebeek, Oscar</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17249,7 +18137,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Samitier, Sergio</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17273,7 +18161,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Scotson, Callum</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17281,7 +18169,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Scotson, Miles</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17297,7 +18185,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Silva, Thomas</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17313,7 +18201,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Sivakov, Pavel</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17321,7 +18209,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Skaarseth, Anders</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17337,7 +18225,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Smith, Dion</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17377,7 +18265,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Sweeny, Harry</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17385,7 +18273,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Swift, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17417,7 +18305,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Teunissen, Mike</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17425,7 +18313,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Thierry, Pierre</td>
       <td>Tour Cat. 2</td>
-      <td>6</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17433,7 +18321,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Tiller, Rasmus</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17457,7 +18345,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Vergaerde, Otto</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17481,7 +18369,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Vinokurov, Nicolas</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17513,7 +18401,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Watson, Samuel</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>16</td>
       <td>stage-6: 16</td>
     </tr>
@@ -17529,7 +18417,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Wright, Fred</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -17553,7 +18441,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Zingle, Axel</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>36</td>
       <td>stage-1: 12 / stage-2: 10 / stage-6: 14</td>
     </tr>
@@ -17561,7 +18449,7 @@ hide:
       <td>Paris-Nice</td>
       <td>Zwiehoff, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>6</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -20543,14 +21431,6 @@ hide:
     </tr>
     <tr>
       <td>Strade Bianche</td>
-      <td>Koerdt, Bjoern</td>
-      <td>Classics Cat. 1</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Strade Bianche</td>
       <td>Kwiatkowski, Michal</td>
       <td>Classics Cat. 1</td>
       <td>1</td>
@@ -21914,14 +22794,6 @@ hide:
       <td>Koch, Jonas</td>
       <td>Tour Cat. 2</td>
       <td>8</td>
-      <td>0</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Tirreno-Adriatico</td>
-      <td>Koerdt, Bjoern</td>
-      <td>Tour Cat. 2</td>
-      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
