@@ -4,6 +4,26 @@ hide:
   - toc
 ---
 
+## 2025-04-12
+### Hovedspillet
+Almeida, João **125** (Chrelle, Kenk)  
+Schachmann, Maximilian **71** (Jarma, Knak)  
+Lipowitz, Florian **60** (Okholm)  
+Skjelmose, Mattias **50** (Matti, Tommy)  
+Wilder, Ilan Van **45** (Chrelle)  
+Onley, Oscar **31** (Hustlersen, Okholm)  
+Buitrago, Santiago **16** (Matti)  
+Healy, Ben **16** (Knak)  
+Laurance, Axel **2** (Jappo, Matti, Okholm)  
+
+### Cheapo
+Jegat, Jordan **24** (Chrelle, Jappo, Knak)  
+Champoussin, Clément **23** (Chrelle, Hustlersen, Visti)  
+
+
+
+
+
 ## 2025-04-11
 ### Hovedspillet
 Healy, Ben **25** (Knak)  

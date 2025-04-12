@@ -43,74 +43,74 @@ hide:
   </thead>
   <tbody>
     <tr>
+      <td>Chrelle</td>
+      <td>350.0</td>
+      <td>366</td>
+      <td>3121</td>
+      <td>8.53</td>
+    </tr>
+    <tr>
       <td>Jappo</td>
       <td>350.0</td>
-      <td>370</td>
-      <td>3088</td>
-      <td>8.35</td>
+      <td>375</td>
+      <td>3090</td>
+      <td>8.24</td>
     </tr>
     <tr>
       <td>Kenk</td>
       <td>349.9</td>
-      <td>349</td>
-      <td>2956</td>
-      <td>8.47</td>
-    </tr>
-    <tr>
-      <td>Chrelle</td>
-      <td>350.0</td>
-      <td>360</td>
-      <td>2951</td>
-      <td>8.20</td>
+      <td>354</td>
+      <td>3081</td>
+      <td>8.70</td>
     </tr>
     <tr>
       <td>Hustlersen</td>
       <td>327.8</td>
-      <td>309</td>
-      <td>2604</td>
-      <td>8.43</td>
-    </tr>
-    <tr>
-      <td>Visti</td>
-      <td>350.0</td>
-      <td>358</td>
-      <td>2563</td>
-      <td>7.16</td>
-    </tr>
-    <tr>
-      <td>Tommy</td>
-      <td>350.0</td>
-      <td>341</td>
-      <td>2512</td>
-      <td>7.37</td>
-    </tr>
-    <tr>
-      <td>Matti</td>
-      <td>349.1</td>
-      <td>363</td>
-      <td>2493</td>
-      <td>6.87</td>
+      <td>312</td>
+      <td>2635</td>
+      <td>8.45</td>
     </tr>
     <tr>
       <td>Knak</td>
       <td>349.8</td>
-      <td>346</td>
-      <td>2486</td>
-      <td>7.18</td>
-    </tr>
-    <tr>
-      <td>Jarma</td>
-      <td>350.0</td>
-      <td>320</td>
-      <td>2481</td>
-      <td>7.75</td>
+      <td>352</td>
+      <td>2573</td>
+      <td>7.31</td>
     </tr>
     <tr>
       <td>Okholm</td>
       <td>350.0</td>
-      <td>365</td>
-      <td>2480</td>
-      <td>6.79</td>
+      <td>369</td>
+      <td>2573</td>
+      <td>6.97</td>
+    </tr>
+    <tr>
+      <td>Visti</td>
+      <td>350.0</td>
+      <td>359</td>
+      <td>2563</td>
+      <td>7.14</td>
+    </tr>
+    <tr>
+      <td>Tommy</td>
+      <td>350.0</td>
+      <td>343</td>
+      <td>2562</td>
+      <td>7.47</td>
+    </tr>
+    <tr>
+      <td>Matti</td>
+      <td>349.1</td>
+      <td>369</td>
+      <td>2561</td>
+      <td>6.94</td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>350.0</td>
+      <td>323</td>
+      <td>2552</td>
+      <td>7.90</td>
     </tr>
   </tbody>
 </table>
