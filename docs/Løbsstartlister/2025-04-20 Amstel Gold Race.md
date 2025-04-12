@@ -215,7 +215,7 @@
       <td>Welsford Sam</td>
       <td class = "startlist">Nys Thibau</td>
       <td>Magnier Paul</td>
-      <td class = "startlist">Kron Andreas</td>
+      <td>Kron Andreas</td>
       <td>Martinez Lenny</td>
       <td>Castrillo Pablo</td>
       <td>Vacek Mathias</td>
@@ -303,7 +303,7 @@
       <td class = "startlist">Teuns Dylan</td>
       <td>Andresen Tobias Lund</td>
       <td class = "startlist">Sheehan Riley</td>
-      <td class = "startlist">Campenaerts Victor</td>
+      <td>Campenaerts Victor</td>
       <td class = "startlist">Van Dijke Tim</td>
     </tr>
     <tr>

@@ -158,7 +158,7 @@
       <td>Van Wilder Ilan</td>
       <td>Narváez Jhonatan</td>
       <td>Girmay Biniam</td>
-      <td>Geoghegan Hart Tao</td>
+      <td class = "startlist">Geoghegan Hart Tao</td>
       <td>Van Gils Maxim</td>
       <td>Hirschi Marc</td>
       <td>Merlier Tim</td>
@@ -176,7 +176,7 @@
       <td>Narváez Jhonatan</td>
       <td>Healy Ben</td>
       <td>Girmay Biniam</td>
-      <td>Gee Derek</td>
+      <td class = "startlist">Gee Derek</td>
       <td>Nys Thibau</td>
       <td class = "startlist">Gall Felix</td>
     </tr>
@@ -185,7 +185,7 @@
       <td>11</td>
       <td>Grégoire Romain</td>
       <td>Nys Thibau</td>
-      <td>Gee Derek</td>
+      <td class = "startlist">Gee Derek</td>
       <td>Sivakov Pavel</td>
       <td>Nys Thibau</td>
       <td>Nys Thibau</td>
@@ -198,20 +198,20 @@
       <th>11</th>
       <td>12</td>
       <td>Hayter Ethan</td>
-      <td>Plapp Luke</td>
+      <td class = "startlist">Plapp Luke</td>
       <td>Powless Neilson</td>
-      <td>Poole Max</td>
+      <td class = "startlist">Poole Max</td>
       <td>Magnier Paul</td>
       <td>Grégoire Romain</td>
       <td class = "startlist">Gall Felix</td>
-      <td>Geoghegan Hart Tao</td>
+      <td class = "startlist">Geoghegan Hart Tao</td>
       <td>Magnier Paul</td>
       <td>Martinez Lenny</td>
     </tr>
     <tr>
       <th>12</th>
       <td>13</td>
-      <td>Plapp Luke</td>
+      <td class = "startlist">Plapp Luke</td>
       <td>Welsford Sam</td>
       <td>Nys Thibau</td>
       <td>Magnier Paul</td>
@@ -225,7 +225,7 @@
     <tr>
       <th>13</th>
       <td>14</td>
-      <td>Poole Max</td>
+      <td class = "startlist">Poole Max</td>
       <td>Mihkels Madis</td>
       <td>Hayter Ethan</td>
       <td>Bagioli Andrea</td>
@@ -254,7 +254,7 @@
       <th>15</th>
       <td>16</td>
       <td>Tarling Joshua</td>
-      <td>Steinhauser Georg</td>
+      <td class = "startlist">Steinhauser Georg</td>
       <td>Magnier Paul</td>
       <td>Schachmann Maximilian</td>
       <td>Van Dijke Tim</td>
@@ -354,7 +354,7 @@
       <td>Staune-Mittet Johannes</td>
       <td>Brenner Marco</td>
       <td>Jeannière Emilien</td>
-      <td>Frigo Marco</td>
+      <td class = "startlist">Frigo Marco</td>
       <td class = "startlist">Wandahl Frederik</td>
       <td>Naesen Oliver</td>
       <td>Staune-Mittet Johannes</td>
@@ -380,7 +380,7 @@
       <th>24</th>
       <td>25</td>
       <td>Withen Philipsen Albert</td>
-      <td>August Andrew</td>
+      <td class = "startlist">August Andrew</td>
       <td>Withen Philipsen Albert</td>
       <td>Del Grosso Tibor</td>
       <td>Rolland Brieuc</td>

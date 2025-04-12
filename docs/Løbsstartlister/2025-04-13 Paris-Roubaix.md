@@ -326,7 +326,7 @@
       <td class = "startlist">Brennan Matthew</td>
       <td>Teutenberg Tim Torn</td>
       <td class = "startlist">Morgado António</td>
-      <td class = "startlist">Louvel Matis</td>
+      <td>Louvel Matis</td>
       <td class = "startlist">Rex Laurenz</td>
       <td>Ulissi Diego</td>
       <td>Fretin Milan</td>
@@ -359,7 +359,7 @@
       <td class = "startlist">Naesen Oliver</td>
       <td>Staune-Mittet Johannes</td>
       <td>Aleotti Giovanni</td>
-      <td>Watson Samuel</td>
+      <td class = "startlist">Watson Samuel</td>
       <td class = "startlist">Vermeersch Florian</td>
     </tr>
     <tr>

@@ -9433,7 +9433,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Aberasturi, Jon</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>4</td>
       <td>stage-2: 4</td>
     </tr>
@@ -9441,7 +9441,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Adrià, Roger</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9449,7 +9449,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Alaphilippe, Julian</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>1</td>
       <td>stage-3: 1</td>
     </tr>
@@ -9457,7 +9457,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Almeida, João</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>59</td>
       <td>stage-1: 20 / stage-3: 14 / stage-4: 25</td>
     </tr>
@@ -9465,15 +9465,15 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Aranburu, Alex</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>38</td>
-      <td>stage-2: 1 / stage-3: 25 / stage-4: 12</td>
+      <td>5</td>
+      <td>52</td>
+      <td>stage-2: 1 / stage-3: 25 / stage-4: 12 / stage-5: 14</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
       <td>Arcas, Jorge</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9481,7 +9481,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Armirail, Bruno</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>4</td>
       <td>stage-1: 4</td>
     </tr>
@@ -9489,7 +9489,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Arrieta, Igor</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9497,7 +9497,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Arriolabengoa, Julen</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9505,7 +9505,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Bagioli, Andrea</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9513,7 +9513,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Barceló, Fernando</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9521,7 +9521,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Barguil, Warren</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9529,7 +9529,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Barrenetxea, Jon</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9537,7 +9537,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Barré, Louis</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9545,15 +9545,15 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Battistella, Samuele</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>5</td>
+      <td>2</td>
+      <td>stage-5: 2</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
       <td>Baudin, Alex</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9561,7 +9561,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Bayer, Tobias</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9577,7 +9577,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Berthet, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>10</td>
       <td>stage-4: 10</td>
     </tr>
@@ -9585,7 +9585,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Bilbao, Pello</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9593,7 +9593,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Bisiaux, Léo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9601,7 +9601,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Bizkarra, Mikel</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9609,7 +9609,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Bonneu, Kamiel</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9617,7 +9617,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Bossche, Fabio Van den</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>8</td>
       <td>stage-2: 8</td>
     </tr>
@@ -9625,7 +9625,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Bou, Joan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9633,7 +9633,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Boven, Luca Van</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>20</td>
       <td>stage-2: 20</td>
     </tr>
@@ -9641,7 +9641,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Braz Afonso, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9649,7 +9649,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Buitrago, Santiago</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9673,7 +9673,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Carthy, Hugh</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9681,7 +9681,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Castrillo, Pablo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9689,15 +9689,15 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Champoussin, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>14</td>
-      <td>stage-4: 14</td>
+      <td>5</td>
+      <td>18</td>
+      <td>stage-4: 14 / stage-5: 4</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
       <td>Charmig, Anthon</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9705,15 +9705,15 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Cobo, Iván</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>5</td>
+      <td>1</td>
+      <td>stage-5: 1</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
       <td>Combaud, Romain</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9721,7 +9721,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Cras, Steff</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>4</td>
       <td>stage-3: 4</td>
     </tr>
@@ -9729,7 +9729,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Davy, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9737,7 +9737,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>De La Calle, Hugo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9745,7 +9745,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>De Pretto, Davide</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9753,7 +9753,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Debruyne, Ramses</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9761,7 +9761,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Del Toro, Isaac</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>20</td>
       <td>stage-4: 20</td>
     </tr>
@@ -9769,7 +9769,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Delaplace, Anthony</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9777,7 +9777,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Delbove, Joris</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9793,7 +9793,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Diaz, José Manuel</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9801,7 +9801,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Doubey, Fabien</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9809,7 +9809,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Dunbar, Eddie</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9817,7 +9817,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Elosegui, Iñigo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9825,7 +9825,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Eriksson, Jacob</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9833,7 +9833,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Etxeberria, Haimar</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9849,7 +9849,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Fagúndez, Eric</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9857,7 +9857,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Fernández, Sinuhé</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9865,7 +9865,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Fisher-Black, Finn</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9881,7 +9881,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Fraile, Omar</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9889,7 +9889,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Ganzabal, Ander</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9897,7 +9897,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Garofoli, Gianmarco</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9905,7 +9905,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Gesbert, Elie</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9913,15 +9913,15 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Gils, Maxim Van</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>5</td>
+      <td>10</td>
+      <td>stage-5: 10</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
       <td>Gloag, Thomas</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9929,7 +9929,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Grellier, Fabien</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9937,7 +9937,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Grossschartner, Felix</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9945,7 +9945,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Gruel, Thibaud</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>14</td>
       <td>stage-2: 14</td>
     </tr>
@@ -9953,15 +9953,15 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Grégoire, Romain</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>20</td>
-      <td>stage-3: 20</td>
+      <td>5</td>
+      <td>32</td>
+      <td>stage-3: 20 / stage-5: 12</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
       <td>Guernalec, Thibault</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9969,7 +9969,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Guernalec, Victor</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9977,7 +9977,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Guglielmi, Simon</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9985,7 +9985,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Haig, Jack</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -9993,7 +9993,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Hajek, Alexander</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10001,7 +10001,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Hatherly, Alan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10009,7 +10009,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Hayter, Ethan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>14</td>
       <td>stage-1: 14</td>
     </tr>
@@ -10017,15 +10017,15 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Healy, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>2</td>
-      <td>stage-1: 2</td>
+      <td>5</td>
+      <td>27</td>
+      <td>stage-1: 2 / stage-5: 25</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
       <td>Heiduk, Kim</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10033,7 +10033,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Hellemose, Asbjørn</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10041,7 +10041,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Hirschi, Marc</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10049,7 +10049,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Hollmann, Juri</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10057,7 +10057,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Iribar, Unai</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10065,7 +10065,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Isasa, Xabier</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10073,7 +10073,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Izagirre, Ion</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10081,7 +10081,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Janssens, Jimmy</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10089,15 +10089,15 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Jegat, Jordan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>5</td>
+      <td>6</td>
+      <td>stage-5: 6</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
       <td>Juaristi, Txomin</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10105,7 +10105,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Juul-Jensen, Chris</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10121,7 +10121,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Kamp, Alexander</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10129,7 +10129,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Kelderman, Wilco</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>10</td>
       <td>stage-3: 8 / stage-4: 2</td>
     </tr>
@@ -10137,7 +10137,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Knox, James</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10145,7 +10145,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Konrad, Patrick</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10153,7 +10153,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Kuss, Sepp</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10161,7 +10161,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Kuypers, Gerben</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10177,7 +10177,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Laengen, Vegard Stake</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10193,7 +10193,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Langellotti, Victor</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10201,7 +10201,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Lastra, Jonathan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10209,15 +10209,15 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Laurance, Axel</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>5</td>
+      <td>20</td>
+      <td>stage-5: 20</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
       <td>Le Berre, Mathis</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10225,7 +10225,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Lee, Jardi van der</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10233,7 +10233,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Leemreize, Gijs</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10249,7 +10249,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Leonard, Michael</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>3</td>
       <td>stage-1: 3</td>
     </tr>
@@ -10257,7 +10257,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Lipowitz, Florian</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>22</td>
       <td>stage-1: 16 / stage-3: 6</td>
     </tr>
@@ -10265,7 +10265,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Maas, Jan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10273,7 +10273,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Martin, Guillaume</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>3</td>
       <td>stage-4: 3</td>
     </tr>
@@ -10281,7 +10281,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Martinez, Juan Guillermo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10289,7 +10289,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Martín, Gotzon</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10297,7 +10297,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Martínez, Daniel</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10305,7 +10305,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Mas, Enric</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>12</td>
       <td>stage-3: 12</td>
     </tr>
@@ -10313,7 +10313,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>McNulty, Brandon</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10321,7 +10321,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Meulen, Max van der</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10329,7 +10329,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Mintegi, Iker</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10337,15 +10337,15 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Miquel, Pau</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>5</td>
+      <td>8</td>
+      <td>stage-5: 8</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
       <td>Molard, Rudy</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10353,7 +10353,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Mollema, Bauke</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10361,7 +10361,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Mühlberger, Gregor</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10369,7 +10369,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Nicolau, Joel</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10377,7 +10377,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Nys, Thibau</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10385,7 +10385,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Okamika, Ander</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10393,7 +10393,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Oldani, Stefano</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10401,7 +10401,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Oliveira, Nelson</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>1</td>
       <td>stage-1: 1</td>
     </tr>
@@ -10409,7 +10409,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Onley, Oscar</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>6</td>
       <td>stage-4: 6</td>
     </tr>
@@ -10417,7 +10417,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Paasschens, Mathijs</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10425,7 +10425,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Paquot, Tom</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>2</td>
       <td>stage-2: 2</td>
     </tr>
@@ -10433,7 +10433,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Perez, Anthony</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10441,7 +10441,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Pickering, Finlay</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10449,7 +10449,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Puccio, Salvatore</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10457,7 +10457,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Rolland, Brieuc</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10465,7 +10465,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Rota, Lorenzo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10473,7 +10473,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Ruiz, Ibon</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10481,7 +10481,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Ryan, Archie</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10489,7 +10489,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Sainbayar, Jambaljamts</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10497,7 +10497,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Samitier, Sergio</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10505,7 +10505,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Schachmann, Maximilian</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>57</td>
       <td>stage-1: 25 / stage-3: 16 / stage-4: 16</td>
     </tr>
@@ -10513,7 +10513,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Schelling, Ide</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10521,7 +10521,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Schmid, Mauro</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10529,7 +10529,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Scotson, Callum</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10537,15 +10537,15 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Silva, Thomas</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>5</td>
+      <td>3</td>
+      <td>stage-5: 3</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
       <td>Simmons, Quinn</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10553,7 +10553,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Skjelmose, Mattias</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>17</td>
       <td>stage-1: 6 / stage-3: 10 / stage-4: 1</td>
     </tr>
@@ -10561,7 +10561,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Soler, Marc</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10569,7 +10569,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Stannard, Robert</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10585,7 +10585,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Tejada, Harold</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10593,7 +10593,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Tjøtta, Martin</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10601,7 +10601,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Tronchon, Bastien</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>16</td>
       <td>stage-2: 16</td>
     </tr>
@@ -10609,7 +10609,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Tulett, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10617,7 +10617,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Uriarte, Diego</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10625,7 +10625,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Valter, Attila</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10633,7 +10633,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Vansevenant, Mauri</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10641,15 +10641,15 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Velasco, Simone</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>10</td>
-      <td>stage-3: 2 / stage-4: 8</td>
+      <td>5</td>
+      <td>26</td>
+      <td>stage-3: 2 / stage-4: 8 / stage-5: 16</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
       <td>Vercher, Mattéo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10657,7 +10657,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Vergaerde, Otto</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10665,7 +10665,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Vergallito, Luca</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10673,7 +10673,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Verre, Alessandro</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10681,7 +10681,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Verstrynge, Emiel</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10689,7 +10689,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Vervaeke, Louis</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10697,7 +10697,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Vlasov, Aleksandr</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>12</td>
       <td>stage-1: 12</td>
     </tr>
@@ -10705,7 +10705,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Voisard, Yannis</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10713,7 +10713,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Weiss, Fabian</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10721,7 +10721,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Wilder, Ilan Van</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>17</td>
       <td>stage-1: 10 / stage-3: 3 / stage-4: 4</td>
     </tr>
@@ -10729,7 +10729,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Wilksch, Hannes</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -10737,7 +10737,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Wirtgen, Luc</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>6</td>
       <td>stage-2: 6</td>
     </tr>
@@ -10745,7 +10745,7 @@ hide:
       <td>Itzulia Basque Country</td>
       <td>Zingle, Axel</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>10</td>
       <td>stage-2: 10</td>
     </tr>

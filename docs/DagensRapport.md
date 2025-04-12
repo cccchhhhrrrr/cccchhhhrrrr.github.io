@@ -4,6 +4,22 @@ hide:
   - toc
 ---
 
+## 2025-04-11
+### Hovedspillet
+Healy, Ben **25** (Knak)  
+Laurance, Axel **20** (Jappo, Matti, Okholm)  
+Grégoire, Romain **12** (Chrelle, Jarma, Knak)  
+Gils, Maxim Van **10** (Kenk, Matti)  
+
+### Cheapo
+Jegat, Jordan **6** (Chrelle, Jappo, Knak)  
+Champoussin, Clément **4** (Chrelle, Hustlersen, Visti)  
+Silva, Thomas **3** (Jappo, Kenk, Visti)  
+
+
+
+
+
 ## 2025-04-10
 ### Hovedspillet
 Almeida, João **25** (Chrelle, Kenk)  

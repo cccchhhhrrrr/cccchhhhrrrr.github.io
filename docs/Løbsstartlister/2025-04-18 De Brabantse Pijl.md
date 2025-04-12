@@ -215,7 +215,7 @@
       <td>Welsford Sam</td>
       <td>Nys Thibau</td>
       <td>Magnier Paul</td>
-      <td class = "startlist">Kron Andreas</td>
+      <td>Kron Andreas</td>
       <td>Martinez Lenny</td>
       <td>Castrillo Pablo</td>
       <td>Vacek Mathias</td>
