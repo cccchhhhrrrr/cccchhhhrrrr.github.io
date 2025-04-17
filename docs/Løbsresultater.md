@@ -9578,8 +9578,8 @@ hide:
       <td>Berthet, Clément</td>
       <td>Tour Cat. 2</td>
       <td>7</td>
-      <td>28</td>
-      <td>stage-4: 10 / gc: 18</td>
+      <td>30</td>
+      <td>stage-4: 10 / gc: 20</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
@@ -9690,8 +9690,8 @@ hide:
       <td>Champoussin, Clément</td>
       <td>Tour Cat. 2</td>
       <td>7</td>
-      <td>41</td>
-      <td>stage-4: 14 / stage-5: 4 / stage-6: 3 / gc: 20</td>
+      <td>46</td>
+      <td>stage-4: 14 / stage-5: 4 / stage-6: 3 / gc: 25</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
@@ -10274,8 +10274,8 @@ hide:
       <td>Martin, Guillaume</td>
       <td>Tour Cat. 2</td>
       <td>7</td>
-      <td>38</td>
-      <td>stage-4: 3 / gc: 35</td>
+      <td>21</td>
+      <td>stage-4: 3 / gc: 18</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
@@ -10410,8 +10410,8 @@ hide:
       <td>Onley, Oscar</td>
       <td>Tour Cat. 2</td>
       <td>7</td>
-      <td>37</td>
-      <td>stage-4: 6 / stage-6: 6 / gc: 25</td>
+      <td>42</td>
+      <td>stage-4: 6 / stage-6: 6 / gc: 30</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
@@ -10642,8 +10642,8 @@ hide:
       <td>Velasco, Simone</td>
       <td>Tour Cat. 2</td>
       <td>7</td>
-      <td>64</td>
-      <td>stage-3: 2 / stage-4: 8 / stage-5: 16 / stage-6: 8 / gc: 30</td>
+      <td>69</td>
+      <td>stage-3: 2 / stage-4: 8 / stage-5: 16 / stage-6: 8 / gc: 35</td>
     </tr>
     <tr>
       <td>Itzulia Basque Country</td>
@@ -18450,6 +18450,1398 @@ hide:
       <td>Zwiehoff, Ben</td>
       <td>Tour Cat. 2</td>
       <td>8</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Abrahamsen, Jonas</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Aert, Wout van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>70</td>
+      <td>result: 70</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Affini, Edoardo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Albanese, Vincenzo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Aniołkowski, Stanisław</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Asbroeck, Tom Van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Asgreen, Kasper</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Askey, Lewis</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Baarle, Dylan van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Ballerini, Davide</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Barthe, Cyril</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Bastiaens, Ayco</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Bauhaus, Phil</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>3</td>
+      <td>result: 3</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Behrens, Niklas</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Berg, Julius van den</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Beullens, Cedric</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Biermans, Jenthe</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Bissegger, Stefan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>40</td>
+      <td>result: 40</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Bittner, Pavel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Bjerg, Mikkel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Bloem, Joren</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Blume Levy, William</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Boivin, Guillaume</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Bol, Cees</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Bondt, Dries De</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>4</td>
+      <td>result: 4</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Boulahoite, Rayan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Brennan, Matthew</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Brunel, Alexys</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Buyst, Jasper De</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Bystrøm, Sven Erik</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Camprubi, Marcel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Chamberlain, Oscar</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Cimolai, Davide</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Dauphin, Florian</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>result: 1</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Declercq, Tim</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Dijke, Mick van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>8</td>
+      <td>result: 8</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Dijke, Tim van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Dillier, Silvan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Donaldson, Robert</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Doull, Owain</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Dujardin, Sandy</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Démare, Arnaud</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Eddy, Patrick</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Epis, Giosuè</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Fedorov, Yevgeniy</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Flynn, Sean</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Frison, Frederik</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Gamper, Patrick</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Ganna, Filippo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>16</td>
+      <td>result: 16</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>García Cortina, Iván</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Gautherat, Pierre</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Gazzoli, Michele</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Gendt, Aimé De</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Giddings, Joshua</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Girmay, Biniam</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>12</td>
+      <td>result: 12</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Gradek, Kamil</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Grignard, Sébastien</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Hagenes, Per Strand</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Haller, Marco</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>18</td>
+      <td>result: 18</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Heiduk, Kim</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Heming, Miká</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Hoecke, Gijs Van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Hoelgaard, Markus</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>35</td>
+      <td>result: 35</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Hofstetter, Hugo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Hoole, Daan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>9</td>
+      <td>result: 9</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Hoorn, Taco van der</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>6</td>
+      <td>result: 6</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Huens, Axel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Izquierdo, Clément</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Jacobs, Johan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>5</td>
+      <td>result: 5</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Kelemen, Petr</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Kluckers, Arthur</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Knight, Oliver</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Kogut, Oded</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Kopecký, Tomáš</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Krijnsen, Jelte</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Kristoff, Alexander</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Kubiš, Lukáš</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Küng, Stefan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Lampaert, Yves</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Lamperti, Luke</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Lazkano, Oier</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Le Huitouze, Eddy</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Leijnse, Enzo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Lerberghe, Bert Van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Leroux, Samuel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Lienhard, Fabian</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Lozouet, Léandre</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Mayrhofer, Marius</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>7</td>
+      <td>result: 7</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Mechelen, Vlad Van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Meeus, Jordi</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Merlier, Tim</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Mezgec, Luka</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Mihkels, Madis</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>14</td>
+      <td>result: 14</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Mikutis, Aivaras</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Milan, Jonathan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Moer, Brent Van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Mohorič, Matej</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Molano, Sebastián</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Morgado, António</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>result: 2</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Moro, Manlio</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Moschetti, Matteo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Mozzato, Luca</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Mullen, Ryan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Märkl, Niklas</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Naesen, Oliver</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Nizzolo, Giacomo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Norsgaard, Mathias</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Pasqualon, Andrea</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Pedersen, Mads</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>85</td>
+      <td>result: 85</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Pedersen, Rasmus Søjberg</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Pescador, Diego</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Pestel, Sander De</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Petit, Adrien</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Philipsen, Jasper</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>20</td>
+      <td>result: 20</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Pickrell, Riley</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Pidcock, Joe</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Pithie, Laurence</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Planckaert, Edward</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Poel, Mathieu van der</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>120</td>
+      <td>result: 120</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Pogačar, Tadej</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>100</td>
+      <td>result: 100</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Politt, Nils</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Poppel, Danny van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Raccagni, Andrea</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Reinders, Elmar</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Renard, Alexis</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Resell, Erik</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Rex, Laurenz</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>25</td>
+      <td>result: 25</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Rickaert, Jonas</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Riesebeek, Oscar</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Robeet, Ludovic</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Romele, Alessandro</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Roosen, Timo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Rootkin-Gray, Jack</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Russo, Clément</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Rutsch, Jonas</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>50</td>
+      <td>result: 50</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Schwarzmann, Michael</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Scotson, Miles</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Segaert, Alec</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Serrano, Gonzalo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Sheehan, Riley</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Sintmaartensdijk, Roel van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Skerl, Daniel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Soupe, Geoffrey</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Steimle, Jannik</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Stockman, Abram</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Stokbro, Andreas</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Stuyven, Jasper</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Swift, Ben</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Swift, Connor</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Sütterlin, Jasha</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Tarling, Josh</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Teunissen, Mike</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>10</td>
+      <td>result: 10</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Theuns, Edward</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Thierry, Pierre</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Tiller, Rasmus</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Toneatti, Davide</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Torres, Albert</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Touzé, Damien</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Townsend, Rory</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Turgis, Anthony</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Turner, Ben</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Vacek, Mathias</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Veistroffer, Baptiste</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Vermeersch, Florian</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>60</td>
+      <td>result: 60</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Vermeersch, Gianni</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Vermote, Julien</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Vries, Hartthijs de</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Walker, Max</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Walscheid, Max</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Warlop, Jordi</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Watson, Samuel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Wellens, Tim</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Wright, Fred</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>30</td>
+      <td>result: 30</td>
+    </tr>
+    <tr>
+      <td>Paris-Roubaix</td>
+      <td>Wærenskjold, Søren</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
       <td>0</td>
       <td></td>
     </tr>

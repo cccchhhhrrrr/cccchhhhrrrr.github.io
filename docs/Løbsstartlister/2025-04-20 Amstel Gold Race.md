@@ -262,7 +262,7 @@
       <td>Lazkano Oier</td>
       <td>Lazkano Oier</td>
       <td>Abrahamsen Jonas</td>
-      <td class = "startlist">Zingle Axel</td>
+      <td>Zingle Axel</td>
     </tr>
     <tr>
       <th>16</th>
@@ -275,7 +275,7 @@
       <td class = "startlist">Trentin Matteo</td>
       <td>Mihkels Madis</td>
       <td class = "startlist">Adrià Roger</td>
-      <td class = "startlist">Zingle Axel</td>
+      <td>Zingle Axel</td>
       <td>Mihkels Madis</td>
     </tr>
     <tr>
@@ -284,7 +284,7 @@
       <td>Lazkano Oier</td>
       <td>Morgado António</td>
       <td>Torres Pablo</td>
-      <td class = "startlist">Lafay Victor</td>
+      <td>Lafay Victor</td>
       <td>Vermeersch Florian</td>
       <td>Segaert Alec</td>
       <td class = "startlist">Laurance Axel</td>
@@ -299,7 +299,7 @@
       <td>Brennan Matthew</td>
       <td class = "startlist">Laurance Axel</td>
       <td>Penhoët Paul</td>
-      <td>Van Baarle Dylan</td>
+      <td class = "startlist">Van Baarle Dylan</td>
       <td class = "startlist">Teuns Dylan</td>
       <td>Andresen Tobias Lund</td>
       <td class = "startlist">Sheehan Riley</td>
@@ -310,7 +310,7 @@
       <th>19</th>
       <td>20</td>
       <td>Andresen Tobias Lund</td>
-      <td>Uhlig Henri</td>
+      <td class = "startlist">Uhlig Henri</td>
       <td>Andresen Tobias Lund</td>
       <td>Rex Laurenz</td>
       <td>Brennan Matthew</td>
@@ -326,7 +326,7 @@
       <td>Brennan Matthew</td>
       <td>Teutenberg Tim Torn</td>
       <td>Morgado António</td>
-      <td class = "startlist">Louvel Matis</td>
+      <td>Louvel Matis</td>
       <td>Rex Laurenz</td>
       <td>Ulissi Diego</td>
       <td>Fretin Milan</td>
@@ -356,7 +356,7 @@
       <td>Jeannière Emilien</td>
       <td>Frigo Marco</td>
       <td>Wandahl Frederik</td>
-      <td>Naesen Oliver</td>
+      <td class = "startlist">Naesen Oliver</td>
       <td>Staune-Mittet Johannes</td>
       <td>Aleotti Giovanni</td>
       <td>Watson Samuel</td>
@@ -374,7 +374,7 @@
       <td>Seixas Paul</td>
       <td>Rafferty Darren</td>
       <td>Wandahl Frederik</td>
-      <td>Van Baarle Dylan</td>
+      <td class = "startlist">Van Baarle Dylan</td>
     </tr>
     <tr>
       <th>24</th>

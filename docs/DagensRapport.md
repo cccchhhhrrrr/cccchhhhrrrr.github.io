@@ -4,6 +4,30 @@ hide:
   - toc
 ---
 
+## 2025-04-13
+### Hovedspillet
+Poel, Mathieu van der **120** (Jarma)  
+Pogačar, Tadej **100** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
+Pedersen, Mads **85** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
+Aert, Wout van **70** (Chrelle, Jarma, Matti, Okholm, Tommy)  
+Vermeersch, Florian **60** (Kenk, Visti)  
+Rex, Laurenz **25** (Chrelle, Jappo, Jarma, Kenk, Visti)  
+Philipsen, Jasper **20** (Jarma, Knak)  
+Mihkels, Madis **14** (Hustlersen, Matti, Visti)  
+Girmay, Biniam **12** (Jappo, Knak, Matti, Okholm, Visti)  
+Morgado, António **2** (Hustlersen, Jappo, Matti, Visti)  
+
+### Cheapo
+Rutsch, Jonas **50** (Visti)  
+Hoelgaard, Markus **35** (Hustlersen)  
+Haller, Marco **18** (Visti)  
+Dijke, Mick van **8** (Jarma, Kenk, Visti)  
+Jacobs, Johan **5** (Jarma)  
+
+
+
+
+
 ## 2025-04-12
 ### Hovedspillet
 Almeida, João **125** (Chrelle, Kenk)  
@@ -11,14 +35,14 @@ Schachmann, Maximilian **71** (Jarma, Knak)
 Lipowitz, Florian **60** (Okholm)  
 Skjelmose, Mattias **50** (Matti, Tommy)  
 Wilder, Ilan Van **45** (Chrelle)  
-Onley, Oscar **31** (Hustlersen, Okholm)  
+Onley, Oscar **36** (Hustlersen, Okholm)  
 Buitrago, Santiago **16** (Matti)  
 Healy, Ben **16** (Knak)  
 Laurance, Axel **2** (Jappo, Matti, Okholm)  
 
 ### Cheapo
+Champoussin, Clément **28** (Chrelle, Hustlersen, Visti)  
 Jegat, Jordan **24** (Chrelle, Jappo, Knak)  
-Champoussin, Clément **23** (Chrelle, Hustlersen, Visti)  
 
 
 

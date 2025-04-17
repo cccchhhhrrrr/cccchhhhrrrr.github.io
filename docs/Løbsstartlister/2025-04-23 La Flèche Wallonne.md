@@ -262,7 +262,7 @@
       <td>Lazkano Oier</td>
       <td>Lazkano Oier</td>
       <td>Abrahamsen Jonas</td>
-      <td class = "startlist">Zingle Axel</td>
+      <td>Zingle Axel</td>
     </tr>
     <tr>
       <th>16</th>
@@ -275,7 +275,7 @@
       <td>Trentin Matteo</td>
       <td>Mihkels Madis</td>
       <td class = "startlist">Adrià Roger</td>
-      <td class = "startlist">Zingle Axel</td>
+      <td>Zingle Axel</td>
       <td>Mihkels Madis</td>
     </tr>
     <tr>
@@ -338,7 +338,7 @@
       <th>21</th>
       <td>22</td>
       <td>Rex Laurenz</td>
-      <td>Foldager Anders</td>
+      <td class = "startlist">Foldager Anders</td>
       <td>Rex Laurenz</td>
       <td>Pedersen Rasmus Søjberg</td>
       <td>Teutenberg Tim Torn</td>
