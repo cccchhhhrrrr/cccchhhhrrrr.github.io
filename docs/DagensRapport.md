@@ -4,6 +4,25 @@ hide:
   - toc
 ---
 
+## 2025-04-18
+### Hovedspillet
+Aert, Wout van **30** (Chrelle, Jarma, Matti, Okholm, Tommy)  
+Morgado, António **26** (Hustlersen, Jappo, Matti, Visti)  
+Powless, Neilson **12** (Jappo)  
+Del Grosso, Tibor **6** (Jarma)  
+Pidcock, Tom **5** (Chrelle, Jappo, Knak)  
+Strong, Corbin **2** (Knak, Visti)  
+
+### Cheapo
+Silva, Thomas **10** (Jappo, Kenk, Visti)  
+Del Grosso, Tibor **6** (Chrelle, Jappo, Jarma, Kenk)  
+Boven, Luca Van **3** (Jappo, Kenk, Visti)  
+Delettre, Alexandre **1** (Jappo)  
+
+
+
+
+
 ## 2025-04-13
 ### Hovedspillet
 Poel, Mathieu van der **120** (Jarma)  
