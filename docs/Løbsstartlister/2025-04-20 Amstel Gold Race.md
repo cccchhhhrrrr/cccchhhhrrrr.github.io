@@ -155,7 +155,7 @@
     <tr>
       <th>8</th>
       <td>9</td>
-      <td>Van Wilder Ilan</td>
+      <td class = "startlist">Van Wilder Ilan</td>
       <td class = "startlist">Narváez Jhonatan</td>
       <td>Girmay Biniam</td>
       <td>Geoghegan Hart Tao</td>
@@ -314,7 +314,7 @@
       <td>Andresen Tobias Lund</td>
       <td>Rex Laurenz</td>
       <td>Brennan Matthew</td>
-      <td class = "startlist">Mollema Bauke</td>
+      <td>Mollema Bauke</td>
       <td>Morgado António</td>
       <td class = "startlist">Laurance Axel</td>
       <td>Andresen Tobias Lund</td>

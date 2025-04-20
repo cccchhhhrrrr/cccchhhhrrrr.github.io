@@ -4,6 +4,26 @@ hide:
   - toc
 ---
 
+## 2025-04-20
+### Hovedspillet
+Skjelmose, Mattias **120** (Matti, Tommy)  
+Pogačar, Tadej **100** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
+Aert, Wout van **70** (Chrelle, Jarma, Matti, Okholm, Tommy)  
+Grégoire, Romain **40** (Chrelle, Jarma, Knak)  
+Pidcock, Tom **30** (Chrelle, Jappo, Knak)  
+Healy, Ben **25** (Knak)  
+Nys, Thibau **18** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Tommy, Visti)  
+Powless, Neilson **16** (Jappo)  
+Schmid, Mauro **12** (Jarma, Visti)  
+
+### Cheapo
+Barré, Louis **50** (Chrelle, Knak)  
+Delettre, Alexandre **3** (Jappo)  
+
+
+
+
+
 ## 2025-04-18
 ### Hovedspillet
 Aert, Wout van **30** (Chrelle, Jarma, Matti, Okholm, Tommy)  

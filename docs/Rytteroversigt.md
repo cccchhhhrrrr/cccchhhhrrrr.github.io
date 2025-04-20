@@ -109,7 +109,7 @@ hide:
       <td>Glivar, Gal</td>
       <td>Alpecin - Deceuninck</td>
       <td>1.6</td>
-      <td>24</td>
+      <td>25</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -149,7 +149,7 @@ hide:
       <td>Pacher, Quentin</td>
       <td>Groupama - FDJ</td>
       <td>3.6</td>
-      <td>16</td>
+      <td>17</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -189,7 +189,7 @@ hide:
       <td>Maas, Jan</td>
       <td>Cofidis</td>
       <td>1.0</td>
-      <td>27</td>
+      <td>28</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -249,10 +249,10 @@ hide:
       <td>Hatherly, Alan</td>
       <td>Team Jayco AlUla</td>
       <td>3.8</td>
-      <td>17</td>
+      <td>18</td>
       <td>42</td>
       <td>11.1</td>
-      <td>2.5</td>
+      <td>2.3</td>
       <td></td>
     </tr>
     <tr>
@@ -329,7 +329,7 @@ hide:
       <td>Leijnse, Enzo</td>
       <td>Team Picnic PostNL</td>
       <td>1.0</td>
-      <td>27</td>
+      <td>28</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -359,7 +359,7 @@ hide:
       <td>Jungels, Bob</td>
       <td>INEOS Grenadiers</td>
       <td>1.8</td>
-      <td>16</td>
+      <td>17</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -409,7 +409,7 @@ hide:
       <td>Riesebeek, Oscar</td>
       <td>Alpecin - Deceuninck</td>
       <td>1.1</td>
-      <td>15</td>
+      <td>16</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -469,10 +469,10 @@ hide:
       <td>Kamp, Alexander</td>
       <td>Intermarché - Wanty</td>
       <td>2.5</td>
-      <td>15</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>16</td>
+      <td>8</td>
+      <td>3.2</td>
+      <td>0.5</td>
       <td></td>
     </tr>
     <tr>
@@ -629,10 +629,10 @@ hide:
       <td>Foss, Tobias</td>
       <td>INEOS Grenadiers</td>
       <td>5.0</td>
-      <td>15</td>
+      <td>16</td>
       <td>37</td>
       <td>7.4</td>
-      <td>2.5</td>
+      <td>2.3</td>
       <td></td>
     </tr>
     <tr>
@@ -679,10 +679,10 @@ hide:
       <td>Fredheim, Stian</td>
       <td>Uno-X Mobility</td>
       <td>2.3</td>
-      <td>9</td>
+      <td>10</td>
       <td>19</td>
       <td>8.3</td>
-      <td>2.1</td>
+      <td>1.9</td>
       <td></td>
     </tr>
     <tr>
@@ -699,7 +699,7 @@ hide:
       <td>Barguil, Warren</td>
       <td>Team Picnic PostNL</td>
       <td>4.9</td>
-      <td>20</td>
+      <td>21</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -919,7 +919,7 @@ hide:
       <td>Wilksch, Hannes</td>
       <td>Tudor Pro Cycling Team</td>
       <td>1.0</td>
-      <td>24</td>
+      <td>25</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -939,7 +939,7 @@ hide:
       <td>Novak, Domen</td>
       <td>UAE Emirates XRG</td>
       <td>1.0</td>
-      <td>23</td>
+      <td>24</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1039,7 +1039,7 @@ hide:
       <td>Guglielmi, Simon</td>
       <td>Arkéa - BnB Hotels</td>
       <td>1.3</td>
-      <td>11</td>
+      <td>12</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1109,10 +1109,10 @@ hide:
       <td>Burgaudeau, Mathieu</td>
       <td>TotalEnergies</td>
       <td>3.7</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.5</td>
-      <td>0.2</td>
+      <td>11</td>
+      <td>4</td>
+      <td>1.1</td>
+      <td>0.4</td>
       <td></td>
     </tr>
     <tr>
@@ -1129,7 +1129,7 @@ hide:
       <td>Vadic, Baptiste</td>
       <td>TotalEnergies</td>
       <td>1.0</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1269,10 +1269,10 @@ hide:
       <td>Benoot, Tiesj</td>
       <td>Team Visma - Lease a Bike</td>
       <td>9.5</td>
-      <td>12</td>
-      <td>103</td>
-      <td>10.8</td>
-      <td>8.6</td>
+      <td>13</td>
+      <td>138</td>
+      <td>14.5</td>
+      <td>10.6</td>
       <td></td>
     </tr>
     <tr>
@@ -1299,7 +1299,7 @@ hide:
       <td>Meurisse, Xandro</td>
       <td>Alpecin - Deceuninck</td>
       <td>1.6</td>
-      <td>19</td>
+      <td>20</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1309,10 +1309,10 @@ hide:
       <td>Livyns, Arjen</td>
       <td>Lotto</td>
       <td>2.9</td>
-      <td>15</td>
+      <td>16</td>
       <td>30</td>
       <td>10.3</td>
-      <td>2.0</td>
+      <td>1.9</td>
       <td></td>
     </tr>
     <tr>
@@ -1339,10 +1339,10 @@ hide:
       <td>Alaphilippe, Julian</td>
       <td>Tudor Pro Cycling Team</td>
       <td>13.7</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.2</td>
-      <td>0.2</td>
+      <td>20</td>
+      <td>9</td>
+      <td>0.7</td>
+      <td>0.5</td>
       <td></td>
     </tr>
     <tr>
@@ -1439,7 +1439,7 @@ hide:
       <td>Geniets, Kévin</td>
       <td>Groupama - FDJ</td>
       <td>1.4</td>
-      <td>9</td>
+      <td>10</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1569,7 +1569,7 @@ hide:
       <td>Bonneu, Kamiel</td>
       <td>Intermarché - Wanty</td>
       <td>1.1</td>
-      <td>16</td>
+      <td>17</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1619,10 +1619,10 @@ hide:
       <td>Simmons, Quinn</td>
       <td>Lidl - Trek</td>
       <td>4.0</td>
-      <td>14</td>
+      <td>15</td>
       <td>25</td>
       <td>6.3</td>
-      <td>1.8</td>
+      <td>1.7</td>
       <td></td>
     </tr>
     <tr>
@@ -1739,7 +1739,7 @@ hide:
       <td>Sweeny, Harry</td>
       <td>EF Education - EasyPost</td>
       <td>1.5</td>
-      <td>14</td>
+      <td>15</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1769,7 +1769,7 @@ hide:
       <td>Vandenabeele, Henri</td>
       <td>Lotto</td>
       <td>1.1</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1836,6 +1836,16 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Loockx, Lander</td>
+      <td>Unibet Tietema Rockets</td>
+      <td>1.2</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Tesson, Jason</td>
       <td>TotalEnergies</td>
       <td>2.0</td>
@@ -1849,10 +1859,10 @@ hide:
       <td>Evenepoel, Remco</td>
       <td>Soudal - Quick-Step</td>
       <td>40.5</td>
-      <td>1</td>
-      <td>35</td>
-      <td>0.9</td>
-      <td>35.0</td>
+      <td>2</td>
+      <td>120</td>
+      <td>3.0</td>
+      <td>60.0</td>
       <td></td>
     </tr>
     <tr>
@@ -1936,16 +1946,6 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Loockx, Lander</td>
-      <td>Unibet Tietema Rockets</td>
-      <td>1.2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Cruz, Edward</td>
       <td>VF Group - Bardiani CSF - Faizanè</td>
       <td>1.0</td>
@@ -1969,7 +1969,7 @@ hide:
       <td>Tesfatsion, Natnael</td>
       <td>Movistar Team</td>
       <td>3.1</td>
-      <td>16</td>
+      <td>17</td>
       <td>8</td>
       <td>2.6</td>
       <td>0.5</td>
@@ -1999,20 +1999,20 @@ hide:
       <td>Konrad, Patrick</td>
       <td>Lidl - Trek</td>
       <td>3.2</td>
-      <td>21</td>
+      <td>22</td>
       <td>75</td>
       <td>23.4</td>
-      <td>3.6</td>
+      <td>3.4</td>
       <td></td>
     </tr>
     <tr>
       <td>Tronchon, Bastien</td>
       <td>Decathlon AG2R La Mondiale</td>
       <td>1.1</td>
-      <td>14</td>
+      <td>15</td>
       <td>76</td>
       <td>69.1</td>
-      <td>5.4</td>
+      <td>5.1</td>
       <td></td>
     </tr>
     <tr>
@@ -2029,7 +2029,7 @@ hide:
       <td>Eenkhoorn, Pascal</td>
       <td>Soudal - Quick-Step</td>
       <td>1.4</td>
-      <td>18</td>
+      <td>19</td>
       <td>1</td>
       <td>0.7</td>
       <td>0.1</td>
@@ -2059,7 +2059,7 @@ hide:
       <td>Labrosse, Jordan</td>
       <td>Decathlon AG2R La Mondiale</td>
       <td>1.2</td>
-      <td>15</td>
+      <td>16</td>
       <td>9</td>
       <td>7.5</td>
       <td>0.6</td>
@@ -2109,7 +2109,7 @@ hide:
       <td>Paasschens, Mathijs</td>
       <td>Bahrain Victorious</td>
       <td>1.0</td>
-      <td>13</td>
+      <td>14</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -2139,7 +2139,7 @@ hide:
       <td>Schelling, Ide</td>
       <td>XDS Astana Team</td>
       <td>3.2</td>
-      <td>30</td>
+      <td>31</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -2149,7 +2149,7 @@ hide:
       <td>Stannard, Robert</td>
       <td>Bahrain Victorious</td>
       <td>3.4</td>
-      <td>26</td>
+      <td>27</td>
       <td>1</td>
       <td>0.3</td>
       <td>0.0</td>
@@ -2239,20 +2239,20 @@ hide:
       <td>Dversnes, Fredrik</td>
       <td>Uno-X Mobility</td>
       <td>1.0</td>
-      <td>21</td>
+      <td>22</td>
       <td>78</td>
       <td>78.0</td>
-      <td>3.7</td>
+      <td>3.5</td>
       <td></td>
     </tr>
     <tr>
       <td>Holter, Ådne</td>
       <td>Uno-X Mobility</td>
       <td>1.0</td>
-      <td>20</td>
+      <td>21</td>
       <td>30</td>
       <td>30.0</td>
-      <td>1.5</td>
+      <td>1.4</td>
       <td></td>
     </tr>
     <tr>
@@ -2399,7 +2399,7 @@ hide:
       <td>Zana, Filippo</td>
       <td>Team Jayco AlUla</td>
       <td>5.7</td>
-      <td>14</td>
+      <td>15</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -2439,7 +2439,7 @@ hide:
       <td>Oliveira, Nelson</td>
       <td>Movistar Team</td>
       <td>2.5</td>
-      <td>16</td>
+      <td>17</td>
       <td>1</td>
       <td>0.4</td>
       <td>0.1</td>
@@ -2469,10 +2469,10 @@ hide:
       <td>Lutsenko, Alexey</td>
       <td>Israel - Premier Tech</td>
       <td>5.5</td>
-      <td>12</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>13</td>
+      <td>9</td>
+      <td>1.6</td>
+      <td>0.7</td>
       <td></td>
     </tr>
     <tr>
@@ -2639,7 +2639,7 @@ hide:
       <td>Azparren, Xabier</td>
       <td>Q36.5 Pro Cycling Team</td>
       <td>1.0</td>
-      <td>16</td>
+      <td>17</td>
       <td>6</td>
       <td>6.0</td>
       <td>0.4</td>
@@ -2659,10 +2659,10 @@ hide:
       <td>McNulty, Brandon</td>
       <td>UAE Emirates XRG</td>
       <td>16.7</td>
-      <td>18</td>
-      <td>47</td>
-      <td>2.8</td>
-      <td>2.6</td>
+      <td>19</td>
+      <td>67</td>
+      <td>4.0</td>
+      <td>3.5</td>
       <td></td>
     </tr>
     <tr>
@@ -2779,10 +2779,10 @@ hide:
       <td>Vansevenant, Mauri</td>
       <td>Soudal - Quick-Step</td>
       <td>8.4</td>
-      <td>17</td>
+      <td>18</td>
       <td>15</td>
       <td>1.8</td>
-      <td>0.9</td>
+      <td>0.8</td>
       <td></td>
     </tr>
     <tr>
@@ -2869,10 +2869,10 @@ hide:
       <td>Turgis, Anthony</td>
       <td>TotalEnergies</td>
       <td>3.5</td>
-      <td>18</td>
+      <td>19</td>
       <td>14</td>
       <td>4.0</td>
-      <td>0.8</td>
+      <td>0.7</td>
       <td></td>
     </tr>
     <tr>
@@ -2929,20 +2929,20 @@ hide:
       <td>Velasco, Simone</td>
       <td>XDS Astana Team</td>
       <td>2.8</td>
-      <td>18</td>
+      <td>19</td>
       <td>96</td>
       <td>34.3</td>
-      <td>5.3</td>
+      <td>5.1</td>
       <td></td>
     </tr>
     <tr>
       <td>Boven, Luca Van</td>
       <td>Intermarché - Wanty</td>
       <td>1.0</td>
-      <td>11</td>
+      <td>12</td>
       <td>24</td>
       <td>24.0</td>
-      <td>2.2</td>
+      <td>2.0</td>
       <td></td>
     </tr>
     <tr>
@@ -3109,7 +3109,7 @@ hide:
       <td>Gregaard, Jonas</td>
       <td>Lotto</td>
       <td>1.4</td>
-      <td>16</td>
+      <td>17</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -3189,7 +3189,7 @@ hide:
       <td>Sande, Tosh Van der</td>
       <td>Team Visma - Lease a Bike</td>
       <td>1.1</td>
-      <td>16</td>
+      <td>17</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -3219,7 +3219,7 @@ hide:
       <td>Raisberg, Nadav</td>
       <td>Israel - Premier Tech</td>
       <td>1.0</td>
-      <td>19</td>
+      <td>20</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -3259,7 +3259,7 @@ hide:
       <td>Bloem, Joren</td>
       <td>Unibet Tietema Rockets</td>
       <td>1.0</td>
-      <td>9</td>
+      <td>10</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -3379,7 +3379,7 @@ hide:
       <td>Kopecký, Tomáš</td>
       <td>Unibet Tietema Rockets</td>
       <td>1.1</td>
-      <td>10</td>
+      <td>11</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -3389,7 +3389,7 @@ hide:
       <td>Barthe, Cyril</td>
       <td>Groupama - FDJ</td>
       <td>1.1</td>
-      <td>9</td>
+      <td>10</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -3399,7 +3399,7 @@ hide:
       <td>Johannink, Jelle</td>
       <td>Unibet Tietema Rockets</td>
       <td>1.0</td>
-      <td>8</td>
+      <td>9</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -3419,27 +3419,27 @@ hide:
       <td>Kubiš, Lukáš</td>
       <td>Unibet Tietema Rockets</td>
       <td>1.3</td>
-      <td>9</td>
+      <td>10</td>
       <td>97</td>
       <td>74.6</td>
-      <td>10.8</td>
+      <td>9.7</td>
       <td></td>
     </tr>
     <tr>
       <td>Pestel, Sander De</td>
       <td>Decathlon AG2R La Mondiale</td>
       <td>1.0</td>
-      <td>16</td>
+      <td>17</td>
       <td>16</td>
       <td>16.0</td>
-      <td>1.0</td>
+      <td>0.9</td>
       <td></td>
     </tr>
     <tr>
       <td>Robeet, Ludovic</td>
       <td>Cofidis</td>
       <td>1.0</td>
-      <td>11</td>
+      <td>12</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -3519,7 +3519,7 @@ hide:
       <td>Leknessund, Andreas</td>
       <td>Uno-X Mobility</td>
       <td>3.8</td>
-      <td>13</td>
+      <td>14</td>
       <td>5</td>
       <td>1.3</td>
       <td>0.4</td>
@@ -3539,7 +3539,7 @@ hide:
       <td>Koch, Jonas</td>
       <td>Red Bull - BORA - hansgrohe</td>
       <td>1.2</td>
-      <td>12</td>
+      <td>13</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -3579,7 +3579,7 @@ hide:
       <td>Rota, Lorenzo</td>
       <td>Intermarché - Wanty</td>
       <td>3.2</td>
-      <td>12</td>
+      <td>13</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -3589,7 +3589,7 @@ hide:
       <td>Shmidt, Artem</td>
       <td>INEOS Grenadiers</td>
       <td>1.0</td>
-      <td>8</td>
+      <td>9</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -3599,7 +3599,7 @@ hide:
       <td>Combaud, Romain</td>
       <td>Team Picnic PostNL</td>
       <td>1.0</td>
-      <td>21</td>
+      <td>22</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -3639,10 +3639,10 @@ hide:
       <td>Mayrhofer, Marius</td>
       <td>Tudor Pro Cycling Team</td>
       <td>4.9</td>
-      <td>8</td>
+      <td>9</td>
       <td>7</td>
       <td>1.4</td>
-      <td>0.9</td>
+      <td>0.8</td>
       <td></td>
     </tr>
     <tr>
@@ -3869,10 +3869,10 @@ hide:
       <td>Matthews, Michael</td>
       <td>Team Jayco AlUla</td>
       <td>12.2</td>
-      <td>11</td>
-      <td>86</td>
-      <td>7.0</td>
-      <td>7.8</td>
+      <td>12</td>
+      <td>146</td>
+      <td>12.0</td>
+      <td>12.2</td>
       <td></td>
     </tr>
     <tr>
@@ -3899,10 +3899,10 @@ hide:
       <td>Vauquelin, Kévin</td>
       <td>Arkéa - BnB Hotels</td>
       <td>10.1</td>
-      <td>10</td>
+      <td>11</td>
       <td>28</td>
       <td>2.8</td>
-      <td>2.8</td>
+      <td>2.5</td>
       <td></td>
     </tr>
     <tr>
@@ -4046,6 +4046,186 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Nerurkar, Lukas</td>
+      <td>EF Education - EasyPost</td>
+      <td>5.5</td>
+      <td>8</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>Hustlersen, Jarma</td>
+    </tr>
+    <tr>
+      <td>Plapp, Luke</td>
+      <td>Team Jayco AlUla</td>
+      <td>9.1</td>
+      <td>6</td>
+      <td>61</td>
+      <td>6.7</td>
+      <td>10.2</td>
+      <td>Chrelle, Hustlersen</td>
+    </tr>
+    <tr>
+      <td>Brennan, Matthew</td>
+      <td>Team Visma - Lease a Bike</td>
+      <td>2.9</td>
+      <td>14</td>
+      <td>90</td>
+      <td>31.0</td>
+      <td>6.4</td>
+      <td>Chrelle, Hustlersen, Kenk</td>
+    </tr>
+    <tr>
+      <td>Welsford, Sam</td>
+      <td>Red Bull - BORA - hansgrohe</td>
+      <td>6.4</td>
+      <td>18</td>
+      <td>107</td>
+      <td>16.7</td>
+      <td>5.9</td>
+      <td>Chrelle, Hustlersen, Tommy</td>
+    </tr>
+    <tr>
+      <td>Hayter, Ethan</td>
+      <td>Soudal - Quick-Step</td>
+      <td>9.4</td>
+      <td>19</td>
+      <td>14</td>
+      <td>1.5</td>
+      <td>0.7</td>
+      <td>Chrelle, Jappo</td>
+    </tr>
+    <tr>
+      <td>Louvel, Matîs</td>
+      <td>Israel - Premier Tech</td>
+      <td>2.3</td>
+      <td>9</td>
+      <td>4</td>
+      <td>1.7</td>
+      <td>0.4</td>
+      <td>Jarma</td>
+    </tr>
+    <tr>
+      <td>Pogačar, Tadej</td>
+      <td>UAE Emirates XRG</td>
+      <td>60.0</td>
+      <td>12</td>
+      <td>694</td>
+      <td>11.6</td>
+      <td>57.8</td>
+      <td>Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti</td>
+    </tr>
+    <tr>
+      <td>Gils, Maxim Van</td>
+      <td>Red Bull - BORA - hansgrohe</td>
+      <td>19.9</td>
+      <td>14</td>
+      <td>82</td>
+      <td>4.1</td>
+      <td>5.9</td>
+      <td>Kenk, Matti</td>
+    </tr>
+    <tr>
+      <td>Morgado, António</td>
+      <td>UAE Emirates XRG</td>
+      <td>4.1</td>
+      <td>12</td>
+      <td>44</td>
+      <td>10.7</td>
+      <td>3.7</td>
+      <td>Hustlersen, Jappo, Matti, Visti</td>
+    </tr>
+    <tr>
+      <td>Lazkano, Oier</td>
+      <td>Red Bull - BORA - hansgrohe</td>
+      <td>7.7</td>
+      <td>12</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>Chrelle, Matti, Okholm</td>
+    </tr>
+    <tr>
+      <td>Girmay, Biniam</td>
+      <td>Intermarché - Wanty</td>
+      <td>16.0</td>
+      <td>11</td>
+      <td>74</td>
+      <td>4.6</td>
+      <td>6.7</td>
+      <td>Jappo, Knak, Matti, Okholm, Visti</td>
+    </tr>
+    <tr>
+      <td>Poole, Max</td>
+      <td>Team Picnic PostNL</td>
+      <td>8.7</td>
+      <td>6</td>
+      <td>6</td>
+      <td>0.7</td>
+      <td>1.0</td>
+      <td>Chrelle, Jarma</td>
+    </tr>
+    <tr>
+      <td>Lie, Arnaud De</td>
+      <td>Lotto</td>
+      <td>17.9</td>
+      <td>11</td>
+      <td>42</td>
+      <td>2.3</td>
+      <td>3.8</td>
+      <td>Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti</td>
+    </tr>
+    <tr>
+      <td>Del Grosso, Tibor</td>
+      <td>Alpecin - Deceuninck</td>
+      <td>1.6</td>
+      <td>16</td>
+      <td>74</td>
+      <td>46.3</td>
+      <td>4.6</td>
+      <td>Jarma</td>
+    </tr>
+    <tr>
+      <td>Pellizzari, Giulio</td>
+      <td>Red Bull - BORA - hansgrohe</td>
+      <td>6.8</td>
+      <td>7</td>
+      <td>13</td>
+      <td>1.9</td>
+      <td>1.9</td>
+      <td>Tommy</td>
+    </tr>
+    <tr>
+      <td>Nys, Thibau</td>
+      <td>Lidl - Trek</td>
+      <td>9.9</td>
+      <td>8</td>
+      <td>53</td>
+      <td>5.4</td>
+      <td>6.6</td>
+      <td>Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Tommy, Visti</td>
+    </tr>
+    <tr>
+      <td>Staune-Mittet, Johannes</td>
+      <td>Decathlon AG2R La Mondiale</td>
+      <td>2.3</td>
+      <td>19</td>
+      <td>26</td>
+      <td>11.3</td>
+      <td>1.4</td>
+      <td>Chrelle, Matti</td>
+    </tr>
+    <tr>
+      <td>Onley, Oscar</td>
+      <td>Team Picnic PostNL</td>
+      <td>14.7</td>
+      <td>21</td>
+      <td>234</td>
+      <td>15.9</td>
+      <td>11.1</td>
+      <td>Hustlersen, Okholm</td>
+    </tr>
+    <tr>
       <td>Marit, Arne</td>
       <td>Intermarché - Wanty</td>
       <td>2.5</td>
@@ -4139,7 +4319,7 @@ hide:
       <td>Isidore, Noa</td>
       <td>Decathlon AG2R La Mondiale</td>
       <td>1.6</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -4229,7 +4409,7 @@ hide:
       <td>Clarke, Simon</td>
       <td>Israel - Premier Tech</td>
       <td>2.4</td>
-      <td>17</td>
+      <td>18</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -4249,10 +4429,10 @@ hide:
       <td>Godon, Dorian</td>
       <td>Decathlon AG2R La Mondiale</td>
       <td>6.4</td>
-      <td>23</td>
+      <td>24</td>
       <td>77</td>
       <td>12.0</td>
-      <td>3.3</td>
+      <td>3.2</td>
       <td></td>
     </tr>
     <tr>
@@ -4389,7 +4569,7 @@ hide:
       <td>Liepiņš, Emīls</td>
       <td>Q36.5 Pro Cycling Team</td>
       <td>1.9</td>
-      <td>16</td>
+      <td>17</td>
       <td>2</td>
       <td>1.1</td>
       <td>0.1</td>
@@ -4499,10 +4679,10 @@ hide:
       <td>Grossschartner, Felix</td>
       <td>UAE Emirates XRG</td>
       <td>4.3</td>
-      <td>24</td>
+      <td>25</td>
       <td>16</td>
       <td>3.7</td>
-      <td>0.7</td>
+      <td>0.6</td>
       <td></td>
     </tr>
     <tr>
@@ -4549,7 +4729,7 @@ hide:
       <td>Zambanini, Edoardo</td>
       <td>Bahrain Victorious</td>
       <td>7.3</td>
-      <td>13</td>
+      <td>14</td>
       <td>8</td>
       <td>1.1</td>
       <td>0.6</td>
@@ -4559,10 +4739,10 @@ hide:
       <td>Blackmore, Joe</td>
       <td>Israel - Premier Tech</td>
       <td>7.4</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.1</td>
-      <td>0.1</td>
+      <td>11</td>
+      <td>15</td>
+      <td>2.0</td>
+      <td>1.4</td>
       <td></td>
     </tr>
     <tr>
@@ -4599,7 +4779,7 @@ hide:
       <td>Donovan, Mark</td>
       <td>Q36.5 Pro Cycling Team</td>
       <td>1.9</td>
-      <td>13</td>
+      <td>14</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -4609,7 +4789,7 @@ hide:
       <td>Vader, Milan</td>
       <td>Q36.5 Pro Cycling Team</td>
       <td>3.7</td>
-      <td>8</td>
+      <td>9</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -4739,7 +4919,7 @@ hide:
       <td>Pooter, Dries De</td>
       <td>Intermarché - Wanty</td>
       <td>1.1</td>
-      <td>15</td>
+      <td>16</td>
       <td>1</td>
       <td>0.9</td>
       <td>0.1</td>
@@ -4749,7 +4929,7 @@ hide:
       <td>Mühlberger, Gregor</td>
       <td>Movistar Team</td>
       <td>2.0</td>
-      <td>25</td>
+      <td>26</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -4759,7 +4939,7 @@ hide:
       <td>Schultz, Nick</td>
       <td>Israel - Premier Tech</td>
       <td>2.5</td>
-      <td>15</td>
+      <td>16</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -4839,10 +5019,10 @@ hide:
       <td>Vermeersch, Gianni</td>
       <td>Alpecin - Deceuninck</td>
       <td>3.0</td>
-      <td>17</td>
+      <td>18</td>
       <td>57</td>
       <td>19.0</td>
-      <td>3.4</td>
+      <td>3.2</td>
       <td></td>
     </tr>
     <tr>
@@ -4869,7 +5049,7 @@ hide:
       <td>Buratti, Nicolò</td>
       <td>Bahrain Victorious</td>
       <td>1.1</td>
-      <td>23</td>
+      <td>24</td>
       <td>3</td>
       <td>2.7</td>
       <td>0.1</td>
@@ -4919,7 +5099,7 @@ hide:
       <td>Flynn, Sean</td>
       <td>Team Picnic PostNL</td>
       <td>1.5</td>
-      <td>19</td>
+      <td>20</td>
       <td>10</td>
       <td>6.7</td>
       <td>0.5</td>
@@ -4959,10 +5139,10 @@ hide:
       <td>Vervaeke, Louis</td>
       <td>Soudal - Quick-Step</td>
       <td>1.2</td>
-      <td>14</td>
+      <td>15</td>
       <td>15</td>
       <td>12.5</td>
-      <td>1.1</td>
+      <td>1.0</td>
       <td></td>
     </tr>
     <tr>
@@ -4979,17 +5159,17 @@ hide:
       <td>Madouas, Valentin</td>
       <td>Groupama - FDJ</td>
       <td>9.2</td>
-      <td>17</td>
-      <td>13</td>
-      <td>1.4</td>
-      <td>0.8</td>
+      <td>18</td>
+      <td>20</td>
+      <td>2.2</td>
+      <td>1.1</td>
       <td></td>
     </tr>
     <tr>
       <td>Wirtgen, Luc</td>
       <td>Tudor Pro Cycling Team</td>
       <td>1.0</td>
-      <td>11</td>
+      <td>12</td>
       <td>6</td>
       <td>6.0</td>
       <td>0.5</td>
@@ -5129,10 +5309,10 @@ hide:
       <td>Langellotti, Victor</td>
       <td>INEOS Grenadiers</td>
       <td>1.6</td>
-      <td>12</td>
+      <td>13</td>
       <td>3</td>
       <td>1.9</td>
-      <td>0.3</td>
+      <td>0.2</td>
       <td></td>
     </tr>
     <tr>
@@ -5159,7 +5339,7 @@ hide:
       <td>Reinderink, Pepijn</td>
       <td>Soudal - Quick-Step</td>
       <td>1.0</td>
-      <td>19</td>
+      <td>20</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -5209,7 +5389,7 @@ hide:
       <td>Currie, Logan</td>
       <td>Lotto</td>
       <td>1.0</td>
-      <td>15</td>
+      <td>16</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -5309,7 +5489,7 @@ hide:
       <td>Ferron, Valentin</td>
       <td>Cofidis</td>
       <td>1.1</td>
-      <td>12</td>
+      <td>13</td>
       <td>10</td>
       <td>9.1</td>
       <td>0.8</td>
@@ -5319,7 +5499,7 @@ hide:
       <td>Vries, Hartthijs de</td>
       <td>Unibet Tietema Rockets</td>
       <td>1.1</td>
-      <td>9</td>
+      <td>10</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -5329,7 +5509,7 @@ hide:
       <td>Touzé, Damien</td>
       <td>Cofidis</td>
       <td>2.1</td>
-      <td>10</td>
+      <td>11</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -5339,7 +5519,7 @@ hide:
       <td>Le Berre, Mathis</td>
       <td>Arkéa - BnB Hotels</td>
       <td>1.5</td>
-      <td>19</td>
+      <td>20</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -5369,7 +5549,7 @@ hide:
       <td>Dujardin, Sandy</td>
       <td>TotalEnergies</td>
       <td>1.5</td>
-      <td>8</td>
+      <td>9</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -5379,7 +5559,7 @@ hide:
       <td>Huys, Laurens</td>
       <td>Arkéa - BnB Hotels</td>
       <td>1.1</td>
-      <td>5</td>
+      <td>6</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -5399,17 +5579,17 @@ hide:
       <td>Skujins, Toms</td>
       <td>Lidl - Trek</td>
       <td>9.0</td>
-      <td>17</td>
+      <td>18</td>
       <td>32</td>
       <td>3.6</td>
-      <td>1.9</td>
+      <td>1.8</td>
       <td></td>
     </tr>
     <tr>
       <td>Battistella, Samuele</td>
       <td>EF Education - EasyPost</td>
       <td>3.0</td>
-      <td>20</td>
+      <td>21</td>
       <td>6</td>
       <td>2.0</td>
       <td>0.3</td>
@@ -5469,7 +5649,7 @@ hide:
       <td>Blume Levy, William</td>
       <td>Uno-X Mobility</td>
       <td>1.0</td>
-      <td>20</td>
+      <td>21</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -5499,7 +5679,7 @@ hide:
       <td>Serrano, Gonzalo</td>
       <td>Movistar Team</td>
       <td>2.3</td>
-      <td>9</td>
+      <td>10</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -5679,7 +5859,7 @@ hide:
       <td>Hajek, Alexander</td>
       <td>Red Bull - BORA - hansgrohe</td>
       <td>1.1</td>
-      <td>19</td>
+      <td>20</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -5689,10 +5869,10 @@ hide:
       <td>Dijke, Mick van</td>
       <td>Red Bull - BORA - hansgrohe</td>
       <td>2.0</td>
-      <td>15</td>
+      <td>16</td>
       <td>22</td>
       <td>11.0</td>
-      <td>1.5</td>
+      <td>1.4</td>
       <td></td>
     </tr>
     <tr>
@@ -5729,7 +5909,7 @@ hide:
       <td>Resell, Erik</td>
       <td>Uno-X Mobility</td>
       <td>1.0</td>
-      <td>10</td>
+      <td>11</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -5819,7 +5999,7 @@ hide:
       <td>Delaplace, Anthony</td>
       <td>Arkéa - BnB Hotels</td>
       <td>1.0</td>
-      <td>15</td>
+      <td>16</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -5829,17 +6009,17 @@ hide:
       <td>Aranburu, Alex</td>
       <td>Cofidis</td>
       <td>8.8</td>
-      <td>17</td>
+      <td>18</td>
       <td>175</td>
       <td>19.9</td>
-      <td>10.3</td>
+      <td>9.7</td>
       <td></td>
     </tr>
     <tr>
       <td>Vergaerde, Otto</td>
       <td>Lidl - Trek</td>
       <td>1.0</td>
-      <td>15</td>
+      <td>16</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -5849,10 +6029,10 @@ hide:
       <td>Christen, Fabio</td>
       <td>Q36.5 Pro Cycling Team</td>
       <td>3.6</td>
-      <td>10</td>
+      <td>11</td>
       <td>14</td>
       <td>3.9</td>
-      <td>1.4</td>
+      <td>1.3</td>
       <td></td>
     </tr>
     <tr>
@@ -5869,7 +6049,7 @@ hide:
       <td>Verstrynge, Emiel</td>
       <td>Alpecin - Deceuninck</td>
       <td>1.0</td>
-      <td>8</td>
+      <td>9</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -5879,10 +6059,10 @@ hide:
       <td>Albanese, Vincenzo</td>
       <td>EF Education - EasyPost</td>
       <td>5.9</td>
-      <td>14</td>
+      <td>15</td>
       <td>26</td>
       <td>4.4</td>
-      <td>1.9</td>
+      <td>1.7</td>
       <td></td>
     </tr>
     <tr>
@@ -5909,20 +6089,20 @@ hide:
       <td>Formolo, Davide</td>
       <td>Movistar Team</td>
       <td>3.2</td>
-      <td>9</td>
+      <td>10</td>
       <td>14</td>
       <td>4.4</td>
-      <td>1.6</td>
+      <td>1.4</td>
       <td></td>
     </tr>
     <tr>
       <td>Valter, Attila</td>
       <td>Team Visma - Lease a Bike</td>
       <td>5.8</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.7</td>
-      <td>0.3</td>
+      <td>16</td>
+      <td>8</td>
+      <td>1.4</td>
+      <td>0.5</td>
       <td></td>
     </tr>
     <tr>
@@ -5999,10 +6179,10 @@ hide:
       <td>Baudin, Alex</td>
       <td>EF Education - EasyPost</td>
       <td>8.6</td>
-      <td>8</td>
+      <td>9</td>
       <td>8</td>
       <td>0.9</td>
-      <td>1.0</td>
+      <td>0.9</td>
       <td></td>
     </tr>
     <tr>
@@ -6176,10 +6356,350 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Sheffield, Magnus</td>
+      <td>INEOS Grenadiers</td>
+      <td>11.0</td>
+      <td>18</td>
+      <td>196</td>
+      <td>17.8</td>
+      <td>10.9</td>
+      <td>Okholm</td>
+    </tr>
+    <tr>
+      <td>Fisher-Black, Finn</td>
+      <td>Red Bull - BORA - hansgrohe</td>
+      <td>7.8</td>
+      <td>22</td>
+      <td>202</td>
+      <td>25.9</td>
+      <td>9.2</td>
+      <td>Chrelle, Jappo</td>
+    </tr>
+    <tr>
+      <td>Baarle, Dylan van</td>
+      <td>Team Visma - Lease a Bike</td>
+      <td>3.8</td>
+      <td>14</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>Kenk, Visti</td>
+    </tr>
+    <tr>
+      <td>Strong, Corbin</td>
+      <td>Israel - Premier Tech</td>
+      <td>8.5</td>
+      <td>18</td>
+      <td>104</td>
+      <td>12.2</td>
+      <td>5.8</td>
+      <td>Knak, Visti</td>
+    </tr>
+    <tr>
+      <td>Andresen, Tobias Lund</td>
+      <td>Team Picnic PostNL</td>
+      <td>4.4</td>
+      <td>23</td>
+      <td>54</td>
+      <td>12.3</td>
+      <td>2.3</td>
+      <td>Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti</td>
+    </tr>
+    <tr>
+      <td>Pidcock, Tom</td>
+      <td>Q36.5 Pro Cycling Team</td>
+      <td>18.0</td>
+      <td>22</td>
+      <td>378</td>
+      <td>21.0</td>
+      <td>17.2</td>
+      <td>Chrelle, Jappo, Knak</td>
+    </tr>
+    <tr>
+      <td>Martinez, Lenny</td>
+      <td>Bahrain Victorious</td>
+      <td>9.2</td>
+      <td>18</td>
+      <td>137</td>
+      <td>14.9</td>
+      <td>7.6</td>
+      <td>Jappo, Knak, Matti, Okholm, Tommy, Visti</td>
+    </tr>
+    <tr>
+      <td>Kanter, Max</td>
+      <td>XDS Astana Team</td>
+      <td>4.7</td>
+      <td>13</td>
+      <td>78</td>
+      <td>16.6</td>
+      <td>6.0</td>
+      <td>Hustlersen</td>
+    </tr>
+    <tr>
+      <td>Steinhauser, Georg</td>
+      <td>EF Education - EasyPost</td>
+      <td>5.0</td>
+      <td>21</td>
+      <td>34</td>
+      <td>6.8</td>
+      <td>1.6</td>
+      <td>Hustlersen</td>
+    </tr>
+    <tr>
+      <td>Gall, Felix</td>
+      <td>Decathlon AG2R La Mondiale</td>
+      <td>11.7</td>
+      <td>20</td>
+      <td>64</td>
+      <td>5.5</td>
+      <td>3.2</td>
+      <td>Chrelle, Matti, Visti</td>
+    </tr>
+    <tr>
+      <td>Tarling, Josh</td>
+      <td>INEOS Grenadiers</td>
+      <td>8.1</td>
+      <td>19</td>
+      <td>45</td>
+      <td>5.6</td>
+      <td>2.4</td>
+      <td>Chrelle</td>
+    </tr>
+    <tr>
+      <td>Eetvelt, Lennert Van</td>
+      <td>Lotto</td>
+      <td>23.1</td>
+      <td>16</td>
+      <td>168</td>
+      <td>7.3</td>
+      <td>10.5</td>
+      <td>Jappo, Kenk, Tommy</td>
+    </tr>
+    <tr>
+      <td>Naesen, Oliver</td>
+      <td>Decathlon AG2R La Mondiale</td>
+      <td>2.0</td>
+      <td>19</td>
+      <td>18</td>
+      <td>9.0</td>
+      <td>0.9</td>
+      <td>Knak</td>
+    </tr>
+    <tr>
+      <td>Christen, Jan</td>
+      <td>UAE Emirates XRG</td>
+      <td>7.2</td>
+      <td>5</td>
+      <td>27</td>
+      <td>3.8</td>
+      <td>5.4</td>
+      <td>Kenk</td>
+    </tr>
+    <tr>
+      <td>Vingegaard, Jonas</td>
+      <td>Team Visma - Lease a Bike</td>
+      <td>42.2</td>
+      <td>10</td>
+      <td>90</td>
+      <td>2.1</td>
+      <td>9.0</td>
+      <td>Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti</td>
+    </tr>
+    <tr>
+      <td>Schachmann, Maximilian</td>
+      <td>Soudal - Quick-Step</td>
+      <td>6.0</td>
+      <td>20</td>
+      <td>171</td>
+      <td>28.5</td>
+      <td>8.6</td>
+      <td>Jarma, Knak</td>
+    </tr>
+    <tr>
+      <td>Wilder, Ilan Van</td>
+      <td>Soudal - Quick-Step</td>
+      <td>10.8</td>
+      <td>19</td>
+      <td>119</td>
+      <td>11.0</td>
+      <td>6.3</td>
+      <td>Chrelle</td>
+    </tr>
+    <tr>
+      <td>Geoghegan Hart, Tao</td>
+      <td>Lidl - Trek</td>
+      <td>10.7</td>
+      <td>7</td>
+      <td>17</td>
+      <td>1.6</td>
+      <td>2.4</td>
+      <td>Jarma, Okholm</td>
+    </tr>
+    <tr>
+      <td>Plus, Laurens De</td>
+      <td>INEOS Grenadiers</td>
+      <td>5.5</td>
+      <td>19</td>
+      <td>116</td>
+      <td>21.1</td>
+      <td>6.1</td>
+      <td>Okholm</td>
+    </tr>
+    <tr>
+      <td>Rolland, Brieuc</td>
+      <td>Groupama - FDJ</td>
+      <td>1.1</td>
+      <td>18</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>Kenk</td>
+    </tr>
+    <tr>
+      <td>Mihkels, Madis</td>
+      <td>EF Education - EasyPost</td>
+      <td>5.6</td>
+      <td>13</td>
+      <td>81</td>
+      <td>14.5</td>
+      <td>6.2</td>
+      <td>Hustlersen, Matti, Visti</td>
+    </tr>
+    <tr>
+      <td>Powless, Neilson</td>
+      <td>EF Education - EasyPost</td>
+      <td>11.4</td>
+      <td>19</td>
+      <td>145</td>
+      <td>12.7</td>
+      <td>7.6</td>
+      <td>Jappo</td>
+    </tr>
+    <tr>
+      <td>Campenaerts, Victor</td>
+      <td>Team Visma - Lease a Bike</td>
+      <td>4.8</td>
+      <td>15</td>
+      <td>8</td>
+      <td>1.7</td>
+      <td>0.5</td>
+      <td>Tommy</td>
+    </tr>
+    <tr>
+      <td>Kron, Andreas</td>
+      <td>Uno-X Mobility</td>
+      <td>8.3</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>Kenk</td>
+    </tr>
+    <tr>
+      <td>Frigo, Marco</td>
+      <td>Israel - Premier Tech</td>
+      <td>2.1</td>
+      <td>13</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>Jarma</td>
+    </tr>
+    <tr>
+      <td>Trentin, Matteo</td>
+      <td>Tudor Pro Cycling Team</td>
+      <td>5.9</td>
+      <td>15</td>
+      <td>57</td>
+      <td>9.7</td>
+      <td>3.8</td>
+      <td>Knak</td>
+    </tr>
+    <tr>
+      <td>Lipowitz, Florian</td>
+      <td>Red Bull - BORA - hansgrohe</td>
+      <td>17.0</td>
+      <td>13</td>
+      <td>209</td>
+      <td>12.3</td>
+      <td>16.1</td>
+      <td>Okholm</td>
+    </tr>
+    <tr>
+      <td>Skjelmose, Mattias</td>
+      <td>Lidl - Trek</td>
+      <td>24.9</td>
+      <td>13</td>
+      <td>211</td>
+      <td>8.5</td>
+      <td>16.2</td>
+      <td>Matti, Tommy</td>
+    </tr>
+    <tr>
+      <td>Poel, Mathieu van der</td>
+      <td>Alpecin - Deceuninck</td>
+      <td>28.0</td>
+      <td>12</td>
+      <td>466</td>
+      <td>16.6</td>
+      <td>38.8</td>
+      <td>Jarma</td>
+    </tr>
+    <tr>
+      <td>Ayuso, Juan</td>
+      <td>UAE Emirates XRG</td>
+      <td>25.2</td>
+      <td>15</td>
+      <td>315</td>
+      <td>12.5</td>
+      <td>21.0</td>
+      <td>Hustlersen, Kenk</td>
+    </tr>
+    <tr>
+      <td>Lafay, Victor</td>
+      <td>Decathlon AG2R La Mondiale</td>
+      <td>5.3</td>
+      <td>4</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>Jarma</td>
+    </tr>
+    <tr>
+      <td>Watson, Samuel</td>
+      <td>INEOS Grenadiers</td>
+      <td>1.5</td>
+      <td>25</td>
+      <td>73</td>
+      <td>48.7</td>
+      <td>2.9</td>
+      <td>Tommy</td>
+    </tr>
+    <tr>
+      <td>Brenner, Marco</td>
+      <td>Tudor Pro Cycling Team</td>
+      <td>1.7</td>
+      <td>7</td>
+      <td>27</td>
+      <td>15.9</td>
+      <td>3.9</td>
+      <td>Hustlersen</td>
+    </tr>
+    <tr>
+      <td>Rex, Laurenz</td>
+      <td>Intermarché - Wanty</td>
+      <td>2.5</td>
+      <td>14</td>
+      <td>66</td>
+      <td>26.4</td>
+      <td>4.7</td>
+      <td>Chrelle, Jappo, Jarma, Kenk, Visti</td>
+    </tr>
+    <tr>
       <td>Grondin, Donavan</td>
       <td>Arkéa - BnB Hotels</td>
       <td>1.1</td>
-      <td>12</td>
+      <td>13</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -6469,7 +6989,7 @@ hide:
       <td>Gamper, Patrick</td>
       <td>Team Jayco AlUla</td>
       <td>1.0</td>
-      <td>18</td>
+      <td>19</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -6499,10 +7019,10 @@ hide:
       <td>O'Connor, Ben</td>
       <td>Team Jayco AlUla</td>
       <td>21.8</td>
-      <td>18</td>
+      <td>19</td>
       <td>47</td>
       <td>2.2</td>
-      <td>2.6</td>
+      <td>2.5</td>
       <td></td>
     </tr>
     <tr>
@@ -6749,7 +7269,7 @@ hide:
       <td>Conci, Nicola</td>
       <td>XDS Astana Team</td>
       <td>1.6</td>
-      <td>16</td>
+      <td>17</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -6799,7 +7319,7 @@ hide:
       <td>Zukowsky, Nick</td>
       <td>Q36.5 Pro Cycling Team</td>
       <td>1.0</td>
-      <td>24</td>
+      <td>25</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -6839,20 +7359,20 @@ hide:
       <td>Bilbao, Pello</td>
       <td>Bahrain Victorious</td>
       <td>17.4</td>
-      <td>25</td>
-      <td>249</td>
-      <td>14.3</td>
-      <td>10.0</td>
+      <td>26</td>
+      <td>250</td>
+      <td>14.4</td>
+      <td>9.6</td>
       <td></td>
     </tr>
     <tr>
       <td>Zimmermann, Georg</td>
       <td>Intermarché - Wanty</td>
       <td>4.0</td>
-      <td>14</td>
+      <td>15</td>
       <td>8</td>
       <td>2.0</td>
-      <td>0.6</td>
+      <td>0.5</td>
       <td></td>
     </tr>
     <tr>
@@ -6929,10 +7449,10 @@ hide:
       <td>Guerreiro, Ruben</td>
       <td>Movistar Team</td>
       <td>4.8</td>
-      <td>9</td>
+      <td>10</td>
       <td>14</td>
       <td>2.9</td>
-      <td>1.6</td>
+      <td>1.4</td>
       <td></td>
     </tr>
     <tr>
@@ -6949,7 +7469,7 @@ hide:
       <td>McLay, Daniel</td>
       <td>Team Visma - Lease a Bike</td>
       <td>1.8</td>
-      <td>23</td>
+      <td>24</td>
       <td>14</td>
       <td>7.8</td>
       <td>0.6</td>
@@ -6959,7 +7479,7 @@ hide:
       <td>Vermaerke, Kevin</td>
       <td>Team Picnic PostNL</td>
       <td>7.4</td>
-      <td>9</td>
+      <td>10</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -7009,7 +7529,7 @@ hide:
       <td>Weiss, Fabian</td>
       <td>Tudor Pro Cycling Team</td>
       <td>1.2</td>
-      <td>16</td>
+      <td>17</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -7029,7 +7549,7 @@ hide:
       <td>Roosen, Timo</td>
       <td>Team Picnic PostNL</td>
       <td>1.0</td>
-      <td>17</td>
+      <td>18</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -7049,7 +7569,7 @@ hide:
       <td>Boulahoite, Rayan</td>
       <td>TotalEnergies</td>
       <td>1.1</td>
-      <td>9</td>
+      <td>10</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -7129,7 +7649,7 @@ hide:
       <td>Drizners, Jarrad</td>
       <td>Lotto</td>
       <td>1.1</td>
-      <td>14</td>
+      <td>15</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -7139,7 +7659,7 @@ hide:
       <td>Bekkum, Darren van</td>
       <td>XDS Astana Team</td>
       <td>1.3</td>
-      <td>8</td>
+      <td>9</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -7159,10 +7679,10 @@ hide:
       <td>Champoussin, Clément</td>
       <td>XDS Astana Team</td>
       <td>2.3</td>
-      <td>15</td>
+      <td>16</td>
       <td>125</td>
       <td>54.3</td>
-      <td>8.3</td>
+      <td>7.8</td>
       <td></td>
     </tr>
     <tr>
@@ -7309,7 +7829,7 @@ hide:
       <td>Thompson, Reuben</td>
       <td>Lotto</td>
       <td>1.4</td>
-      <td>15</td>
+      <td>16</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -7379,10 +7899,10 @@ hide:
       <td>Gautherat, Pierre</td>
       <td>Decathlon AG2R La Mondiale</td>
       <td>2.3</td>
-      <td>8</td>
+      <td>9</td>
       <td>10</td>
       <td>4.3</td>
-      <td>1.3</td>
+      <td>1.1</td>
       <td></td>
     </tr>
     <tr>
@@ -7439,10 +7959,10 @@ hide:
       <td>Wright, Fred</td>
       <td>Bahrain Victorious</td>
       <td>6.5</td>
-      <td>18</td>
+      <td>19</td>
       <td>104</td>
       <td>16.0</td>
-      <td>5.8</td>
+      <td>5.5</td>
       <td></td>
     </tr>
     <tr>
@@ -7489,7 +8009,7 @@ hide:
       <td>Fraile, Omar</td>
       <td>INEOS Grenadiers</td>
       <td>1.4</td>
-      <td>19</td>
+      <td>20</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -7579,10 +8099,10 @@ hide:
       <td>Hermans, Quinten</td>
       <td>Alpecin - Deceuninck</td>
       <td>5.1</td>
-      <td>13</td>
-      <td>12</td>
-      <td>2.4</td>
-      <td>0.9</td>
+      <td>14</td>
+      <td>22</td>
+      <td>4.3</td>
+      <td>1.6</td>
       <td></td>
     </tr>
     <tr>
@@ -7599,7 +8119,7 @@ hide:
       <td>Beullens, Cedric</td>
       <td>Lotto</td>
       <td>1.9</td>
-      <td>13</td>
+      <td>14</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -7609,7 +8129,7 @@ hide:
       <td>Cavagna, Rémi</td>
       <td>Groupama - FDJ</td>
       <td>3.6</td>
-      <td>12</td>
+      <td>13</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -7619,7 +8139,7 @@ hide:
       <td>Jacobs, Johan</td>
       <td>Groupama - FDJ</td>
       <td>1.0</td>
-      <td>19</td>
+      <td>20</td>
       <td>6</td>
       <td>6.0</td>
       <td>0.3</td>
@@ -7709,10 +8229,10 @@ hide:
       <td>Wellens, Tim</td>
       <td>UAE Emirates XRG</td>
       <td>11.1</td>
-      <td>14</td>
+      <td>15</td>
       <td>147</td>
       <td>13.2</td>
-      <td>10.5</td>
+      <td>9.8</td>
       <td></td>
     </tr>
     <tr>
@@ -7729,10 +8249,10 @@ hide:
       <td>Tulett, Ben</td>
       <td>Team Visma - Lease a Bike</td>
       <td>3.3</td>
-      <td>13</td>
-      <td>40</td>
-      <td>12.1</td>
-      <td>3.1</td>
+      <td>14</td>
+      <td>45</td>
+      <td>13.6</td>
+      <td>3.2</td>
       <td></td>
     </tr>
     <tr>
@@ -7799,7 +8319,7 @@ hide:
       <td>Meris, Sergio</td>
       <td>Unibet Tietema Rockets</td>
       <td>1.1</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -7829,17 +8349,17 @@ hide:
       <td>Barré, Louis</td>
       <td>Intermarché - Wanty</td>
       <td>1.5</td>
-      <td>9</td>
       <td>10</td>
-      <td>6.7</td>
-      <td>1.1</td>
+      <td>60</td>
+      <td>40.0</td>
+      <td>6.0</td>
       <td></td>
     </tr>
     <tr>
       <td>Maisonobe, Sam</td>
       <td>Cofidis</td>
       <td>1.0</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -7849,7 +8369,7 @@ hide:
       <td>Bugge, Martin Urianstad</td>
       <td>Uno-X Mobility</td>
       <td>1.0</td>
-      <td>8</td>
+      <td>9</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -7879,10 +8399,10 @@ hide:
       <td>Delettre, Alexandre</td>
       <td>TotalEnergies</td>
       <td>1.1</td>
-      <td>9</td>
-      <td>1</td>
-      <td>0.9</td>
-      <td>0.1</td>
+      <td>10</td>
+      <td>4</td>
+      <td>3.6</td>
+      <td>0.4</td>
       <td></td>
     </tr>
     <tr>
@@ -7899,10 +8419,10 @@ hide:
       <td>Scaroni, Christian</td>
       <td>XDS Astana Team</td>
       <td>3.8</td>
-      <td>2</td>
+      <td>3</td>
       <td>30</td>
       <td>7.9</td>
-      <td>15.0</td>
+      <td>10.0</td>
       <td></td>
     </tr>
     <tr>
@@ -7929,7 +8449,7 @@ hide:
       <td>Retailleau, Valentin</td>
       <td>TotalEnergies</td>
       <td>1.1</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -7959,10 +8479,10 @@ hide:
       <td>Berg, Marijn van den</td>
       <td>EF Education - EasyPost</td>
       <td>7.3</td>
-      <td>14</td>
+      <td>15</td>
       <td>117</td>
       <td>16.0</td>
-      <td>8.4</td>
+      <td>7.8</td>
       <td></td>
     </tr>
     <tr>
@@ -8033,6 +8553,16 @@ hide:
       <td>25</td>
       <td>3.1</td>
       <td>8.3</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Masnada, Fausto</td>
+      <td>XDS Astana Team</td>
+      <td>2.7</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td></td>
     </tr>
     <tr>
@@ -8126,16 +8656,6 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Masnada, Fausto</td>
-      <td>XDS Astana Team</td>
-      <td>2.7</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Plowright, Jensen</td>
       <td>Alpecin - Deceuninck</td>
       <td>1.2</td>
@@ -8176,516 +8696,6 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Nerurkar, Lukas</td>
-      <td>EF Education - EasyPost</td>
-      <td>5.5</td>
-      <td>8</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>Hustlersen, Jarma</td>
-    </tr>
-    <tr>
-      <td>Plapp, Luke</td>
-      <td>Team Jayco AlUla</td>
-      <td>9.1</td>
-      <td>6</td>
-      <td>61</td>
-      <td>6.7</td>
-      <td>10.2</td>
-      <td>Chrelle, Hustlersen</td>
-    </tr>
-    <tr>
-      <td>Brennan, Matthew</td>
-      <td>Team Visma - Lease a Bike</td>
-      <td>2.9</td>
-      <td>14</td>
-      <td>90</td>
-      <td>31.0</td>
-      <td>6.4</td>
-      <td>Chrelle, Hustlersen, Kenk</td>
-    </tr>
-    <tr>
-      <td>Welsford, Sam</td>
-      <td>Red Bull - BORA - hansgrohe</td>
-      <td>6.4</td>
-      <td>18</td>
-      <td>107</td>
-      <td>16.7</td>
-      <td>5.9</td>
-      <td>Chrelle, Hustlersen, Tommy</td>
-    </tr>
-    <tr>
-      <td>Hayter, Ethan</td>
-      <td>Soudal - Quick-Step</td>
-      <td>9.4</td>
-      <td>19</td>
-      <td>14</td>
-      <td>1.5</td>
-      <td>0.7</td>
-      <td>Chrelle, Jappo</td>
-    </tr>
-    <tr>
-      <td>Louvel, Matîs</td>
-      <td>Israel - Premier Tech</td>
-      <td>2.3</td>
-      <td>9</td>
-      <td>4</td>
-      <td>1.7</td>
-      <td>0.4</td>
-      <td>Jarma</td>
-    </tr>
-    <tr>
-      <td>Pogačar, Tadej</td>
-      <td>UAE Emirates XRG</td>
-      <td>60.0</td>
-      <td>11</td>
-      <td>594</td>
-      <td>9.9</td>
-      <td>54.0</td>
-      <td>Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti</td>
-    </tr>
-    <tr>
-      <td>Gils, Maxim Van</td>
-      <td>Red Bull - BORA - hansgrohe</td>
-      <td>19.9</td>
-      <td>13</td>
-      <td>82</td>
-      <td>4.1</td>
-      <td>6.3</td>
-      <td>Kenk, Matti</td>
-    </tr>
-    <tr>
-      <td>Morgado, António</td>
-      <td>UAE Emirates XRG</td>
-      <td>4.1</td>
-      <td>12</td>
-      <td>44</td>
-      <td>10.7</td>
-      <td>3.7</td>
-      <td>Hustlersen, Jappo, Matti, Visti</td>
-    </tr>
-    <tr>
-      <td>Lazkano, Oier</td>
-      <td>Red Bull - BORA - hansgrohe</td>
-      <td>7.7</td>
-      <td>12</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>Chrelle, Matti, Okholm</td>
-    </tr>
-    <tr>
-      <td>Girmay, Biniam</td>
-      <td>Intermarché - Wanty</td>
-      <td>16.0</td>
-      <td>11</td>
-      <td>74</td>
-      <td>4.6</td>
-      <td>6.7</td>
-      <td>Jappo, Knak, Matti, Okholm, Visti</td>
-    </tr>
-    <tr>
-      <td>Poole, Max</td>
-      <td>Team Picnic PostNL</td>
-      <td>8.7</td>
-      <td>6</td>
-      <td>6</td>
-      <td>0.7</td>
-      <td>1.0</td>
-      <td>Chrelle, Jarma</td>
-    </tr>
-    <tr>
-      <td>Lie, Arnaud De</td>
-      <td>Lotto</td>
-      <td>17.9</td>
-      <td>11</td>
-      <td>42</td>
-      <td>2.3</td>
-      <td>3.8</td>
-      <td>Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti</td>
-    </tr>
-    <tr>
-      <td>Del Grosso, Tibor</td>
-      <td>Alpecin - Deceuninck</td>
-      <td>1.6</td>
-      <td>16</td>
-      <td>74</td>
-      <td>46.3</td>
-      <td>4.6</td>
-      <td>Jarma</td>
-    </tr>
-    <tr>
-      <td>Pellizzari, Giulio</td>
-      <td>Red Bull - BORA - hansgrohe</td>
-      <td>6.8</td>
-      <td>7</td>
-      <td>13</td>
-      <td>1.9</td>
-      <td>1.9</td>
-      <td>Tommy</td>
-    </tr>
-    <tr>
-      <td>Nys, Thibau</td>
-      <td>Lidl - Trek</td>
-      <td>9.9</td>
-      <td>7</td>
-      <td>35</td>
-      <td>3.5</td>
-      <td>5.0</td>
-      <td>Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Tommy, Visti</td>
-    </tr>
-    <tr>
-      <td>Staune-Mittet, Johannes</td>
-      <td>Decathlon AG2R La Mondiale</td>
-      <td>2.3</td>
-      <td>19</td>
-      <td>26</td>
-      <td>11.3</td>
-      <td>1.4</td>
-      <td>Chrelle, Matti</td>
-    </tr>
-    <tr>
-      <td>Onley, Oscar</td>
-      <td>Team Picnic PostNL</td>
-      <td>14.7</td>
-      <td>21</td>
-      <td>234</td>
-      <td>15.9</td>
-      <td>11.1</td>
-      <td>Hustlersen, Okholm</td>
-    </tr>
-    <tr>
-      <td>Lapeira, Paul</td>
-      <td>Decathlon AG2R La Mondiale</td>
-      <td>6.3</td>
-      <td>6</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>Knak, Tommy</td>
-    </tr>
-    <tr>
-      <td>Bagioli, Andrea</td>
-      <td>Lidl - Trek</td>
-      <td>7.1</td>
-      <td>16</td>
-      <td>69</td>
-      <td>9.7</td>
-      <td>4.3</td>
-      <td>Jarma, Kenk</td>
-    </tr>
-    <tr>
-      <td>Narváez, Jhonatan</td>
-      <td>UAE Emirates XRG</td>
-      <td>13.6</td>
-      <td>19</td>
-      <td>161</td>
-      <td>11.8</td>
-      <td>8.5</td>
-      <td>Hustlersen, Kenk</td>
-    </tr>
-    <tr>
-      <td>Sivakov, Pavel</td>
-      <td>UAE Emirates XRG</td>
-      <td>8.9</td>
-      <td>23</td>
-      <td>72</td>
-      <td>8.1</td>
-      <td>3.1</td>
-      <td>Jarma, Okholm</td>
-    </tr>
-    <tr>
-      <td>Rodriguez, Carlos</td>
-      <td>INEOS Grenadiers</td>
-      <td>24.0</td>
-      <td>11</td>
-      <td>23</td>
-      <td>1.0</td>
-      <td>2.1</td>
-      <td>Matti, Visti</td>
-    </tr>
-    <tr>
-      <td>August, AJ</td>
-      <td>INEOS Grenadiers</td>
-      <td>1.1</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>Hustlersen</td>
-    </tr>
-    <tr>
-      <td>Romeo, Iván</td>
-      <td>Movistar Team</td>
-      <td>2.4</td>
-      <td>20</td>
-      <td>136</td>
-      <td>56.7</td>
-      <td>6.8</td>
-      <td>Matti</td>
-    </tr>
-    <tr>
-      <td>Sheehan, Riley</td>
-      <td>Israel - Premier Tech</td>
-      <td>4.6</td>
-      <td>11</td>
-      <td>8</td>
-      <td>1.7</td>
-      <td>0.7</td>
-      <td>Okholm</td>
-    </tr>
-    <tr>
-      <td>Artz, Huub</td>
-      <td>Intermarché - Wanty</td>
-      <td>1.8</td>
-      <td>7</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>Jarma</td>
-    </tr>
-    <tr>
-      <td>Merlier, Tim</td>
-      <td>Soudal - Quick-Step</td>
-      <td>19.5</td>
-      <td>25</td>
-      <td>246</td>
-      <td>12.6</td>
-      <td>9.8</td>
-      <td>Jappo, Knak, Matti, Tommy</td>
-    </tr>
-    <tr>
-      <td>Broek, Frank van den</td>
-      <td>Team Picnic PostNL</td>
-      <td>3.6</td>
-      <td>18</td>
-      <td>20</td>
-      <td>5.6</td>
-      <td>1.1</td>
-      <td>Okholm</td>
-    </tr>
-    <tr>
-      <td>Aular, Orluis</td>
-      <td>Movistar Team</td>
-      <td>4.1</td>
-      <td>20</td>
-      <td>16</td>
-      <td>3.9</td>
-      <td>0.8</td>
-      <td>Visti</td>
-    </tr>
-    <tr>
-      <td>Kooij, Olav</td>
-      <td>Team Visma - Lease a Bike</td>
-      <td>20.0</td>
-      <td>18</td>
-      <td>150</td>
-      <td>7.5</td>
-      <td>8.3</td>
-      <td>Kenk, Matti, Tommy, Visti</td>
-    </tr>
-    <tr>
-      <td>Foldager, Anders</td>
-      <td>Team Jayco AlUla</td>
-      <td>1.7</td>
-      <td>21</td>
-      <td>28</td>
-      <td>16.5</td>
-      <td>1.3</td>
-      <td>Hustlersen</td>
-    </tr>
-    <tr>
-      <td>Penhoët, Paul</td>
-      <td>Groupama - FDJ</td>
-      <td>4.8</td>
-      <td>13</td>
-      <td>39</td>
-      <td>8.1</td>
-      <td>3.0</td>
-      <td>Jarma</td>
-    </tr>
-    <tr>
-      <td>Aert, Wout van</td>
-      <td>Team Visma - Lease a Bike</td>
-      <td>37.4</td>
-      <td>12</td>
-      <td>268</td>
-      <td>7.2</td>
-      <td>22.3</td>
-      <td>Chrelle, Jarma, Matti, Okholm, Tommy</td>
-    </tr>
-    <tr>
-      <td>Teuns, Dylan</td>
-      <td>Cofidis</td>
-      <td>5.4</td>
-      <td>10</td>
-      <td>4</td>
-      <td>0.7</td>
-      <td>0.4</td>
-      <td>Knak</td>
-    </tr>
-    <tr>
-      <td>Fretin, Milan</td>
-      <td>Cofidis</td>
-      <td>3.5</td>
-      <td>10</td>
-      <td>106</td>
-      <td>30.3</td>
-      <td>10.6</td>
-      <td>Matti</td>
-    </tr>
-    <tr>
-      <td>Adrià, Roger</td>
-      <td>Red Bull - BORA - hansgrohe</td>
-      <td>6.8</td>
-      <td>18</td>
-      <td>57</td>
-      <td>8.4</td>
-      <td>3.2</td>
-      <td>Okholm</td>
-    </tr>
-    <tr>
-      <td>Gee, Derek</td>
-      <td>Israel - Premier Tech</td>
-      <td>12.3</td>
-      <td>12</td>
-      <td>158</td>
-      <td>12.8</td>
-      <td>13.2</td>
-      <td>Jappo, Okholm</td>
-    </tr>
-    <tr>
-      <td>Dijke, Tim van</td>
-      <td>Red Bull - BORA - hansgrohe</td>
-      <td>4.5</td>
-      <td>14</td>
-      <td>14</td>
-      <td>3.1</td>
-      <td>1.0</td>
-      <td>Kenk, Visti</td>
-    </tr>
-    <tr>
-      <td>Segaert, Alec</td>
-      <td>Lotto</td>
-      <td>5.5</td>
-      <td>8</td>
-      <td>14</td>
-      <td>2.5</td>
-      <td>1.8</td>
-      <td>Knak, Tommy, Visti</td>
-    </tr>
-    <tr>
-      <td>Zingle, Axel</td>
-      <td>Team Visma - Lease a Bike</td>
-      <td>6.1</td>
-      <td>13</td>
-      <td>46</td>
-      <td>7.5</td>
-      <td>3.5</td>
-      <td>Tommy, Visti</td>
-    </tr>
-    <tr>
-      <td>Pedersen, Mads</td>
-      <td>Lidl - Trek</td>
-      <td>28.1</td>
-      <td>16</td>
-      <td>508</td>
-      <td>18.1</td>
-      <td>31.8</td>
-      <td>Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti</td>
-    </tr>
-    <tr>
-      <td>Yates, Simon</td>
-      <td>Team Visma - Lease a Bike</td>
-      <td>14.9</td>
-      <td>14</td>
-      <td>51</td>
-      <td>3.4</td>
-      <td>3.6</td>
-      <td>Okholm</td>
-    </tr>
-    <tr>
-      <td>Landa, Mikel</td>
-      <td>Soudal - Quick-Step</td>
-      <td>17.2</td>
-      <td>15</td>
-      <td>168</td>
-      <td>9.8</td>
-      <td>11.2</td>
-      <td>Jappo, Jarma, Visti</td>
-    </tr>
-    <tr>
-      <td>Magnier, Paul</td>
-      <td>Soudal - Quick-Step</td>
-      <td>8.5</td>
-      <td>12</td>
-      <td>104</td>
-      <td>12.2</td>
-      <td>8.7</td>
-      <td>Chrelle, Jappo, Jarma, Kenk, Tommy, Visti</td>
-    </tr>
-    <tr>
-      <td>Hirschi, Marc</td>
-      <td>Tudor Pro Cycling Team</td>
-      <td>14.8</td>
-      <td>16</td>
-      <td>18</td>
-      <td>1.2</td>
-      <td>1.1</td>
-      <td>Hustlersen, Jappo, Knak</td>
-    </tr>
-    <tr>
-      <td>Aleotti, Giovanni</td>
-      <td>Red Bull - BORA - hansgrohe</td>
-      <td>2.5</td>
-      <td>16</td>
-      <td>6</td>
-      <td>2.4</td>
-      <td>0.4</td>
-      <td>Okholm</td>
-    </tr>
-    <tr>
-      <td>Withen Philipsen, Albert</td>
-      <td>Lidl - Trek</td>
-      <td>1.1</td>
-      <td>9</td>
-      <td>23</td>
-      <td>20.9</td>
-      <td>2.6</td>
-      <td>Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Okholm, Tommy</td>
-    </tr>
-    <tr>
-      <td>Jeanniere, Emilien</td>
-      <td>TotalEnergies</td>
-      <td>1.7</td>
-      <td>16</td>
-      <td>79</td>
-      <td>46.5</td>
-      <td>4.9</td>
-      <td>Chrelle, Jappo, Knak</td>
-    </tr>
-    <tr>
-      <td>Abrahamsen, Jonas</td>
-      <td>Uno-X Mobility</td>
-      <td>6.2</td>
-      <td>20</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>Tommy</td>
-    </tr>
-    <tr>
-      <td>Wandahl, Frederik</td>
-      <td>Red Bull - BORA - hansgrohe</td>
-      <td>1.4</td>
-      <td>16</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>Kenk, Tommy</td>
-    </tr>
-    <tr>
       <td>Torres, Pablo</td>
       <td>UAE Emirates XRG</td>
       <td>4.9</td>
@@ -8709,10 +8719,10 @@ hide:
       <td>Schmid, Mauro</td>
       <td>Team Jayco AlUla</td>
       <td>7.0</td>
-      <td>21</td>
-      <td>93</td>
-      <td>13.3</td>
-      <td>4.4</td>
+      <td>22</td>
+      <td>105</td>
+      <td>15.0</td>
+      <td>4.8</td>
       <td>Jarma, Visti</td>
     </tr>
     <tr>
@@ -8749,10 +8759,10 @@ hide:
       <td>Buitrago, Santiago</td>
       <td>Bahrain Victorious</td>
       <td>13.5</td>
-      <td>13</td>
+      <td>14</td>
       <td>108</td>
       <td>8.0</td>
-      <td>8.3</td>
+      <td>7.7</td>
       <td>Matti</td>
     </tr>
     <tr>
@@ -8829,10 +8839,10 @@ hide:
       <td>Laurance, Axel</td>
       <td>INEOS Grenadiers</td>
       <td>4.4</td>
-      <td>20</td>
+      <td>21</td>
       <td>56</td>
       <td>12.7</td>
-      <td>2.8</td>
+      <td>2.7</td>
       <td>Jappo, Matti, Okholm</td>
     </tr>
     <tr>
@@ -8849,10 +8859,10 @@ hide:
       <td>Grégoire, Romain</td>
       <td>Groupama - FDJ</td>
       <td>9.6</td>
-      <td>20</td>
-      <td>106</td>
-      <td>11.0</td>
-      <td>5.3</td>
+      <td>21</td>
+      <td>146</td>
+      <td>15.2</td>
+      <td>7.0</td>
       <td>Chrelle, Jarma, Knak</td>
     </tr>
     <tr>
@@ -8869,20 +8879,20 @@ hide:
       <td>Healy, Ben</td>
       <td>EF Education - EasyPost</td>
       <td>12.4</td>
-      <td>14</td>
-      <td>119</td>
+      <td>15</td>
+      <td>144</td>
+      <td>11.6</td>
       <td>9.6</td>
-      <td>8.5</td>
       <td>Knak</td>
     </tr>
     <tr>
       <td>Uhlig, Henri</td>
       <td>Alpecin - Deceuninck</td>
       <td>2.1</td>
-      <td>10</td>
+      <td>11</td>
       <td>25</td>
       <td>11.9</td>
-      <td>2.5</td>
+      <td>2.3</td>
       <td>Hustlersen</td>
     </tr>
     <tr>
@@ -8926,344 +8936,334 @@ hide:
       <td>Okholm, Tommy</td>
     </tr>
     <tr>
-      <td>Sheffield, Magnus</td>
-      <td>INEOS Grenadiers</td>
-      <td>11.0</td>
-      <td>17</td>
-      <td>196</td>
-      <td>17.8</td>
-      <td>11.5</td>
-      <td>Okholm</td>
-    </tr>
-    <tr>
-      <td>Fisher-Black, Finn</td>
-      <td>Red Bull - BORA - hansgrohe</td>
-      <td>7.8</td>
-      <td>21</td>
-      <td>202</td>
-      <td>25.9</td>
-      <td>9.6</td>
-      <td>Chrelle, Jappo</td>
-    </tr>
-    <tr>
-      <td>Baarle, Dylan van</td>
-      <td>Team Visma - Lease a Bike</td>
-      <td>3.8</td>
-      <td>13</td>
+      <td>Lapeira, Paul</td>
+      <td>Decathlon AG2R La Mondiale</td>
+      <td>6.3</td>
+      <td>6</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>Kenk, Visti</td>
+      <td>Knak, Tommy</td>
     </tr>
     <tr>
-      <td>Strong, Corbin</td>
-      <td>Israel - Premier Tech</td>
-      <td>8.5</td>
-      <td>17</td>
-      <td>104</td>
-      <td>12.2</td>
-      <td>6.1</td>
-      <td>Knak, Visti</td>
-    </tr>
-    <tr>
-      <td>Andresen, Tobias Lund</td>
-      <td>Team Picnic PostNL</td>
-      <td>4.4</td>
-      <td>23</td>
-      <td>54</td>
-      <td>12.3</td>
-      <td>2.3</td>
-      <td>Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti</td>
-    </tr>
-    <tr>
-      <td>Pidcock, Tom</td>
-      <td>Q36.5 Pro Cycling Team</td>
-      <td>18.0</td>
-      <td>21</td>
-      <td>348</td>
-      <td>19.3</td>
-      <td>16.6</td>
-      <td>Chrelle, Jappo, Knak</td>
-    </tr>
-    <tr>
-      <td>Martinez, Lenny</td>
-      <td>Bahrain Victorious</td>
-      <td>9.2</td>
-      <td>18</td>
-      <td>137</td>
-      <td>14.9</td>
-      <td>7.6</td>
-      <td>Jappo, Knak, Matti, Okholm, Tommy, Visti</td>
-    </tr>
-    <tr>
-      <td>Kanter, Max</td>
-      <td>XDS Astana Team</td>
-      <td>4.7</td>
-      <td>13</td>
-      <td>78</td>
-      <td>16.6</td>
-      <td>6.0</td>
-      <td>Hustlersen</td>
-    </tr>
-    <tr>
-      <td>Steinhauser, Georg</td>
-      <td>EF Education - EasyPost</td>
-      <td>5.0</td>
-      <td>21</td>
-      <td>34</td>
-      <td>6.8</td>
-      <td>1.6</td>
-      <td>Hustlersen</td>
-    </tr>
-    <tr>
-      <td>Gall, Felix</td>
-      <td>Decathlon AG2R La Mondiale</td>
-      <td>11.7</td>
-      <td>20</td>
-      <td>64</td>
-      <td>5.5</td>
-      <td>3.2</td>
-      <td>Chrelle, Matti, Visti</td>
-    </tr>
-    <tr>
-      <td>Tarling, Josh</td>
-      <td>INEOS Grenadiers</td>
-      <td>8.1</td>
-      <td>19</td>
-      <td>45</td>
-      <td>5.6</td>
-      <td>2.4</td>
-      <td>Chrelle</td>
-    </tr>
-    <tr>
-      <td>Eetvelt, Lennert Van</td>
-      <td>Lotto</td>
-      <td>23.1</td>
-      <td>16</td>
-      <td>168</td>
-      <td>7.3</td>
-      <td>10.5</td>
-      <td>Jappo, Kenk, Tommy</td>
-    </tr>
-    <tr>
-      <td>Naesen, Oliver</td>
-      <td>Decathlon AG2R La Mondiale</td>
-      <td>2.0</td>
-      <td>18</td>
-      <td>18</td>
-      <td>9.0</td>
-      <td>1.0</td>
-      <td>Knak</td>
-    </tr>
-    <tr>
-      <td>Christen, Jan</td>
-      <td>UAE Emirates XRG</td>
-      <td>7.2</td>
-      <td>5</td>
-      <td>27</td>
-      <td>3.8</td>
-      <td>5.4</td>
-      <td>Kenk</td>
-    </tr>
-    <tr>
-      <td>Vingegaard, Jonas</td>
-      <td>Team Visma - Lease a Bike</td>
-      <td>42.2</td>
-      <td>10</td>
-      <td>90</td>
-      <td>2.1</td>
-      <td>9.0</td>
-      <td>Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti</td>
-    </tr>
-    <tr>
-      <td>Schachmann, Maximilian</td>
-      <td>Soudal - Quick-Step</td>
-      <td>6.0</td>
-      <td>19</td>
-      <td>171</td>
-      <td>28.5</td>
-      <td>9.0</td>
-      <td>Jarma, Knak</td>
-    </tr>
-    <tr>
-      <td>Wilder, Ilan Van</td>
-      <td>Soudal - Quick-Step</td>
-      <td>10.8</td>
-      <td>18</td>
-      <td>119</td>
-      <td>11.0</td>
-      <td>6.6</td>
-      <td>Chrelle</td>
-    </tr>
-    <tr>
-      <td>Geoghegan Hart, Tao</td>
+      <td>Bagioli, Andrea</td>
       <td>Lidl - Trek</td>
-      <td>10.7</td>
-      <td>7</td>
+      <td>7.1</td>
       <td>17</td>
-      <td>1.6</td>
-      <td>2.4</td>
-      <td>Jarma, Okholm</td>
-    </tr>
-    <tr>
-      <td>Plus, Laurens De</td>
-      <td>INEOS Grenadiers</td>
-      <td>5.5</td>
-      <td>19</td>
-      <td>116</td>
-      <td>21.1</td>
-      <td>6.1</td>
-      <td>Okholm</td>
-    </tr>
-    <tr>
-      <td>Rolland, Brieuc</td>
-      <td>Groupama - FDJ</td>
-      <td>1.1</td>
-      <td>18</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>Kenk</td>
-    </tr>
-    <tr>
-      <td>Mihkels, Madis</td>
-      <td>EF Education - EasyPost</td>
-      <td>5.6</td>
-      <td>13</td>
-      <td>81</td>
-      <td>14.5</td>
-      <td>6.2</td>
-      <td>Hustlersen, Matti, Visti</td>
-    </tr>
-    <tr>
-      <td>Powless, Neilson</td>
-      <td>EF Education - EasyPost</td>
-      <td>11.4</td>
-      <td>18</td>
-      <td>129</td>
-      <td>11.3</td>
-      <td>7.2</td>
-      <td>Jappo</td>
-    </tr>
-    <tr>
-      <td>Campenaerts, Victor</td>
-      <td>Team Visma - Lease a Bike</td>
-      <td>4.8</td>
-      <td>15</td>
-      <td>8</td>
-      <td>1.7</td>
-      <td>0.5</td>
-      <td>Tommy</td>
-    </tr>
-    <tr>
-      <td>Kron, Andreas</td>
-      <td>Uno-X Mobility</td>
-      <td>8.3</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>Kenk</td>
-    </tr>
-    <tr>
-      <td>Frigo, Marco</td>
-      <td>Israel - Premier Tech</td>
-      <td>2.1</td>
-      <td>13</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>Jarma</td>
-    </tr>
-    <tr>
-      <td>Trentin, Matteo</td>
-      <td>Tudor Pro Cycling Team</td>
-      <td>5.9</td>
-      <td>14</td>
-      <td>57</td>
+      <td>69</td>
       <td>9.7</td>
       <td>4.1</td>
-      <td>Knak</td>
+      <td>Jarma, Kenk</td>
     </tr>
     <tr>
-      <td>Lipowitz, Florian</td>
-      <td>Red Bull - BORA - hansgrohe</td>
-      <td>17.0</td>
-      <td>13</td>
-      <td>209</td>
-      <td>12.3</td>
-      <td>16.1</td>
-      <td>Okholm</td>
-    </tr>
-    <tr>
-      <td>Skjelmose, Mattias</td>
-      <td>Lidl - Trek</td>
-      <td>24.9</td>
-      <td>12</td>
-      <td>91</td>
-      <td>3.7</td>
-      <td>7.6</td>
-      <td>Matti, Tommy</td>
-    </tr>
-    <tr>
-      <td>Poel, Mathieu van der</td>
-      <td>Alpecin - Deceuninck</td>
-      <td>28.0</td>
-      <td>12</td>
-      <td>466</td>
-      <td>16.6</td>
-      <td>38.8</td>
-      <td>Jarma</td>
-    </tr>
-    <tr>
-      <td>Ayuso, Juan</td>
+      <td>Narváez, Jhonatan</td>
       <td>UAE Emirates XRG</td>
-      <td>25.2</td>
-      <td>15</td>
-      <td>315</td>
-      <td>12.5</td>
-      <td>21.0</td>
+      <td>13.6</td>
+      <td>20</td>
+      <td>161</td>
+      <td>11.8</td>
+      <td>8.1</td>
       <td>Hustlersen, Kenk</td>
     </tr>
     <tr>
-      <td>Lafay, Victor</td>
-      <td>Decathlon AG2R La Mondiale</td>
-      <td>5.3</td>
-      <td>4</td>
+      <td>Sivakov, Pavel</td>
+      <td>UAE Emirates XRG</td>
+      <td>8.9</td>
+      <td>24</td>
+      <td>72</td>
+      <td>8.1</td>
+      <td>3.0</td>
+      <td>Jarma, Okholm</td>
+    </tr>
+    <tr>
+      <td>Rodriguez, Carlos</td>
+      <td>INEOS Grenadiers</td>
+      <td>24.0</td>
+      <td>11</td>
+      <td>23</td>
+      <td>1.0</td>
+      <td>2.1</td>
+      <td>Matti, Visti</td>
+    </tr>
+    <tr>
+      <td>August, AJ</td>
+      <td>INEOS Grenadiers</td>
+      <td>1.1</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>Hustlersen</td>
+    </tr>
+    <tr>
+      <td>Romeo, Iván</td>
+      <td>Movistar Team</td>
+      <td>2.4</td>
+      <td>20</td>
+      <td>136</td>
+      <td>56.7</td>
+      <td>6.8</td>
+      <td>Matti</td>
+    </tr>
+    <tr>
+      <td>Sheehan, Riley</td>
+      <td>Israel - Premier Tech</td>
+      <td>4.6</td>
+      <td>12</td>
+      <td>8</td>
+      <td>1.7</td>
+      <td>0.7</td>
+      <td>Okholm</td>
+    </tr>
+    <tr>
+      <td>Artz, Huub</td>
+      <td>Intermarché - Wanty</td>
+      <td>1.8</td>
+      <td>7</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>Jarma</td>
     </tr>
     <tr>
-      <td>Watson, Samuel</td>
-      <td>INEOS Grenadiers</td>
-      <td>1.5</td>
+      <td>Merlier, Tim</td>
+      <td>Soudal - Quick-Step</td>
+      <td>19.5</td>
       <td>25</td>
-      <td>73</td>
-      <td>48.7</td>
-      <td>2.9</td>
-      <td>Tommy</td>
+      <td>246</td>
+      <td>12.6</td>
+      <td>9.8</td>
+      <td>Jappo, Knak, Matti, Tommy</td>
     </tr>
     <tr>
-      <td>Brenner, Marco</td>
-      <td>Tudor Pro Cycling Team</td>
-      <td>1.7</td>
-      <td>7</td>
-      <td>27</td>
-      <td>15.9</td>
+      <td>Broek, Frank van den</td>
+      <td>Team Picnic PostNL</td>
+      <td>3.6</td>
+      <td>19</td>
+      <td>20</td>
+      <td>5.6</td>
+      <td>1.1</td>
+      <td>Okholm</td>
+    </tr>
+    <tr>
+      <td>Aular, Orluis</td>
+      <td>Movistar Team</td>
+      <td>4.1</td>
+      <td>20</td>
+      <td>16</td>
       <td>3.9</td>
+      <td>0.8</td>
+      <td>Visti</td>
+    </tr>
+    <tr>
+      <td>Kooij, Olav</td>
+      <td>Team Visma - Lease a Bike</td>
+      <td>20.0</td>
+      <td>18</td>
+      <td>150</td>
+      <td>7.5</td>
+      <td>8.3</td>
+      <td>Kenk, Matti, Tommy, Visti</td>
+    </tr>
+    <tr>
+      <td>Foldager, Anders</td>
+      <td>Team Jayco AlUla</td>
+      <td>1.7</td>
+      <td>22</td>
+      <td>28</td>
+      <td>16.5</td>
+      <td>1.3</td>
       <td>Hustlersen</td>
     </tr>
     <tr>
-      <td>Rex, Laurenz</td>
-      <td>Intermarché - Wanty</td>
-      <td>2.5</td>
+      <td>Penhoët, Paul</td>
+      <td>Groupama - FDJ</td>
+      <td>4.8</td>
+      <td>13</td>
+      <td>39</td>
+      <td>8.1</td>
+      <td>3.0</td>
+      <td>Jarma</td>
+    </tr>
+    <tr>
+      <td>Aert, Wout van</td>
+      <td>Team Visma - Lease a Bike</td>
+      <td>37.4</td>
+      <td>13</td>
+      <td>338</td>
+      <td>9.0</td>
+      <td>26.0</td>
+      <td>Chrelle, Jarma, Matti, Okholm, Tommy</td>
+    </tr>
+    <tr>
+      <td>Teuns, Dylan</td>
+      <td>Cofidis</td>
+      <td>5.4</td>
+      <td>11</td>
+      <td>4</td>
+      <td>0.7</td>
+      <td>0.4</td>
+      <td>Knak</td>
+    </tr>
+    <tr>
+      <td>Fretin, Milan</td>
+      <td>Cofidis</td>
+      <td>3.5</td>
+      <td>10</td>
+      <td>106</td>
+      <td>30.3</td>
+      <td>10.6</td>
+      <td>Matti</td>
+    </tr>
+    <tr>
+      <td>Adrià, Roger</td>
+      <td>Red Bull - BORA - hansgrohe</td>
+      <td>6.8</td>
+      <td>19</td>
+      <td>57</td>
+      <td>8.4</td>
+      <td>3.0</td>
+      <td>Okholm</td>
+    </tr>
+    <tr>
+      <td>Gee, Derek</td>
+      <td>Israel - Premier Tech</td>
+      <td>12.3</td>
+      <td>12</td>
+      <td>158</td>
+      <td>12.8</td>
+      <td>13.2</td>
+      <td>Jappo, Okholm</td>
+    </tr>
+    <tr>
+      <td>Dijke, Tim van</td>
+      <td>Red Bull - BORA - hansgrohe</td>
+      <td>4.5</td>
+      <td>15</td>
       <td>14</td>
-      <td>66</td>
-      <td>26.4</td>
-      <td>4.7</td>
-      <td>Chrelle, Jappo, Jarma, Kenk, Visti</td>
+      <td>3.1</td>
+      <td>0.9</td>
+      <td>Kenk, Visti</td>
+    </tr>
+    <tr>
+      <td>Segaert, Alec</td>
+      <td>Lotto</td>
+      <td>5.5</td>
+      <td>8</td>
+      <td>14</td>
+      <td>2.5</td>
+      <td>1.8</td>
+      <td>Knak, Tommy, Visti</td>
+    </tr>
+    <tr>
+      <td>Zingle, Axel</td>
+      <td>Team Visma - Lease a Bike</td>
+      <td>6.1</td>
+      <td>13</td>
+      <td>46</td>
+      <td>7.5</td>
+      <td>3.5</td>
+      <td>Tommy, Visti</td>
+    </tr>
+    <tr>
+      <td>Pedersen, Mads</td>
+      <td>Lidl - Trek</td>
+      <td>28.1</td>
+      <td>16</td>
+      <td>508</td>
+      <td>18.1</td>
+      <td>31.8</td>
+      <td>Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti</td>
+    </tr>
+    <tr>
+      <td>Yates, Simon</td>
+      <td>Team Visma - Lease a Bike</td>
+      <td>14.9</td>
+      <td>14</td>
+      <td>51</td>
+      <td>3.4</td>
+      <td>3.6</td>
+      <td>Okholm</td>
+    </tr>
+    <tr>
+      <td>Landa, Mikel</td>
+      <td>Soudal - Quick-Step</td>
+      <td>17.2</td>
+      <td>15</td>
+      <td>168</td>
+      <td>9.8</td>
+      <td>11.2</td>
+      <td>Jappo, Jarma, Visti</td>
+    </tr>
+    <tr>
+      <td>Magnier, Paul</td>
+      <td>Soudal - Quick-Step</td>
+      <td>8.5</td>
+      <td>12</td>
+      <td>104</td>
+      <td>12.2</td>
+      <td>8.7</td>
+      <td>Chrelle, Jappo, Jarma, Kenk, Tommy, Visti</td>
+    </tr>
+    <tr>
+      <td>Hirschi, Marc</td>
+      <td>Tudor Pro Cycling Team</td>
+      <td>14.8</td>
+      <td>17</td>
+      <td>18</td>
+      <td>1.2</td>
+      <td>1.1</td>
+      <td>Hustlersen, Jappo, Knak</td>
+    </tr>
+    <tr>
+      <td>Aleotti, Giovanni</td>
+      <td>Red Bull - BORA - hansgrohe</td>
+      <td>2.5</td>
+      <td>16</td>
+      <td>6</td>
+      <td>2.4</td>
+      <td>0.4</td>
+      <td>Okholm</td>
+    </tr>
+    <tr>
+      <td>Withen Philipsen, Albert</td>
+      <td>Lidl - Trek</td>
+      <td>1.1</td>
+      <td>9</td>
+      <td>23</td>
+      <td>20.9</td>
+      <td>2.6</td>
+      <td>Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Okholm, Tommy</td>
+    </tr>
+    <tr>
+      <td>Jeanniere, Emilien</td>
+      <td>TotalEnergies</td>
+      <td>1.7</td>
+      <td>16</td>
+      <td>79</td>
+      <td>46.5</td>
+      <td>4.9</td>
+      <td>Chrelle, Jappo, Knak</td>
+    </tr>
+    <tr>
+      <td>Abrahamsen, Jonas</td>
+      <td>Uno-X Mobility</td>
+      <td>6.2</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>Tommy</td>
+    </tr>
+    <tr>
+      <td>Wandahl, Frederik</td>
+      <td>Red Bull - BORA - hansgrohe</td>
+      <td>1.4</td>
+      <td>16</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>Kenk, Tommy</td>
     </tr>
   </tbody>
 </table>
