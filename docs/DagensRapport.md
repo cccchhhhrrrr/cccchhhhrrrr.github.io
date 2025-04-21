@@ -4,6 +4,19 @@ hide:
   - toc
 ---
 
+## 2025-04-21
+### Hovedspillet
+Gall, Felix **12** (Chrelle, Matti, Visti)  
+Seixas, Paul **10** (Matti)  
+Poole, Max **3** (Chrelle, Jarma)  
+
+### Cheapo
+Cepeda, Jefferson Alexander **2** (Hustlersen)  
+
+
+
+
+
 ## 2025-04-20
 ### Hovedspillet
 Skjelmose, Mattias **120** (Matti, Tommy)  

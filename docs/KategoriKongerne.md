@@ -918,12 +918,12 @@ hide:
     </tr>
     <tr>
       <td>Bardet, Romain</td>
-      <td>8</td>
+      <td>16</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
       <td>0.0</td>
-      <td>8</td>
+      <td>16</td>
       <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
@@ -2550,19 +2550,19 @@ hide:
     </tr>
     <tr>
       <td>Cepeda, Jefferson Alexander</td>
+      <td>14</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>2</td>
+      <td>14.3</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.0</td>
       <td>12</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>12</td>
-      <td>100.0</td>
+      <td>85.7</td>
     </tr>
     <tr>
       <td>Cepeda, Jefferson Alveiro</td>
@@ -2742,13 +2742,13 @@ hide:
     </tr>
     <tr>
       <td>Ciccone, Giulio</td>
-      <td>147</td>
+      <td>162</td>
       <td>0</td>
       <td>0.0</td>
       <td>147</td>
-      <td>100.0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>90.7</td>
+      <td>15</td>
+      <td>9.3</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -4758,13 +4758,13 @@ hide:
     </tr>
     <tr>
       <td>Gall, Felix</td>
-      <td>64</td>
+      <td>76</td>
       <td>0</td>
       <td>0.0</td>
       <td>64</td>
-      <td>100.0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>84.2</td>
+      <td>12</td>
+      <td>15.8</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -6150,13 +6150,13 @@ hide:
     </tr>
     <tr>
       <td>Hindley, Jai</td>
-      <td>84</td>
+      <td>89</td>
       <td>0</td>
       <td>0.0</td>
       <td>66</td>
-      <td>78.6</td>
-      <td>18</td>
-      <td>21.4</td>
+      <td>74.2</td>
+      <td>23</td>
+      <td>25.8</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -10726,12 +10726,12 @@ hide:
     </tr>
     <tr>
       <td>Poole, Max</td>
-      <td>6</td>
+      <td>9</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
       <td>0.0</td>
-      <td>6</td>
+      <td>9</td>
       <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
@@ -11158,13 +11158,13 @@ hide:
     </tr>
     <tr>
       <td>Riccitello, Matthew</td>
-      <td>38</td>
+      <td>39</td>
       <td>0</td>
       <td>0.0</td>
       <td>38</td>
-      <td>100.0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>97.4</td>
+      <td>1</td>
+      <td>2.6</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -11894,13 +11894,13 @@ hide:
     </tr>
     <tr>
       <td>Seixas, Paul</td>
-      <td>3</td>
+      <td>13</td>
       <td>0</td>
       <td>0.0</td>
       <td>3</td>
-      <td>100.0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>23.1</td>
+      <td>10</td>
+      <td>76.9</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -12534,29 +12534,29 @@ hide:
     </tr>
     <tr>
       <td>Storer, Michael</td>
-      <td>134</td>
+      <td>138</td>
       <td>0</td>
       <td>0.0</td>
       <td>102</td>
-      <td>76.1</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>73.9</td>
+      <td>4</td>
+      <td>2.9</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>32</td>
-      <td>23.9</td>
+      <td>23.2</td>
     </tr>
     <tr>
       <td>Stork, Florian</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>6</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
       <td>0.0</td>
+      <td>6</td>
+      <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
