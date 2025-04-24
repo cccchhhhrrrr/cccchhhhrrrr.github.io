@@ -14534,6 +14534,1382 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Adrià, Roger</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Alaphilippe, Julian</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Aranburu, Alex</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Arcas, Jorge</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Azparren, Xabier</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Bagioli, Andrea</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Barguil, Warren</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Barré, Louis</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Battistella, Samuele</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Baudin, Alex</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Bayer, Tobias</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Belle, Loe van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Bennett, George</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Benoot, Tiesj</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>10</td>
+      <td>result: 10</td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Bernard, Julien</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Berthet, Clément</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Bilbao, Pello</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Blackmore, Joe</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>7</td>
+      <td>result: 7</td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Bonneu, Kamiel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Boven, Luca Van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Brenner, Marco</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Bugge, Martin Urianstad</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Buitrago, Santiago</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>30</td>
+      <td>result: 30</td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Camprubi, Marcel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Cavagna, Rémi</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Champoussin, Clément</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Christen, Fabio</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Christen, Jan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>8</td>
+      <td>result: 8</td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Clarke, Simon</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Clynhens, Toon</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Combaud, Romain</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Conci, Nicola</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Cort, Magnus</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Currie, Logan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Debruyne, Ramses</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Delaplace, Anthony</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Desal, Cériel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Deweirdt, Siebe</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Donovan, Mark</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Drizners, Jarrad</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Dversnes, Fredrik</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Eenkhoorn, Pascal</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Eetvelt, Lennert Van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Ermakov, Roman</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Evenepoel, Remco</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>18</td>
+      <td>result: 18</td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Ferron, Valentin</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Fisher-Black, Finn</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Foldager, Anders</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Formolo, Davide</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>5</td>
+      <td>result: 5</td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Foss, Tobias</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>García, Raúl</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Gautherat, Pierre</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Geens, Jonas</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Geniets, Kévin</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Gils, Maxim Van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Glivar, Gal</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Godon, Dorian</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Graat, Tijmen</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Gregaard, Jonas</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Grossschartner, Felix</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Grégoire, Romain</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>26</td>
+      <td>result: 26</td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Guerreiro, Ruben</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Guglielmi, Simon</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Hajek, Alexander</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Hatherly, Alan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Hautegem, Leander Van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Healy, Ben</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>35</td>
+      <td>result: 35</td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Hemelen, Vincent Van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Hepburn, Michael</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Hermans, Quinten</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Herrada, Jesús</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Hirschi, Marc</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Holter, Ådne</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Honoré, Mikkel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Huys, Laurens</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Isidore, Noa</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Johannessen, Anders</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Jungels, Bob</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Kamp, Alexander</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Koch, Jonas</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Konrad, Patrick</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Kuypers, Gerben</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Labrosse, Jordan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Laengen, Vegard Stake</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Langellotti, Victor</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Laurance, Axel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>1</td>
+      <td>result: 1</td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Le Berre, Mathis</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Lecerf, William Junior</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Leknessund, Andreas</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Leonard, Michael</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Livyns, Arjen</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Lutsenko, Alexey</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Løland, Sakarias Koller</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Madouas, Valentin</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Martin, Guillaume</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>12</td>
+      <td>result: 12</td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Martinez, Juan Guillermo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Martinez, Lenny</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>40</td>
+      <td>result: 40</td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Martínez, Daniel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Mas, Enric</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Matthews, Michael</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>McNulty, Brandon</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>6</td>
+      <td>result: 6</td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Meens, Johan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Meester, Luca De</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Meurisse, Xandro</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Molard, Rudy</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Moniquet, Sylvain</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Mosca, Jacopo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Moscon, Gianni</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Mühlberger, Gregor</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Nordhagen, Jørgen</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Novak, Domen</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Nys, Thibau</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>22</td>
+      <td>result: 22</td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>O'Connor, Ben</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Oliveira, Nelson</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Onley, Oscar</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Ourselin, Paul</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Paasschens, Mathijs</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Pacher, Quentin</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Paquot, Tom</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Pidcock, Tom</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>50</td>
+      <td>result: 50</td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Pogačar, Tadej</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>70</td>
+      <td>result: 70</td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Pooter, Dries De</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Powless, Neilson</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Raisberg, Nadav</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Riesebeek, Oscar</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Robeet, Ludovic</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Roosen, Timo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Rouland, Louis</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Ryan, Archie</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Sande, Tosh Van der</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Scaroni, Christian</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Schelling, Ide</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Schmid, Mauro</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>14</td>
+      <td>result: 14</td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Schultz, Nick</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Scotson, Callum</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Sepúlveda, Eduardo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Serry, Pieter</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Sheffield, Magnus</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>4</td>
+      <td>result: 4</td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Shmidt, Artem</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Sivakov, Pavel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Skjelmose, Mattias</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Stannard, Robert</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Sweeny, Harry</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Teuns, Dylan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Thompson, Reuben</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Tier, Floris De</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Tronchon, Bastien</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>3</td>
+      <td>result: 3</td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Tulett, Ben</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>result: 2</td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Ulissi, Diego</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Vader, Milan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Valter, Attila</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Vanhoof, Ward</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Vansevenant, Mauri</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Vauquelin, Kévin</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>60</td>
+      <td>result: 60</td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Velasco, Simone</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Vercouillie, Victor</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Vergaerde, Otto</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Vermaerke, Kevin</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Vermoote, Jelle</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Verstrynge, Emiel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Vervaeke, Louis</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Vliegen, Loïc</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Voisard, Yannis</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Vylder, Lindsay De</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Weiss, Fabian</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Wilder, Ilan Van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Wilksch, Hannes</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Williams, Stevie</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Wirtgen, Luc</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Zambanini, Edoardo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Zana, Filippo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Flèche Wallonne</td>
+      <td>Zukowsky, Nick</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Milano-Sanremo</td>
       <td>Abrahamsen, Jonas</td>
       <td>Classics Cat. 1</td>
@@ -29737,7 +31113,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Arashiro, Yukiya</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29745,15 +31121,15 @@ hide:
       <td>Tour of the Alps</td>
       <td>Arensman, Thymen</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>15</td>
+      <td>stage-4: 15</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>August, AJ</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29761,7 +31137,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Bais, Davide</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29769,7 +31145,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Bais, Mattia</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29777,7 +31153,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Baldaccini, Davide</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29785,15 +31161,15 @@ hide:
       <td>Tour of the Alps</td>
       <td>Bardet, Romain</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>8</td>
-      <td>stage-1: 8</td>
+      <td>4</td>
+      <td>21</td>
+      <td>stage-1: 8 / stage-2: 10 / stage-3: 1 / stage-4: 2</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Bouchard, Geoffrey</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29801,7 +31177,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Bouwman, Koen</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29809,7 +31185,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Carthy, Hugh</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29817,15 +31193,15 @@ hide:
       <td>Tour of the Alps</td>
       <td>Caruso, Damiano</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>12</td>
+      <td>stage-2: 3 / stage-3: 4 / stage-4: 5</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Castroviejo, Jonathan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29833,9 +31209,9 @@ hide:
       <td>Tour of the Alps</td>
       <td>Cepeda, Jefferson Alexander</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>2</td>
-      <td>stage-1: 2</td>
+      <td>4</td>
+      <td>5</td>
+      <td>stage-1: 2 / stage-2: 2 / stage-4: 1</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
@@ -29849,15 +31225,15 @@ hide:
       <td>Tour of the Alps</td>
       <td>Ciccone, Giulio</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>15</td>
-      <td>stage-1: 15</td>
+      <td>4</td>
+      <td>35</td>
+      <td>stage-1: 15 / stage-2: 6 / stage-3: 8 / stage-4: 6</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Covili, Luca</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29865,7 +31241,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>De Marchi, Alessandro</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29873,7 +31249,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Dhondt, Robbe</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29881,7 +31257,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Double, Paul</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29889,7 +31265,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Dunbar, Eddie</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29897,7 +31273,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Engelhardt, Felix</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29905,7 +31281,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Eriksson, Lucas</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29913,7 +31289,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Eulálio, Afonso</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29921,15 +31297,15 @@ hide:
       <td>Tour of the Alps</td>
       <td>Frigo, Marco</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>15</td>
+      <td>stage-3: 15</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Froome, Chris</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29937,7 +31313,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Fuglsang, Jakob</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29945,23 +31321,23 @@ hide:
       <td>Tour of the Alps</td>
       <td>Gall, Felix</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>12</td>
-      <td>stage-1: 12</td>
+      <td>4</td>
+      <td>24</td>
+      <td>stage-1: 12 / stage-2: 4 / stage-4: 8</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Gee, Derek</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>22</td>
+      <td>stage-3: 10 / stage-4: 12</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Geoghegan Hart, Tao</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29969,7 +31345,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Ghebreigzabhier, Amanuel</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29977,7 +31353,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Hamilton, Chris</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29985,7 +31361,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Hamilton, Lucas</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -29993,7 +31369,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Heiduk, Kim</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30001,7 +31377,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Herzog, Emil</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30009,15 +31385,15 @@ hide:
       <td>Tour of the Alps</td>
       <td>Hindley, Jai</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>5</td>
-      <td>stage-1: 5</td>
+      <td>4</td>
+      <td>22</td>
+      <td>stage-1: 5 / stage-2: 5 / stage-3: 12</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Iacchi, Alessandro</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30025,7 +31401,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Kämna, Lennard</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30033,7 +31409,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Lee, Jardi van der</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30041,7 +31417,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Lopez, Juan Pedro</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30049,7 +31425,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Martinelli, Alessio</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30057,7 +31433,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Martín, Alex</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30065,7 +31441,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Miholjević, Fran</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30073,7 +31449,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Muñoz, Fran</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30081,7 +31457,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Nencini, Tommaso</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30089,7 +31465,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Oomen, Sam</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30097,7 +31473,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Palzer, Anton</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30105,7 +31481,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Pickering, Finlay</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30113,7 +31489,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Pietrobon, Andrea</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30121,15 +31497,15 @@ hide:
       <td>Tour of the Alps</td>
       <td>Piganzoli, Davide</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>11</td>
+      <td>stage-2: 8 / stage-4: 3</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Pinarello, Alessandro</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30137,7 +31513,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Piras, Andrea</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30145,23 +31521,23 @@ hide:
       <td>Tour of the Alps</td>
       <td>Poole, Max</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>3</td>
-      <td>stage-1: 3</td>
+      <td>4</td>
+      <td>14</td>
+      <td>stage-1: 3 / stage-2: 1 / stage-3: 6 / stage-4: 4</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Prodhomme, Nicolas</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>2</td>
+      <td>stage-3: 2</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Puccio, Salvatore</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30169,7 +31545,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Riccitello, Matthew</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>1</td>
       <td>stage-1: 1</td>
     </tr>
@@ -30177,7 +31553,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Rodríguez, Oscar</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30185,7 +31561,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Rojas, Vicente</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30201,23 +31577,23 @@ hide:
       <td>Tour of the Alps</td>
       <td>Seixas, Paul</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>10</td>
-      <td>stage-1: 10</td>
+      <td>4</td>
+      <td>27</td>
+      <td>stage-1: 10 / stage-2: 12 / stage-3: 5</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Storer, Michael</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
       <td>4</td>
-      <td>stage-1: 4</td>
+      <td>32</td>
+      <td>stage-1: 4 / stage-2: 15 / stage-3: 3 / stage-4: 10</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Stork, Florian</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>6</td>
       <td>stage-1: 6</td>
     </tr>
@@ -30225,7 +31601,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Tarozzi, Manuele</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30233,7 +31609,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Tiberi, Antonio</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30241,7 +31617,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Todome, Yuhi</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30249,7 +31625,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Tolio, Alex</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30257,7 +31633,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Valgren, Michael</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30265,7 +31641,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Verrando, Luca</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30273,7 +31649,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Wandahl, Frederik</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30281,7 +31657,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Warbasse, Larry</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30289,7 +31665,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Zoccarato, Samuele</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -30297,7 +31673,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Zwiehoff, Ben</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>

@@ -4,6 +4,58 @@ hide:
   - toc
 ---
 
+## 2025-04-24
+### Hovedspillet
+Gee, Derek **12** (Jappo, Okholm)  
+Gall, Felix **8** (Chrelle, Matti, Visti)  
+Poole, Max **4** (Chrelle, Jarma)  
+
+### Cheapo
+Cepeda, Jefferson Alexander **1** (Hustlersen)  
+
+
+
+
+
+## 2025-04-23
+### Hovedspillet
+Pogačar, Tadej **70** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
+Pidcock, Tom **50** (Chrelle, Jappo, Knak)  
+Martinez, Lenny **40** (Jappo, Knak, Matti, Okholm, Tommy, Visti)  
+Healy, Ben **35** (Knak)  
+Buitrago, Santiago **30** (Matti)  
+Grégoire, Romain **26** (Chrelle, Jarma, Knak)  
+Nys, Thibau **22** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Tommy, Visti)  
+Frigo, Marco **15** (Jarma)  
+Schmid, Mauro **14** (Jarma, Visti)  
+Gee, Derek **10** (Jappo, Okholm)  
+Christen, Jan **8** (Kenk)  
+Poole, Max **6** (Chrelle, Jarma)  
+Seixas, Paul **5** (Matti)  
+Sheffield, Magnus **4** (Okholm)  
+Laurance, Axel **1** (Jappo, Matti, Okholm)  
+
+### Cheapo
+Frigo, Marco **15** (Jarma)  
+Tronchon, Bastien **3** (Chrelle, Jappo, Kenk, Knak, Visti)  
+
+
+
+
+
+## 2025-04-22
+### Hovedspillet
+Seixas, Paul **12** (Matti)  
+Gall, Felix **4** (Chrelle, Matti, Visti)  
+Poole, Max **1** (Chrelle, Jarma)  
+
+### Cheapo
+Cepeda, Jefferson Alexander **2** (Hustlersen)  
+
+
+
+
+
 ## 2025-04-21
 ### Hovedspillet
 Gall, Felix **12** (Chrelle, Matti, Visti)  
