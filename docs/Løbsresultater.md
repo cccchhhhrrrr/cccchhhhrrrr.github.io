@@ -15910,6 +15910,1398 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Adrià, Roger</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Alaphilippe, Julian</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Aranburu, Alex</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>12</td>
+      <td>result: 12</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Arcas, Jorge</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Asgreen, Kasper</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Azparren, Xabier</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Bagioli, Andrea</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>50</td>
+      <td>result: 50</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Bardet, Romain</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Barguil, Warren</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Barré, Louis</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>result: 1</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Battistella, Samuele</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Baudin, Alex</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Bayer, Tobias</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Belle, Loe van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Bennett, George</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Benoot, Tiesj</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>16</td>
+      <td>result: 16</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Bernard, Julien</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Berthet, Clément</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Bilbao, Pello</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Blackmore, Joe</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Bonneu, Kamiel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Boulahoite, Rayan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Bouwman, Koen</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Brenner, Marco</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Bugge, Martin Urianstad</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Buitrago, Santiago</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Burgaudeau, Mathieu</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Camprubi, Marcel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Cavagna, Rémi</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Champoussin, Clément</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Ciccone, Giulio</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>100</td>
+      <td>result: 100</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Clarke, Simon</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Combaud, Romain</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Conci, Nicola</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Cort, Magnus</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Currie, Logan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>De La Cruz, David</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Debruyne, Ramses</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Delaplace, Anthony</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Desal, Cériel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Donovan, Mark</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Doubey, Fabien</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Drizners, Jarrad</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Dversnes, Fredrik</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Eetvelt, Lennert Van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>10</td>
+      <td>result: 10</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Ermakov, Roman</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Evenepoel, Remco</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Ferron, Valentin</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Formolo, Davide</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Foss, Tobias</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Fuglsang, Jakob</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>García, Raúl</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Gelders, Gil</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Geniets, Kévin</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Gils, Maxim Van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Glivar, Gal</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Graat, Tijmen</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Gregaard, Jonas</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Grellier, Fabien</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Grossschartner, Felix</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Grégoire, Romain</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>7</td>
+      <td>result: 7</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Guerreiro, Ruben</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Guglielmi, Simon</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Haig, Jack</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Hamilton, Chris</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Harper, Chris</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Hautegem, Leander Van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Healy, Ben</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>85</td>
+      <td>result: 85</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Heming, Miká</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Hepburn, Michael</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Hermans, Quinten</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Hirschi, Marc</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Holter, Ådne</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Huys, Laurens</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Isidore, Noa</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Izagirre, Ion</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Jegat, Jordan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>result: 2</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Johannessen, Anders</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Jungels, Bob</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Kamp, Alexander</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Koch, Jonas</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Konrad, Patrick</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Kuypers, Gerben</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Labrosse, Jordan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Laengen, Vegard Stake</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Laurance, Axel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>35</td>
+      <td>result: 35</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Le Berre, Mathis</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Leijnse, Enzo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Leknessund, Andreas</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>9</td>
+      <td>result: 9</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Livyns, Arjen</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Lutsenko, Alexey</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Løland, Sakarias Koller</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Maas, Jan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Madouas, Valentin</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Martin, Guillaume</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>5</td>
+      <td>result: 5</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Martínez, Daniel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>40</td>
+      <td>result: 40</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Mas, Enric</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Matthews, Michael</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>20</td>
+      <td>result: 20</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>McNulty, Brandon</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Meens, Johan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Meester, Luca De</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Meurisse, Xandro</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Molard, Rudy</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Moniquet, Sylvain</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Moscon, Gianni</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Mühlberger, Gregor</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Norsgaard, Mathias</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Novak, Domen</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Nys, Thibau</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>60</td>
+      <td>result: 60</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>O'Connor, Ben</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Oliveira, Nelson</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Onley, Oscar</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>18</td>
+      <td>result: 18</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Ourselin, Paul</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Paasschens, Mathijs</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Pacher, Quentin</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Paquot, Tom</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Paret-Peintre, Aurélien</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>8</td>
+      <td>result: 8</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Pellizzari, Giulio</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Peters, Nans</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Pidcock, Tom</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>30</td>
+      <td>result: 30</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Plus, Laurens De</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Pogačar, Tadej</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>120</td>
+      <td>result: 120</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Pooter, Dries De</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Powless, Neilson</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>25</td>
+      <td>result: 25</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Renard-Haquin, Henri-François</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Retailleau, Valentin</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Rodriguez, Carlos</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Rouland, Louis</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Ryan, Archie</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Sande, Tosh Van der</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Scaroni, Christian</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>3</td>
+      <td>result: 3</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Schachmann, Maximilian</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Schelling, Ide</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Schmid, Mauro</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>4</td>
+      <td>result: 4</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Schultz, Nick</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Scotson, Callum</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Sepúlveda, Eduardo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Serry, Pieter</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Sheffield, Magnus</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Sivakov, Pavel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Skjelmose, Mattias</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Stannard, Robert</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Sweeny, Harry</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Teuns, Dylan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Thomas, Geraint</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Thompson, Reuben</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Tier, Floris De</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Tricht, Stan Van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Tronchon, Bastien</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Tulett, Ben</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>6</td>
+      <td>result: 6</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Ulissi, Diego</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Vader, Milan</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Vadic, Baptiste</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Valter, Attila</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Vansevenant, Mauri</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Vauquelin, Kévin</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Velasco, Simone</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>70</td>
+      <td>result: 70</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Vergaerde, Otto</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Vermaerke, Kevin</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Vermeersch, Florian</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Vermote, Julien</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Verstrynge, Emiel</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>14</td>
+      <td>result: 14</td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Vervaeke, Louis</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Vliegen, Loïc</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Voisard, Yannis</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Wandahl, Frederik</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Weiss, Fabian</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Wilder, Ilan Van</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Wilksch, Hannes</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Williams, Stevie</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Zambanini, Edoardo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Zana, Filippo</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Zimmermann, Georg</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Liège-Bastogne-Liège</td>
+      <td>Zukowsky, Nick</td>
+      <td>Classics Cat. 1</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Milano-Sanremo</td>
       <td>Abrahamsen, Jonas</td>
       <td>Classics Cat. 1</td>
@@ -31113,7 +32505,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Arashiro, Yukiya</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31121,15 +32513,15 @@ hide:
       <td>Tour of the Alps</td>
       <td>Arensman, Thymen</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>15</td>
-      <td>stage-4: 15</td>
+      <td>6</td>
+      <td>57</td>
+      <td>stage-4: 15 / stage-5: 2 / gc: 40</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>August, AJ</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31137,7 +32529,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Bais, Davide</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31145,15 +32537,15 @@ hide:
       <td>Tour of the Alps</td>
       <td>Bais, Mattia</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>6</td>
+      <td>stage-5: 6</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Baldaccini, Davide</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31161,9 +32553,9 @@ hide:
       <td>Tour of the Alps</td>
       <td>Bardet, Romain</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>21</td>
-      <td>stage-1: 8 / stage-2: 10 / stage-3: 1 / stage-4: 2</td>
+      <td>6</td>
+      <td>33</td>
+      <td>stage-1: 8 / stage-2: 10 / stage-3: 1 / stage-4: 2 / gc: 12</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
@@ -31177,9 +32569,9 @@ hide:
       <td>Tour of the Alps</td>
       <td>Bouwman, Koen</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>8</td>
+      <td>stage-5: 8</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
@@ -31193,15 +32585,15 @@ hide:
       <td>Tour of the Alps</td>
       <td>Caruso, Damiano</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>12</td>
-      <td>stage-2: 3 / stage-3: 4 / stage-4: 5</td>
+      <td>6</td>
+      <td>32</td>
+      <td>stage-2: 3 / stage-3: 4 / stage-4: 5 / gc: 20</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Castroviejo, Jonathan</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31209,9 +32601,9 @@ hide:
       <td>Tour of the Alps</td>
       <td>Cepeda, Jefferson Alexander</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>5</td>
-      <td>stage-1: 2 / stage-2: 2 / stage-4: 1</td>
+      <td>6</td>
+      <td>9</td>
+      <td>stage-1: 2 / stage-2: 2 / stage-4: 1 / gc: 4</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
@@ -31225,15 +32617,15 @@ hide:
       <td>Tour of the Alps</td>
       <td>Ciccone, Giulio</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>35</td>
-      <td>stage-1: 15 / stage-2: 6 / stage-3: 8 / stage-4: 6</td>
+      <td>6</td>
+      <td>65</td>
+      <td>stage-1: 15 / stage-2: 6 / stage-3: 8 / stage-4: 6 / gc: 30</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Covili, Luca</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31241,7 +32633,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>De Marchi, Alessandro</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31249,7 +32641,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Dhondt, Robbe</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31257,15 +32649,15 @@ hide:
       <td>Tour of the Alps</td>
       <td>Double, Paul</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>6</td>
+      <td>gc: 6</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Dunbar, Eddie</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31273,7 +32665,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Engelhardt, Felix</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31281,7 +32673,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Eriksson, Lucas</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31289,7 +32681,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Eulálio, Afonso</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31297,7 +32689,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Frigo, Marco</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>15</td>
       <td>stage-3: 15</td>
     </tr>
@@ -31305,7 +32697,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Froome, Chris</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31313,31 +32705,31 @@ hide:
       <td>Tour of the Alps</td>
       <td>Fuglsang, Jakob</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>5</td>
+      <td>stage-5: 5</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Gall, Felix</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>24</td>
-      <td>stage-1: 12 / stage-2: 4 / stage-4: 8</td>
+      <td>6</td>
+      <td>49</td>
+      <td>stage-1: 12 / stage-2: 4 / stage-4: 8 / gc: 25</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Gee, Derek</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>22</td>
-      <td>stage-3: 10 / stage-4: 12</td>
+      <td>6</td>
+      <td>57</td>
+      <td>stage-3: 10 / stage-4: 12 / gc: 35</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Geoghegan Hart, Tao</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31345,7 +32737,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Ghebreigzabhier, Amanuel</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31353,7 +32745,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Hamilton, Chris</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31369,7 +32761,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Heiduk, Kim</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31377,17 +32769,17 @@ hide:
       <td>Tour of the Alps</td>
       <td>Herzog, Emil</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>10</td>
+      <td>stage-5: 10</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Hindley, Jai</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>22</td>
-      <td>stage-1: 5 / stage-2: 5 / stage-3: 12</td>
+      <td>6</td>
+      <td>38</td>
+      <td>stage-1: 5 / stage-2: 5 / stage-3: 12 / gc: 16</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
@@ -31401,7 +32793,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Kämna, Lennard</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31409,7 +32801,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Lee, Jardi van der</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31417,15 +32809,15 @@ hide:
       <td>Tour of the Alps</td>
       <td>Lopez, Juan Pedro</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>2</td>
+      <td>gc: 2</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Martinelli, Alessio</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31433,7 +32825,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Martín, Alex</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31441,7 +32833,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Miholjević, Fran</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31449,7 +32841,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Muñoz, Fran</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31465,7 +32857,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Oomen, Sam</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31481,7 +32873,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Pickering, Finlay</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31489,7 +32881,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Pietrobon, Andrea</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31497,15 +32889,15 @@ hide:
       <td>Tour of the Alps</td>
       <td>Piganzoli, Davide</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>11</td>
-      <td>stage-2: 8 / stage-4: 3</td>
+      <td>6</td>
+      <td>21</td>
+      <td>stage-2: 8 / stage-4: 3 / gc: 10</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Pinarello, Alessandro</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31521,17 +32913,17 @@ hide:
       <td>Tour of the Alps</td>
       <td>Poole, Max</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>14</td>
-      <td>stage-1: 3 / stage-2: 1 / stage-3: 6 / stage-4: 4</td>
+      <td>6</td>
+      <td>33</td>
+      <td>stage-1: 3 / stage-2: 1 / stage-3: 6 / stage-4: 4 / stage-5: 1 / gc: 18</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Prodhomme, Nicolas</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>2</td>
-      <td>stage-3: 2</td>
+      <td>6</td>
+      <td>17</td>
+      <td>stage-3: 2 / stage-5: 15</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
@@ -31545,15 +32937,15 @@ hide:
       <td>Tour of the Alps</td>
       <td>Riccitello, Matthew</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>1</td>
-      <td>stage-1: 1</td>
+      <td>6</td>
+      <td>15</td>
+      <td>stage-1: 1 / gc: 14</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Rodríguez, Oscar</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31561,7 +32953,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Rojas, Vicente</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31577,23 +32969,23 @@ hide:
       <td>Tour of the Alps</td>
       <td>Seixas, Paul</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>27</td>
-      <td>stage-1: 10 / stage-2: 12 / stage-3: 5</td>
+      <td>6</td>
+      <td>47</td>
+      <td>stage-1: 10 / stage-2: 12 / stage-3: 5 / stage-5: 12 / gc: 8</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Storer, Michael</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>32</td>
-      <td>stage-1: 4 / stage-2: 15 / stage-3: 3 / stage-4: 10</td>
+      <td>6</td>
+      <td>85</td>
+      <td>stage-1: 4 / stage-2: 15 / stage-3: 3 / stage-4: 10 / stage-5: 3 / gc: 50</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
       <td>Stork, Florian</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>6</td>
       <td>stage-1: 6</td>
     </tr>
@@ -31601,9 +32993,9 @@ hide:
       <td>Tour of the Alps</td>
       <td>Tarozzi, Manuele</td>
       <td>Tour Cat. 3</td>
+      <td>6</td>
       <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>stage-5: 4</td>
     </tr>
     <tr>
       <td>Tour of the Alps</td>
@@ -31625,7 +33017,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Tolio, Alex</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31633,7 +33025,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Valgren, Michael</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31649,7 +33041,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Wandahl, Frederik</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31657,7 +33049,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Warbasse, Larry</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31665,7 +33057,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Zoccarato, Samuele</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31673,7 +33065,7 @@ hide:
       <td>Tour of the Alps</td>
       <td>Zwiehoff, Ben</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>

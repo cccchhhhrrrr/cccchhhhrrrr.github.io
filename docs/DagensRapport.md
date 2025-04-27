@@ -4,6 +4,45 @@ hide:
   - toc
 ---
 
+## 2025-04-27
+### Hovedspillet
+Pogačar, Tadej **120** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
+Healy, Ben **85** (Knak)  
+Nys, Thibau **60** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Tommy, Visti)  
+Bagioli, Andrea **50** (Jarma, Kenk)  
+Laurance, Axel **35** (Jappo, Matti, Okholm)  
+Pidcock, Tom **30** (Chrelle, Jappo, Knak)  
+Powless, Neilson **25** (Jappo)  
+Onley, Oscar **18** (Hustlersen, Okholm)  
+Eetvelt, Lennert Van **10** (Jappo, Kenk, Tommy)  
+Grégoire, Romain **7** (Chrelle, Jarma, Knak)  
+Schmid, Mauro **4** (Jarma, Visti)  
+
+### Cheapo
+Verstrynge, Emiel **14** (Jappo, Visti)  
+Jegat, Jordan **2** (Chrelle, Jappo, Knak)  
+Barré, Louis **1** (Chrelle, Knak)  
+
+
+
+
+
+## 2025-04-25
+### Hovedspillet
+Gee, Derek **35** (Jappo, Okholm)  
+Gall, Felix **25** (Chrelle, Matti, Visti)  
+Seixas, Paul **20** (Matti)  
+Poole, Max **19** (Chrelle, Jarma)  
+
+### Cheapo
+Bouwman, Koen **8** (Hustlersen)  
+Cepeda, Jefferson Alexander **4** (Hustlersen)  
+Tarozzi, Manuele **4** (Jarma)  
+
+
+
+
+
 ## 2025-04-24
 ### Hovedspillet
 Gee, Derek **12** (Jappo, Okholm)  
