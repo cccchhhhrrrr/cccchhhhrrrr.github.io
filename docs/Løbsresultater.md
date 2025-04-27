@@ -2719,7 +2719,7 @@ hide:
     </tr>
     <tr>
       <td>Cadel Evans Great Ocean Road Race</td>
-      <td>Watson, Samuel</td>
+      <td>Watson, Sam</td>
       <td>Classics Cat. 2</td>
       <td>1</td>
       <td>0</td>
@@ -7319,7 +7319,7 @@ hide:
     </tr>
     <tr>
       <td>Dwars door Vlaanderen</td>
-      <td>Watson, Samuel</td>
+      <td>Watson, Sam</td>
       <td>Classics Cat. 2</td>
       <td>1</td>
       <td>0</td>
@@ -8727,7 +8727,7 @@ hide:
     </tr>
     <tr>
       <td>E3 Saxo Classic</td>
-      <td>Watson, Samuel</td>
+      <td>Watson, Sam</td>
       <td>Classics Cat. 2</td>
       <td>1</td>
       <td>0</td>
@@ -10951,7 +10951,7 @@ hide:
     </tr>
     <tr>
       <td>Gent-Wevelgem</td>
-      <td>Watson, Samuel</td>
+      <td>Watson, Sam</td>
       <td>Classics Cat. 2</td>
       <td>1</td>
       <td>0</td>
@@ -22343,7 +22343,7 @@ hide:
     </tr>
     <tr>
       <td>Omloop Het Nieuwsblad</td>
-      <td>Watson, Samuel</td>
+      <td>Watson, Sam</td>
       <td>Classics Cat. 2</td>
       <td>1</td>
       <td>35</td>
@@ -23567,7 +23567,7 @@ hide:
     </tr>
     <tr>
       <td>Paris-Nice</td>
-      <td>Watson, Samuel</td>
+      <td>Watson, Sam</td>
       <td>Tour Cat. 2</td>
       <td>8</td>
       <td>16</td>
@@ -24983,7 +24983,7 @@ hide:
     </tr>
     <tr>
       <td>Paris-Roubaix</td>
-      <td>Watson, Samuel</td>
+      <td>Watson, Sam</td>
       <td>Classics Cat. 1</td>
       <td>1</td>
       <td>0</td>
@@ -26383,7 +26383,7 @@ hide:
     </tr>
     <tr>
       <td>Ronde van Vlaanderen</td>
-      <td>Watson, Samuel</td>
+      <td>Watson, Sam</td>
       <td>Classics Cat. 1</td>
       <td>1</td>
       <td>0</td>
@@ -31103,7 +31103,7 @@ hide:
     </tr>
     <tr>
       <td>Tour Down Under</td>
-      <td>Watson, Samuel</td>
+      <td>Watson, Sam</td>
       <td>Tour Cat. 2</td>
       <td>7</td>
       <td>20</td>
@@ -38263,7 +38263,7 @@ hide:
     </tr>
     <tr>
       <td>Volta ao Algarve</td>
-      <td>Watson, Samuel</td>
+      <td>Watson, Sam</td>
       <td>Tour Cat. 3</td>
       <td>6</td>
       <td>2</td>
