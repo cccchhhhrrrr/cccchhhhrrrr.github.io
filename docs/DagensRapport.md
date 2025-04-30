@@ -4,6 +4,22 @@ hide:
   - toc
 ---
 
+## 2025-04-30
+### Hovedspillet
+Brennan, Matthew **25** (Chrelle, Hustlersen, Kenk)  
+Artz, Huub **14** (Jarma)  
+Onley, Oscar **10** (Hustlersen, Okholm)  
+Romeo, Iván **2** (Matti)  
+
+### Cheapo
+Artz, Huub **14** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)  
+Champoussin, Clément **8** (Chrelle, Hustlersen, Visti)  
+Romeo, Iván **2** (Chrelle, Jappo)  
+
+
+
+
+
 ## 2025-04-29
 ### Hovedspillet
 Watson, Sam **25** (Tommy)  

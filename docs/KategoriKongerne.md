@@ -518,11 +518,11 @@ hide:
     </tr>
     <tr>
       <td>Artz, Huub</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>14</td>
       <td>0</td>
       <td>0.0</td>
+      <td>14</td>
+      <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -1062,19 +1062,19 @@ hide:
     </tr>
     <tr>
       <td>Baudin, Alex</td>
+      <td>9</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>1</td>
+      <td>11.1</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.0</td>
       <td>8</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>8</td>
-      <td>100.0</td>
+      <td>88.9</td>
     </tr>
     <tr>
       <td>Bauhaus, Phil</td>
@@ -2006,10 +2006,10 @@ hide:
     </tr>
     <tr>
       <td>Brennan, Matthew</td>
-      <td>90</td>
+      <td>115</td>
       <td>0</td>
       <td>0.0</td>
-      <td>90</td>
+      <td>115</td>
       <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
@@ -2630,10 +2630,10 @@ hide:
     </tr>
     <tr>
       <td>Champoussin, Clément</td>
-      <td>125</td>
+      <td>133</td>
       <td>0</td>
       <td>0.0</td>
-      <td>125</td>
+      <td>133</td>
       <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
@@ -3398,10 +3398,10 @@ hide:
     </tr>
     <tr>
       <td>Debruyne, Ramses</td>
-      <td>3</td>
+      <td>7</td>
       <td>0</td>
       <td>0.0</td>
-      <td>3</td>
+      <td>7</td>
       <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
@@ -8822,19 +8822,19 @@ hide:
     </tr>
     <tr>
       <td>Menten, Milan</td>
+      <td>32</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>6</td>
+      <td>18.8</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.0</td>
       <td>26</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>26</td>
-      <td>100.0</td>
+      <td>81.2</td>
     </tr>
     <tr>
       <td>Meo, Felix James</td>
@@ -9702,17 +9702,17 @@ hide:
     </tr>
     <tr>
       <td>Onley, Oscar</td>
-      <td>252</td>
+      <td>262</td>
       <td>0</td>
       <td>0.0</td>
-      <td>216</td>
-      <td>85.7</td>
+      <td>226</td>
+      <td>86.3</td>
       <td>0</td>
       <td>0.0</td>
       <td>18</td>
-      <td>7.1</td>
+      <td>6.9</td>
       <td>18</td>
-      <td>7.1</td>
+      <td>6.9</td>
       <td>0</td>
       <td>0.0</td>
     </tr>
@@ -9942,15 +9942,15 @@ hide:
     </tr>
     <tr>
       <td>Paret-Peintre, Aurélien</td>
-      <td>42</td>
+      <td>62</td>
       <td>0</td>
       <td>0.0</td>
-      <td>24</td>
-      <td>57.1</td>
+      <td>44</td>
+      <td>71.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>18</td>
-      <td>42.9</td>
+      <td>29.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -11414,13 +11414,13 @@ hide:
     </tr>
     <tr>
       <td>Romeo, Iván</td>
-      <td>152</td>
+      <td>154</td>
       <td>0</td>
       <td>0.0</td>
-      <td>120</td>
-      <td>78.9</td>
+      <td>122</td>
+      <td>79.2</td>
       <td>32</td>
-      <td>21.1</td>
+      <td>20.8</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -12054,11 +12054,11 @@ hide:
     </tr>
     <tr>
       <td>Shmidt, Artem</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>16</td>
       <td>0</td>
       <td>0.0</td>
+      <td>16</td>
+      <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -12710,10 +12710,10 @@ hide:
     </tr>
     <tr>
       <td>Swift, Ben</td>
-      <td>12</td>
+      <td>15</td>
       <td>0</td>
       <td>0.0</td>
-      <td>12</td>
+      <td>15</td>
       <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
@@ -13814,10 +13814,10 @@ hide:
     </tr>
     <tr>
       <td>Venturini, Clément</td>
-      <td>3</td>
+      <td>15</td>
       <td>0</td>
       <td>0.0</td>
-      <td>3</td>
+      <td>15</td>
       <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
