@@ -4,6 +4,20 @@ hide:
   - toc
 ---
 
+## 2025-04-29
+### Hovedspillet
+Watson, Sam **25** (Tommy)  
+Romeo, Iván **16** (Matti)  
+Christen, Jan **3** (Kenk)  
+Almeida, João **2** (Chrelle, Kenk)  
+
+### Cheapo
+Romeo, Iván **16** (Chrelle, Jappo)  
+
+
+
+
+
 ## 2025-04-27
 ### Hovedspillet
 Pogačar, Tadej **120** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  

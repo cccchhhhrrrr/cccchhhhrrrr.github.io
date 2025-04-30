@@ -90,7 +90,7 @@
       <td>Van Eetvelt Lennert</td>
       <td>Van Der Poel Mathieu</td>
       <td>Milan Jonathan</td>
-      <td>Philipsen Jasper</td>
+      <td class = "startlist">Philipsen Jasper</td>
       <td>Milan Jonathan</td>
       <td>Milan Jonathan</td>
       <td>Pedersen Mads</td>
@@ -102,7 +102,7 @@
       <td>Almeida João</td>
       <td>Ayuso Juan</td>
       <td>Merlier Tim</td>
-      <td>Philipsen Jasper</td>
+      <td class = "startlist">Philipsen Jasper</td>
       <td>Ayuso Juan</td>
       <td>Merlier Tim</td>
       <td>Skjelmose Mattias</td>
@@ -122,20 +122,20 @@
       <td>Rodríguez Carlos</td>
       <td>Lipowitz Florian</td>
       <td>Van Eetvelt Lennert</td>
-      <td class = "startlist">Kooij Olav</td>
+      <td>Kooij Olav</td>
     </tr>
     <tr>
       <th>6</th>
       <td>7</td>
       <td>De Lie Arnaud</td>
-      <td>Hirschi Marc</td>
+      <td class = "startlist">Hirschi Marc</td>
       <td>De Lie Arnaud</td>
       <td>De Lie Arnaud</td>
       <td>Van Eetvelt Lennert</td>
       <td>Carapaz Richard</td>
-      <td class = "startlist">Kooij Olav</td>
+      <td>Kooij Olav</td>
       <td>Girmay Biniam</td>
-      <td class = "startlist">Kooij Olav</td>
+      <td>Kooij Olav</td>
       <td>De Lie Arnaud</td>
     </tr>
     <tr>
@@ -145,7 +145,7 @@
       <td>Onley Oscar</td>
       <td>Landa Mikel</td>
       <td>Landa Mikel</td>
-      <td class = "startlist">Kooij Olav</td>
+      <td>Kooij Olav</td>
       <td>Girmay Biniam</td>
       <td class = "startlist">Van Gils Maxim</td>
       <td>Yates Simon</td>
@@ -160,7 +160,7 @@
       <td>Girmay Biniam</td>
       <td>Geoghegan Hart Tao</td>
       <td class = "startlist">Van Gils Maxim</td>
-      <td>Hirschi Marc</td>
+      <td class = "startlist">Hirschi Marc</td>
       <td>Merlier Tim</td>
       <td>Onley Oscar</td>
       <td>Pithie Laurence</td>
@@ -171,10 +171,10 @@
       <td>10</td>
       <td class = "startlist">Nys Thibau</td>
       <td>Uijtdebroeks Cian</td>
-      <td>Hirschi Marc</td>
+      <td class = "startlist">Hirschi Marc</td>
       <td>Grégoire Romain</td>
       <td>Narváez Jhonatan</td>
-      <td class = "startlist">Healy Ben</td>
+      <td>Healy Ben</td>
       <td>Girmay Biniam</td>
       <td>Gee Derek</td>
       <td class = "startlist">Nys Thibau</td>
@@ -191,7 +191,7 @@
       <td class = "startlist">Nys Thibau</td>
       <td>Buitrago Santiago</td>
       <td>Sheffield Magnus</td>
-      <td class = "startlist">Martinez Lenny</td>
+      <td>Martinez Lenny</td>
       <td class = "startlist">Nys Thibau</td>
     </tr>
     <tr>
@@ -199,14 +199,14 @@
       <td>12</td>
       <td>Hayter Ethan</td>
       <td>Plapp Luke</td>
-      <td>Powless Neilson</td>
+      <td class = "startlist">Powless Neilson</td>
       <td>Poole Max</td>
       <td class = "startlist">Magnier Paul</td>
       <td>Grégoire Romain</td>
       <td>Gall Felix</td>
       <td>Geoghegan Hart Tao</td>
       <td class = "startlist">Magnier Paul</td>
-      <td class = "startlist">Martinez Lenny</td>
+      <td>Martinez Lenny</td>
     </tr>
     <tr>
       <th>12</th>
@@ -216,7 +216,7 @@
       <td class = "startlist">Nys Thibau</td>
       <td class = "startlist">Magnier Paul</td>
       <td>Kron Andreas</td>
-      <td class = "startlist">Martinez Lenny</td>
+      <td>Martinez Lenny</td>
       <td>Castrillo Pablo</td>
       <td>Vacek Mathias</td>
       <td class = "startlist">Pellizzari Giulio</td>
@@ -232,7 +232,7 @@
       <td>Christen Jan</td>
       <td>Strong Corbin</td>
       <td class = "startlist">Nys Thibau</td>
-      <td class = "startlist">Martinez Lenny</td>
+      <td>Martinez Lenny</td>
       <td>Welsford Sam</td>
       <td class = "startlist">Magnier Paul</td>
     </tr>
@@ -240,15 +240,15 @@
       <th>14</th>
       <td>15</td>
       <td class = "startlist">Magnier Paul</td>
-      <td class = "startlist">Nerurkar Lukas</td>
-      <td class = "startlist">Martinez Lenny</td>
-      <td>Schmid Mauro</td>
+      <td>Nerurkar Lukas</td>
+      <td>Martinez Lenny</td>
+      <td class = "startlist">Schmid Mauro</td>
       <td class = "startlist">Bagioli Andrea</td>
       <td>Lapeira Paul</td>
-      <td class = "startlist">Martinez Lenny</td>
+      <td>Martinez Lenny</td>
       <td>Sivakov Pavel</td>
       <td>Lapeira Paul</td>
-      <td>Schmid Mauro</td>
+      <td class = "startlist">Schmid Mauro</td>
     </tr>
     <tr>
       <th>15</th>
@@ -270,7 +270,7 @@
       <td>Fisher-Black Finn</td>
       <td class = "startlist">Kanter Max</td>
       <td>Fisher-Black Finn</td>
-      <td class = "startlist">Nerurkar Lukas</td>
+      <td>Nerurkar Lukas</td>
       <td class = "startlist">Andresen Tobias Lund</td>
       <td>Trentin Matteo</td>
       <td>Mihkels Madis</td>
