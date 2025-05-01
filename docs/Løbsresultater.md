@@ -9590,6 +9590,1006 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Ackermann, Pascal</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Adrià, Roger</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Alaphilippe, Julian</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Aleotti, Giovanni</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Andersen, Søren Kragh</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Andresen, Tobias Lund</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Aranburu, Alex</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>3</td>
+      <td>result: 3</td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Asbroeck, Tom Van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Badilatti, Matteo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Bagioli, Andrea</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Barguil, Warren</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>14</td>
+      <td>result: 14</td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Barrenetxea, Jon</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>50</td>
+      <td>result: 50</td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Barta, Will</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Battistella, Samuele</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Bax, Sjoerd</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Biermans, Jenthe</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Bol, Cees</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Brambilla, Gianluca</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Bugge, Martin Urianstad</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Busatto, Francesco</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Cattaneo, Mattia</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Christen, Fabio</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>7</td>
+      <td>result: 7</td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Consonni, Simone</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Cort, Magnus</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>60</td>
+      <td>result: 60</td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Covi, Alessandro</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>12</td>
+      <td>result: 12</td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>De La Cruz, David</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>1</td>
+      <td>result: 1</td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>De Marchi, Alessandro</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>De Pretto, Davide</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Declercq, Tim</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Denz, Nico</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>18</td>
+      <td>result: 18</td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Dhondt, Robbe</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Double, Paul</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Durbridge, Luke</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Dversnes, Fredrik</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Eekhoff, Nils</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Engelhardt, Felix</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Eriksson, Lucas</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Ermakov, Roman</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Flynn, Sean</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Froideveaux, Robin</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>García Cortina, Iván</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Gelders, Gil</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Gesbert, Elie</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Glivar, Gal</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Gogl, Michael</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>González, David</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Grondin, Donavan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Guerreiro, Ruben</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>6</td>
+      <td>result: 6</td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Herzog, Emil</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Hirschi, Marc</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>22</td>
+      <td>result: 22</td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Hollmann, Juri</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Holter, Ådne</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Honoré, Mikkel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Houle, Hugo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>8</td>
+      <td>result: 8</td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Huby, Antoine</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Johannessen, Anders</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Kamp, Alexander</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Kanter, Max</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Kielich, Timo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Krieger, Alexander</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Laengen, Vegard Stake</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Lastra, Jonathan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>5</td>
+      <td>result: 5</td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Leijnse, Enzo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Leknessund, Andreas</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Løland, Sakarias Koller</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Mackellar, Alastair</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Magnier, Paul</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Marit, Arne</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Matthews, Michael</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>70</td>
+      <td>result: 70</td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Meurisse, Xandro</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>result: 2</td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Mohorič, Matej</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Morgado, António</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Mulubrhan, Henok</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Mühlberger, Gregor</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Nys, Thibau</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Oldani, Stefano</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>26</td>
+      <td>result: 26</td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Oliveira, Rui</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Ourselin, Paul</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Pasqualon, Andrea</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Perez, Anthony</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Pescador, Diego</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Philipsen, Jasper</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Pithie, Laurence</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Pluimers, Rick</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Politt, Nils</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Powless, Neilson</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>40</td>
+      <td>result: 40</td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Raccagni, Andrea</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Ries, Michel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Romele, Alessandro</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Rootkin-Gray, Jack</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Rutsch, Jonas</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Samitier, Sergio</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Schachmann, Maximilian</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Schmid, Mauro</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Schwarzmann, Michael</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Serrano, Gonzalo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Sintmaartensdijk, Roel van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Smith, Dion</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Stannard, Robert</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Stewart, Jake</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Su, Haoyu</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Svestad-Bårdseng, Embret</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Sénéchal, Florian</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Teunissen, Mike</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Teuns, Dylan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Teutenberg, Tim Torn</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Thierry, Pierre</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Træen, Torstein</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Tu, Sergio</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Valgren, Michael</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Vanhoucke, Harm</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Velasco, Simone</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>4</td>
+      <td>result: 4</td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Vermaerke, Kevin</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Vermeersch, Florian</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Vernon, Ethan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Verstrynge, Emiel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Wandahl, Frederik</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>35</td>
+      <td>result: 35</td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Warlop, Jordi</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Weiss, Fabian</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Wellens, Tim</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Welsford, Sam</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Williams, Stevie</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Withen Philipsen, Albert</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>30</td>
+      <td>result: 30</td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Zambanini, Edoardo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>10</td>
+      <td>result: 10</td>
+    </tr>
+    <tr>
+      <td>Eschborn-Frankfurt</td>
+      <td>Zimmermann, Georg</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Gent-Wevelgem</td>
       <td>Abrahamsen, Jonas</td>
       <td>Classics Cat. 2</td>
@@ -31777,9 +32777,9 @@ hide:
       <td>Tour de Romandie</td>
       <td>Almeida, João</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>2</td>
-      <td>stage-0: 2</td>
+      <td>3</td>
+      <td>3</td>
+      <td>stage-0: 2 / stage-2: 1</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
@@ -31793,7 +32793,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Arcas, Jorge</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31801,7 +32801,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Artz, Huub</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>14</td>
       <td>stage-1: 14</td>
     </tr>
@@ -31809,7 +32809,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Asgreen, Kasper</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31817,7 +32817,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Barré, Louis</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31825,15 +32825,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Baudin, Alex</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>1</td>
-      <td>stage-1: 1</td>
+      <td>3</td>
+      <td>21</td>
+      <td>stage-1: 1 / stage-2: 20</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Bayer, Tobias</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31841,7 +32841,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Belle, Loe van</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31849,7 +32849,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Berhe, Welay Hagos</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31857,7 +32857,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Bernard, Julien</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31865,7 +32865,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Bettiol, Alberto</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31881,7 +32881,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Bissegger, Stefan</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>14</td>
       <td>stage-0: 14</td>
     </tr>
@@ -31889,7 +32889,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Bittner, Pavel</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>1</td>
       <td>stage-0: 1</td>
     </tr>
@@ -31897,7 +32897,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Bonneu, Kamiel</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31913,7 +32913,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Brennan, Matthew</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>25</td>
       <td>stage-1: 25</td>
     </tr>
@@ -31921,7 +32921,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Buchmann, Emanuel</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31929,7 +32929,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Buratti, Nicolò</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31945,7 +32945,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Carthy, Hugh</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31953,7 +32953,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Castrillo, Pablo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31961,7 +32961,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Cavagna, Rémi</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31969,7 +32969,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Cerný, Josef</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -31977,7 +32977,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Champoussin, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>8</td>
       <td>stage-1: 8</td>
     </tr>
@@ -31985,7 +32985,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Christen, Jan</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>3</td>
       <td>stage-0: 3</td>
     </tr>
@@ -31993,7 +32993,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Cimolai, Davide</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32001,7 +33001,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Combaud, Romain</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32009,7 +33009,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Cosnefroy, Benoît</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32017,7 +33017,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Currie, Logan</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32025,7 +33025,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Davy, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32033,7 +33033,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Debeaumarché, Nicolas</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32041,7 +33041,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Debruyne, Ramses</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>4</td>
       <td>stage-1: 4</td>
     </tr>
@@ -32049,7 +33049,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Dillier, Silvan</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32057,7 +33057,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Drizners, Jarrad</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32065,15 +33065,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Dunbar, Eddie</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>3</td>
+      <td>stage-2: 3</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Eddy, Patrick</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32081,7 +33081,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Eenkhoorn, Pascal</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32089,9 +33089,9 @@ hide:
       <td>Tour de Romandie</td>
       <td>Eetvelt, Lennert Van</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>14</td>
+      <td>stage-2: 14</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
@@ -32105,15 +33105,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Evenepoel, Remco</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>6</td>
-      <td>stage-0: 6</td>
+      <td>3</td>
+      <td>16</td>
+      <td>stage-0: 6 / stage-2: 10</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Foldager, Anders</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32121,15 +33121,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Fortunato, Lorenzo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>25</td>
+      <td>stage-2: 25</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>García, Raúl</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32137,7 +33137,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Gaudu, David</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32145,7 +33145,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Gazzoli, Michele</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32153,7 +33153,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Germani, Lorenzo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32161,7 +33161,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Ghebreigzabhier, Amanuel</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32169,7 +33169,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Graat, Tijmen</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32177,7 +33177,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Gradek, Kamil</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32185,7 +33185,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Gregaard, Jonas</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32193,7 +33193,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Grossschartner, Felix</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32201,7 +33201,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Guernalec, Thibault</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>8</td>
       <td>stage-0: 8</td>
     </tr>
@@ -32209,7 +33209,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Guernalec, Victor</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>8</td>
       <td>stage-0: 8</td>
     </tr>
@@ -32217,7 +33217,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Haig, Jack</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32225,7 +33225,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Hajek, Alexander</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32233,7 +33233,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Hellemose, Asbjørn</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32241,7 +33241,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Herrada, Jesús</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32249,7 +33249,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Herregodts, Rune</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32257,7 +33257,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Higuita, Sergio</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32265,7 +33265,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Huising, Menno</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32273,7 +33273,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Izagirre, Ion</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32281,7 +33281,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Juul-Jensen, Chris</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32297,7 +33297,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Knight, Oliver</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32305,7 +33305,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Koch, Jonas</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32313,7 +33313,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Kolze Changizi, Sebastian</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32321,7 +33321,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Kuypers, Gerben</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32329,7 +33329,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Kämna, Lennard</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32337,7 +33337,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Küng, Stefan</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>10</td>
       <td>stage-0: 10</td>
     </tr>
@@ -32345,7 +33345,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Langellotti, Victor</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32353,15 +33353,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Lecerf, William Junior</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>16</td>
+      <td>stage-2: 16</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Leemreize, Gijs</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32369,7 +33369,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Leonard, Michael</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32377,15 +33377,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Lopez, Juan Pedro</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>12</td>
+      <td>stage-2: 12</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Lozouet, Léandre</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32393,7 +33393,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Maciejuk, Filip</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32401,7 +33401,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Martinez, Lenny</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32409,7 +33409,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>McLay, Daniel</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32417,7 +33417,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Menten, Milan</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>6</td>
       <td>stage-1: 6</td>
     </tr>
@@ -32425,7 +33425,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Meulen, Max van der</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32433,7 +33433,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Mollema, Bauke</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32441,7 +33441,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Mosca, Jacopo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32457,7 +33457,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Nordhagen, Jørgen</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32465,7 +33465,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Norsgaard, Mathias</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32473,7 +33473,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Oliveira, Ivo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>20</td>
       <td>stage-0: 20</td>
     </tr>
@@ -32481,7 +33481,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Oliveira, Nelson</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32489,15 +33489,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Onley, Oscar</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>10</td>
-      <td>stage-1: 10</td>
+      <td>3</td>
+      <td>12</td>
+      <td>stage-1: 10 / stage-2: 2</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Oomen, Sam</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32505,7 +33505,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Paasschens, Mathijs</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32513,7 +33513,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Paleni, Enzo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32521,7 +33521,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Palzer, Anton</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32529,7 +33529,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Paquot, Tom</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32537,7 +33537,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Paret-Peintre, Aurélien</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>20</td>
       <td>stage-1: 20</td>
     </tr>
@@ -32545,7 +33545,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Pedersen, Casper</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32553,7 +33553,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Pickering, Finlay</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32561,7 +33561,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Plapp, Luke</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32569,7 +33569,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Pooter, Dries De</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32577,7 +33577,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Price-Pejtersen, Johan</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32585,7 +33585,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Rafferty, Darren</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32593,7 +33593,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Riesebeek, Oscar</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32601,7 +33601,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Rochas, Rémy</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32609,7 +33609,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Rodriguez, Carlos</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32617,15 +33617,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Rodríguez, Cristian</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>4</td>
+      <td>stage-2: 4</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Romeo, Iván</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>18</td>
       <td>stage-0: 16 / stage-1: 2</td>
     </tr>
@@ -32633,15 +33633,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Romo, Javier</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>6</td>
+      <td>stage-2: 6</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Rondel, Mathys</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32649,7 +33649,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Roosen, Timo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32657,7 +33657,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Ryan, Archie</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32665,7 +33665,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Scotson, Callum</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32673,7 +33673,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Sepúlveda, Eduardo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32681,7 +33681,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Serry, Pieter</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32689,7 +33689,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Shaw, James</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32705,7 +33705,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Sobrero, Matteo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32713,7 +33713,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Staune-Mittet, Johannes</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32721,7 +33721,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Stewart, Campbell</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32737,7 +33737,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Swift, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>3</td>
       <td>stage-1: 3</td>
     </tr>
@@ -32745,15 +33745,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Tejada, Harold</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>8</td>
+      <td>stage-2: 8</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Thalmann, Roland</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32761,7 +33761,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Thomas, Geraint</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32769,7 +33769,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Thompson, Reuben</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32777,7 +33777,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Torres, Pablo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32785,7 +33785,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Toumire, Hugo</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32801,7 +33801,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Uhlig, Henri</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32809,7 +33809,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Vansevenant, Mauri</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32825,7 +33825,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Venturini, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>12</td>
       <td>stage-1: 12</td>
     </tr>
@@ -32833,7 +33833,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Vermote, Julien</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32841,7 +33841,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Vine, Jay</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>4</td>
       <td>stage-0: 4</td>
     </tr>
@@ -32849,7 +33849,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Vlasov, Aleksandr</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32857,7 +33857,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Watson, Sam</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>25</td>
       <td>stage-0: 25</td>
     </tr>
@@ -32865,7 +33865,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Zijlaard, Maikel</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>12</td>
       <td>stage-0: 12</td>
     </tr>
@@ -32873,7 +33873,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Zwiehoff, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>

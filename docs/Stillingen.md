@@ -45,72 +45,72 @@ hide:
     <tr>
       <td>Chrelle</td>
       <td>350.0</td>
-      <td>412</td>
-      <td>4188</td>
-      <td>10.17</td>
+      <td>421</td>
+      <td>4219</td>
+      <td>10.02</td>
     </tr>
     <tr>
       <td>Jappo</td>
       <td>350.0</td>
-      <td>421</td>
-      <td>4041</td>
-      <td>9.60</td>
+      <td>431</td>
+      <td>4147</td>
+      <td>9.62</td>
     </tr>
     <tr>
       <td>Kenk</td>
       <td>349.9</td>
-      <td>397</td>
-      <td>3839</td>
-      <td>9.67</td>
+      <td>409</td>
+      <td>3919</td>
+      <td>9.58</td>
     </tr>
     <tr>
       <td>Tommy</td>
       <td>350.0</td>
-      <td>381</td>
-      <td>3502</td>
-      <td>9.19</td>
-    </tr>
-    <tr>
-      <td>Jarma</td>
-      <td>350.0</td>
-      <td>369</td>
-      <td>3498</td>
-      <td>9.48</td>
+      <td>393</td>
+      <td>3581</td>
+      <td>9.11</td>
     </tr>
     <tr>
       <td>Knak</td>
       <td>349.8</td>
-      <td>396</td>
-      <td>3470</td>
-      <td>8.76</td>
+      <td>405</td>
+      <td>3522</td>
+      <td>8.70</td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>350.0</td>
+      <td>375</td>
+      <td>3498</td>
+      <td>9.33</td>
     </tr>
     <tr>
       <td>Visti</td>
       <td>350.0</td>
-      <td>398</td>
+      <td>406</td>
       <td>3398</td>
-      <td>8.54</td>
-    </tr>
-    <tr>
-      <td>Okholm</td>
-      <td>350.0</td>
-      <td>415</td>
-      <td>3315</td>
-      <td>7.99</td>
+      <td>8.37</td>
     </tr>
     <tr>
       <td>Hustlersen</td>
       <td>327.8</td>
-      <td>353</td>
-      <td>3310</td>
-      <td>9.38</td>
+      <td>365</td>
+      <td>3364</td>
+      <td>9.22</td>
+    </tr>
+    <tr>
+      <td>Okholm</td>
+      <td>350.0</td>
+      <td>422</td>
+      <td>3347</td>
+      <td>7.93</td>
     </tr>
     <tr>
       <td>Matti</td>
       <td>349.1</td>
-      <td>417</td>
-      <td>3310</td>
-      <td>7.94</td>
+      <td>426</td>
+      <td>3340</td>
+      <td>7.84</td>
     </tr>
   </tbody>
 </table>

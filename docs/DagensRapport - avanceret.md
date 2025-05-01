@@ -4,23 +4,6 @@ hide:
   - toc
 ---
 
-## 2025-05-01
-### Hovedspillet
-Powless, Neilson **40** (Jappo)  
-Wandahl, Frederik **35** (Kenk, Tommy)  
-Withen Philipsen, Albert **30** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Okholm, Tommy)  
-Hirschi, Marc **22** (Hustlersen, Jappo, Knak)  
-Eetvelt, Lennert Van **14** (Jappo, Kenk, Tommy)  
-Onley, Oscar **2** (Hustlersen, Okholm)  
-Almeida, João **1** (Chrelle, Kenk)  
-
-### Cheapo
-Wandahl, Frederik **35** (Hustlersen, Jappo, Kenk, Knak, Visti)  
-
-
-
-
-
 ## 2025-04-30
 ### Hovedspillet
 Brennan, Matthew **25** (Chrelle, Hustlersen, Kenk)  
