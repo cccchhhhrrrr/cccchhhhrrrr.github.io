@@ -32785,7 +32785,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Aniołkowski, Stanisław</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32937,7 +32937,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Capiot, Amaury</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33289,7 +33289,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Kluckers, Arthur</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33449,7 +33449,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Nerurkar, Lukas</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33697,7 +33697,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Shmidt, Artem</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>16</td>
       <td>stage-1: 16</td>
     </tr>
@@ -33793,7 +33793,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Tricht, Stan Van</td>
       <td>Tour Cat. 2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
