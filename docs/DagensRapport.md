@@ -4,6 +4,19 @@ hide:
   - toc
 ---
 
+## 2025-05-02
+### Hovedspillet
+Martinez, Lenny **20** (Jappo, Knak, Matti, Okholm, Tommy, Visti)  
+Almeida, João **16** (Chrelle, Kenk)  
+Onley, Oscar **4** (Hustlersen, Okholm)  
+
+### Cheapo
+Barré, Louis **14** (Chrelle, Knak)  
+
+
+
+
+
 ## 2025-05-01
 ### Hovedspillet
 Powless, Neilson **40** (Jappo)  
