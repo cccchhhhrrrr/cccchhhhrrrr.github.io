@@ -32777,9 +32777,9 @@ hide:
       <td>Tour de Romandie</td>
       <td>Almeida, João</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>39</td>
-      <td>stage-0: 2 / stage-2: 1 / stage-3: 16 / stage-4: 20</td>
+      <td>7</td>
+      <td>159</td>
+      <td>stage-0: 2 / stage-2: 1 / stage-3: 16 / stage-4: 20 / stage-5: 20 / gc: 100</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
@@ -32793,7 +32793,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Arcas, Jorge</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32809,7 +32809,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Asgreen, Kasper</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32817,7 +32817,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Barré, Louis</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>14</td>
       <td>stage-3: 14</td>
     </tr>
@@ -32825,7 +32825,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Baudin, Alex</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>21</td>
       <td>stage-1: 1 / stage-2: 20</td>
     </tr>
@@ -32833,7 +32833,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Bayer, Tobias</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32857,7 +32857,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Bernard, Julien</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32865,9 +32865,9 @@ hide:
       <td>Tour de Romandie</td>
       <td>Bettiol, Alberto</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>12</td>
-      <td>stage-3: 12</td>
+      <td>7</td>
+      <td>28</td>
+      <td>stage-3: 12 / stage-5: 16</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
@@ -32881,7 +32881,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Bissegger, Stefan</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>14</td>
       <td>stage-0: 14</td>
     </tr>
@@ -32889,7 +32889,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Bittner, Pavel</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>1</td>
       <td>stage-0: 1</td>
     </tr>
@@ -32897,7 +32897,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Bonneu, Kamiel</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32913,15 +32913,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Brennan, Matthew</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>25</td>
-      <td>stage-1: 25</td>
+      <td>7</td>
+      <td>27</td>
+      <td>stage-1: 25 / stage-5: 2</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Buchmann, Emanuel</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32929,7 +32929,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Buratti, Nicolò</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32945,7 +32945,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Carthy, Hugh</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32953,7 +32953,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Castrillo, Pablo</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32961,15 +32961,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Cavagna, Rémi</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>4</td>
+      <td>stage-5: 4</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Cerný, Josef</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -32993,7 +32993,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Cimolai, Davide</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33001,7 +33001,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Combaud, Romain</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33009,7 +33009,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Cosnefroy, Benoît</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33017,7 +33017,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Currie, Logan</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33025,7 +33025,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Davy, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33041,7 +33041,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Debruyne, Ramses</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>4</td>
       <td>stage-1: 4</td>
     </tr>
@@ -33049,7 +33049,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Dillier, Silvan</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33057,7 +33057,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Drizners, Jarrad</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33065,7 +33065,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Dunbar, Eddie</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>3</td>
       <td>stage-2: 3</td>
     </tr>
@@ -33073,7 +33073,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Eddy, Patrick</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33081,7 +33081,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Eenkhoorn, Pascal</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33089,9 +33089,9 @@ hide:
       <td>Tour de Romandie</td>
       <td>Eetvelt, Lennert Van</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>14</td>
-      <td>stage-2: 14</td>
+      <td>7</td>
+      <td>26</td>
+      <td>stage-2: 14 / gc: 12</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
@@ -33105,9 +33105,9 @@ hide:
       <td>Tour de Romandie</td>
       <td>Evenepoel, Remco</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>26</td>
-      <td>stage-0: 6 / stage-2: 10 / stage-3: 8 / stage-4: 2</td>
+      <td>7</td>
+      <td>101</td>
+      <td>stage-0: 6 / stage-2: 10 / stage-3: 8 / stage-4: 2 / stage-5: 25 / gc: 50</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
@@ -33121,23 +33121,23 @@ hide:
       <td>Tour de Romandie</td>
       <td>Fortunato, Lorenzo</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>41</td>
-      <td>stage-2: 25 / stage-4: 16</td>
+      <td>7</td>
+      <td>101</td>
+      <td>stage-2: 25 / stage-4: 16 / gc: 60</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>García, Raúl</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>10</td>
+      <td>stage-5: 10</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Gaudu, David</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33145,7 +33145,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Gazzoli, Michele</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33153,7 +33153,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Germani, Lorenzo</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33161,7 +33161,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Ghebreigzabhier, Amanuel</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33169,7 +33169,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Graat, Tijmen</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33177,7 +33177,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Gradek, Kamil</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33185,7 +33185,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Gregaard, Jonas</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33193,7 +33193,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Grossschartner, Felix</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33201,31 +33201,31 @@ hide:
       <td>Tour de Romandie</td>
       <td>Guernalec, Thibault</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>8</td>
-      <td>stage-0: 8</td>
+      <td>7</td>
+      <td>16</td>
+      <td>stage-0: 8 / stage-5: 8</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Guernalec, Victor</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>8</td>
-      <td>stage-0: 8</td>
+      <td>7</td>
+      <td>16</td>
+      <td>stage-0: 8 / stage-5: 8</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Haig, Jack</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>6</td>
+      <td>gc: 6</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Hajek, Alexander</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33233,15 +33233,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Hellemose, Asbjørn</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>2</td>
+      <td>gc: 2</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Herrada, Jesús</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33257,15 +33257,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Higuita, Sergio</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>4</td>
-      <td>stage-4: 4</td>
+      <td>7</td>
+      <td>12</td>
+      <td>stage-4: 4 / gc: 8</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Huising, Menno</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33273,7 +33273,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Izagirre, Ion</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33281,7 +33281,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Juul-Jensen, Chris</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33297,7 +33297,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Knight, Oliver</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33313,7 +33313,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Kolze Changizi, Sebastian</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33321,7 +33321,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Kuypers, Gerben</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33329,7 +33329,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Kämna, Lennard</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33337,15 +33337,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Küng, Stefan</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>10</td>
-      <td>stage-0: 10</td>
+      <td>7</td>
+      <td>13</td>
+      <td>stage-0: 10 / stage-5: 3</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Langellotti, Victor</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33353,15 +33353,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Lecerf, William Junior</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>19</td>
-      <td>stage-2: 16 / stage-4: 3</td>
+      <td>7</td>
+      <td>54</td>
+      <td>stage-2: 16 / stage-4: 3 / gc: 35</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Leemreize, Gijs</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33369,7 +33369,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Leonard, Michael</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33377,15 +33377,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Lopez, Juan Pedro</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>13</td>
-      <td>stage-2: 12 / stage-4: 1</td>
+      <td>7</td>
+      <td>53</td>
+      <td>stage-2: 12 / stage-4: 1 / gc: 40</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Lozouet, Léandre</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33393,7 +33393,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Maciejuk, Filip</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33401,9 +33401,9 @@ hide:
       <td>Tour de Romandie</td>
       <td>Martinez, Lenny</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>45</td>
-      <td>stage-3: 20 / stage-4: 25</td>
+      <td>7</td>
+      <td>130</td>
+      <td>stage-3: 20 / stage-4: 25 / gc: 85</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
@@ -33425,7 +33425,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Meulen, Max van der</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33433,7 +33433,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Mollema, Bauke</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33441,7 +33441,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Mosca, Jacopo</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33457,15 +33457,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Nordhagen, Jørgen</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>6</td>
-      <td>stage-4: 6</td>
+      <td>7</td>
+      <td>22</td>
+      <td>stage-4: 6 / gc: 16</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Norsgaard, Mathias</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33473,7 +33473,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Oliveira, Ivo</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>20</td>
       <td>stage-0: 20</td>
     </tr>
@@ -33481,7 +33481,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Oliveira, Nelson</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33489,15 +33489,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Onley, Oscar</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>16</td>
-      <td>stage-1: 10 / stage-2: 2 / stage-3: 4</td>
+      <td>7</td>
+      <td>26</td>
+      <td>stage-1: 10 / stage-2: 2 / stage-3: 4 / gc: 10</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Oomen, Sam</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33505,7 +33505,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Paasschens, Mathijs</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33513,7 +33513,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Paleni, Enzo</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33521,7 +33521,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Palzer, Anton</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33537,7 +33537,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Paret-Peintre, Aurélien</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>26</td>
       <td>stage-1: 20 / stage-3: 6</td>
     </tr>
@@ -33545,7 +33545,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Pedersen, Casper</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33553,7 +33553,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Pickering, Finlay</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33561,7 +33561,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Plapp, Luke</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33569,7 +33569,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Pooter, Dries De</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33577,15 +33577,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Price-Pejtersen, Johan</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>6</td>
+      <td>stage-5: 6</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Rafferty, Darren</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33601,7 +33601,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Rochas, Rémy</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>1</td>
       <td>stage-3: 1</td>
     </tr>
@@ -33609,47 +33609,47 @@ hide:
       <td>Tour de Romandie</td>
       <td>Rodriguez, Carlos</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>12</td>
-      <td>stage-4: 12</td>
+      <td>7</td>
+      <td>57</td>
+      <td>stage-4: 12 / gc: 45</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Rodríguez, Cristian</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>14</td>
-      <td>stage-2: 4 / stage-4: 10</td>
+      <td>7</td>
+      <td>34</td>
+      <td>stage-2: 4 / stage-4: 10 / gc: 20</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Romeo, Iván</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>18</td>
-      <td>stage-0: 16 / stage-1: 2</td>
+      <td>7</td>
+      <td>19</td>
+      <td>stage-0: 16 / stage-1: 2 / stage-5: 1</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Romo, Javier</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>16</td>
-      <td>stage-2: 6 / stage-3: 10</td>
+      <td>7</td>
+      <td>41</td>
+      <td>stage-2: 6 / stage-3: 10 / gc: 25</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Rondel, Mathys</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>11</td>
-      <td>stage-3: 3 / stage-4: 8</td>
+      <td>7</td>
+      <td>41</td>
+      <td>stage-3: 3 / stage-4: 8 / gc: 30</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Roosen, Timo</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33657,7 +33657,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Ryan, Archie</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33665,15 +33665,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Scotson, Callum</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>4</td>
+      <td>gc: 4</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Sepúlveda, Eduardo</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33681,7 +33681,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Serry, Pieter</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33689,7 +33689,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Shaw, James</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33713,9 +33713,9 @@ hide:
       <td>Tour de Romandie</td>
       <td>Staune-Mittet, Johannes</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>18</td>
+      <td>gc: 18</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
@@ -33737,7 +33737,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Swift, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>3</td>
       <td>stage-1: 3</td>
     </tr>
@@ -33745,15 +33745,15 @@ hide:
       <td>Tour de Romandie</td>
       <td>Tejada, Harold</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>8</td>
-      <td>stage-2: 8</td>
+      <td>7</td>
+      <td>22</td>
+      <td>stage-2: 8 / gc: 14</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Thalmann, Roland</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33761,7 +33761,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Thomas, Geraint</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33769,7 +33769,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Thompson, Reuben</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33777,7 +33777,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Torres, Pablo</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33809,7 +33809,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Vansevenant, Mauri</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33825,7 +33825,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Venturini, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>12</td>
       <td>stage-1: 12</td>
     </tr>
@@ -33833,7 +33833,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Vermote, Julien</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -33841,17 +33841,17 @@ hide:
       <td>Tour de Romandie</td>
       <td>Vine, Jay</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>43</td>
-      <td>stage-0: 4 / stage-3: 25 / stage-4: 14</td>
+      <td>7</td>
+      <td>127</td>
+      <td>stage-0: 4 / stage-3: 25 / stage-4: 14 / stage-5: 14 / gc: 70</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
       <td>Vlasov, Aleksandr</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
-      <td>2</td>
-      <td>stage-3: 2</td>
+      <td>7</td>
+      <td>14</td>
+      <td>stage-3: 2 / stage-5: 12</td>
     </tr>
     <tr>
       <td>Tour de Romandie</td>
@@ -33873,7 +33873,7 @@ hide:
       <td>Tour de Romandie</td>
       <td>Zwiehoff, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>5</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>

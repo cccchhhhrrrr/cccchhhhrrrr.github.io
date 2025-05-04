@@ -4,6 +4,26 @@ hide:
   - toc
 ---
 
+## 2025-05-04
+### Hovedspillet
+Almeida, João **120** (Chrelle, Kenk)  
+Martinez, Lenny **85** (Jappo, Knak, Matti, Okholm, Tommy, Visti)  
+Rodriguez, Carlos **45** (Matti, Visti)  
+Staune-Mittet, Johannes **18** (Chrelle, Matti)  
+Eetvelt, Lennert Van **12** (Jappo, Kenk, Tommy)  
+Onley, Oscar **10** (Hustlersen, Okholm)  
+Brennan, Matthew **2** (Chrelle, Hustlersen, Kenk)  
+Romeo, Iván **1** (Matti)  
+
+### Cheapo
+Price-Pejtersen, Johan **6** (Jappo)  
+Hellemose, Asbjørn **2** (Visti)  
+Romeo, Iván **1** (Chrelle, Jappo)  
+
+
+
+
+
 ## 2025-05-03
 ### Hovedspillet
 Martinez, Lenny **25** (Jappo, Knak, Matti, Okholm, Tommy, Visti)  
