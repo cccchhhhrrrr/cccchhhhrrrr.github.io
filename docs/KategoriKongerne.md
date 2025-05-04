@@ -246,13 +246,13 @@ hide:
     </tr>
     <tr>
       <td>Almeida, João</td>
-      <td>404</td>
+      <td>424</td>
       <td>0</td>
       <td>0.0</td>
-      <td>283</td>
-      <td>70.0</td>
+      <td>303</td>
+      <td>71.5</td>
       <td>121</td>
-      <td>30.0</td>
+      <td>28.5</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -4278,19 +4278,19 @@ hide:
     </tr>
     <tr>
       <td>Evenepoel, Remco</td>
-      <td>162</td>
+      <td>164</td>
       <td>0</td>
       <td>0.0</td>
-      <td>24</td>
-      <td>14.8</td>
+      <td>26</td>
+      <td>15.9</td>
       <td>0</td>
       <td>0.0</td>
       <td>85</td>
-      <td>52.5</td>
+      <td>51.8</td>
       <td>18</td>
-      <td>11.1</td>
+      <td>11.0</td>
       <td>35</td>
-      <td>21.6</td>
+      <td>21.3</td>
     </tr>
     <tr>
       <td>Ewan, Caleb</td>
@@ -4566,11 +4566,11 @@ hide:
     </tr>
     <tr>
       <td>Fortunato, Lorenzo</td>
-      <td>50</td>
+      <td>66</td>
       <td>0</td>
       <td>0.0</td>
-      <td>40</td>
-      <td>80.0</td>
+      <td>56</td>
+      <td>84.8</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -4578,7 +4578,7 @@ hide:
       <td>0</td>
       <td>0.0</td>
       <td>10</td>
-      <td>20.0</td>
+      <td>15.2</td>
     </tr>
     <tr>
       <td>Foss, Tobias</td>
@@ -6134,10 +6134,10 @@ hide:
     </tr>
     <tr>
       <td>Higuita, Sergio</td>
-      <td>1</td>
+      <td>5</td>
       <td>0</td>
       <td>0.0</td>
-      <td>1</td>
+      <td>5</td>
       <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
@@ -7750,10 +7750,10 @@ hide:
     </tr>
     <tr>
       <td>Lecerf, William Junior</td>
-      <td>77</td>
+      <td>80</td>
       <td>0</td>
       <td>0.0</td>
-      <td>77</td>
+      <td>80</td>
       <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
@@ -8102,13 +8102,13 @@ hide:
     </tr>
     <tr>
       <td>Lopez, Juan Pedro</td>
-      <td>30</td>
+      <td>31</td>
       <td>0</td>
       <td>0.0</td>
-      <td>28</td>
-      <td>93.3</td>
+      <td>29</td>
+      <td>93.5</td>
       <td>2</td>
-      <td>6.7</td>
+      <td>6.5</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -8598,17 +8598,17 @@ hide:
     </tr>
     <tr>
       <td>Martinez, Lenny</td>
-      <td>197</td>
+      <td>222</td>
       <td>0</td>
       <td>0.0</td>
-      <td>145</td>
-      <td>73.6</td>
+      <td>170</td>
+      <td>76.6</td>
       <td>12</td>
-      <td>6.1</td>
+      <td>5.4</td>
       <td>0</td>
       <td>0.0</td>
       <td>40</td>
-      <td>20.3</td>
+      <td>18.0</td>
       <td>0</td>
       <td>0.0</td>
     </tr>
@@ -9526,11 +9526,11 @@ hide:
     </tr>
     <tr>
       <td>Nordhagen, Jørgen</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>6</td>
       <td>0</td>
       <td>0.0</td>
+      <td>6</td>
+      <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -11286,13 +11286,13 @@ hide:
     </tr>
     <tr>
       <td>Rodriguez, Carlos</td>
-      <td>23</td>
+      <td>35</td>
       <td>0</td>
       <td>0.0</td>
-      <td>0</td>
-      <td>0.0</td>
+      <td>12</td>
+      <td>34.3</td>
       <td>23</td>
-      <td>100.0</td>
+      <td>65.7</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -11302,10 +11302,10 @@ hide:
     </tr>
     <tr>
       <td>Rodríguez, Cristian</td>
-      <td>4</td>
+      <td>14</td>
       <td>0</td>
       <td>0.0</td>
-      <td>4</td>
+      <td>14</td>
       <td>100.0</td>
       <td>0</td>
       <td>0.0</td>
@@ -11446,13 +11446,13 @@ hide:
     </tr>
     <tr>
       <td>Rondel, Mathys</td>
-      <td>5</td>
+      <td>13</td>
       <td>0</td>
       <td>0.0</td>
-      <td>3</td>
-      <td>60.0</td>
+      <td>11</td>
+      <td>84.6</td>
       <td>2</td>
-      <td>40.0</td>
+      <td>15.4</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>
@@ -14102,13 +14102,13 @@ hide:
     </tr>
     <tr>
       <td>Vine, Jay</td>
-      <td>79</td>
+      <td>93</td>
       <td>0</td>
       <td>0.0</td>
-      <td>77</td>
-      <td>97.5</td>
+      <td>91</td>
+      <td>97.8</td>
       <td>2</td>
-      <td>2.5</td>
+      <td>2.2</td>
       <td>0</td>
       <td>0.0</td>
       <td>0</td>

@@ -4,6 +4,18 @@ hide:
   - toc
 ---
 
+## 2025-05-03
+### Hovedspillet
+Martinez, Lenny **25** (Jappo, Knak, Matti, Okholm, Tommy, Visti)  
+Almeida, João **20** (Chrelle, Kenk)  
+Rodriguez, Carlos **12** (Matti, Visti)  
+
+### Cheapo
+
+
+
+
+
 ## 2025-05-02
 ### Hovedspillet
 Martinez, Lenny **20** (Jappo, Knak, Matti, Okholm, Tommy, Visti)  

@@ -128,7 +128,7 @@
       <th>6</th>
       <td>7</td>
       <td>De Lie Arnaud</td>
-      <td class = "startlist">Hirschi Marc</td>
+      <td>Hirschi Marc</td>
       <td>De Lie Arnaud</td>
       <td>De Lie Arnaud</td>
       <td>Van Eetvelt Lennert</td>
@@ -160,7 +160,7 @@
       <td>Girmay Biniam</td>
       <td>Geoghegan Hart Tao</td>
       <td>Van Gils Maxim</td>
-      <td class = "startlist">Hirschi Marc</td>
+      <td>Hirschi Marc</td>
       <td>Merlier Tim</td>
       <td>Onley Oscar</td>
       <td>Pithie Laurence</td>
@@ -171,7 +171,7 @@
       <td>10</td>
       <td>Nys Thibau</td>
       <td>Uijtdebroeks Cian</td>
-      <td class = "startlist">Hirschi Marc</td>
+      <td>Hirschi Marc</td>
       <td>Grégoire Romain</td>
       <td>Narváez Jhonatan</td>
       <td>Healy Ben</td>
