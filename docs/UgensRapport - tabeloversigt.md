@@ -214,7 +214,7 @@ hide:
       <td>339</td>
       <td>13.04</td>
       <td>1.13</td>
-      <td>Pogačar (190), Bagioli (50), Grégoire (33)</td>
+      <td>Pogačar (190), Bagioli (50), Poole (33)</td>
     </tr>
     <tr>
       <td>Tommy</td>
@@ -544,7 +544,7 @@ hide:
       <td>191</td>
       <td>14.69</td>
       <td>0.96</td>
-      <td>Pogačar (120), Nys (35), Segaert (14)</td>
+      <td>Pogačar (120), Nys (35), Hirschi (14)</td>
     </tr>
     <tr>
       <td>Hustlersen</td>
@@ -854,7 +854,7 @@ hide:
       <td>379</td>
       <td>18.95</td>
       <td>1.26</td>
-      <td>Pogačar (120), Pidcock (100), Eetvelt (30)</td>
+      <td>Pogačar (120), Pidcock (100), Magnier (30)</td>
     </tr>
     <tr>
       <td>Knak</td>
@@ -1094,7 +1094,7 @@ hide:
       <td>557</td>
       <td>7.63</td>
       <td>0.37</td>
-      <td>Pogačar (169), Milan (82), Vingegaard (70)</td>
+      <td>Pogačar (169), Milan (82), Sivakov (70)</td>
     </tr>
     <tr>
       <td>Knak</td>
@@ -1144,7 +1144,7 @@ hide:
       <td>414</td>
       <td>7.26</td>
       <td>0.33</td>
-      <td>Pogačar (169), Merlier (70), Vingegaard (70)</td>
+      <td>Pogačar (169), Vingegaard (70), Merlier (70)</td>
     </tr>
     <tr>
       <td>Hustlersen</td>
@@ -1354,7 +1354,7 @@ hide:
       <td>146</td>
       <td>10.43</td>
       <td>0.71</td>
-      <td>Pidcock (80), Strong (30), Merlier (30)</td>
+      <td>Pidcock (80), Merlier (30), Strong (30)</td>
     </tr>
     <tr>
       <td>Jappo</td>
@@ -1414,7 +1414,7 @@ hide:
       <td>68</td>
       <td>7.56</td>
       <td>1.38</td>
-      <td>Sheffield (26), Onley (18), Broek (18)</td>
+      <td>Sheffield (26), Broek (18), Onley (18)</td>
     </tr>
     <tr>
       <td>Kenk</td>

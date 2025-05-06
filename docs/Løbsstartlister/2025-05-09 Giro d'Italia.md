@@ -351,13 +351,13 @@
     <tr>
       <th>22</th>
       <td>23</td>
-      <td class = "startlist">Staune-Mittet Johannes</td>
+      <td>Staune-Mittet Johannes</td>
       <td class = "startlist">Brenner Marco</td>
       <td>Jeannière Emilien</td>
       <td class = "startlist">Frigo Marco</td>
       <td>Wandahl Frederik</td>
       <td>Naesen Oliver</td>
-      <td class = "startlist">Staune-Mittet Johannes</td>
+      <td>Staune-Mittet Johannes</td>
       <td class = "startlist">Aleotti Giovanni</td>
       <td>Watson Samuel</td>
       <td>Vermeersch Florian</td>
