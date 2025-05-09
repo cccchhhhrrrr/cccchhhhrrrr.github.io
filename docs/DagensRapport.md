@@ -4,6 +4,24 @@ hide:
   - toc
 ---
 
+## 2025-05-09
+### Hovedspillet
+Pedersen, Mads **40** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
+Aert, Wout van **30** (Chrelle, Jarma, Matti, Okholm, Tommy)  
+Aular, Orluis **25** (Visti)  
+Pidcock, Tom **18** (Chrelle, Jappo, Knak)  
+Ulissi, Diego **16** (Knak)  
+Carapaz, Richard **14** (Knak)  
+Poole, Max **12** (Chrelle, Jarma)  
+Roglič, Primož **1** (Hustlersen, Knak)  
+
+### Cheapo
+Conci, Nicola **10** (Knak)  
+
+
+
+
+
 ## 2025-05-04
 ### Hovedspillet
 Almeida, João **120** (Chrelle, Kenk)  
