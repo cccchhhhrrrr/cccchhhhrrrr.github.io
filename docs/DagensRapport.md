@@ -4,6 +4,36 @@ hide:
   - toc
 ---
 
+## 2025-05-11
+### Hovedspillet
+Pedersen, Mads **40** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
+Strong, Corbin **30** (Knak, Visti)  
+Aular, Orluis **25** (Visti)  
+Ulissi, Diego **4** (Knak)  
+Poole, Max **3** (Chrelle, Jarma)  
+
+### Cheapo
+Fiorelli, Filippo **12** (Kenk)  
+
+
+
+
+
+## 2025-05-10
+### Hovedspillet
+Tarling, Josh **40** (Chrelle)  
+Roglič, Primož **30** (Hustlersen, Knak)  
+Vacek, Mathias **18** (Okholm)  
+Pedersen, Mads **14** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
+Hayter, Ethan **10** (Chrelle, Jappo)  
+Ayuso, Juan **8** (Hustlersen, Kenk)  
+
+### Cheapo
+
+
+
+
+
 ## 2025-05-09
 ### Hovedspillet
 Pedersen, Mads **40** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
