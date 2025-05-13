@@ -4,6 +4,21 @@ hide:
   - toc
 ---
 
+## 2025-05-13
+### Hovedspillet
+Kooij, Olav **30** (Kenk, Matti, Tommy, Visti)  
+Pedersen, Mads **20** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
+Magnier, Paul **14** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)  
+Fretin, Milan **6** (Matti)  
+Strong, Corbin **3** (Knak, Visti)  
+
+### Cheapo
+Plowright, Jensen **2** (Knak)  
+
+
+
+
+
 ## 2025-05-11
 ### Hovedspillet
 Pedersen, Mads **40** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
