@@ -11993,7 +11993,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Aert, Wout van</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>30</td>
       <td>stage-1: 30</td>
     </tr>
@@ -12001,7 +12001,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Affini, Edoardo</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>20</td>
       <td>stage-2: 20</td>
     </tr>
@@ -12009,7 +12009,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Aleotti, Giovanni</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12017,7 +12017,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Andersen, Søren Kragh</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12025,7 +12025,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Arensman, Thymen</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>1</td>
       <td>stage-2: 1</td>
     </tr>
@@ -12033,7 +12033,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Arrieta, Igor</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12041,7 +12041,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Asgreen, Kasper</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12049,23 +12049,23 @@ hide:
       <td>Giro d'Italia</td>
       <td>Aular, Orluis</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>50</td>
-      <td>stage-1: 25 / stage-3: 25</td>
+      <td>7</td>
+      <td>71</td>
+      <td>stage-1: 25 / stage-3: 25 / stage-5: 20 / stage-6: 1</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Ayuso, Juan</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>8</td>
-      <td>stage-2: 8</td>
+      <td>7</td>
+      <td>48</td>
+      <td>stage-2: 8 / stage-7: 40</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Azparren, Xabier</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12073,7 +12073,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Baarle, Dylan van</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12081,7 +12081,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Bais, Davide</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12089,7 +12089,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Bais, Mattia</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12097,7 +12097,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Bardet, Romain</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12105,7 +12105,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Baroncini, Filippo</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12113,7 +12113,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Barrenetxea, Jon</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12121,23 +12121,23 @@ hide:
       <td>Giro d'Italia</td>
       <td>Bennett, Sam</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>16</td>
-      <td>stage-4: 16</td>
+      <td>7</td>
+      <td>22</td>
+      <td>stage-4: 16 / stage-6: 6</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Bernal, Egan</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>25</td>
+      <td>stage-7: 25</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Bilbao, Pello</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12145,7 +12145,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Bondt, Dries De</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12153,7 +12153,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Bossche, Fabio Van den</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12169,7 +12169,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Bouwman, Koen</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12177,7 +12177,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Brenner, Marco</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12185,7 +12185,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Busatto, Francesco</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>20</td>
       <td>stage-1: 20</td>
     </tr>
@@ -12193,7 +12193,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Bystrøm, Sven Erik</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12201,23 +12201,23 @@ hide:
       <td>Giro d'Italia</td>
       <td>Carapaz, Richard</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>14</td>
-      <td>stage-1: 14</td>
+      <td>7</td>
+      <td>32</td>
+      <td>stage-1: 14 / stage-5: 6 / stage-7: 12</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Caruso, Damiano</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>24</td>
+      <td>stage-5: 10 / stage-7: 14</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Castroviejo, Jonathan</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12225,7 +12225,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Cattaneo, Mattia</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>2</td>
       <td>stage-3: 2</td>
     </tr>
@@ -12233,7 +12233,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Cepeda, Jefferson Alexander</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12241,7 +12241,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Cepeda, Jefferson Alveiro</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12249,7 +12249,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Cerný, Josef</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>3</td>
       <td>stage-2: 3</td>
     </tr>
@@ -12257,15 +12257,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Ciccone, Giulio</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>6</td>
-      <td>stage-1: 6</td>
+      <td>7</td>
+      <td>24</td>
+      <td>stage-1: 6 / stage-7: 18</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Clarke, Simon</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12273,7 +12273,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Colleoni, Kevin</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12281,15 +12281,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Conci, Nicola</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>10</td>
-      <td>stage-1: 10</td>
+      <td>7</td>
+      <td>13</td>
+      <td>stage-1: 10 / stage-5: 3</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Covili, Luca</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12297,7 +12297,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Davy, Clément</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12305,7 +12305,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>De Pretto, Davide</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>8</td>
       <td>stage-3: 8</td>
     </tr>
@@ -12313,7 +12313,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Debeaumarché, Nicolas</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12321,15 +12321,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Del Toro, Isaac</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>4</td>
-      <td>stage-2: 4</td>
+      <td>7</td>
+      <td>42</td>
+      <td>stage-2: 4 / stage-5: 8 / stage-7: 30</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Denz, Nico</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12337,7 +12337,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Dewulf, Stan</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12345,7 +12345,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Donovan, Mark</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12353,7 +12353,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Double, Paul</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>3</td>
       <td>stage-1: 3</td>
     </tr>
@@ -12361,7 +12361,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Doull, Owain</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12369,7 +12369,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Edmondson, Alex</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12377,7 +12377,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Engelhardt, Felix</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>2</td>
       <td>stage-1: 2</td>
     </tr>
@@ -12385,7 +12385,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Epis, Giosuè</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12393,7 +12393,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Eulálio, Afonso</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12401,15 +12401,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Fiorelli, Filippo</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>12</td>
-      <td>stage-3: 12</td>
+      <td>7</td>
+      <td>34</td>
+      <td>stage-3: 12 / stage-5: 18 / stage-6: 4</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Formolo, Davide</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12417,7 +12417,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Fortunato, Lorenzo</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12425,15 +12425,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Fretin, Milan</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>6</td>
-      <td>stage-4: 6</td>
+      <td>7</td>
+      <td>36</td>
+      <td>stage-4: 6 / stage-6: 30</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Frigo, Marco</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12441,7 +12441,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Fuglsang, Jakob</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12449,7 +12449,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Garofoli, Gianmarco</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>6</td>
       <td>stage-3: 6</td>
     </tr>
@@ -12457,7 +12457,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Gaudu, David</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12465,23 +12465,23 @@ hide:
       <td>Giro d'Italia</td>
       <td>Gee, Derek</td>
       <td>Tour Cat. 1</td>
+      <td>7</td>
       <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>stage-7: 4</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Geniets, Kévin</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>2</td>
+      <td>stage-5: 2</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Germani, Lorenzo</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12489,7 +12489,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Godon, Dorian</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12497,31 +12497,31 @@ hide:
       <td>Giro d'Italia</td>
       <td>Govekar, Matevž</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>1</td>
-      <td>stage-4: 1</td>
+      <td>7</td>
+      <td>11</td>
+      <td>stage-4: 1 / stage-6: 10</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Groves, Kaden</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>18</td>
-      <td>stage-4: 18</td>
+      <td>7</td>
+      <td>58</td>
+      <td>stage-4: 18 / stage-6: 40</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Gudmestad, Tord</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>3</td>
+      <td>stage-6: 3</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Guglielmi, Simon</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12529,7 +12529,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Hamilton, Chris</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12537,7 +12537,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Hamilton, Lucas</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12545,15 +12545,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Harper, Chris</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>1</td>
+      <td>stage-7: 1</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Hayter, Ethan</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>10</td>
       <td>stage-2: 10</td>
     </tr>
@@ -12561,7 +12561,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Heiduk, Kim</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12569,7 +12569,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Hepburn, Michael</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12577,7 +12577,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Hermans, Quinten</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12585,7 +12585,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Hindley, Jai</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12593,7 +12593,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Hirt, Jan</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12601,7 +12601,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Hoecke, Gijs Van</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12609,7 +12609,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Hollmann, Juri</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12617,7 +12617,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Honoré, Mikkel</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12625,7 +12625,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Hoole, Daan</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>16</td>
       <td>stage-2: 16</td>
     </tr>
@@ -12633,7 +12633,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Hoorn, Taco van der</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12641,7 +12641,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Houle, Hugo</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12649,7 +12649,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Howson, Damien</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12657,7 +12657,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Huys, Laurens</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12665,7 +12665,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Janssens, Jimmy</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12673,15 +12673,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Kanter, Max</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>20</td>
+      <td>stage-6: 20</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Kelderman, Wilco</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12689,7 +12689,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Kielich, Timo</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12697,7 +12697,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Knox, James</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12705,7 +12705,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Konrad, Patrick</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12713,15 +12713,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Kooij, Olav</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>30</td>
-      <td>stage-4: 30</td>
+      <td>7</td>
+      <td>38</td>
+      <td>stage-4: 30 / stage-6: 8</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Krieger, Alexander</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12729,7 +12729,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Kruijswijk, Steven</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12737,7 +12737,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Lamperti, Luke</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12753,7 +12753,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Lastra, Jonathan</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12761,7 +12761,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Leemreize, Gijs</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12769,7 +12769,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Lemmen, Bart</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12777,7 +12777,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Liepiņš, Emīls</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12785,15 +12785,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Lonardi, Giovanni</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>4</td>
-      <td>stage-4: 4</td>
+      <td>7</td>
+      <td>22</td>
+      <td>stage-4: 4 / stage-6: 18</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Maas, Jan</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12801,7 +12801,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Maestri, Mirco</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12809,7 +12809,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Magli, Filippo</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12817,15 +12817,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Magnier, Paul</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>14</td>
-      <td>stage-4: 14</td>
+      <td>7</td>
+      <td>39</td>
+      <td>stage-4: 14 / stage-6: 25</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Majka, Rafał</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12833,15 +12833,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Marcellusi, Martin</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>14</td>
+      <td>stage-6: 14</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Martinelli, Alessio</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12849,7 +12849,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Martínez, Daniel</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>2</td>
       <td>stage-2: 2</td>
     </tr>
@@ -12857,7 +12857,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Masnada, Fausto</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12865,7 +12865,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>McNulty, Brandon</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>12</td>
       <td>stage-2: 12</td>
     </tr>
@@ -12873,7 +12873,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Meintjes, Louis</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12881,7 +12881,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Miholjević, Fran</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12889,7 +12889,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Milesi, Lorenzo</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12897,7 +12897,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Moniquet, Sylvain</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12905,7 +12905,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Mosca, Jacopo</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12913,7 +12913,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Moschetti, Matteo</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>10</td>
       <td>stage-4: 10</td>
     </tr>
@@ -12921,7 +12921,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Moscon, Gianni</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12929,15 +12929,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Mozzato, Luca</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>12</td>
+      <td>stage-6: 12</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Muñoz, Fran</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12945,7 +12945,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Märkl, Niklas</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12953,7 +12953,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Oldani, Stefano</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>16</td>
       <td>stage-3: 16</td>
     </tr>
@@ -12961,15 +12961,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Pacher, Quentin</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>14</td>
+      <td>stage-5: 14</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Paleni, Enzo</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12977,7 +12977,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Pasqualon, Andrea</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12985,15 +12985,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Pedersen, Mads</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>114</td>
-      <td>stage-1: 40 / stage-2: 14 / stage-3: 40 / stage-4: 20</td>
+      <td>7</td>
+      <td>154</td>
+      <td>stage-1: 40 / stage-2: 14 / stage-3: 40 / stage-4: 20 / stage-5: 40</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Pellizzari, Giulio</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13001,7 +13001,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Perez, Anthony</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13009,7 +13009,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Petilli, Simone</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13017,15 +13017,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Pidcock, Tom</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>18</td>
-      <td>stage-1: 18</td>
+      <td>7</td>
+      <td>43</td>
+      <td>stage-1: 18 / stage-5: 25</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Pietrobon, Andrea</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13033,7 +13033,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Piganzoli, Davide</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>8</td>
       <td>stage-1: 8</td>
     </tr>
@@ -13041,7 +13041,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Pinarello, Alessandro</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13049,7 +13049,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Planckaert, Edward</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13057,7 +13057,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Plapp, Luke</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13065,7 +13065,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Plowright, Jensen</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>2</td>
       <td>stage-4: 2</td>
     </tr>
@@ -13073,15 +13073,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Pluimers, Rick</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>2</td>
+      <td>stage-6: 2</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Poels, Wout</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13089,15 +13089,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Poole, Max</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>15</td>
-      <td>stage-1: 12 / stage-3: 3</td>
+      <td>7</td>
+      <td>25</td>
+      <td>stage-1: 12 / stage-3: 3 / stage-7: 10</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Prodhomme, Nicolas</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13105,7 +13105,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Quintana, Nairo</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13113,7 +13113,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Rafferty, Darren</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13121,7 +13121,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Ries, Michel</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13129,15 +13129,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Rivera, Brandon</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>20</td>
-      <td>stage-3: 20</td>
+      <td>7</td>
+      <td>32</td>
+      <td>stage-3: 20 / stage-5: 12</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Rochas, Rémy</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13145,23 +13145,23 @@ hide:
       <td>Giro d'Italia</td>
       <td>Roglič, Primož</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>31</td>
-      <td>stage-1: 1 / stage-2: 30</td>
+      <td>7</td>
+      <td>55</td>
+      <td>stage-1: 1 / stage-2: 30 / stage-5: 4 / stage-7: 20</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Rubio, Einer</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>3</td>
+      <td>stage-7: 3</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Samitier, Sergio</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13169,7 +13169,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Scaroni, Christian</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>10</td>
       <td>stage-3: 10</td>
     </tr>
@@ -13177,7 +13177,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Schultz, Nick</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13185,7 +13185,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Shaw, James</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13193,7 +13193,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Smith, Dion</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13201,7 +13201,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Steinhauser, Georg</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13209,15 +13209,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Storer, Michael</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>24</td>
+      <td>stage-5: 16 / stage-7: 8</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Stork, Florian</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13225,7 +13225,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Strong, Corbin</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>33</td>
       <td>stage-3: 30 / stage-4: 3</td>
     </tr>
@@ -13233,7 +13233,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Svestad-Bårdseng, Embret</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13241,7 +13241,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Tarling, Josh</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>40</td>
       <td>stage-2: 40</td>
     </tr>
@@ -13249,7 +13249,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Tarozzi, Manuele</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13257,7 +13257,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Thijssen, Gerben</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13265,15 +13265,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Tiberi, Antonio</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>4</td>
-      <td>stage-1: 4</td>
+      <td>7</td>
+      <td>20</td>
+      <td>stage-1: 4 / stage-7: 16</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Tjøtta, Martin</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>1</td>
       <td>stage-3: 1</td>
     </tr>
@@ -13281,7 +13281,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Tonelli, Alessandro</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13289,7 +13289,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Torres, Albert</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13297,7 +13297,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Tratnik, Jan</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>6</td>
       <td>stage-2: 6</td>
     </tr>
@@ -13305,7 +13305,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Turner, Ben</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>12</td>
       <td>stage-4: 12</td>
     </tr>
@@ -13313,7 +13313,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Uden, Casper van</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>40</td>
       <td>stage-4: 40</td>
     </tr>
@@ -13321,15 +13321,15 @@ hide:
       <td>Giro d'Italia</td>
       <td>Ulissi, Diego</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>20</td>
-      <td>stage-1: 16 / stage-3: 4</td>
+      <td>7</td>
+      <td>21</td>
+      <td>stage-1: 16 / stage-3: 4 / stage-5: 1</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Vacek, Mathias</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>18</td>
       <td>stage-2: 18</td>
     </tr>
@@ -13337,7 +13337,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Vader, Milan</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13345,7 +13345,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Vendrame, Andrea</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>14</td>
       <td>stage-3: 14</td>
     </tr>
@@ -13353,7 +13353,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Verona, Carlos</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13361,7 +13361,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Verre, Alessandro</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13369,7 +13369,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Vine, Jay</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>25</td>
       <td>stage-2: 25</td>
     </tr>
@@ -13377,7 +13377,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Voisard, Yannis</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13385,7 +13385,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Warbasse, Larry</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13393,7 +13393,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Welten, Bram</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13401,31 +13401,31 @@ hide:
       <td>Giro d'Italia</td>
       <td>Yates, Adam</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>2</td>
+      <td>stage-7: 2</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Yates, Simon</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>7</td>
+      <td>6</td>
+      <td>stage-7: 6</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Zambanini, Edoardo</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>18</td>
-      <td>stage-3: 18</td>
+      <td>7</td>
+      <td>48</td>
+      <td>stage-3: 18 / stage-5: 30</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>
       <td>Zana, Filippo</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -13433,7 +13433,7 @@ hide:
       <td>Giro d'Italia</td>
       <td>Zanoncello, Enrico</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
+      <td>7</td>
       <td>8</td>
       <td>stage-4: 8</td>
     </tr>
@@ -13441,9 +13441,9 @@ hide:
       <td>Giro d'Italia</td>
       <td>Zijlaard, Maikel</td>
       <td>Tour Cat. 1</td>
-      <td>4</td>
-      <td>25</td>
-      <td>stage-4: 25</td>
+      <td>7</td>
+      <td>41</td>
+      <td>stage-4: 25 / stage-6: 16</td>
     </tr>
     <tr>
       <td>Giro d'Italia</td>

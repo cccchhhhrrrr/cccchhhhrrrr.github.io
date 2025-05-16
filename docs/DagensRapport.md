@@ -4,6 +4,56 @@ hide:
   - toc
 ---
 
+## 2025-05-16
+### Hovedspillet
+Ayuso, Juan **40** (Hustlersen, Kenk)  
+Roglič, Primož **20** (Hustlersen, Knak)  
+Carapaz, Richard **12** (Knak)  
+Poole, Max **10** (Chrelle, Jarma)  
+Yates, Simon **6** (Okholm)  
+Gee, Derek **4** (Jappo, Okholm)  
+
+### Cheapo
+
+
+
+
+
+## 2025-05-15
+### Hovedspillet
+Fretin, Milan **30** (Matti)  
+Magnier, Paul **25** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)  
+Kanter, Max **20** (Hustlersen)  
+Kooij, Olav **8** (Kenk, Matti, Tommy, Visti)  
+Aular, Orluis **1** (Visti)  
+
+### Cheapo
+Fiorelli, Filippo **4** (Kenk)  
+Gudmestad, Tord **3** (Visti)  
+Pluimers, Rick **2** (Chrelle, Jappo, Jarma, Knak)  
+
+
+
+
+
+## 2025-05-14
+### Hovedspillet
+Pedersen, Mads **40** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
+Pidcock, Tom **25** (Chrelle, Jappo, Knak)  
+Aular, Orluis **20** (Visti)  
+Carapaz, Richard **6** (Knak)  
+Roglič, Primož **4** (Hustlersen, Knak)  
+Ulissi, Diego **1** (Knak)  
+
+### Cheapo
+Fiorelli, Filippo **18** (Kenk)  
+Conci, Nicola **3** (Knak)  
+Geniets, Kévin **2** (Chrelle)  
+
+
+
+
+
 ## 2025-05-13
 ### Hovedspillet
 Kooij, Olav **30** (Kenk, Matti, Tommy, Visti)  
