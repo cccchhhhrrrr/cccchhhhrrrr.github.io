@@ -4,6 +4,116 @@ hide:
   - toc
 ---
 
+## 2025-05-24
+### Hovedspillet
+Kooij, Olav **25** (Kenk, Matti, Tommy, Visti)  
+Aular, Orluis **20** (Visti)  
+Gee, Derek **14** (Jappo, Okholm)  
+Pidcock, Tom **12** (Chrelle, Jappo, Knak)  
+Carapaz, Richard **10** (Knak)  
+Poole, Max **6** (Chrelle, Jarma)  
+
+### Cheapo
+
+
+
+
+
+## 2025-05-23
+### Hovedspillet
+Pedersen, Mads **40** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
+Aert, Wout van **30** (Chrelle, Jarma, Matti, Okholm, Tommy)  
+Roglič, Primož **16** (Hustlersen, Knak)  
+Gee, Derek **12** (Jappo, Okholm)  
+Aular, Orluis **10** (Visti)  
+Ayuso, Juan **1** (Hustlersen, Kenk)  
+
+### Cheapo
+Conci, Nicola **4** (Knak)  
+
+
+
+
+
+## 2025-05-22
+### Hovedspillet
+Kooij, Olav **40** (Kenk, Matti, Tommy, Visti)  
+Pedersen, Mads **20** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
+Fretin, Milan **16** (Matti)  
+Kanter, Max **14** (Hustlersen)  
+Magnier, Paul **12** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)  
+
+### Cheapo
+Pluimers, Rick **1** (Chrelle, Jappo, Jarma, Knak)  
+
+
+
+
+
+## 2025-05-21
+### Hovedspillet
+Carapaz, Richard **40** (Knak)  
+Pidcock, Tom **20** (Chrelle, Jappo, Knak)  
+Ayuso, Juan **14** (Hustlersen, Kenk)  
+Gee, Derek **10** (Jappo, Okholm)  
+Ulissi, Diego **8** (Knak)  
+Roglič, Primož **4** (Hustlersen, Knak)  
+Pellizzari, Giulio **3** (Tommy)  
+Yates, Simon **1** (Okholm)  
+
+### Cheapo
+
+
+
+
+
+## 2025-05-20
+### Hovedspillet
+Tarling, Josh **30** (Chrelle)  
+Hayter, Ethan **25** (Chrelle, Jappo)  
+Plapp, Luke **14** (Chrelle, Hustlersen)  
+Frigo, Marco **12** (Jarma)  
+Gee, Derek **2** (Jappo, Okholm)  
+Poole, Max **1** (Chrelle, Jarma)  
+
+### Cheapo
+Frigo, Marco **12** (Jarma)  
+
+
+
+
+
+## 2025-05-18
+### Hovedspillet
+Aert, Wout van **40** (Chrelle, Jarma, Matti, Okholm, Tommy)  
+Carapaz, Richard **20** (Knak)  
+Yates, Simon **18** (Okholm)  
+Ayuso, Juan **14** (Hustlersen, Kenk)  
+Vacek, Mathias **2** (Okholm)  
+Pidcock, Tom **1** (Chrelle, Jappo, Knak)  
+
+### Cheapo
+Geniets, Kévin **3** (Chrelle)  
+
+
+
+
+
+## 2025-05-17
+### Hovedspillet
+Plapp, Luke **40** (Chrelle, Hustlersen)  
+Ulissi, Diego **25** (Knak)  
+Steinhauser, Georg **12** (Hustlersen)  
+Ayuso, Juan **6** (Hustlersen, Kenk)  
+Roglič, Primož **4** (Hustlersen, Knak)  
+
+### Cheapo
+Arrieta, Igor **20** (Jappo, Jarma)  
+
+
+
+
+
 ## 2025-05-16
 ### Hovedspillet
 Ayuso, Juan **40** (Hustlersen, Kenk)  

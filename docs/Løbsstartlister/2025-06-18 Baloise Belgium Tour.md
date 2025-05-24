@@ -286,11 +286,11 @@
       <td>Torres Pablo</td>
       <td>Lafay Victor</td>
       <td>Vermeersch Florian</td>
-      <td>Segaert Alec</td>
+      <td class = "startlist">Segaert Alec</td>
       <td>Laurance Axel</td>
       <td>De Plus Laurens</td>
-      <td>Segaert Alec</td>
-      <td>Segaert Alec</td>
+      <td class = "startlist">Segaert Alec</td>
+      <td class = "startlist">Segaert Alec</td>
     </tr>
     <tr>
       <th>18</th>

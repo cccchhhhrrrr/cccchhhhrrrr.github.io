@@ -88,7 +88,7 @@
       <td>Pedersen Mads</td>
       <td>Pedersen Mads</td>
       <td>Van Eetvelt Lennert</td>
-      <td>Van Der Poel Mathieu</td>
+      <td class = "startlist">Van Der Poel Mathieu</td>
       <td>Milan Jonathan</td>
       <td>Philipsen Jasper</td>
       <td>Milan Jonathan</td>
@@ -215,7 +215,7 @@
       <td>Welsford Sam</td>
       <td>Nys Thibau</td>
       <td>Magnier Paul</td>
-      <td>Kron Andreas</td>
+      <td class = "startlist">Kron Andreas</td>
       <td class = "startlist">Martinez Lenny</td>
       <td>Castrillo Pablo</td>
       <td>Vacek Mathias</td>
@@ -371,7 +371,7 @@
       <td>Artz Huub</td>
       <td>Withen Philipsen Albert</td>
       <td>Jeannière Emilien</td>
-      <td>Seixas Paul</td>
+      <td class = "startlist">Seixas Paul</td>
       <td>Rafferty Darren</td>
       <td>Wandahl Frederik</td>
       <td>Van Baarle Dylan</td>
