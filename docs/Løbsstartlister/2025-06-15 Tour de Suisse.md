@@ -283,7 +283,7 @@
       <td>18</td>
       <td>Lazkano Oier</td>
       <td class = "startlist">Morgado António</td>
-      <td>Torres Pablo</td>
+      <td class = "startlist">Torres Pablo</td>
       <td>Lafay Victor</td>
       <td>Vermeersch Florian</td>
       <td>Segaert Alec</td>

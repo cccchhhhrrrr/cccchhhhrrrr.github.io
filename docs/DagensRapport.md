@@ -4,6 +4,51 @@ hide:
   - toc
 ---
 
+## 2025-05-28
+### Hovedspillet
+Carapaz, Richard **25** (Knak)  
+Yates, Simon **20** (Okholm)  
+Pellizzari, Giulio **18** (Tommy)  
+Gee, Derek **16** (Jappo, Okholm)  
+Poole, Max **10** (Chrelle, Jarma)  
+Pidcock, Tom **6** (Chrelle, Jappo, Knak)  
+
+### Cheapo
+Eulálio, Afonso **8** (Visti)  
+
+
+
+
+
+## 2025-05-27
+### Hovedspillet
+Pellizzari, Giulio **25** (Tommy)  
+Carapaz, Richard **20** (Knak)  
+Gee, Derek **18** (Jappo, Okholm)  
+Yates, Simon **12** (Okholm)  
+
+### Cheapo
+Voisard, Yannis **8** (Chrelle, Hustlersen, Knak)  
+
+
+
+
+
+## 2025-05-25
+### Hovedspillet
+Poole, Max **8** (Chrelle, Jarma)  
+Gee, Derek **4** (Jappo, Okholm)  
+Carapaz, Richard **3** (Knak)  
+Yates, Simon **2** (Okholm)  
+
+### Cheapo
+Fiorelli, Filippo **12** (Kenk)  
+Voisard, Yannis **1** (Chrelle, Hustlersen, Knak)  
+
+
+
+
+
 ## 2025-05-24
 ### Hovedspillet
 Kooij, Olav **25** (Kenk, Matti, Tommy, Visti)  
