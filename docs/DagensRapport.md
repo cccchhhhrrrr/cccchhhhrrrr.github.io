@@ -4,6 +4,19 @@ hide:
   - toc
 ---
 
+## 2025-05-29
+### Hovedspillet
+Baarle, Dylan van **6** (Kenk, Visti)  
+Aert, Wout van **1** (Chrelle, Jarma, Matti, Okholm, Tommy)  
+
+### Cheapo
+Conci, Nicola **10** (Knak)  
+Pluimers, Rick **4** (Chrelle, Jappo, Jarma, Knak)  
+
+
+
+
+
 ## 2025-05-28
 ### Hovedspillet
 Carapaz, Richard **25** (Knak)  
