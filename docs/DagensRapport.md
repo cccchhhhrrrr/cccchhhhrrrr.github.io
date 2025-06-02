@@ -4,6 +4,54 @@ hide:
   - toc
 ---
 
+## 2025-06-01
+### Hovedspillet
+Yates, Simon **180** (Okholm)  
+Carapaz, Richard **120** (Knak)  
+Gee, Derek **100** (Jappo, Okholm)  
+Pellizzari, Giulio **80** (Tommy)  
+Poole, Max **45** (Chrelle, Jarma)  
+Kooij, Olav **40** (Kenk, Matti, Tommy, Visti)  
+Pedersen, Mads **20** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)  
+Pidcock, Tom **20** (Chrelle, Jappo, Knak)  
+Kanter, Max **16** (Hustlersen)  
+Aular, Orluis **12** (Visti)  
+Ulissi, Diego **10** (Knak)  
+
+### Cheapo
+
+
+
+
+
+## 2025-05-31
+### Hovedspillet
+Yates, Simon **25** (Okholm)  
+Poole, Max **12** (Chrelle, Jarma)  
+Pellizzari, Giulio **8** (Tommy)  
+Gee, Derek **6** (Jappo, Okholm)  
+Carapaz, Richard **3** (Knak)  
+Aert, Wout van **1** (Chrelle, Jarma, Matti, Okholm, Tommy)  
+
+### Cheapo
+
+
+
+
+
+## 2025-05-30
+### Hovedspillet
+Carapaz, Richard **25** (Knak)  
+Yates, Simon **14** (Okholm)  
+Gee, Derek **6** (Jappo, Okholm)  
+Pellizzari, Giulio **4** (Tommy)  
+
+### Cheapo
+
+
+
+
+
 ## 2025-05-29
 ### Hovedspillet
 Baarle, Dylan van **6** (Kenk, Visti)  
