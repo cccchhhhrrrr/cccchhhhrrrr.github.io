@@ -4950,6 +4950,1214 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Ackermann, Pascal</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Arcas, Jorge</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Armirail, Bruno</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Bardet, Romain</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Barré, Louis</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Baudin, Alex</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Bayer, Tobias</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Bekkum, Darren van</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Bernard, Julien</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Berthet, Clément</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Boivin, Guillaume</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Bonneu, Kamiel</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Bouwman, Koen</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Boven, Lars</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Braz Afonso, Clément</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Buchmann, Emanuel</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Buitrago, Santiago</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Burgaudeau, Mathieu</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Campenaerts, Victor</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Cavagna, Rémi</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Chaves, Esteban</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Combaud, Romain</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Consonni, Simone</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Cort, Magnus</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>De Marchi, Alessandro</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Delaplace, Anthony</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Dijke, Mick van</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Doubey, Fabien</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Dunbar, Eddie</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Eenkhoorn, Pascal</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Eriksson, Jacob</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Eriksson, Lucas</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Evenepoel, Remco</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>14</td>
+      <td>stage-1: 14</td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Fedorov, Yevgeniy</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Fisher-Black, Finn</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Foldager, Anders</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Foss, Tobias</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Fredheim, Stian</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Ghebreigzabhier, Amanuel</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Gils, Maxim Van</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Gogl, Michael</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Gradek, Kamil</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Guernalec, Thibault</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Guernalec, Victor</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Guerreiro, Ruben</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Hagenes, Per Strand</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Haig, Jack</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Hajek, Alexander</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Hamilton, Chris</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Healy, Ben</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Hellemose, Asbjørn</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Hepburn, Michael</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Higuita, Sergio</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Hoelgaard, Markus</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Jeanniere, Emilien</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>stage-1: 2</td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Jegat, Jordan</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Johannessen, Tobias</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Jorgenson, Matteo</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Juul-Jensen, Chris</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Knight, Oliver</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Kron, Andreas</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Kuss, Sepp</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Labrosse, Jordan</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Latour, Pierre</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Laurance, Axel</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Leijnse, Enzo</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Leknessund, Andreas</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Leonard, Michael</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Lipowitz, Florian</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Louvel, Matîs</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Lutsenko, Alexey</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Mackellar, Alastair</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Martin, Guillaume</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Martinez, Lenny</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Mas, Enric</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Meintjes, Louis</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Meurisse, Xandro</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Milan, Jonathan</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Molard, Rudy</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Mulubrhan, Henok</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Mühlberger, Gregor</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Naesen, Oliver</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Narváez, Jhonatan</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Neilands, Krists</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Nerurkar, Lukas</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Novak, Domen</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Ourselin, Paul</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Page, Hugo</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>10</td>
+      <td>stage-1: 10</td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Paquot, Tom</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Paret-Peintre, Aurélien</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Paret-Peintre, Valentin</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Pedersen, Casper</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Pedrero, Antonio</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Penhoët, Paul</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>3</td>
+      <td>stage-1: 3</td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Pithie, Laurence</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>1</td>
+      <td>stage-1: 1</td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Poel, Mathieu van der</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>16</td>
+      <td>stage-1: 16</td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Pogačar, Tadej</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>25</td>
+      <td>stage-1: 25</td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Politt, Nils</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Poole, Max</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Pooter, Dries De</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Price-Pejtersen, Johan</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Raisberg, Nadav</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Reinderink, Pepijn</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Ries, Michel</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Robeet, Ludovic</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Rodriguez, Carlos</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Rodríguez, Oscar</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Rolland, Brieuc</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Romeo, Iván</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Rondel, Mathys</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Rouland, Louis</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Russo, Clément</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Ryan, Archie</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Schachmann, Maximilian</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Seixas, Paul</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Sheffield, Magnus</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Sivakov, Pavel</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Skujins, Toms</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Smith, Dion</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Soler, Marc</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Stannard, Robert</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Stewart, Jake</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>12</td>
+      <td>stage-1: 12</td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Stuyven, Jasper</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Tejada, Harold</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Teuns, Dylan</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Thalmann, Roland</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Theuns, Edward</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Thierry, Pierre</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Thomas, Benjamin</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>4</td>
+      <td>stage-1: 4</td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Toumire, Hugo</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Trentin, Matteo</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Tronchon, Bastien</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>8</td>
+      <td>stage-1: 8</td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Træen, Torstein</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Tulett, Ben</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Turgis, Anthony</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Valgren, Michael</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Valter, Attila</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Velasco, Simone</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Venturini, Clément</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>6</td>
+      <td>stage-1: 6</td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Vercher, Mattéo</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Vermeersch, Gianni</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Vervaeke, Louis</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Vingegaard, Jonas</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>20</td>
+      <td>stage-1: 20</td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Vinokurov, Nicolas</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Watson, Sam</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Weiss, Fabian</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Wellens, Tim</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Wilksch, Hannes</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Wright, Fred</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Wærenskjold, Søren</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Critérium du Dauphiné</td>
+      <td>Zwiehoff, Ben</td>
+      <td>Tour Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>De Brabantse Pijl</td>
       <td>Aert, Wout van</td>
       <td>Classics Cat. 3</td>

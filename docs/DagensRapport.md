@@ -4,6 +4,22 @@ hide:
   - toc
 ---
 
+## 2025-06-08
+### Hovedspillet
+Pogačar, Tadej **25** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
+Vingegaard, Jonas **20** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)  
+Poel, Mathieu van der **16** (Jarma)  
+Penhoët, Paul **3** (Jarma)  
+Jeanniere, Emilien **2** (Chrelle, Jappo, Knak)  
+Pithie, Laurence **1** (Tommy)  
+
+### Cheapo
+Tronchon, Bastien **8** (Chrelle, Jappo, Kenk, Knak, Visti)  
+
+
+
+
+
 ## 2025-06-01
 ### Hovedspillet
 Yates, Simon **180** (Okholm)  

@@ -101,10 +101,10 @@
       <td>5</td>
       <td>Almeida João</td>
       <td>Ayuso Juan</td>
-      <td>Merlier Tim</td>
+      <td class = "startlist">Merlier Tim</td>
       <td>Philipsen Jasper</td>
       <td>Ayuso Juan</td>
-      <td>Merlier Tim</td>
+      <td class = "startlist">Merlier Tim</td>
       <td>Skjelmose Mattias</td>
       <td>De Lie Arnaud</td>
       <td>Skjelmose Mattias</td>
@@ -149,7 +149,7 @@
       <td>Girmay Biniam</td>
       <td>Van Gils Maxim</td>
       <td>Yates Simon</td>
-      <td>Merlier Tim</td>
+      <td class = "startlist">Merlier Tim</td>
       <td>Landa Mikel</td>
     </tr>
     <tr>
@@ -161,7 +161,7 @@
       <td>Geoghegan Hart Tao</td>
       <td>Van Gils Maxim</td>
       <td>Hirschi Marc</td>
-      <td>Merlier Tim</td>
+      <td class = "startlist">Merlier Tim</td>
       <td>Onley Oscar</td>
       <td>Pithie Laurence</td>
       <td>Girmay Biniam</td>

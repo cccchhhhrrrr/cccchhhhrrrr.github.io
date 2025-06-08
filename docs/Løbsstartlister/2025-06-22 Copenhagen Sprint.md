@@ -218,7 +218,7 @@
       <td>Kron Andreas</td>
       <td>Martinez Lenny</td>
       <td>Castrillo Pablo</td>
-      <td>Vacek Mathias</td>
+      <td class = "startlist">Vacek Mathias</td>
       <td>Pellizzari Giulio</td>
       <td>Strong Corbin</td>
     </tr>

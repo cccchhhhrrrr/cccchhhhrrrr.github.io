@@ -170,7 +170,7 @@
       <th>9</th>
       <td>10</td>
       <td>Nys Thibau</td>
-      <td>Uijtdebroeks Cian</td>
+      <td class = "startlist">Uijtdebroeks Cian</td>
       <td>Hirschi Marc</td>
       <td>Grégoire Romain</td>
       <td>Narváez Jhonatan</td>
@@ -218,7 +218,7 @@
       <td>Kron Andreas</td>
       <td>Martinez Lenny</td>
       <td>Castrillo Pablo</td>
-      <td>Vacek Mathias</td>
+      <td class = "startlist">Vacek Mathias</td>
       <td>Pellizzari Giulio</td>
       <td>Strong Corbin</td>
     </tr>
