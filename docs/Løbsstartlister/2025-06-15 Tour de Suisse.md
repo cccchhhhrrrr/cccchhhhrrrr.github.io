@@ -105,9 +105,9 @@
       <td>Philipsen Jasper</td>
       <td>Ayuso Juan</td>
       <td>Merlier Tim</td>
-      <td class = "startlist">Skjelmose Mattias</td>
+      <td>Skjelmose Mattias</td>
       <td class = "startlist">De Lie Arnaud</td>
-      <td class = "startlist">Skjelmose Mattias</td>
+      <td>Skjelmose Mattias</td>
       <td>Rodríguez Carlos</td>
     </tr>
     <tr>

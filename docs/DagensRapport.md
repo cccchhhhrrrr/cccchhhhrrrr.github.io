@@ -4,6 +4,55 @@ hide:
   - toc
 ---
 
+## 2025-06-11
+### Hovedspillet
+Vingegaard, Jonas **20** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)  
+Pogačar, Tadej **14** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
+Lipowitz, Florian **12** (Okholm)  
+Poel, Mathieu van der **10** (Jarma)  
+Seixas, Paul **3** (Matti)  
+
+### Cheapo
+
+
+
+
+
+## 2025-06-10
+### Hovedspillet
+Romeo, Iván **25** (Matti)  
+Lipowitz, Florian **14** (Okholm)  
+Poel, Mathieu van der **12** (Jarma)  
+Laurance, Axel **10** (Jappo, Matti, Okholm)  
+Rolland, Brieuc **8** (Kenk)  
+Jeanniere, Emilien **2** (Chrelle, Jappo, Knak)  
+
+### Cheapo
+Romeo, Iván **25** (Chrelle, Jappo)  
+Barré, Louis **16** (Chrelle, Knak)  
+Rolland, Brieuc **8** (Jappo, Jarma, Kenk)  
+Tronchon, Bastien **1** (Chrelle, Jappo, Kenk, Knak, Visti)  
+
+
+
+
+
+## 2025-06-09
+### Hovedspillet
+Milan, Jonathan **25** (Jarma, Kenk, Matti, Okholm, Visti)  
+Poel, Mathieu van der **16** (Jarma)  
+Jeanniere, Emilien **12** (Chrelle, Jappo, Knak)  
+Louvel, Matîs **6** (Jarma)  
+Trentin, Matteo **3** (Knak)  
+
+### Cheapo
+Tronchon, Bastien **10** (Chrelle, Jappo, Kenk, Knak, Visti)  
+Louvel, Matîs **6** (Jarma)  
+
+
+
+
+
 ## 2025-06-08
 ### Hovedspillet
 Pogačar, Tadej **25** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
