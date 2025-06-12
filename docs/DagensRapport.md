@@ -4,6 +4,22 @@ hide:
   - toc
 ---
 
+## 2025-06-12
+### Hovedspillet
+Laurance, Axel **20** (Jappo, Matti, Okholm)  
+Pithie, Laurence **14** (Tommy)  
+Milan, Jonathan **12** (Jarma, Kenk, Matti, Okholm, Visti)  
+Penhoët, Paul **10** (Jarma)  
+Jeanniere, Emilien **8** (Chrelle, Jappo, Knak)  
+Poel, Mathieu van der **4** (Jarma)  
+
+### Cheapo
+Tronchon, Bastien **3** (Chrelle, Jappo, Kenk, Knak, Visti)  
+
+
+
+
+
 ## 2025-06-11
 ### Hovedspillet
 Vingegaard, Jonas **20** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)  
