@@ -90,7 +90,7 @@
       <td>Van Eetvelt Lennert</td>
       <td>Van Der Poel Mathieu</td>
       <td>Milan Jonathan</td>
-      <td>Philipsen Jasper</td>
+      <td class = "startlist">Philipsen Jasper</td>
       <td>Milan Jonathan</td>
       <td>Milan Jonathan</td>
       <td>Pedersen Mads</td>
@@ -102,7 +102,7 @@
       <td>Almeida João</td>
       <td>Ayuso Juan</td>
       <td class = "startlist">Merlier Tim</td>
-      <td>Philipsen Jasper</td>
+      <td class = "startlist">Philipsen Jasper</td>
       <td>Ayuso Juan</td>
       <td class = "startlist">Merlier Tim</td>
       <td>Skjelmose Mattias</td>
@@ -169,7 +169,7 @@
     <tr>
       <th>9</th>
       <td>10</td>
-      <td>Nys Thibau</td>
+      <td class = "startlist">Nys Thibau</td>
       <td>Uijtdebroeks Cian</td>
       <td>Hirschi Marc</td>
       <td>Grégoire Romain</td>
@@ -177,22 +177,22 @@
       <td>Healy Ben</td>
       <td>Girmay Biniam</td>
       <td>Gee Derek</td>
-      <td>Nys Thibau</td>
+      <td class = "startlist">Nys Thibau</td>
       <td>Gall Felix</td>
     </tr>
     <tr>
       <th>10</th>
       <td>11</td>
       <td>Grégoire Romain</td>
-      <td>Nys Thibau</td>
+      <td class = "startlist">Nys Thibau</td>
       <td>Gee Derek</td>
       <td>Sivakov Pavel</td>
-      <td>Nys Thibau</td>
-      <td>Nys Thibau</td>
+      <td class = "startlist">Nys Thibau</td>
+      <td class = "startlist">Nys Thibau</td>
       <td>Buitrago Santiago</td>
       <td>Sheffield Magnus</td>
       <td>Martinez Lenny</td>
-      <td>Nys Thibau</td>
+      <td class = "startlist">Nys Thibau</td>
     </tr>
     <tr>
       <th>11</th>
@@ -213,7 +213,7 @@
       <td>13</td>
       <td>Plapp Luke</td>
       <td>Welsford Sam</td>
-      <td>Nys Thibau</td>
+      <td class = "startlist">Nys Thibau</td>
       <td>Magnier Paul</td>
       <td>Kron Andreas</td>
       <td>Martinez Lenny</td>
@@ -231,7 +231,7 @@
       <td>Bagioli Andrea</td>
       <td>Christen Jan</td>
       <td>Strong Corbin</td>
-      <td>Nys Thibau</td>
+      <td class = "startlist">Nys Thibau</td>
       <td>Martinez Lenny</td>
       <td>Welsford Sam</td>
       <td>Magnier Paul</td>

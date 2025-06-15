@@ -4,6 +4,55 @@ hide:
   - toc
 ---
 
+## 2025-06-15
+### Hovedspillet
+Pogačar, Tadej **116** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
+Vingegaard, Jonas **105** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)  
+Lipowitz, Florian **78** (Okholm)  
+Seixas, Paul **35** (Matti)  
+Rodriguez, Carlos **32** (Matti, Visti)  
+Grégoire, Romain **25** (Chrelle, Jarma, Knak)  
+Martinez, Lenny **25** (Jappo, Knak, Matti, Okholm, Tommy, Visti)  
+Castrillo, Pablo **8** (Matti)  
+Healy, Ben **4** (Knak)  
+
+### Cheapo
+Jegat, Jordan **14** (Chrelle, Jappo, Knak)  
+Kepplinger, Rainer **4** (Chrelle)  
+Conci, Nicola **3** (Knak)  
+
+
+
+
+
+## 2025-06-14
+### Hovedspillet
+Pogačar, Tadej **25** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
+Vingegaard, Jonas **20** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)  
+Lipowitz, Florian **16** (Okholm)  
+Rodriguez, Carlos **4** (Matti, Visti)  
+Seixas, Paul **2** (Matti)  
+
+### Cheapo
+
+
+
+
+
+## 2025-06-13
+### Hovedspillet
+Pogačar, Tadej **25** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
+Vingegaard, Jonas **20** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)  
+Lipowitz, Florian **16** (Okholm)  
+Seixas, Paul **3** (Matti)  
+
+### Cheapo
+Barré, Louis **6** (Chrelle, Knak)  
+
+
+
+
+
 ## 2025-06-12
 ### Hovedspillet
 Laurance, Axel **20** (Jappo, Matti, Okholm)  
