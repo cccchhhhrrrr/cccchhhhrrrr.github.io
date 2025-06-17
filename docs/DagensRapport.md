@@ -4,6 +4,33 @@ hide:
   - toc
 ---
 
+## 2025-06-17
+### Hovedspillet
+Almeida, João **20** (Chrelle, Kenk)  
+Onley, Oscar **16** (Hustlersen, Okholm)  
+Grégoire, Romain **14** (Chrelle, Jarma, Knak)  
+Christen, Jan **10** (Kenk)  
+Gall, Felix **4** (Chrelle, Matti, Visti)  
+
+### Cheapo
+Champoussin, Clément **3** (Chrelle, Hustlersen, Visti)  
+Langellotti, Victor **2** (Hustlersen)  
+
+
+
+
+
+## 2025-06-16
+### Hovedspillet
+Lapeira, Paul **10** (Knak, Tommy)  
+
+### Cheapo
+Glivar, Gal **4** (Jappo, Jarma, Kenk)  
+
+
+
+
+
 ## 2025-06-15
 ### Hovedspillet
 Pogačar, Tadej **116** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  

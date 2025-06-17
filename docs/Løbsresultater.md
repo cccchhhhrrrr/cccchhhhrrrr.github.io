@@ -36553,7 +36553,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Adrià, Roger</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36561,7 +36561,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Alaphilippe, Julian</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>14</td>
       <td>stage-1: 14</td>
     </tr>
@@ -36569,31 +36569,31 @@ hide:
       <td>Tour de Suisse</td>
       <td>Albanese, Vincenzo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>25</td>
+      <td>stage-2: 25</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Almeida, João</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>20</td>
+      <td>stage-3: 20</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Askey, Lewis</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>16</td>
+      <td>stage-2: 16</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>August, AJ</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36601,7 +36601,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Badilatti, Matteo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36609,7 +36609,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Bagioli, Andrea</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36617,7 +36617,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Ballerini, Davide</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36625,7 +36625,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Barguil, Warren</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36633,7 +36633,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Barta, Will</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36641,7 +36641,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Bastiaens, Ayco</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36649,7 +36649,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Battistella, Samuele</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36657,7 +36657,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Bax, Sjoerd</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36665,7 +36665,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Bennett, George</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36673,15 +36673,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Benoot, Tiesj</td>
       <td>Tour Cat. 2</td>
+      <td>3</td>
       <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>stage-2: 1</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Bettiol, Alberto</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36689,15 +36689,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Bilbao, Pello</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>14</td>
+      <td>stage-2: 8 / stage-3: 6</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Bisiaux, Léo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36705,7 +36705,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Bissegger, Stefan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36713,7 +36713,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Bittner, Pavel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36721,7 +36721,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Bjerg, Mikkel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36729,7 +36729,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Blackmore, Joe</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36737,15 +36737,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Bossche, Fabio Van den</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>3</td>
+      <td>stage-2: 3</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Brambilla, Gianluca</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36753,7 +36753,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Broek, Frank van den</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36761,15 +36761,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Buratti, Nicolò</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>6</td>
+      <td>stage-2: 6</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Buyst, Jasper De</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36777,7 +36777,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Camprubi, Marcel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36785,7 +36785,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Castrillo, Pablo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>8</td>
       <td>stage-1: 8</td>
     </tr>
@@ -36793,15 +36793,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Champoussin, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>3</td>
+      <td>stage-3: 3</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Charmig, Anthon</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36809,23 +36809,23 @@ hide:
       <td>Tour de Suisse</td>
       <td>Christen, Fabio</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>28</td>
+      <td>stage-2: 20 / stage-3: 8</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Christen, Jan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>10</td>
+      <td>stage-3: 10</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Clarke, Simon</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36833,7 +36833,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Colleoni, Kevin</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36841,7 +36841,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Conci, Nicola</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>3</td>
       <td>stage-1: 3</td>
     </tr>
@@ -36857,7 +36857,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Costa, Rui</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36865,7 +36865,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Costiou, Ewen</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36873,7 +36873,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>De La Cruz, David</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36881,7 +36881,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Debruyne, Ramses</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36889,7 +36889,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Dillier, Silvan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36897,7 +36897,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Durbridge, Luke</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36905,7 +36905,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Edmondson, Alex</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36913,7 +36913,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Engelhardt, Felix</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36921,7 +36921,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Flynn, Sean</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36929,7 +36929,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Fortunato, Lorenzo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>1</td>
       <td>stage-1: 1</td>
     </tr>
@@ -36937,7 +36937,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Froome, Chris</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36945,15 +36945,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Gall, Felix</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>4</td>
+      <td>stage-3: 4</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Gamper, Patrick</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36961,7 +36961,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Geoghegan Hart, Tao</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36977,15 +36977,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Glivar, Gal</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>4</td>
+      <td>stage-2: 4</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Gloag, Thomas</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -36993,7 +36993,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>González, David</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37001,7 +37001,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Graat, Tijmen</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37009,7 +37009,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Gregaard, Jonas</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37017,7 +37017,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Grignard, Sébastien</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37025,7 +37025,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Grossschartner, Felix</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>10</td>
       <td>stage-1: 10</td>
     </tr>
@@ -37033,15 +37033,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Grégoire, Romain</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>25</td>
-      <td>stage-1: 25</td>
+      <td>3</td>
+      <td>39</td>
+      <td>stage-1: 25 / stage-3: 14</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Haller, Marco</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37049,7 +37049,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Hamilton, Lucas</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37057,7 +37057,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Hirschi, Marc</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37065,7 +37065,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Houle, Hugo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37073,7 +37073,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Huby, Antoine</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37081,7 +37081,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Huising, Menno</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37089,7 +37089,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Huys, Laurens</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37097,7 +37097,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Izagirre, Ion</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37113,7 +37113,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Janssens, Jimmy</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37121,7 +37121,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Johansen, Julius</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37129,7 +37129,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Jungels, Bob</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37137,7 +37137,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Kamp, Alexander</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37145,7 +37145,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Kelemen, Petr</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37153,7 +37153,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Kepplinger, Rainer</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>4</td>
       <td>stage-1: 4</td>
     </tr>
@@ -37161,7 +37161,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Knox, James</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37169,7 +37169,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Koch, Jonas</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37177,7 +37177,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Kruijswijk, Steven</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37185,7 +37185,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Kuypers, Gerben</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37193,7 +37193,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Kämna, Lennard</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>6</td>
       <td>stage-1: 6</td>
     </tr>
@@ -37201,7 +37201,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Küng, Stefan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37209,7 +37209,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Laengen, Vegard Stake</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37217,23 +37217,23 @@ hide:
       <td>Tour de Suisse</td>
       <td>Langellotti, Victor</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>2</td>
+      <td>stage-3: 2</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Lapeira, Paul</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>10</td>
+      <td>stage-2: 10</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Le Berre, Mathis</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37241,7 +37241,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Le Gac, Olivier</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37249,7 +37249,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Le Huitouze, Eddy</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37257,7 +37257,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Lecerf, William Junior</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37265,7 +37265,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Lemmen, Bart</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>16</td>
       <td>stage-1: 16</td>
     </tr>
@@ -37273,7 +37273,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Lie, Arnaud De</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37281,7 +37281,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Livyns, Arjen</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37289,7 +37289,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Lopez, Juan Pedro</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37297,7 +37297,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Maas, Jan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37305,7 +37305,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Madouas, Valentin</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37313,7 +37313,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Mahoudo, Nolann</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37321,7 +37321,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Maisonobe, Sam</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37329,7 +37329,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Masnada, Fausto</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37337,15 +37337,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Mayrhofer, Marius</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>2</td>
+      <td>stage-2: 2</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Meeus, Jordi</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37353,7 +37353,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Meulen, Max van der</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37361,7 +37361,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Mihkels, Madis</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37369,7 +37369,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Moer, Brent Van</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37377,7 +37377,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Mohorič, Matej</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37385,7 +37385,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Moniquet, Sylvain</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37393,7 +37393,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Morgado, António</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37401,7 +37401,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Naberman, Tim</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37409,7 +37409,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>O'Connor, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>12</td>
       <td>stage-1: 12</td>
     </tr>
@@ -37417,7 +37417,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Oldani, Stefano</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37425,7 +37425,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Oliveira, Nelson</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37433,15 +37433,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Onley, Oscar</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>16</td>
+      <td>stage-3: 16</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Oomen, Sam</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37449,7 +37449,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Paasschens, Mathijs</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37457,7 +37457,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Palzer, Anton</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37465,7 +37465,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Peters, Nans</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37473,7 +37473,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Petilli, Simone</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37481,7 +37481,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Pickering, Finlay</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37489,7 +37489,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Plus, Laurens De</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37497,15 +37497,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Poppel, Danny van</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>12</td>
+      <td>stage-2: 12</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Powless, Neilson</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37513,7 +37513,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Quintana, Nairo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37521,7 +37521,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Riccitello, Matthew</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37529,7 +37529,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Romo, Javier</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37537,7 +37537,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Rutsch, Jonas</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37545,7 +37545,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Samitier, Sergio</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37553,7 +37553,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Sanchez, Pelayo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37561,7 +37561,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Schmid, Mauro</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37569,7 +37569,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Scotson, Callum</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37577,7 +37577,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Sepúlveda, Eduardo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37585,7 +37585,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Serry, Pieter</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37593,15 +37593,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Simmons, Quinn</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>3</td>
+      <td>39</td>
+      <td>stage-2: 14 / stage-3: 25</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Sintmaartensdijk, Roel van</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37609,7 +37609,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Sobrero, Matteo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37617,7 +37617,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Sweeny, Harry</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37625,7 +37625,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Swift, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>2</td>
       <td>stage-1: 2</td>
     </tr>
@@ -37633,7 +37633,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Sütterlin, Jasha</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37641,7 +37641,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Thomas, Geraint</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37649,7 +37649,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Tjøtta, Martin</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37657,7 +37657,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Torres, Albert</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37665,7 +37665,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Uhlig, Henri</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37673,7 +37673,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Vansevenant, Mauri</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37681,15 +37681,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Vauquelin, Kévin</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>20</td>
-      <td>stage-1: 20</td>
+      <td>3</td>
+      <td>32</td>
+      <td>stage-1: 20 / stage-3: 12</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Vergaerde, Otto</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37697,7 +37697,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Vermote, Julien</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37705,7 +37705,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Verre, Alessandro</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37713,7 +37713,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Verstrynge, Emiel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37721,7 +37721,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Vlasov, Aleksandr</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37729,7 +37729,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Walker, Max</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37737,7 +37737,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Warbasse, Larry</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37745,7 +37745,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Wilder, Ilan Van</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37753,7 +37753,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Wirtgen, Luc</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37761,15 +37761,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Woods, Michael</td>
       <td>Tour Cat. 2</td>
+      <td>3</td>
       <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>stage-3: 1</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Zana, Filippo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37777,7 +37777,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Zimmermann, Georg</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td></td>
     </tr>
