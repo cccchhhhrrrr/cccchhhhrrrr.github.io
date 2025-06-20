@@ -4,6 +4,60 @@ hide:
   - toc
 ---
 
+## 2025-06-20
+### Hovedspillet
+Hayter, Ethan **15** (Chrelle, Jappo)  
+Mihkels, Madis **14** (Hustlersen, Matti, Visti)  
+Vermeersch, Florian **10** (Kenk, Visti)  
+Artz, Huub **6** (Jarma)  
+Lapeira, Paul **6** (Knak, Tommy)  
+Segaert, Alec **4** (Knak, Tommy, Visti)  
+
+### Cheapo
+Artz, Huub **6** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)  
+Herregodts, Rune **1** (Kenk)  
+
+
+
+
+
+## 2025-06-19
+### Hovedspillet
+Onley, Oscar **25** (Hustlersen, Okholm)  
+Almeida, João **20** (Chrelle, Kenk)  
+Gall, Felix **16** (Chrelle, Matti, Visti)  
+Philipsen, Jasper **15** (Jarma, Knak)  
+Wilder, Ilan Van **10** (Chrelle)  
+Teutenberg, Tim Torn **8** (Hustlersen, Kenk, Tommy)  
+Merlier, Tim **4** (Jappo, Knak, Matti, Tommy)  
+Castrillo, Pablo **1** (Matti)  
+
+### Cheapo
+Schuyteneer, Steffen De **3** (Chrelle, Jappo, Jarma)  
+
+
+
+
+
+## 2025-06-18
+### Hovedspillet
+Almeida, João **25** (Chrelle, Kenk)  
+Onley, Oscar **20** (Hustlersen, Okholm)  
+Merlier, Tim **15** (Jappo, Knak, Matti, Tommy)  
+Grégoire, Romain **12** (Chrelle, Jarma, Knak)  
+Gall, Felix **10** (Chrelle, Matti, Visti)  
+Wilder, Ilan Van **8** (Chrelle)  
+Teutenberg, Tim Torn **4** (Hustlersen, Kenk, Tommy)  
+Castrillo, Pablo **2** (Matti)  
+
+### Cheapo
+Champoussin, Clément **6** (Chrelle, Hustlersen, Visti)  
+Boven, Luca Van **1** (Jappo, Kenk, Visti)  
+
+
+
+
+
 ## 2025-06-17
 ### Hovedspillet
 Almeida, João **20** (Chrelle, Kenk)  

@@ -3852,303 +3852,453 @@ giro-d-italia,2025,gc,2025-06-01,gc,,,22,Svestad-Bårdseng Embret,Arkéa - B&B H
 giro-d-italia,2025,gc,2025-06-01,gc,,,23,Harper Chris,Team Jayco AlUla,50.0,55.0,2025-06-02 06:48:51
 giro-d-italia,2025,gc,2025-06-01,gc,,,24,Fortunato Lorenzo,XDS Astana Team,50.0,50.0,2025-06-02 06:48:51
 giro-d-italia,2025,gc,2025-06-01,gc,,,25,Quintana Nairo,Movistar Team,50.0,45.0,2025-06-02 06:48:51
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,1,Pogačar Tadej,UAE Team Emirates - XRG,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,2,Vingegaard Jonas,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,3,Van Der Poel Mathieu,Alpecin - Deceuninck,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,4,Evenepoel Remco,Soudal Quick-Step,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,5,Stewart Jake,Israel - Premier Tech,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,6,Page Hugo,Intermarché - Wanty,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,7,Tronchon Bastien,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,8,Venturini Clément,Arkéa - B&B Hotels,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,9,Thomas Benjamin,Cofidis,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,10,Penhoët Paul,Groupama - FDJ,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,11,Jeannière Emilien,Team TotalEnergies,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,12,Pithie Laurence,Red Bull - BORA - hansgrohe,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,13,Fredheim Stian,Uno-X Mobility,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,14,Tulett Ben,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,15,Foldager Anders,Team Jayco AlUla,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,16,Watson Samuel,INEOS Grenadiers,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,17,Turgis Anthony,Team TotalEnergies,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,18,Buitrago Santiago,Bahrain - Victorious,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,19,Paret-Peintre Aurélien,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,20,Velasco Simone,XDS Astana Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,21,Jorgenson Matteo,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,22,Valgren Michael,EF Education - EasyPost,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,23,Mühlberger Gregor,Movistar Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,24,Poole Max,Team Picnic PostNL,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,25,Koerdt Bjorn,Team Picnic PostNL,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,1,Milan Jonathan,Lidl - Trek,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,2,Wright Fred,Bahrain - Victorious,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,3,Van Der Poel Mathieu,Alpecin - Deceuninck,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,4,Fredheim Stian,Uno-X Mobility,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,5,Jeannière Emilien,Team TotalEnergies,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,6,Tronchon Bastien,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,7,Fedorov Yevgeniy,XDS Astana Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,8,Louvel Matis,Israel - Premier Tech,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,9,Venturini Clément,Arkéa - B&B Hotels,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,10,Trentin Matteo,Tudor Pro Cycling Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,11,Velasco Simone,XDS Astana Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,12,Raisberg Nadav,Israel - Premier Tech,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,13,Pithie Laurence,Red Bull - BORA - hansgrohe,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,14,Laurance Axel,INEOS Grenadiers,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,15,Foldager Anders,Team Jayco AlUla,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,16,Page Hugo,Intermarché - Wanty,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,17,Theuns Edward,Lidl - Trek,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,18,Watson Samuel,INEOS Grenadiers,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,19,Lutsenko Alexey,Israel - Premier Tech,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,20,Koerdt Bjorn,Team Picnic PostNL,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,21,Paret-Peintre Aurélien,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,22,Mas Enric,Movistar Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,23,Lipowitz Florian,Red Bull - BORA - hansgrohe,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,24,Berthet Clément,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,25,Armirail Bruno,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,1,Romeo Iván,Movistar Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,2,Tejada Harold,XDS Astana Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,3,Barré Louis,Intermarché - Wanty,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,4,Lipowitz Florian,Red Bull - BORA - hansgrohe,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,5,Van Der Poel Mathieu,Alpecin - Deceuninck,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,6,Laurance Axel,INEOS Grenadiers,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,7,Rolland Brieuc,Groupama - FDJ,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,8,Bernard Julien,Lidl - Trek,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,9,Leknessund Andreas,Uno-X Mobility,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,10,Dunbar Eddie,Team Jayco AlUla,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,11,Jeannière Emilien,Team TotalEnergies,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,12,Tronchon Bastien,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,13,Foldager Anders,Team Jayco AlUla,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,14,Wright Fred,Bahrain - Victorious,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,15,Penhoët Paul,Groupama - FDJ,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,16,Fedorov Yevgeniy,XDS Astana Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,17,De Pooter Dries,Intermarché - Wanty,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,18,Velasco Simone,XDS Astana Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,19,Stuyven Jasper,Lidl - Trek,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,20,Thierry Pierre,Arkéa - B&B Hotels,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,21,Bayer Tobias,Alpecin - Deceuninck,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,22,Pithie Laurence,Red Bull - BORA - hansgrohe,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,23,Stewart Jake,Israel - Premier Tech,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,24,Meurisse Xandro,Alpecin - Deceuninck,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,25,Seixas Paul,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,1,Evenepoel Remco,Soudal Quick-Step,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,2,Vingegaard Jonas,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,3,Jorgenson Matteo,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,4,Pogačar Tadej,UAE Team Emirates - XRG,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,5,Lipowitz Florian,Red Bull - BORA - hansgrohe,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,6,Van Der Poel Mathieu,Alpecin - Deceuninck,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,7,Cavagna Rémi,Groupama - FDJ,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,8,Dunbar Eddie,Team Jayco AlUla,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,9,Foss Tobias,INEOS Grenadiers,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,10,Seixas Paul,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,11,Armirail Bruno,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,12,Guernalec Thibault,Arkéa - B&B Hotels,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,13,Wright Fred,Bahrain - Victorious,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,14,Lutsenko Alexey,Israel - Premier Tech,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,15,Romeo Iván,Movistar Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,16,Tejada Harold,XDS Astana Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,17,Sheffield Magnus,INEOS Grenadiers,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,18,Fisher-Black Finn,Red Bull - BORA - hansgrohe,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,19,Buitrago Santiago,Bahrain - Victorious,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,20,Rodríguez Carlos,INEOS Grenadiers,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,21,Martinez Lenny,Bahrain - Victorious,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,22,Johannessen Tobias Halland,Uno-X Mobility,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,23,Leonard Michael,INEOS Grenadiers,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,24,Paret-Peintre Aurélien,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,25,Berthet Clément,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,1,Stewart Jake,Israel - Premier Tech,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,2,Laurance Axel,INEOS Grenadiers,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,3,Wærenskjold Søren,Uno-X Mobility,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,4,Pithie Laurence,Red Bull - BORA - hansgrohe,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,5,Milan Jonathan,Lidl - Trek,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,6,Penhoët Paul,Groupama - FDJ,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,7,Jeannière Emilien,Team TotalEnergies,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,8,Wright Fred,Bahrain - Victorious,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,9,Van Der Poel Mathieu,Alpecin - Deceuninck,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,10,Tronchon Bastien,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,11,Turgis Anthony,Team TotalEnergies,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,12,Venturini Clément,Arkéa - B&B Hotels,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,13,Mulubrhan Henok,XDS Astana Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,14,Page Hugo,Intermarché - Wanty,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,15,Foldager Anders,Team Jayco AlUla,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,16,Consonni Simone,Lidl - Trek,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,17,Fisher-Black Finn,Red Bull - BORA - hansgrohe,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,18,Watson Samuel,INEOS Grenadiers,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,19,De Pooter Dries,Intermarché - Wanty,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,20,Hamilton Chris,Team Picnic PostNL,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,21,Jorgenson Matteo,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,22,Pogačar Tadej,UAE Team Emirates - XRG,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,23,Hagenes Per Strand,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,24,Stannard Robert,Bahrain - Victorious,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,25,Johannessen Tobias Halland,Uno-X Mobility,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,1,Pogačar Tadej,UAE Team Emirates - XRG,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,2,Vingegaard Jonas,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,3,Lipowitz Florian,Red Bull - BORA - hansgrohe,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,4,Jorgenson Matteo,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,5,Evenepoel Remco,Soudal Quick-Step,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,6,Baudin Alex,EF Education - EasyPost,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,7,Johannessen Tobias Halland,Uno-X Mobility,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,8,Barré Louis,Intermarché - Wanty,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,9,Tulett Ben,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,10,Seixas Paul,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,11,Mas Enric,Movistar Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,12,Buchmann Emanuel,Cofidis,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,13,Dunbar Eddie,Team Jayco AlUla,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,14,Rodríguez Carlos,INEOS Grenadiers,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,15,Martin Guillaume,Groupama - FDJ,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,16,Rondel Mathys,Tudor Pro Cycling Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,17,Jegat Jordan,Team TotalEnergies,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,18,Wellens Tim,UAE Team Emirates - XRG,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,19,Haig Jack,Bahrain - Victorious,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,20,Martinez Lenny,Bahrain - Victorious,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,21,Kuss Sepp,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,22,Mühlberger Gregor,Movistar Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,23,Paret-Peintre Aurélien,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,24,Lutsenko Alexey,Israel - Premier Tech,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,25,Chaves Esteban,EF Education - EasyPost,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,1,Pogačar Tadej,UAE Team Emirates - XRG,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,2,Vingegaard Jonas,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,3,Lipowitz Florian,Red Bull - BORA - hansgrohe,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,4,Johannessen Tobias Halland,Uno-X Mobility,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,5,Evenepoel Remco,Soudal Quick-Step,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,6,Tulett Ben,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,7,Mas Enric,Movistar Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,8,Buchmann Emanuel,Cofidis,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,9,Rodríguez Carlos,INEOS Grenadiers,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,10,Martin Guillaume,Groupama - FDJ,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,11,Seixas Paul,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,12,Jorgenson Matteo,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,13,Meintjes Louis,Intermarché - Wanty,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,14,Kuss Sepp,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,15,Træen Torstein,Bahrain - Victorious,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,16,Jegat Jordan,Team TotalEnergies,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,17,Mühlberger Gregor,Movistar Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,18,Lutsenko Alexey,Israel - Premier Tech,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,19,Buitrago Santiago,Bahrain - Victorious,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,20,Martinez Juan Guillermo,Team Picnic PostNL,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,21,Armirail Bruno,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,22,Rondel Mathys,Tudor Pro Cycling Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,23,Higuita Sergio,XDS Astana Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,24,Bardet Romain,Team Picnic PostNL,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,25,Braz Afonso Clément,Groupama - FDJ,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,1,Martinez Lenny,Bahrain - Victorious,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,2,Vingegaard Jonas,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,3,Pogačar Tadej,UAE Team Emirates - XRG,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,4,Jorgenson Matteo,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,5,Evenepoel Remco,Soudal Quick-Step,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,6,Mas Enric,Movistar Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,7,Lipowitz Florian,Red Bull - BORA - hansgrohe,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,8,Johannessen Tobias Halland,Uno-X Mobility,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,9,Healy Ben,EF Education - EasyPost,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,10,Kuss Sepp,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,11,Rodríguez Carlos,INEOS Grenadiers,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,12,Martin Guillaume,Groupama - FDJ,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,13,Seixas Paul,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,14,Mühlberger Gregor,Movistar Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,15,Armirail Bruno,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,16,Buchmann Emanuel,Cofidis,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,17,Chaves Esteban,EF Education - EasyPost,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,18,Van Gils Maxim,Red Bull - BORA - hansgrohe,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,19,Wellens Tim,UAE Team Emirates - XRG,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,20,Higuita Sergio,XDS Astana Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,21,Paret-Peintre Valentin,Soudal Quick-Step,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,22,Berthet Clément,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,23,Rondel Mathys,Tudor Pro Cycling Team,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,24,Pithie Laurence,Red Bull - BORA - hansgrohe,0,0,2025-06-17 21:03:24
-dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,25,Meintjes Louis,Intermarché - Wanty,0,0,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,1,Pogačar Tadej,UAE Team Emirates - XRG,500,250,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,2,Vingegaard Jonas,Team Visma | Lease a Bike,400,190,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,3,Lipowitz Florian,Red Bull - BORA - hansgrohe,325,160,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,4,Evenepoel Remco,Soudal Quick-Step,275,140,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,5,Johannessen Tobias Halland,Uno-X Mobility,225,120,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,6,Jorgenson Matteo,Team Visma | Lease a Bike,175,110,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,7,Mas Enric,Movistar Team,150,100,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,8,Seixas Paul,Decathlon AG2R La Mondiale Team,125,90,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,9,Rodríguez Carlos,INEOS Grenadiers,100,80,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,10,Martin Guillaume,Groupama - FDJ,85,70,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,11,Buchmann Emanuel,Cofidis,70,60,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,12,Tulett Ben,Team Visma | Lease a Bike,60,55,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,13,Kuss Sepp,Team Visma | Lease a Bike,50,50,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,14,Jegat Jordan,Team TotalEnergies,40,45,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,15,Rondel Mathys,Tudor Pro Cycling Team,35,40,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,16,Mühlberger Gregor,Movistar Team,30,36,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,17,Lutsenko Alexey,Israel - Premier Tech,30,32,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,18,Meintjes Louis,Intermarché - Wanty,30,28,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,19,Dunbar Eddie,Team Jayco AlUla,30,24,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,20,Chaves Esteban,EF Education - EasyPost,30,20,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,21,Armirail Bruno,Decathlon AG2R La Mondiale Team,20,18,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,22,Higuita Sergio,XDS Astana Team,20,16,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,23,Braz Afonso Clément,Groupama - FDJ,20,14,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,24,Berthet Clément,Decathlon AG2R La Mondiale Team,20,12,2025-06-17 21:03:24
-dauphine,2025,gc,2025-06-15,gc,,,25,Træen Torstein,Bahrain - Victorious,20,10,2025-06-17 21:03:24
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,1,Grégoire Romain,Groupama - FDJ,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,2,Vauquelin Kévin,Arkéa - B&B Hotels,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,3,Lemmen Bart,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,4,Alaphilippe Julian,Tudor Pro Cycling Team,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,5,O'Connor Ben,Team Jayco AlUla,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,6,Großschartner Felix,UAE Team Emirates - XRG,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,7,Castrillo Pablo,Movistar Team,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,8,Kämna Lennard,Lidl - Trek,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,9,Kepplinger Rainer,Bahrain - Victorious,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,10,Conci Nicola,XDS Astana Team,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,11,Swift Ben,INEOS Grenadiers,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,12,Fortunato Lorenzo,XDS Astana Team,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,13,Zimmermann Georg,Intermarché - Wanty,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,14,Bax Sjoerd,Q36.5 Pro Cycling Team,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,15,Maisonobe Sam,Cofidis,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,16,Costiou Ewen,Arkéa - B&B Hotels,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,17,Graat Tijmen,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,18,Bennett George,Israel - Premier Tech,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,19,Barta Will,Movistar Team,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,20,Barguil Warren,Team Picnic PostNL,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,21,Badilatti Matteo,Q36.5 Pro Cycling Team,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,22,Houle Hugo,Israel - Premier Tech,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,23,Hirschi Marc,Tudor Pro Cycling Team,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,24,Woods Michael,Israel - Premier Tech,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,25,Almeida João,UAE Team Emirates - XRG,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,1,Albanese Vincenzo,EF Education - EasyPost,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,2,Christen Fabio,Q36.5 Pro Cycling Team,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,3,Askey Lewis,Groupama - FDJ,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,4,Simmons Quinn,Lidl - Trek,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,5,Van Poppel Danny,Red Bull - BORA - hansgrohe,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,6,Lapeira Paul,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,7,Bilbao Pello,Bahrain - Victorious,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,8,Buratti Nicolò,Bahrain - Victorious,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,9,Glivar Gal,Alpecin - Deceuninck,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,10,Van Den Bossche Fabio,Alpecin - Deceuninck,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,11,Mayrhofer Marius,Tudor Pro Cycling Team,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,12,Benoot Tiesj,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,13,Mihkels Madis,EF Education - EasyPost,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,14,Bagioli Andrea,Lidl - Trek,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,15,Oldani Stefano,Cofidis,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,16,Charmig Anthon,XDS Astana Team,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,17,Swift Ben,INEOS Grenadiers,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,18,Bittner Pavel,Team Picnic PostNL,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,19,Morgado António,UAE Team Emirates - XRG,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,20,Adrià Roger,Red Bull - BORA - hansgrohe,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,21,Grégoire Romain,Groupama - FDJ,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,22,Le Berre Mathis,Arkéa - B&B Hotels,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,23,Blackmore Joseph,Israel - Premier Tech,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,24,Bettiol Alberto,XDS Astana Team,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,25,Engelhardt Felix,Team Jayco AlUla,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,1,Simmons Quinn,Lidl - Trek,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,2,Almeida João,UAE Team Emirates - XRG,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,3,Onley Oscar,Team Picnic PostNL,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,4,Grégoire Romain,Groupama - FDJ,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,5,Vauquelin Kévin,Arkéa - B&B Hotels,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,6,Christen Jan,UAE Team Emirates - XRG,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,7,Christen Fabio,Q36.5 Pro Cycling Team,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,8,Bilbao Pello,Bahrain - Victorious,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,9,Gall Felix,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,10,Champoussin Clément,XDS Astana Team,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,11,Langellotti Victor,INEOS Grenadiers,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,12,Woods Michael,Israel - Premier Tech,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,13,Vlasov Aleksandr,Red Bull - BORA - hansgrohe,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,14,Benoot Tiesj,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,15,Geoghegan Hart Tao,Lidl - Trek,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,16,Lemmen Bart,Team Visma | Lease a Bike,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,17,Riccitello Matthew,Israel - Premier Tech,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,18,Adrià Roger,Red Bull - BORA - hansgrohe,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,19,Van Wilder Ilan,Soudal Quick-Step,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,20,Castrillo Pablo,Movistar Team,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,21,O'Connor Ben,Team Jayco AlUla,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,22,Kämna Lennard,Lidl - Trek,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,23,Romo Javier,Movistar Team,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,24,Fortunato Lorenzo,XDS Astana Team,0,0,2025-06-17 21:03:52
-tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,25,Bisiaux Léo,Decathlon AG2R La Mondiale Team,0,0,2025-06-17 21:03:52
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,1,Pogačar Tadej,UAE Team Emirates - XRG,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,2,Vingegaard Jonas,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,3,Van Der Poel Mathieu,Alpecin - Deceuninck,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,4,Evenepoel Remco,Soudal Quick-Step,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,5,Stewart Jake,Israel - Premier Tech,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,6,Page Hugo,Intermarché - Wanty,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,7,Tronchon Bastien,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,8,Venturini Clément,Arkéa - B&B Hotels,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,9,Thomas Benjamin,Cofidis,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,10,Penhoët Paul,Groupama - FDJ,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,11,Jeannière Emilien,Team TotalEnergies,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,12,Pithie Laurence,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,13,Fredheim Stian,Uno-X Mobility,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,14,Tulett Ben,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,15,Foldager Anders,Team Jayco AlUla,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,16,Watson Samuel,INEOS Grenadiers,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,17,Turgis Anthony,Team TotalEnergies,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,18,Buitrago Santiago,Bahrain - Victorious,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,19,Paret-Peintre Aurélien,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,20,Velasco Simone,XDS Astana Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,21,Jorgenson Matteo,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,22,Valgren Michael,EF Education - EasyPost,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,23,Mühlberger Gregor,Movistar Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,24,Poole Max,Team Picnic PostNL,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-1,2025-06-08,Stage 1,p2,Normal,25,Koerdt Bjorn,Team Picnic PostNL,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,1,Milan Jonathan,Lidl - Trek,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,2,Wright Fred,Bahrain - Victorious,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,3,Van Der Poel Mathieu,Alpecin - Deceuninck,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,4,Fredheim Stian,Uno-X Mobility,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,5,Jeannière Emilien,Team TotalEnergies,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,6,Tronchon Bastien,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,7,Fedorov Yevgeniy,XDS Astana Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,8,Louvel Matis,Israel - Premier Tech,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,9,Venturini Clément,Arkéa - B&B Hotels,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,10,Trentin Matteo,Tudor Pro Cycling Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,11,Velasco Simone,XDS Astana Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,12,Raisberg Nadav,Israel - Premier Tech,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,13,Pithie Laurence,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,14,Laurance Axel,INEOS Grenadiers,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,15,Foldager Anders,Team Jayco AlUla,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,16,Page Hugo,Intermarché - Wanty,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,17,Theuns Edward,Lidl - Trek,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,18,Watson Samuel,INEOS Grenadiers,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,19,Lutsenko Alexey,Israel - Premier Tech,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,20,Koerdt Bjorn,Team Picnic PostNL,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,21,Paret-Peintre Aurélien,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,22,Mas Enric,Movistar Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,23,Lipowitz Florian,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,24,Berthet Clément,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-2,2025-06-09,Stage 2,p2,Normal,25,Armirail Bruno,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,1,Romeo Iván,Movistar Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,2,Tejada Harold,XDS Astana Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,3,Barré Louis,Intermarché - Wanty,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,4,Lipowitz Florian,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,5,Van Der Poel Mathieu,Alpecin - Deceuninck,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,6,Laurance Axel,INEOS Grenadiers,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,7,Rolland Brieuc,Groupama - FDJ,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,8,Bernard Julien,Lidl - Trek,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,9,Leknessund Andreas,Uno-X Mobility,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,10,Dunbar Eddie,Team Jayco AlUla,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,11,Jeannière Emilien,Team TotalEnergies,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,12,Tronchon Bastien,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,13,Foldager Anders,Team Jayco AlUla,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,14,Wright Fred,Bahrain - Victorious,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,15,Penhoët Paul,Groupama - FDJ,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,16,Fedorov Yevgeniy,XDS Astana Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,17,De Pooter Dries,Intermarché - Wanty,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,18,Velasco Simone,XDS Astana Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,19,Stuyven Jasper,Lidl - Trek,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,20,Thierry Pierre,Arkéa - B&B Hotels,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,21,Bayer Tobias,Alpecin - Deceuninck,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,22,Pithie Laurence,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,23,Stewart Jake,Israel - Premier Tech,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,24,Meurisse Xandro,Alpecin - Deceuninck,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-3,2025-06-10,Stage 3,p2,Normal,25,Seixas Paul,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,1,Evenepoel Remco,Soudal Quick-Step,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,2,Vingegaard Jonas,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,3,Jorgenson Matteo,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,4,Pogačar Tadej,UAE Team Emirates - XRG,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,5,Lipowitz Florian,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,6,Van Der Poel Mathieu,Alpecin - Deceuninck,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,7,Cavagna Rémi,Groupama - FDJ,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,8,Dunbar Eddie,Team Jayco AlUla,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,9,Foss Tobias,INEOS Grenadiers,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,10,Seixas Paul,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,11,Armirail Bruno,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,12,Guernalec Thibault,Arkéa - B&B Hotels,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,13,Wright Fred,Bahrain - Victorious,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,14,Lutsenko Alexey,Israel - Premier Tech,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,15,Romeo Iván,Movistar Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,16,Tejada Harold,XDS Astana Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,17,Sheffield Magnus,INEOS Grenadiers,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,18,Fisher-Black Finn,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,19,Buitrago Santiago,Bahrain - Victorious,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,20,Rodríguez Carlos,INEOS Grenadiers,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,21,Martinez Lenny,Bahrain - Victorious,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,22,Johannessen Tobias Halland,Uno-X Mobility,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,23,Leonard Michael,INEOS Grenadiers,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,24,Paret-Peintre Aurélien,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-4,2025-06-11,Stage 4 (ITT),p2,ITT,25,Berthet Clément,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,1,Stewart Jake,Israel - Premier Tech,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,2,Laurance Axel,INEOS Grenadiers,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,3,Wærenskjold Søren,Uno-X Mobility,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,4,Pithie Laurence,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,5,Milan Jonathan,Lidl - Trek,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,6,Penhoët Paul,Groupama - FDJ,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,7,Jeannière Emilien,Team TotalEnergies,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,8,Wright Fred,Bahrain - Victorious,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,9,Van Der Poel Mathieu,Alpecin - Deceuninck,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,10,Tronchon Bastien,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,11,Turgis Anthony,Team TotalEnergies,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,12,Venturini Clément,Arkéa - B&B Hotels,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,13,Mulubrhan Henok,XDS Astana Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,14,Page Hugo,Intermarché - Wanty,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,15,Foldager Anders,Team Jayco AlUla,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,16,Consonni Simone,Lidl - Trek,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,17,Fisher-Black Finn,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,18,Watson Samuel,INEOS Grenadiers,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,19,De Pooter Dries,Intermarché - Wanty,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,20,Hamilton Chris,Team Picnic PostNL,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,21,Jorgenson Matteo,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,22,Pogačar Tadej,UAE Team Emirates - XRG,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,23,Hagenes Per Strand,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,24,Stannard Robert,Bahrain - Victorious,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-5,2025-06-12,Stage 5,p2,Normal,25,Johannessen Tobias Halland,Uno-X Mobility,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,1,Pogačar Tadej,UAE Team Emirates - XRG,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,2,Vingegaard Jonas,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,3,Lipowitz Florian,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,4,Jorgenson Matteo,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,5,Evenepoel Remco,Soudal Quick-Step,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,6,Baudin Alex,EF Education - EasyPost,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,7,Johannessen Tobias Halland,Uno-X Mobility,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,8,Barré Louis,Intermarché - Wanty,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,9,Tulett Ben,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,10,Seixas Paul,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,11,Mas Enric,Movistar Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,12,Buchmann Emanuel,Cofidis,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,13,Dunbar Eddie,Team Jayco AlUla,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,14,Rodríguez Carlos,INEOS Grenadiers,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,15,Martin Guillaume,Groupama - FDJ,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,16,Rondel Mathys,Tudor Pro Cycling Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,17,Jegat Jordan,Team TotalEnergies,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,18,Wellens Tim,UAE Team Emirates - XRG,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,19,Haig Jack,Bahrain - Victorious,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,20,Martinez Lenny,Bahrain - Victorious,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,21,Kuss Sepp,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,22,Mühlberger Gregor,Movistar Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,23,Paret-Peintre Aurélien,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,24,Lutsenko Alexey,Israel - Premier Tech,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-6,2025-06-13,Stage 6,p5,Normal,25,Chaves Esteban,EF Education - EasyPost,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,1,Pogačar Tadej,UAE Team Emirates - XRG,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,2,Vingegaard Jonas,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,3,Lipowitz Florian,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,4,Johannessen Tobias Halland,Uno-X Mobility,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,5,Evenepoel Remco,Soudal Quick-Step,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,6,Tulett Ben,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,7,Mas Enric,Movistar Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,8,Buchmann Emanuel,Cofidis,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,9,Rodríguez Carlos,INEOS Grenadiers,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,10,Martin Guillaume,Groupama - FDJ,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,11,Seixas Paul,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,12,Jorgenson Matteo,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,13,Meintjes Louis,Intermarché - Wanty,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,14,Kuss Sepp,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,15,Træen Torstein,Bahrain - Victorious,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,16,Jegat Jordan,Team TotalEnergies,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,17,Mühlberger Gregor,Movistar Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,18,Lutsenko Alexey,Israel - Premier Tech,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,19,Buitrago Santiago,Bahrain - Victorious,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,20,Martinez Juan Guillermo,Team Picnic PostNL,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,21,Armirail Bruno,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,22,Rondel Mathys,Tudor Pro Cycling Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,23,Higuita Sergio,XDS Astana Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,24,Bardet Romain,Team Picnic PostNL,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-7,2025-06-14,Stage 7,p5,Normal,25,Braz Afonso Clément,Groupama - FDJ,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,1,Martinez Lenny,Bahrain - Victorious,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,2,Vingegaard Jonas,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,3,Pogačar Tadej,UAE Team Emirates - XRG,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,4,Jorgenson Matteo,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,5,Evenepoel Remco,Soudal Quick-Step,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,6,Mas Enric,Movistar Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,7,Lipowitz Florian,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,8,Johannessen Tobias Halland,Uno-X Mobility,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,9,Healy Ben,EF Education - EasyPost,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,10,Kuss Sepp,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,11,Rodríguez Carlos,INEOS Grenadiers,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,12,Martin Guillaume,Groupama - FDJ,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,13,Seixas Paul,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,14,Mühlberger Gregor,Movistar Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,15,Armirail Bruno,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,16,Buchmann Emanuel,Cofidis,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,17,Chaves Esteban,EF Education - EasyPost,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,18,Van Gils Maxim,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,19,Wellens Tim,UAE Team Emirates - XRG,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,20,Higuita Sergio,XDS Astana Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,21,Paret-Peintre Valentin,Soudal Quick-Step,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,22,Berthet Clément,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,23,Rondel Mathys,Tudor Pro Cycling Team,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,24,Pithie Laurence,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:20
+dauphine,2025,stage-8,2025-06-15,Stage 8,p5,Normal,25,Meintjes Louis,Intermarché - Wanty,0,0,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,1,Pogačar Tadej,UAE Team Emirates - XRG,500,250,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,2,Vingegaard Jonas,Team Visma | Lease a Bike,400,190,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,3,Lipowitz Florian,Red Bull - BORA - hansgrohe,325,160,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,4,Evenepoel Remco,Soudal Quick-Step,275,140,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,5,Johannessen Tobias Halland,Uno-X Mobility,225,120,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,6,Jorgenson Matteo,Team Visma | Lease a Bike,175,110,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,7,Mas Enric,Movistar Team,150,100,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,8,Seixas Paul,Decathlon AG2R La Mondiale Team,125,90,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,9,Rodríguez Carlos,INEOS Grenadiers,100,80,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,10,Martin Guillaume,Groupama - FDJ,85,70,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,11,Buchmann Emanuel,Cofidis,70,60,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,12,Tulett Ben,Team Visma | Lease a Bike,60,55,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,13,Kuss Sepp,Team Visma | Lease a Bike,50,50,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,14,Jegat Jordan,Team TotalEnergies,40,45,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,15,Rondel Mathys,Tudor Pro Cycling Team,35,40,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,16,Mühlberger Gregor,Movistar Team,30,36,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,17,Lutsenko Alexey,Israel - Premier Tech,30,32,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,18,Meintjes Louis,Intermarché - Wanty,30,28,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,19,Dunbar Eddie,Team Jayco AlUla,30,24,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,20,Chaves Esteban,EF Education - EasyPost,30,20,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,21,Armirail Bruno,Decathlon AG2R La Mondiale Team,20,18,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,22,Higuita Sergio,XDS Astana Team,20,16,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,23,Braz Afonso Clément,Groupama - FDJ,20,14,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,24,Berthet Clément,Decathlon AG2R La Mondiale Team,20,12,2025-06-20 21:36:20
+dauphine,2025,gc,2025-06-15,gc,,,25,Træen Torstein,Bahrain - Victorious,20,10,2025-06-20 21:36:20
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,1,Grégoire Romain,Groupama - FDJ,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,2,Vauquelin Kévin,Arkéa - B&B Hotels,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,3,Lemmen Bart,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,4,Alaphilippe Julian,Tudor Pro Cycling Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,5,O'Connor Ben,Team Jayco AlUla,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,6,Großschartner Felix,UAE Team Emirates - XRG,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,7,Castrillo Pablo,Movistar Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,8,Kämna Lennard,Lidl - Trek,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,9,Kepplinger Rainer,Bahrain - Victorious,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,10,Conci Nicola,XDS Astana Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,11,Swift Ben,INEOS Grenadiers,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,12,Fortunato Lorenzo,XDS Astana Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,13,Zimmermann Georg,Intermarché - Wanty,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,14,Bax Sjoerd,Q36.5 Pro Cycling Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,15,Maisonobe Sam,Cofidis,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,16,Costiou Ewen,Arkéa - B&B Hotels,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,17,Graat Tijmen,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,18,Bennett George,Israel - Premier Tech,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,19,Barta Will,Movistar Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,20,Barguil Warren,Team Picnic PostNL,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,21,Badilatti Matteo,Q36.5 Pro Cycling Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,22,Houle Hugo,Israel - Premier Tech,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,23,Hirschi Marc,Tudor Pro Cycling Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,24,Woods Michael,Israel - Premier Tech,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-1,2025-06-15,Stage 1,p2,Normal,25,Almeida João,UAE Team Emirates - XRG,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,1,Albanese Vincenzo,EF Education - EasyPost,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,2,Christen Fabio,Q36.5 Pro Cycling Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,3,Askey Lewis,Groupama - FDJ,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,4,Simmons Quinn,Lidl - Trek,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,5,Van Poppel Danny,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,6,Lapeira Paul,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,7,Bilbao Pello,Bahrain - Victorious,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,8,Buratti Nicolò,Bahrain - Victorious,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,9,Glivar Gal,Alpecin - Deceuninck,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,10,Van Den Bossche Fabio,Alpecin - Deceuninck,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,11,Mayrhofer Marius,Tudor Pro Cycling Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,12,Benoot Tiesj,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,13,Mihkels Madis,EF Education - EasyPost,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,14,Bagioli Andrea,Lidl - Trek,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,15,Oldani Stefano,Cofidis,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,16,Charmig Anthon,XDS Astana Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,17,Swift Ben,INEOS Grenadiers,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,18,Bittner Pavel,Team Picnic PostNL,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,19,Morgado António,UAE Team Emirates - XRG,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,20,Adrià Roger,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,21,Grégoire Romain,Groupama - FDJ,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,22,Le Berre Mathis,Arkéa - B&B Hotels,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,23,Blackmore Joseph,Israel - Premier Tech,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,24,Bettiol Alberto,XDS Astana Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-2,2025-06-16,Stage 2,p3,Normal,25,Engelhardt Felix,Team Jayco AlUla,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,1,Simmons Quinn,Lidl - Trek,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,2,Almeida João,UAE Team Emirates - XRG,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,3,Onley Oscar,Team Picnic PostNL,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,4,Grégoire Romain,Groupama - FDJ,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,5,Vauquelin Kévin,Arkéa - B&B Hotels,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,6,Christen Jan,UAE Team Emirates - XRG,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,7,Christen Fabio,Q36.5 Pro Cycling Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,8,Bilbao Pello,Bahrain - Victorious,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,9,Gall Felix,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,10,Champoussin Clément,XDS Astana Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,11,Langellotti Victor,INEOS Grenadiers,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,12,Woods Michael,Israel - Premier Tech,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,13,Vlasov Aleksandr,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,14,Benoot Tiesj,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,15,Geoghegan Hart Tao,Lidl - Trek,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,16,Lemmen Bart,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,17,Riccitello Matthew,Israel - Premier Tech,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,18,Adrià Roger,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,19,Van Wilder Ilan,Soudal Quick-Step,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,20,Castrillo Pablo,Movistar Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,21,O'Connor Ben,Team Jayco AlUla,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,22,Kämna Lennard,Lidl - Trek,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,23,Romo Javier,Movistar Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,24,Fortunato Lorenzo,XDS Astana Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-3,2025-06-17,Stage 3,p3,Normal,25,Bisiaux Léo,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,1,Almeida João,UAE Team Emirates - XRG,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,2,Onley Oscar,Team Picnic PostNL,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,3,O'Connor Ben,Team Jayco AlUla,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,4,Vauquelin Kévin,Arkéa - B&B Hotels,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,5,Grégoire Romain,Groupama - FDJ,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,6,Gall Felix,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,7,Van Wilder Ilan,Soudal Quick-Step,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,8,Champoussin Clément,XDS Astana Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,9,Alaphilippe Julian,Tudor Pro Cycling Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,10,Kämna Lennard,Lidl - Trek,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,11,Castrillo Pablo,Movistar Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,12,Riccitello Matthew,Israel - Premier Tech,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,13,Blackmore Joseph,Israel - Premier Tech,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,14,Madouas Valentin,Groupama - FDJ,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,15,Vlasov Aleksandr,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,16,Sepúlveda Eduardo,Lotto,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,17,Lemmen Bart,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,18,Bennett George,Israel - Premier Tech,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,19,Großschartner Felix,UAE Team Emirates - XRG,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,20,Geoghegan Hart Tao,Lidl - Trek,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,21,Pickering Finlay,Bahrain - Victorious,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,22,Lecerf Junior,Soudal Quick-Step,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,23,Christen Jan,UAE Team Emirates - XRG,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,24,Barguil Warren,Team Picnic PostNL,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-4,2025-06-18,Stage 4,p5,Normal,25,Barta Will,Movistar Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,1,Onley Oscar,Team Picnic PostNL,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,2,Almeida João,UAE Team Emirates - XRG,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,3,Gall Felix,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,4,Vauquelin Kévin,Arkéa - B&B Hotels,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,5,Riccitello Matthew,Israel - Premier Tech,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,6,Van Wilder Ilan,Soudal Quick-Step,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,7,Alaphilippe Julian,Tudor Pro Cycling Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,8,Kämna Lennard,Lidl - Trek,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,9,Großschartner Felix,UAE Team Emirates - XRG,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,10,Bennett George,Israel - Premier Tech,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,11,Barta Will,Movistar Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,12,Castrillo Pablo,Movistar Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,13,O'Connor Ben,Team Jayco AlUla,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,14,Champoussin Clément,XDS Astana Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,15,Pickering Finlay,Bahrain - Victorious,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,16,Zimmermann Georg,Intermarché - Wanty,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,17,Barguil Warren,Team Picnic PostNL,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,18,Graat Tijmen,Team Visma | Lease a Bike,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,19,Sepúlveda Eduardo,Lotto,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,20,Bagioli Andrea,Lidl - Trek,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,21,Jungels Bob,INEOS Grenadiers,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,22,Debruyne Ramses,Alpecin - Deceuninck,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,23,Schmid Mauro,Team Jayco AlUla,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,24,Vlasov Aleksandr,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-5,2025-06-19,Stage 5,p5,Normal,25,Grégoire Romain,Groupama - FDJ,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,1,Meeus Jordi,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,2,Ballerini Davide,XDS Astana Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,3,Askey Lewis,Groupama - FDJ,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,4,Mihkels Madis,EF Education - EasyPost,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,5,Buratti Nicolò,Bahrain - Victorious,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,6,Van Poppel Danny,Red Bull - BORA - hansgrohe,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,7,Bittner Pavel,Team Picnic PostNL,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,8,Lapeira Paul,Decathlon AG2R La Mondiale Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,9,Mayrhofer Marius,Tudor Pro Cycling Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,10,Oldani Stefano,Cofidis,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,11,Van Den Bossche Fabio,Alpecin - Deceuninck,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,12,Christen Fabio,Q36.5 Pro Cycling Team,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,13,Blackmore Joseph,Israel - Premier Tech,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,14,Swift Ben,INEOS Grenadiers,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,15,De Lie Arnaud,Lotto,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,16,Houle Hugo,Israel - Premier Tech,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,17,Simmons Quinn,Lidl - Trek,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,18,Serry Pieter,Soudal Quick-Step,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,19,Vauquelin Kévin,Arkéa - B&B Hotels,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,20,Rutsch Jonas,Intermarché - Wanty,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,21,Morgado António,UAE Team Emirates - XRG,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,22,Kämna Lennard,Lidl - Trek,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,23,Riccitello Matthew,Israel - Premier Tech,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,24,Verstrynge Emiel,Alpecin - Deceuninck,0,0,2025-06-20 21:36:49
+tour-de-suisse,2025,stage-6,2025-06-20,Stage 6,p2,Normal,25,Jungels Bob,INEOS Grenadiers,0,0,2025-06-20 21:36:49
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,1,Merlier Tim,Soudal Quick-Step,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,2,Molano Juan Sebastián,UAE Team Emirates - XRG,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,3,Vernon Ethan,Israel - Premier Tech,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,4,Gaviria Fernando,Movistar Team,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,5,Dainese Alberto,Tudor Pro Cycling Team,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,6,Tesson Jason,Team TotalEnergies,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,7,Teutenberg Tim Torn,Lidl - Trek,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,8,Van Uden Casper,Team Picnic PostNL,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,9,Van Hautegem Leander,Wagner Bazin WB,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,10,Van Boven Luca,Intermarché - Wanty,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,11,Bomboi Davide,Unibet Tietema Rockets,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,12,Kopecký Matyáš,Team Novo Nordisk,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,13,De Vylder Lindsay,Team Flanders - Baloise,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,14,Hesters Jules,Team Flanders - Baloise,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,15,Dupont Timothy,Tarteletto - Isorex,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,16,Geens Jonas,Team Flanders - Baloise,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,17,De Schuyteneer Steffen,Lotto,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,18,Nuyens Wies,Pauwels Sauzen - Cibel Clementines,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,19,Van Den Boer Seppe,Baloise Glowi Lions,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,20,De Meester Luca,Wagner Bazin WB,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,21,Braet Vito,Intermarché - Wanty,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,22,De Bruyckere Kay,Pauwels Sauzen - Cibel Clementines,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,23,Eekhoff Nils,Team Picnic PostNL,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,24,Van Sintmaartensdijk Daan,BEAT Cycling Club,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-1,2025-06-18,Stage 1,p1,Normal,25,Vanthourenhout Michael,Pauwels Sauzen - Cibel Clementines,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,1,Philipsen Jasper,Alpecin - Deceuninck,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,2,Molano Juan Sebastián,UAE Team Emirates - XRG,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,3,Berckmoes Jenno,Lotto,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,4,Teutenberg Tim Torn,Lidl - Trek,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,5,Dauphin Florian,Team TotalEnergies,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,6,Kopecký Matyáš,Team Novo Nordisk,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,7,Merlier Tim,Soudal Quick-Step,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,8,De Schuyteneer Steffen,Lotto,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,9,Gaviria Fernando,Movistar Team,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,10,De Vylder Lindsay,Team Flanders - Baloise,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,11,Oliveira Rui,UAE Team Emirates - XRG,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,12,Eekhoff Nils,Team Picnic PostNL,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,13,Aular Orluis,Movistar Team,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,14,Hesters Jules,Team Flanders - Baloise,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,15,Rickaert Jonas,Alpecin - Deceuninck,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,16,Artz Huub,Intermarché - Wanty,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,17,Van Hautegem Leander,Wagner Bazin WB,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,18,Tiller Rasmus,Uno-X Mobility,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,19,Lampaert Yves,Soudal Quick-Step,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,20,Moro Manlio,Movistar Team,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,21,Declercq Tim,Lidl - Trek,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,22,Godfroid Olivier,Baloise Glowi Lions,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,23,Loockx Lander,Unibet Tietema Rockets,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,24,Canal Carlos,Movistar Team,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-2,2025-06-19,Stage 2,p1,Normal,25,Barrenetxea Jon,Movistar Team,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,1,Hayter Ethan,Soudal Quick-Step,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,2,Ganna Filippo,INEOS Grenadiers,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,3,Vermeersch Florian,UAE Team Emirates - XRG,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,4,Baroncini Filippo,UAE Team Emirates - XRG,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,5,Artz Huub,Intermarché - Wanty,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,6,Swift Connor,INEOS Grenadiers,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,7,Segaert Alec,Lotto,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,8,Côté Pier-André,Israel - Premier Tech,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,9,Turner Ben,INEOS Grenadiers,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,10,Herregodts Rune,UAE Team Emirates - XRG,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,11,Eekhoff Nils,Team Picnic PostNL,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,12,Nys Thibau,Lidl - Trek,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,13,Vernon Ethan,Israel - Premier Tech,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,14,Lampaert Yves,Soudal Quick-Step,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,15,Moro Manlio,Movistar Team,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,16,Gachignard Thomas,Team TotalEnergies,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,17,Van Der Tuuk Axel,Metec - SOLARWATT p/b Mantel,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,18,Černý Josef,Soudal Quick-Step,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,19,Kragh Andersen Søren,Lidl - Trek,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,20,Suter Joel,Tudor Pro Cycling Team,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,21,Álvarez Héctor,Lidl - Trek,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,22,Brunel Alexys,Team TotalEnergies,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,23,Van Hemelen Vincent,Team Flanders - Baloise,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,24,Leroux Samuel,Team TotalEnergies,0,0,2025-06-20 21:37:12
+tour-of-belgium,2025,stage-3,2025-06-20,Stage 3 (ITT),p1,ITT,25,Kluckers Arthur,Tudor Pro Cycling Team,0,0,2025-06-20 21:37:12
