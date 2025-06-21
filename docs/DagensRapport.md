@@ -4,6 +4,26 @@ hide:
   - toc
 ---
 
+## 2025-06-21
+### Hovedspillet
+Almeida, João **25** (Chrelle, Kenk)  
+Onley, Oscar **20** (Hustlersen, Okholm)  
+Gall, Felix **14** (Chrelle, Matti, Visti)  
+Frigo, Marco **12** (Jarma)  
+Aular, Orluis **10** (Visti)  
+Wilder, Ilan Van **6** (Chrelle)  
+Vermeersch, Florian **1** (Kenk, Visti)  
+
+### Cheapo
+Frigo, Marco **12** (Jarma)  
+Delettre, Alexandre **6** (Jappo)  
+Champoussin, Clément **4** (Chrelle, Hustlersen, Visti)  
+Costiou, Ewen **2** (Jappo, Kenk, Knak)  
+
+
+
+
+
 ## 2025-06-20
 ### Hovedspillet
 Hayter, Ethan **15** (Chrelle, Jappo)  

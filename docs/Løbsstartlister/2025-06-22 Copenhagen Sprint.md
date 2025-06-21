@@ -212,7 +212,7 @@
       <th>12</th>
       <td>13</td>
       <td>Plapp Luke</td>
-      <td class = "startlist">Welsford Sam</td>
+      <td>Welsford Sam</td>
       <td>Nys Thibau</td>
       <td>Magnier Paul</td>
       <td>Kron Andreas</td>
@@ -233,7 +233,7 @@
       <td>Strong Corbin</td>
       <td>Nys Thibau</td>
       <td>Martinez Lenny</td>
-      <td class = "startlist">Welsford Sam</td>
+      <td>Welsford Sam</td>
       <td>Magnier Paul</td>
     </tr>
     <tr>
@@ -295,7 +295,7 @@
     <tr>
       <th>18</th>
       <td>19</td>
-      <td class = "startlist">Welsford Sam</td>
+      <td>Welsford Sam</td>
       <td>Brennan Matthew</td>
       <td>Laurance Axel</td>
       <td>Penhoët Paul</td>
@@ -312,7 +312,7 @@
       <td class = "startlist">Andresen Tobias Lund</td>
       <td>Uhlig Henri</td>
       <td class = "startlist">Andresen Tobias Lund</td>
-      <td>Rex Laurenz</td>
+      <td class = "startlist">Rex Laurenz</td>
       <td>Brennan Matthew</td>
       <td class = "startlist">Mollema Bauke</td>
       <td>Morgado António</td>
@@ -327,7 +327,7 @@
       <td>Teutenberg Tim Torn</td>
       <td>Morgado António</td>
       <td class = "startlist">Louvel Matis</td>
-      <td>Rex Laurenz</td>
+      <td class = "startlist">Rex Laurenz</td>
       <td>Ulissi Diego</td>
       <td class = "startlist">Fretin Milan</td>
       <td class = "startlist">Andresen Tobias Lund</td>
@@ -337,9 +337,9 @@
     <tr>
       <th>21</th>
       <td>22</td>
-      <td>Rex Laurenz</td>
-      <td>Foldager Anders</td>
-      <td>Rex Laurenz</td>
+      <td class = "startlist">Rex Laurenz</td>
+      <td class = "startlist">Foldager Anders</td>
+      <td class = "startlist">Rex Laurenz</td>
       <td class = "startlist">Pedersen Rasmus Søjberg</td>
       <td>Teutenberg Tim Torn</td>
       <td class = "startlist">Andresen Tobias Lund</td>
@@ -355,10 +355,10 @@
       <td>Brenner Marco</td>
       <td class = "startlist">Jeannière Emilien</td>
       <td>Frigo Marco</td>
-      <td class = "startlist">Wandahl Frederik</td>
+      <td>Wandahl Frederik</td>
       <td>Naesen Oliver</td>
       <td>Staune-Mittet Johannes</td>
-      <td>Aleotti Giovanni</td>
+      <td class = "startlist">Aleotti Giovanni</td>
       <td>Watson Samuel</td>
       <td>Vermeersch Florian</td>
     </tr>
@@ -373,7 +373,7 @@
       <td class = "startlist">Jeannière Emilien</td>
       <td>Seixas Paul</td>
       <td>Rafferty Darren</td>
-      <td class = "startlist">Wandahl Frederik</td>
+      <td>Wandahl Frederik</td>
       <td>Van Baarle Dylan</td>
     </tr>
     <tr>
@@ -388,7 +388,7 @@
       <td>Withen Philipsen Albert</td>
       <td>Withen Philipsen Albert</td>
       <td>Withen Philipsen Albert</td>
-      <td>Rex Laurenz</td>
+      <td class = "startlist">Rex Laurenz</td>
     </tr>
   </tbody>
 </table>
