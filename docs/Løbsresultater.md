@@ -2089,15 +2089,15 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Andersen, Søren Kragh</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>8</td>
+      <td>gc: 8</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>Artz, Huub</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>6</td>
       <td>stage-3: 6</td>
     </tr>
@@ -2105,31 +2105,31 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Asbroeck, Tom Van</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>1</td>
+      <td>stage-5: 1</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>Aular, Orluis</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>10</td>
-      <td>stage-4: 10</td>
+      <td>6</td>
+      <td>28</td>
+      <td>stage-4: 10 / gc: 18</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>Baroncini, Filippo</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>16</td>
-      <td>stage-3: 8 / stage-4: 8</td>
+      <td>6</td>
+      <td>66</td>
+      <td>stage-3: 8 / stage-4: 8 / gc: 50</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>Barrenetxea, Jon</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2137,15 +2137,15 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Berckmoes, Jenno</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>25</td>
-      <td>stage-2: 10 / stage-4: 15</td>
+      <td>6</td>
+      <td>60</td>
+      <td>stage-2: 10 / stage-4: 15 / gc: 35</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>Bezza, Quentin</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2153,7 +2153,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Blume Levy, William</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2169,7 +2169,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Boven, Luca Van</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>1</td>
       <td>stage-1: 1</td>
     </tr>
@@ -2177,7 +2177,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Braet, Vito</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2185,7 +2185,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Brunel, Alexys</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2193,7 +2193,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Canal, Carlos</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2201,7 +2201,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Cerný, Josef</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2209,7 +2209,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Colman, Alex</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2217,15 +2217,15 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Coté, Pier-André</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>5</td>
-      <td>stage-3: 3 / stage-4: 2</td>
+      <td>6</td>
+      <td>19</td>
+      <td>stage-3: 3 / stage-4: 2 / gc: 14</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>Currie, Logan</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2233,15 +2233,15 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Dainese, Alberto</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
       <td>6</td>
-      <td>stage-1: 6</td>
+      <td>8</td>
+      <td>stage-1: 6 / stage-5: 2</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>Dauphin, Florian</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>6</td>
       <td>stage-2: 6</td>
     </tr>
@@ -2257,7 +2257,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Delettre, Alexandre</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>6</td>
       <td>stage-4: 6</td>
     </tr>
@@ -2265,7 +2265,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Eekhoff, Nils</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2273,7 +2273,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Fraile, Omar</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2281,31 +2281,31 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Frigo, Marco</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>12</td>
-      <td>stage-4: 12</td>
+      <td>6</td>
+      <td>37</td>
+      <td>stage-4: 12 / gc: 25</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>Gachignard, Thomas</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>2</td>
+      <td>gc: 2</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>Ganna, Filippo</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>12</td>
-      <td>stage-3: 12</td>
+      <td>6</td>
+      <td>42</td>
+      <td>stage-3: 12 / gc: 30</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>García Cortina, Iván</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2313,7 +2313,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Gaviria, Fernando</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>10</td>
       <td>stage-1: 8 / stage-2: 2</td>
     </tr>
@@ -2321,7 +2321,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Geens, Jonas</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2329,7 +2329,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Gestel, Dries Van</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2337,7 +2337,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Giddings, Joshua</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2345,7 +2345,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Hautegem, Leander Van</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>2</td>
       <td>stage-1: 2</td>
     </tr>
@@ -2353,23 +2353,23 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Hayter, Ethan</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>15</td>
-      <td>stage-3: 15</td>
+      <td>6</td>
+      <td>55</td>
+      <td>stage-3: 15 / gc: 40</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>Heiduk, Kim</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>10</td>
+      <td>stage-5: 10</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>Hemelen, Vincent Van</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2377,7 +2377,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Herregodts, Rune</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>1</td>
       <td>stage-3: 1</td>
     </tr>
@@ -2385,7 +2385,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Hesters, Jules</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2393,15 +2393,15 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Holter, Ådne</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>3</td>
-      <td>stage-4: 3</td>
+      <td>6</td>
+      <td>9</td>
+      <td>stage-4: 3 / gc: 6</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>Huens, Axel</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2409,7 +2409,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Irvine, Declan</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2417,7 +2417,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Johannink, Jelle</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2425,7 +2425,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Kielich, Timo</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2441,7 +2441,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Kluckers, Arthur</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2449,7 +2449,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Kogut, Oded</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2457,9 +2457,9 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Kopecký, Matyáš</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>5</td>
-      <td>stage-2: 5</td>
+      <td>6</td>
+      <td>9</td>
+      <td>stage-2: 5 / stage-5: 4</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
@@ -2473,7 +2473,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Lambrecht, Michiel</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2481,7 +2481,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Lampaert, Yves</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2489,7 +2489,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Lerberghe, Bert Van</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2505,7 +2505,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Lienhard, Fabian</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2513,7 +2513,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Loockx, Lander</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2521,7 +2521,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Marcerou, Nicola</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2529,7 +2529,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Maris, Elias</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2537,15 +2537,15 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Marit, Arne</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>6</td>
+      <td>5</td>
+      <td>stage-5: 5</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>Meester, Luca De</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2553,23 +2553,23 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Merlier, Tim</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>19</td>
-      <td>stage-1: 15 / stage-2: 4</td>
+      <td>6</td>
+      <td>34</td>
+      <td>stage-1: 15 / stage-2: 4 / stage-5: 15</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>Molano, Sebastián</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>24</td>
-      <td>stage-1: 12 / stage-2: 12</td>
+      <td>6</td>
+      <td>36</td>
+      <td>stage-1: 12 / stage-2: 12 / stage-5: 12</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>Moro, Manlio</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2577,7 +2577,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Mouris, Wessel</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2585,7 +2585,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Muller, Anton</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2601,7 +2601,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Oliveira, Rui</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2609,7 +2609,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Peron, Andrea</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2625,7 +2625,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Persico, Davide</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2633,15 +2633,15 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Philipsen, Jasper</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>15</td>
-      <td>stage-2: 15</td>
+      <td>6</td>
+      <td>37</td>
+      <td>stage-2: 15 / stage-5: 6 / gc: 16</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>Poli, Umberto</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2649,7 +2649,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Portsmouth, Tom</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2657,7 +2657,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Puccio, Salvatore</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2665,7 +2665,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Resell, Erik</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2673,7 +2673,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Reynders, Jens</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2681,7 +2681,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Rickaert, Jonas</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2689,7 +2689,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Ridolfo, Filippo</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2697,7 +2697,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Riesebeek, Oscar</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2705,7 +2705,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Roosen, Timo</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2721,7 +2721,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Schuyteneer, Steffen De</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>3</td>
       <td>stage-2: 3</td>
     </tr>
@@ -2729,15 +2729,15 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Segaert, Alec</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>4</td>
-      <td>stage-3: 4</td>
+      <td>6</td>
+      <td>14</td>
+      <td>stage-3: 4 / gc: 10</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>Serrano, Gonzalo</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2753,7 +2753,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Skaarseth, Anders</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2761,7 +2761,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Smith, Dion</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>4</td>
       <td>stage-4: 4</td>
     </tr>
@@ -2769,7 +2769,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Suter, Joel</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2785,7 +2785,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Swift, Connor</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>5</td>
       <td>stage-3: 5</td>
     </tr>
@@ -2793,7 +2793,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Taminiaux, Lionel</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2801,7 +2801,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Tesson, Jason</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>5</td>
       <td>stage-1: 5</td>
     </tr>
@@ -2809,15 +2809,15 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Teutenberg, Tim Torn</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>12</td>
-      <td>stage-1: 4 / stage-2: 8</td>
+      <td>6</td>
+      <td>20</td>
+      <td>stage-1: 4 / stage-2: 8 / stage-5: 8</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>Tiller, Rasmus</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2825,7 +2825,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Toupalík, Adam</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2833,7 +2833,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Tricht, Stan Van</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2841,7 +2841,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Turner, Ben</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>2</td>
       <td>stage-3: 2</td>
     </tr>
@@ -2849,7 +2849,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Uden, Casper van</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>3</td>
       <td>stage-1: 3</td>
     </tr>
@@ -2857,7 +2857,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Vandenstorme, Dylan</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2865,7 +2865,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Vermaerke, Kevin</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2873,23 +2873,23 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Vermeersch, Florian</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>11</td>
-      <td>stage-3: 10 / stage-4: 1</td>
+      <td>6</td>
+      <td>31</td>
+      <td>stage-3: 10 / stage-4: 1 / gc: 20</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>Vernon, Ethan</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
-      <td>10</td>
-      <td>stage-1: 10</td>
+      <td>6</td>
+      <td>13</td>
+      <td>stage-1: 10 / stage-5: 3</td>
     </tr>
     <tr>
       <td>Baloise Belgium Tour</td>
       <td>Vries, Hartthijs de</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -2897,7 +2897,7 @@ hide:
       <td>Baloise Belgium Tour</td>
       <td>Vylder, Lindsay De</td>
       <td>Tour Cat. 3</td>
-      <td>4</td>
+      <td>6</td>
       <td>1</td>
       <td>stage-2: 1</td>
     </tr>
@@ -5769,6 +5769,1270 @@ hide:
       <td>Clásica de Almería</td>
       <td>Zukowsky, Nick</td>
       <td>Classics Cat. 3</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Aberasturi, Jon</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Aleotti, Giovanni</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Alvarez, Rodrigo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Andresen, Tobias Lund</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>35</td>
+      <td>result: 35</td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Angulo, Antonio</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Aniołkowski, Stanisław</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>18</td>
+      <td>result: 18</td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Asgreen, Kasper</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Babor, Daniel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Bais, Davide</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Bauhaus, Phil</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>22</td>
+      <td>result: 22</td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Bayer, Tobias</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Behrens, Niklas</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Belle, Loe van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Berasategi, Xabier</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Berg, Julius van den</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Beullens, Cedric</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Blikra, Erlend</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Bomboi, Davide</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Bonillo, Iker</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Boulahoite, Rayan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Bruttomesso, Alberto</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Budding, Martijn</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Bévort, Carl-Frederik</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Cavia, Daniel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Combaud, Romain</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Dehairs, Simon</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Del Grosso, Tibor</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>6</td>
+      <td>result: 6</td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Deman, Bream</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Denz, Nico</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Deweirdt, Siebe</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Dijke, Tim van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Donaldson, Robert</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Doubey, Fabien</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Drizners, Jarrad</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Démare, Arnaud</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>40</td>
+      <td>result: 40</td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Einhorn, Itamar</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Epis, Giosuè</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Eriksson, Jacob</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Eržen, Zak</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Faure Prost, Alexy</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Ferron, Valentin</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Foldager, Anders</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Fredheim, Stian</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Fretin, Milan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Frison, Frederik</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Fuentes, Angel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Gerits, Vince</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Gibbons, Ryan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Govekar, Matevž</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Groenewegen, Dylan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>26</td>
+      <td>result: 26</td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Grondin, Donavan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Hagenes, Per Strand</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Heming, Miká</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Hennequin, Paul</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Herzog, Emil</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Hoecke, Gijs Van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Hofstetter, Hugo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Hoole, Daan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Hoorn, Taco van der</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Inkelaar, Kevin</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Jackson, George</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Jeanniere, Emilien</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>50</td>
+      <td>result: 50</td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Juul-Jensen, Chris</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Kmínek, Vojtěch</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Kolze Changizi, Sebastian</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Konrad, Patrick</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Kooij, Olav</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Krieger, Alexander</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Lanhove, Milan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Leijnse, Enzo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Leitão, Iúri</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Liepiņš, Emīls</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>1</td>
+      <td>result: 1</td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Lonardi, Giovanni</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>5</td>
+      <td>result: 5</td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Lopez de Abetxuko, Andoni</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Lopez, Joseba</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Louvel, Matîs</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Lozouet, Léandre</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Løland, Sakarias Koller</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Maciejuk, Filip</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Maestri, Mirco</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Manzin, Lorrenzo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Martín, David</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Martín, Gotzon</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Małecki, Kamil</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>McLay, Daniel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Mechelen, Vlad Van</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Meeus, Jordi</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>70</td>
+      <td>result: 70</td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Menten, Milan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>4</td>
+      <td>result: 4</td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Meo, Felix James</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Mezgec, Luka</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Molenaar, Alex</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Mollema, Bauke</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Mosca, Jacopo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Moschetti, Matteo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Mozzato, Luca</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>result: 2</td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Mullen, Ryan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Märkl, Niklas</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Neilands, Krists</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Nencini, Tommaso</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Nielsen, Sebastian</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Nizzolo, Giacomo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>O'Brien, Kelland</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Otruba, Jakub</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Ourselin, Paul</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Page, Hugo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>30</td>
+      <td>result: 30</td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Paige, Charles</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Paquot, Tom</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Parisini, Nicolò</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>3</td>
+      <td>result: 3</td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Pedersen, Casper</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Pedersen, Henrik</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Pedersen, Mads</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Pedersen, Rasmus Søjberg</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>10</td>
+      <td>result: 10</td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Peñalver, Manuel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>8</td>
+      <td>result: 8</td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Pickrell, Riley</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>7</td>
+      <td>result: 7</td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Pietrobon, Andrea</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Planckaert, Edward</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Plowright, Jensen</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Pluimers, Rick</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Pooter, Dries De</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Prades, Eduard</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Price-Pejtersen, Johan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Raisberg, Nadav</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Rajović, Dušan</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Reinders, Elmar</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Renard, Alexis</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>60</td>
+      <td>result: 60</td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Rex, Laurenz</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>12</td>
+      <td>result: 12</td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Robeet, Ludovic</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Rolando, Joann</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Sande, Tosh Van der</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Sbaragli, Kristian</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Schwarzmann, Michael</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Scotson, Miles</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Sevilla, Diego Pablo</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Slock, Liam</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Soupe, Geoffrey</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Stannard, Robert</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Stockman, Abram</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Stockwell, Oliver</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Stokbro, Andreas</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Sutton, Louis</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Sénéchal, Florian</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Touzé, Damien</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Townsend, Rory</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Vacek, Mathias</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Valter, Attila</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Vandevelde, Yentl</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Vanhoof, Ward</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Veistroffer, Baptiste</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Vercouillie, Victor</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Vergallito, Luca</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Verrando, Luca</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Wallin, Rasmus Bøgh</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Weiss, Fabian</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Welten, Bram</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Wynkele, Lorenz Van de</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Wærenskjold, Søren</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>14</td>
+      <td>result: 14</td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Zijlaard, Maikel</td>
+      <td>Classics Cat. 2</td>
+      <td>1</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Copenhagen Sprint</td>
+      <td>Zoccarato, Samuele</td>
+      <td>Classics Cat. 2</td>
       <td>1</td>
       <td>0</td>
       <td></td>
@@ -37385,15 +38649,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Alaphilippe, Julian</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>38</td>
-      <td>stage-1: 14 / stage-4: 4 / stage-5: 8 / stage-7: 12</td>
+      <td>9</td>
+      <td>88</td>
+      <td>stage-1: 14 / stage-4: 4 / stage-5: 8 / stage-7: 12 / gc: 50</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Albanese, Vincenzo</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>25</td>
       <td>stage-2: 25</td>
     </tr>
@@ -37401,15 +38665,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Almeida, João</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>90</td>
-      <td>stage-3: 20 / stage-4: 25 / stage-5: 20 / stage-7: 25</td>
+      <td>9</td>
+      <td>215</td>
+      <td>stage-3: 20 / stage-4: 25 / stage-5: 20 / stage-7: 25 / stage-8: 25 / gc: 100</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Askey, Lewis</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>32</td>
       <td>stage-2: 16 / stage-6: 16</td>
     </tr>
@@ -37417,15 +38681,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>August, AJ</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>0</td>
-      <td></td>
+      <td>9</td>
+      <td>2</td>
+      <td>stage-8: 2</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Badilatti, Matteo</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37441,7 +38705,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Ballerini, Davide</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>20</td>
       <td>stage-6: 20</td>
     </tr>
@@ -37449,23 +38713,23 @@ hide:
       <td>Tour de Suisse</td>
       <td>Barguil, Warren</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>0</td>
-      <td></td>
+      <td>9</td>
+      <td>10</td>
+      <td>gc: 10</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Barta, Will</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>2</td>
-      <td>stage-5: 2</td>
+      <td>9</td>
+      <td>26</td>
+      <td>stage-5: 2 / stage-8: 6 / gc: 18</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Bastiaens, Ayco</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37473,7 +38737,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Battistella, Samuele</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37489,15 +38753,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Bennett, George</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>3</td>
-      <td>stage-5: 3</td>
+      <td>9</td>
+      <td>17</td>
+      <td>stage-5: 3 / gc: 14</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Benoot, Tiesj</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>1</td>
       <td>stage-2: 1</td>
     </tr>
@@ -37505,7 +38769,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Bettiol, Alberto</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37513,7 +38777,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Bilbao, Pello</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>14</td>
       <td>stage-2: 8 / stage-3: 6</td>
     </tr>
@@ -37521,7 +38785,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Bisiaux, Léo</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37529,7 +38793,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Bissegger, Stefan</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37537,7 +38801,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Bittner, Pavel</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>8</td>
       <td>stage-6: 8</td>
     </tr>
@@ -37545,7 +38809,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Bjerg, Mikkel</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37553,15 +38817,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Blackmore, Joe</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>8</td>
-      <td>stage-7: 8</td>
+      <td>9</td>
+      <td>12</td>
+      <td>stage-7: 8 / gc: 4</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Bossche, Fabio Van den</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>5</td>
       <td>stage-2: 3 / stage-6: 2</td>
     </tr>
@@ -37569,7 +38833,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Brambilla, Gianluca</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37577,7 +38841,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Broek, Frank van den</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37585,7 +38849,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Buratti, Nicolò</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>18</td>
       <td>stage-2: 6 / stage-6: 12</td>
     </tr>
@@ -37593,7 +38857,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Buyst, Jasper De</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37601,7 +38865,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Camprubi, Marcel</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37609,23 +38873,23 @@ hide:
       <td>Tour de Suisse</td>
       <td>Castrillo, Pablo</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>11</td>
-      <td>stage-1: 8 / stage-4: 2 / stage-5: 1</td>
+      <td>9</td>
+      <td>41</td>
+      <td>stage-1: 8 / stage-4: 2 / stage-5: 1 / gc: 30</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Champoussin, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>13</td>
-      <td>stage-3: 3 / stage-4: 6 / stage-7: 4</td>
+      <td>9</td>
+      <td>38</td>
+      <td>stage-3: 3 / stage-4: 6 / stage-7: 4 / gc: 25</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Charmig, Anthon</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37633,7 +38897,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Christen, Fabio</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>29</td>
       <td>stage-2: 20 / stage-3: 8 / stage-6: 1</td>
     </tr>
@@ -37665,7 +38929,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Conci, Nicola</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>3</td>
       <td>stage-1: 3</td>
     </tr>
@@ -37681,7 +38945,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Costa, Rui</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37689,7 +38953,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Costiou, Ewen</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>2</td>
       <td>stage-7: 2</td>
     </tr>
@@ -37705,7 +38969,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Debruyne, Ramses</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37713,7 +38977,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Dillier, Silvan</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37721,7 +38985,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Durbridge, Luke</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37729,7 +38993,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Edmondson, Alex</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37737,7 +39001,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Engelhardt, Felix</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37745,7 +39009,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Flynn, Sean</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37753,7 +39017,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Fortunato, Lorenzo</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>1</td>
       <td>stage-1: 1</td>
     </tr>
@@ -37761,7 +39025,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Froome, Chris</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37769,15 +39033,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Gall, Felix</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>44</td>
-      <td>stage-3: 4 / stage-4: 10 / stage-5: 16 / stage-7: 14</td>
+      <td>9</td>
+      <td>124</td>
+      <td>stage-3: 4 / stage-4: 10 / stage-5: 16 / stage-7: 14 / stage-8: 20 / gc: 60</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Gamper, Patrick</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37785,7 +39049,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Geoghegan Hart, Tao</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37801,7 +39065,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Glivar, Gal</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>4</td>
       <td>stage-2: 4</td>
     </tr>
@@ -37809,7 +39073,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Gloag, Thomas</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37817,7 +39081,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>González, David</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37825,7 +39089,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Graat, Tijmen</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37833,7 +39097,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Gregaard, Jonas</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37841,7 +39105,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Grignard, Sébastien</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37849,23 +39113,23 @@ hide:
       <td>Tour de Suisse</td>
       <td>Grossschartner, Felix</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>24</td>
-      <td>stage-1: 10 / stage-5: 4 / stage-7: 10</td>
+      <td>9</td>
+      <td>44</td>
+      <td>stage-1: 10 / stage-5: 4 / stage-7: 10 / gc: 20</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Grégoire, Romain</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>51</td>
-      <td>stage-1: 25 / stage-3: 14 / stage-4: 12</td>
+      <td>9</td>
+      <td>59</td>
+      <td>stage-1: 25 / stage-3: 14 / stage-4: 12 / gc: 8</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Haller, Marco</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37873,7 +39137,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Hamilton, Lucas</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37881,7 +39145,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Hirschi, Marc</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37889,7 +39153,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Houle, Hugo</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37897,7 +39161,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Huby, Antoine</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37921,7 +39185,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Izagirre, Ion</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37937,7 +39201,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Janssens, Jimmy</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37945,7 +39209,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Johansen, Julius</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37953,7 +39217,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Jungels, Bob</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37961,7 +39225,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Kamp, Alexander</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37977,7 +39241,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Kepplinger, Rainer</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>4</td>
       <td>stage-1: 4</td>
     </tr>
@@ -37993,7 +39257,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Koch, Jonas</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38009,7 +39273,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Kuypers, Gerben</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38017,15 +39281,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Kämna, Lennard</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>18</td>
-      <td>stage-1: 6 / stage-4: 3 / stage-5: 6 / stage-7: 3</td>
+      <td>9</td>
+      <td>64</td>
+      <td>stage-1: 6 / stage-4: 3 / stage-5: 6 / stage-7: 3 / stage-8: 1 / gc: 45</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Küng, Stefan</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38033,7 +39297,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Laengen, Vegard Stake</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38041,7 +39305,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Langellotti, Victor</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>2</td>
       <td>stage-3: 2</td>
     </tr>
@@ -38049,7 +39313,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Lapeira, Paul</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>16</td>
       <td>stage-2: 10 / stage-6: 6</td>
     </tr>
@@ -38057,7 +39321,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Le Berre, Mathis</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38065,7 +39329,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Le Gac, Olivier</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38073,7 +39337,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Le Huitouze, Eddy</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38081,7 +39345,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Lecerf, William Junior</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38089,15 +39353,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Lemmen, Bart</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>16</td>
-      <td>stage-1: 16</td>
+      <td>9</td>
+      <td>18</td>
+      <td>stage-1: 16 / gc: 2</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Lie, Arnaud De</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38105,7 +39369,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Livyns, Arjen</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38113,7 +39377,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Lopez, Juan Pedro</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38121,7 +39385,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Maas, Jan</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38129,7 +39393,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Madouas, Valentin</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38145,7 +39409,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Maisonobe, Sam</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38153,7 +39417,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Masnada, Fausto</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38161,7 +39425,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Mayrhofer, Marius</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>6</td>
       <td>stage-2: 2 / stage-6: 4</td>
     </tr>
@@ -38185,7 +39449,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Mihkels, Madis</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>14</td>
       <td>stage-6: 14</td>
     </tr>
@@ -38193,7 +39457,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Moer, Brent Van</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38201,7 +39465,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Mohorič, Matej</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38209,7 +39473,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Moniquet, Sylvain</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38217,7 +39481,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Morgado, António</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38225,7 +39489,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Naberman, Tim</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38233,15 +39497,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>O'Connor, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>28</td>
-      <td>stage-1: 12 / stage-4: 16</td>
+      <td>9</td>
+      <td>76</td>
+      <td>stage-1: 12 / stage-4: 16 / stage-8: 8 / gc: 40</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Oldani, Stefano</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>3</td>
       <td>stage-6: 3</td>
     </tr>
@@ -38249,7 +39513,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Oliveira, Nelson</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38257,15 +39521,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Onley, Oscar</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>81</td>
-      <td>stage-3: 16 / stage-4: 20 / stage-5: 25 / stage-7: 20</td>
+      <td>9</td>
+      <td>167</td>
+      <td>stage-3: 16 / stage-4: 20 / stage-5: 25 / stage-7: 20 / stage-8: 16 / gc: 70</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Oomen, Sam</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38273,7 +39537,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Paasschens, Mathijs</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38289,7 +39553,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Peters, Nans</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38297,7 +39561,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Petilli, Simone</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38305,9 +39569,9 @@ hide:
       <td>Tour de Suisse</td>
       <td>Pickering, Finlay</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>0</td>
-      <td></td>
+      <td>9</td>
+      <td>20</td>
+      <td>stage-8: 4 / gc: 16</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
@@ -38321,7 +39585,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Poppel, Danny van</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>22</td>
       <td>stage-2: 12 / stage-6: 10</td>
     </tr>
@@ -38329,7 +39593,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Powless, Neilson</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38337,7 +39601,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Quintana, Nairo</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38353,7 +39617,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Romo, Javier</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38361,7 +39625,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Rutsch, Jonas</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38369,7 +39633,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Samitier, Sergio</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38385,7 +39649,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Schmid, Mauro</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38393,7 +39657,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Scotson, Callum</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38401,15 +39665,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Sepúlveda, Eduardo</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>0</td>
-      <td></td>
+      <td>9</td>
+      <td>6</td>
+      <td>gc: 6</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Serry, Pieter</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38417,7 +39681,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Simmons, Quinn</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>39</td>
       <td>stage-2: 14 / stage-3: 25</td>
     </tr>
@@ -38433,7 +39697,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Sobrero, Matteo</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38441,15 +39705,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Sweeny, Harry</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>0</td>
-      <td></td>
+      <td>9</td>
+      <td>12</td>
+      <td>stage-8: 12</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Swift, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>2</td>
       <td>stage-1: 2</td>
     </tr>
@@ -38473,7 +39737,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Tjøtta, Martin</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38489,7 +39753,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Uhlig, Henri</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38497,7 +39761,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Vansevenant, Mauri</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38505,15 +39769,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Vauquelin, Kévin</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>76</td>
-      <td>stage-1: 20 / stage-3: 12 / stage-4: 14 / stage-5: 14 / stage-7: 16</td>
+      <td>9</td>
+      <td>175</td>
+      <td>stage-1: 20 / stage-3: 12 / stage-4: 14 / stage-5: 14 / stage-7: 16 / stage-8: 14 / gc: 85</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Vergaerde, Otto</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38521,7 +39785,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Vermote, Julien</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38537,7 +39801,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Verstrynge, Emiel</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38545,15 +39809,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Vlasov, Aleksandr</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>0</td>
-      <td></td>
+      <td>9</td>
+      <td>10</td>
+      <td>stage-8: 10</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Walker, Max</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38561,7 +39825,7 @@ hide:
       <td>Tour de Suisse</td>
       <td>Warbasse, Larry</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38569,15 +39833,15 @@ hide:
       <td>Tour de Suisse</td>
       <td>Wilder, Ilan Van</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>24</td>
-      <td>stage-4: 8 / stage-5: 10 / stage-7: 6</td>
+      <td>9</td>
+      <td>62</td>
+      <td>stage-4: 8 / stage-5: 10 / stage-7: 6 / stage-8: 3 / gc: 35</td>
     </tr>
     <tr>
       <td>Tour de Suisse</td>
       <td>Wirtgen, Luc</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
+      <td>9</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38601,9 +39865,9 @@ hide:
       <td>Tour de Suisse</td>
       <td>Zimmermann, Georg</td>
       <td>Tour Cat. 2</td>
-      <td>7</td>
-      <td>1</td>
-      <td>stage-7: 1</td>
+      <td>9</td>
+      <td>13</td>
+      <td>stage-7: 1 / gc: 12</td>
     </tr>
     <tr>
       <td>Tour of Oman</td>

@@ -4,6 +4,45 @@ hide:
   - toc
 ---
 
+## 2025-06-22
+### Hovedspillet
+Almeida, João **125** (Chrelle, Kenk)  
+Onley, Oscar **86** (Hustlersen, Okholm)  
+Gall, Felix **80** (Chrelle, Matti, Visti)  
+Jeanniere, Emilien **50** (Chrelle, Jappo, Knak)  
+Hayter, Ethan **40** (Chrelle, Jappo)  
+Wilder, Ilan Van **38** (Chrelle)  
+Andresen, Tobias Lund **35** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)  
+Castrillo, Pablo **30** (Matti)  
+Frigo, Marco **25** (Jarma)  
+Philipsen, Jasper **22** (Jarma, Knak)  
+Vermeersch, Florian **20** (Kenk, Visti)  
+Aular, Orluis **18** (Visti)  
+Merlier, Tim **15** (Jappo, Knak, Matti, Tommy)  
+Rex, Laurenz **12** (Chrelle, Jappo, Jarma, Kenk, Visti)  
+Segaert, Alec **10** (Knak, Tommy, Visti)  
+Pedersen, Rasmus Søjberg **10** (Jarma)  
+Grégoire, Romain **8** (Chrelle, Jarma, Knak)  
+Teutenberg, Tim Torn **8** (Hustlersen, Kenk, Tommy)  
+Del Grosso, Tibor **6** (Jarma)  
+August, AJ **2** (Hustlersen)  
+
+### Cheapo
+Renard, Alexis **60** (Knak, Visti)  
+Frigo, Marco **25** (Jarma)  
+Champoussin, Clément **25** (Chrelle, Hustlersen, Visti)  
+Pickering, Finlay **20** (Chrelle, Jarma)  
+Pedersen, Rasmus Søjberg **10** (Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)  
+Pickrell, Riley **7** (Hustlersen)  
+Del Grosso, Tibor **6** (Chrelle, Jappo, Jarma, Kenk)  
+Marit, Arne **5** (Kenk, Visti)  
+August, AJ **2** (Chrelle, Hustlersen)  
+Gachignard, Thomas **2** (Chrelle, Knak)  
+
+
+
+
+
 ## 2025-06-21
 ### Hovedspillet
 Almeida, João **25** (Chrelle, Kenk)  
