@@ -197,7 +197,7 @@
     <tr>
       <th>11</th>
       <td>12</td>
-      <td>Hayter Ethan</td>
+      <td class = "startlist">Hayter Ethan</td>
       <td>Plapp Luke</td>
       <td>Powless Neilson</td>
       <td>Poole Max</td>
@@ -227,7 +227,7 @@
       <td>14</td>
       <td>Poole Max</td>
       <td>Mihkels Madis</td>
-      <td>Hayter Ethan</td>
+      <td class = "startlist">Hayter Ethan</td>
       <td>Bagioli Andrea</td>
       <td>Christen Jan</td>
       <td>Strong Corbin</td>
