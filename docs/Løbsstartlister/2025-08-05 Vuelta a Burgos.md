@@ -143,14 +143,14 @@
       <td>8</td>
       <td>Gall Felix</td>
       <td>Onley Oscar</td>
-      <td>Landa Mikel</td>
-      <td>Landa Mikel</td>
+      <td class = "startlist">Landa Mikel</td>
+      <td class = "startlist">Landa Mikel</td>
       <td>Kooij Olav</td>
       <td>Girmay Biniam</td>
       <td>Van Gils Maxim</td>
       <td>Yates Simon</td>
       <td>Merlier Tim</td>
-      <td>Landa Mikel</td>
+      <td class = "startlist">Landa Mikel</td>
     </tr>
     <tr>
       <th>8</th>
@@ -219,7 +219,7 @@
       <td>Martinez Lenny</td>
       <td>Castrillo Pablo</td>
       <td>Vacek Mathias</td>
-      <td>Pellizzari Giulio</td>
+      <td class = "startlist">Pellizzari Giulio</td>
       <td>Strong Corbin</td>
     </tr>
     <tr>

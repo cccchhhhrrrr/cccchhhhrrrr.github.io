@@ -42,237 +42,237 @@
   <tbody>
     <tr>
       <th>0</th>
-      <td class = "startlist">1</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
-      <td>Vingegaard Jonas</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
+      <td>1</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Vingegaard Jonas</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
     </tr>
     <tr>
       <th>1</th>
-      <td class = "startlist">2</td>
-      <td>Vingegaard Jonas</td>
-      <td>Vingegaard Jonas</td>
-      <td>Vingegaard Jonas</td>
-      <td>Vingegaard Jonas</td>
-      <td>Vingegaard Jonas</td>
-      <td>Vingegaard Jonas</td>
-      <td>Van Aert Wout</td>
-      <td>Vingegaard Jonas</td>
-      <td>Vingegaard Jonas</td>
-      <td>Vingegaard Jonas</td>
+      <td>2</td>
+      <td class = "startlist">Vingegaard Jonas</td>
+      <td class = "startlist">Vingegaard Jonas</td>
+      <td class = "startlist">Vingegaard Jonas</td>
+      <td class = "startlist">Vingegaard Jonas</td>
+      <td class = "startlist">Vingegaard Jonas</td>
+      <td class = "startlist">Vingegaard Jonas</td>
+      <td class = "startlist">Van Aert Wout</td>
+      <td class = "startlist">Vingegaard Jonas</td>
+      <td class = "startlist">Vingegaard Jonas</td>
+      <td class = "startlist">Vingegaard Jonas</td>
     </tr>
     <tr>
       <th>2</th>
-      <td class = "startlist">3</td>
-      <td>Van Aert Wout</td>
-      <td>Roglič Primož</td>
+      <td>3</td>
+      <td class = "startlist">Van Aert Wout</td>
+      <td class = "startlist">Roglič Primož</td>
       <td>Pedersen Mads</td>
-      <td>Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
       <td>Pedersen Mads</td>
-      <td>Roglič Primož</td>
+      <td class = "startlist">Roglič Primož</td>
       <td>Pedersen Mads</td>
-      <td>Van Aert Wout</td>
-      <td>Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
       <td>Pedersen Mads</td>
     </tr>
     <tr>
       <th>3</th>
-      <td class = "startlist">4</td>
+      <td>4</td>
       <td>Pedersen Mads</td>
       <td>Pedersen Mads</td>
-      <td>Van Eetvelt Lennert</td>
-      <td>Van Der Poel Mathieu</td>
-      <td>Milan Jonathan</td>
-      <td>Philipsen Jasper</td>
-      <td>Milan Jonathan</td>
-      <td>Milan Jonathan</td>
+      <td class = "startlist">Van Eetvelt Lennert</td>
+      <td class = "startlist">Van Der Poel Mathieu</td>
+      <td class = "startlist">Milan Jonathan</td>
+      <td class = "startlist">Philipsen Jasper</td>
+      <td class = "startlist">Milan Jonathan</td>
+      <td class = "startlist">Milan Jonathan</td>
       <td>Pedersen Mads</td>
-      <td>Milan Jonathan</td>
+      <td class = "startlist">Milan Jonathan</td>
     </tr>
     <tr>
       <th>4</th>
-      <td class = "startlist">5</td>
-      <td>Almeida João</td>
+      <td>5</td>
+      <td class = "startlist">Almeida João</td>
       <td>Ayuso Juan</td>
-      <td>Merlier Tim</td>
-      <td>Philipsen Jasper</td>
+      <td class = "startlist">Merlier Tim</td>
+      <td class = "startlist">Philipsen Jasper</td>
       <td>Ayuso Juan</td>
-      <td>Merlier Tim</td>
-      <td>Skjelmose Mattias</td>
-      <td>De Lie Arnaud</td>
-      <td>Skjelmose Mattias</td>
-      <td>Rodríguez Carlos</td>
+      <td class = "startlist">Merlier Tim</td>
+      <td class = "startlist">Skjelmose Mattias</td>
+      <td class = "startlist">De Lie Arnaud</td>
+      <td class = "startlist">Skjelmose Mattias</td>
+      <td class = "startlist">Rodríguez Carlos</td>
     </tr>
     <tr>
       <th>5</th>
-      <td class = "startlist">6</td>
+      <td>6</td>
       <td>Pidcock Thomas</td>
-      <td>De Lie Arnaud</td>
+      <td class = "startlist">De Lie Arnaud</td>
       <td>Pidcock Thomas</td>
-      <td>Milan Jonathan</td>
-      <td>Almeida João</td>
+      <td class = "startlist">Milan Jonathan</td>
+      <td class = "startlist">Almeida João</td>
       <td>Pidcock Thomas</td>
-      <td>Rodríguez Carlos</td>
-      <td>Lipowitz Florian</td>
-      <td>Van Eetvelt Lennert</td>
+      <td class = "startlist">Rodríguez Carlos</td>
+      <td class = "startlist">Lipowitz Florian</td>
+      <td class = "startlist">Van Eetvelt Lennert</td>
       <td>Kooij Olav</td>
     </tr>
     <tr>
       <th>6</th>
-      <td class = "startlist">7</td>
-      <td>De Lie Arnaud</td>
-      <td>Hirschi Marc</td>
-      <td>De Lie Arnaud</td>
-      <td>De Lie Arnaud</td>
-      <td>Van Eetvelt Lennert</td>
+      <td>7</td>
+      <td class = "startlist">De Lie Arnaud</td>
+      <td class = "startlist">Hirschi Marc</td>
+      <td class = "startlist">De Lie Arnaud</td>
+      <td class = "startlist">De Lie Arnaud</td>
+      <td class = "startlist">Van Eetvelt Lennert</td>
       <td>Carapaz Richard</td>
       <td>Kooij Olav</td>
-      <td>Girmay Biniam</td>
+      <td class = "startlist">Girmay Biniam</td>
       <td>Kooij Olav</td>
-      <td>De Lie Arnaud</td>
+      <td class = "startlist">De Lie Arnaud</td>
     </tr>
     <tr>
       <th>7</th>
-      <td class = "startlist">8</td>
-      <td>Gall Felix</td>
-      <td>Onley Oscar</td>
+      <td>8</td>
+      <td class = "startlist">Gall Felix</td>
+      <td class = "startlist">Onley Oscar</td>
       <td>Landa Mikel</td>
       <td>Landa Mikel</td>
       <td>Kooij Olav</td>
-      <td>Girmay Biniam</td>
+      <td class = "startlist">Girmay Biniam</td>
       <td>Van Gils Maxim</td>
-      <td>Yates Simon</td>
-      <td>Merlier Tim</td>
+      <td class = "startlist">Yates Simon</td>
+      <td class = "startlist">Merlier Tim</td>
       <td>Landa Mikel</td>
     </tr>
     <tr>
       <th>8</th>
       <td>9</td>
-      <td>Van Wilder Ilan</td>
-      <td>Narváez Jhonatan</td>
-      <td>Girmay Biniam</td>
+      <td class = "startlist">Van Wilder Ilan</td>
+      <td class = "startlist">Narváez Jhonatan</td>
+      <td class = "startlist">Girmay Biniam</td>
       <td>Geoghegan Hart Tao</td>
       <td>Van Gils Maxim</td>
-      <td>Hirschi Marc</td>
-      <td>Merlier Tim</td>
-      <td>Onley Oscar</td>
-      <td>Pithie Laurence</td>
-      <td>Girmay Biniam</td>
+      <td class = "startlist">Hirschi Marc</td>
+      <td class = "startlist">Merlier Tim</td>
+      <td class = "startlist">Onley Oscar</td>
+      <td class = "startlist">Pithie Laurence</td>
+      <td class = "startlist">Girmay Biniam</td>
     </tr>
     <tr>
       <th>9</th>
       <td>10</td>
-      <td>Nys Thibau</td>
+      <td class = "startlist">Nys Thibau</td>
       <td>Uijtdebroeks Cian</td>
-      <td>Hirschi Marc</td>
-      <td>Grégoire Romain</td>
-      <td>Narváez Jhonatan</td>
-      <td>Healy Ben</td>
-      <td>Girmay Biniam</td>
+      <td class = "startlist">Hirschi Marc</td>
+      <td class = "startlist">Grégoire Romain</td>
+      <td class = "startlist">Narváez Jhonatan</td>
+      <td class = "startlist">Healy Ben</td>
+      <td class = "startlist">Girmay Biniam</td>
       <td>Gee Derek</td>
-      <td>Nys Thibau</td>
-      <td>Gall Felix</td>
+      <td class = "startlist">Nys Thibau</td>
+      <td class = "startlist">Gall Felix</td>
     </tr>
     <tr>
       <th>10</th>
-      <td class = "startlist">11</td>
-      <td>Grégoire Romain</td>
-      <td>Nys Thibau</td>
+      <td>11</td>
+      <td class = "startlist">Grégoire Romain</td>
+      <td class = "startlist">Nys Thibau</td>
       <td>Gee Derek</td>
-      <td>Sivakov Pavel</td>
-      <td>Nys Thibau</td>
-      <td>Nys Thibau</td>
-      <td>Buitrago Santiago</td>
+      <td class = "startlist">Sivakov Pavel</td>
+      <td class = "startlist">Nys Thibau</td>
+      <td class = "startlist">Nys Thibau</td>
+      <td class = "startlist">Buitrago Santiago</td>
       <td>Sheffield Magnus</td>
-      <td>Martinez Lenny</td>
-      <td>Nys Thibau</td>
+      <td class = "startlist">Martinez Lenny</td>
+      <td class = "startlist">Nys Thibau</td>
     </tr>
     <tr>
       <th>11</th>
-      <td class = "startlist">12</td>
+      <td>12</td>
       <td>Hayter Ethan</td>
-      <td>Plapp Luke</td>
-      <td>Powless Neilson</td>
+      <td class = "startlist">Plapp Luke</td>
+      <td class = "startlist">Powless Neilson</td>
       <td>Poole Max</td>
       <td>Magnier Paul</td>
-      <td>Grégoire Romain</td>
-      <td>Gall Felix</td>
+      <td class = "startlist">Grégoire Romain</td>
+      <td class = "startlist">Gall Felix</td>
       <td>Geoghegan Hart Tao</td>
       <td>Magnier Paul</td>
-      <td>Martinez Lenny</td>
+      <td class = "startlist">Martinez Lenny</td>
     </tr>
     <tr>
       <th>12</th>
-      <td class = "startlist">13</td>
-      <td>Plapp Luke</td>
+      <td>13</td>
+      <td class = "startlist">Plapp Luke</td>
       <td>Welsford Sam</td>
-      <td>Nys Thibau</td>
+      <td class = "startlist">Nys Thibau</td>
       <td>Magnier Paul</td>
       <td>Kron Andreas</td>
-      <td>Martinez Lenny</td>
-      <td>Castrillo Pablo</td>
+      <td class = "startlist">Martinez Lenny</td>
+      <td class = "startlist">Castrillo Pablo</td>
       <td>Vacek Mathias</td>
       <td>Pellizzari Giulio</td>
       <td>Strong Corbin</td>
     </tr>
     <tr>
       <th>13</th>
-      <td class = "startlist">14</td>
+      <td>14</td>
       <td>Poole Max</td>
       <td>Mihkels Madis</td>
       <td>Hayter Ethan</td>
       <td>Bagioli Andrea</td>
       <td>Christen Jan</td>
       <td>Strong Corbin</td>
-      <td>Nys Thibau</td>
-      <td>Martinez Lenny</td>
+      <td class = "startlist">Nys Thibau</td>
+      <td class = "startlist">Martinez Lenny</td>
       <td>Welsford Sam</td>
       <td>Magnier Paul</td>
     </tr>
     <tr>
       <th>14</th>
-      <td class = "startlist">15</td>
+      <td>15</td>
       <td>Magnier Paul</td>
       <td>Nerurkar Lukas</td>
-      <td>Martinez Lenny</td>
-      <td>Schmid Mauro</td>
+      <td class = "startlist">Martinez Lenny</td>
+      <td class = "startlist">Schmid Mauro</td>
       <td>Bagioli Andrea</td>
       <td>Lapeira Paul</td>
-      <td>Martinez Lenny</td>
-      <td>Sivakov Pavel</td>
+      <td class = "startlist">Martinez Lenny</td>
+      <td class = "startlist">Sivakov Pavel</td>
       <td>Lapeira Paul</td>
-      <td>Schmid Mauro</td>
+      <td class = "startlist">Schmid Mauro</td>
     </tr>
     <tr>
       <th>15</th>
-      <td class = "startlist">16</td>
+      <td>16</td>
       <td>Tarling Joshua</td>
       <td>Steinhauser Georg</td>
       <td>Magnier Paul</td>
-      <td>Schachmann Maximilian</td>
+      <td class = "startlist">Schachmann Maximilian</td>
       <td>Van Dijke Tim</td>
-      <td>Schachmann Maximilian</td>
+      <td class = "startlist">Schachmann Maximilian</td>
       <td>Lazkano Oier</td>
       <td>Lazkano Oier</td>
-      <td>Abrahamsen Jonas</td>
+      <td class = "startlist">Abrahamsen Jonas</td>
       <td>Zingle Axel</td>
     </tr>
     <tr>
       <th>16</th>
-      <td class = "startlist">17</td>
+      <td>17</td>
       <td>Fisher-Black Finn</td>
       <td>Kanter Max</td>
       <td>Fisher-Black Finn</td>
       <td>Nerurkar Lukas</td>
-      <td>Andresen Tobias Lund</td>
-      <td>Trentin Matteo</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
+      <td class = "startlist">Trentin Matteo</td>
       <td>Mihkels Madis</td>
       <td>Adrià Roger</td>
       <td>Zingle Axel</td>
@@ -280,14 +280,14 @@
     </tr>
     <tr>
       <th>17</th>
-      <td class = "startlist">18</td>
+      <td>18</td>
       <td>Lazkano Oier</td>
       <td>Morgado António</td>
       <td>Torres Pablo</td>
       <td>Lafay Victor</td>
       <td>Vermeersch Florian</td>
       <td>Segaert Alec</td>
-      <td>Laurance Axel</td>
+      <td class = "startlist">Laurance Axel</td>
       <td>De Plus Laurens</td>
       <td>Segaert Alec</td>
       <td>Segaert Alec</td>
@@ -297,80 +297,80 @@
       <td>19</td>
       <td>Welsford Sam</td>
       <td>Brennan Matthew</td>
-      <td>Laurance Axel</td>
-      <td>Penhoët Paul</td>
+      <td class = "startlist">Laurance Axel</td>
+      <td class = "startlist">Penhoët Paul</td>
       <td>Van Baarle Dylan</td>
-      <td>Teuns Dylan</td>
-      <td>Andresen Tobias Lund</td>
+      <td class = "startlist">Teuns Dylan</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
       <td>Sheehan Riley</td>
-      <td>Campenaerts Victor</td>
+      <td class = "startlist">Campenaerts Victor</td>
       <td>Van Dijke Tim</td>
     </tr>
     <tr>
       <th>19</th>
       <td>20</td>
-      <td>Andresen Tobias Lund</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
       <td>Uhlig Henri</td>
-      <td>Andresen Tobias Lund</td>
-      <td>Rex Laurenz</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
+      <td class = "startlist">Rex Laurenz</td>
       <td>Brennan Matthew</td>
       <td>Mollema Bauke</td>
       <td>Morgado António</td>
-      <td>Laurance Axel</td>
-      <td>Andresen Tobias Lund</td>
-      <td>Andresen Tobias Lund</td>
+      <td class = "startlist">Laurance Axel</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
     </tr>
     <tr>
       <th>20</th>
-      <td class = "startlist">21</td>
+      <td>21</td>
       <td>Brennan Matthew</td>
       <td>Teutenberg Tim Torn</td>
       <td>Morgado António</td>
-      <td>Louvel Matis</td>
-      <td>Rex Laurenz</td>
+      <td class = "startlist">Louvel Matis</td>
+      <td class = "startlist">Rex Laurenz</td>
       <td>Ulissi Diego</td>
       <td>Fretin Milan</td>
-      <td>Andresen Tobias Lund</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
       <td>Teutenberg Tim Torn</td>
       <td>Morgado António</td>
     </tr>
     <tr>
       <th>21</th>
-      <td class = "startlist">22</td>
-      <td>Rex Laurenz</td>
+      <td>22</td>
+      <td class = "startlist">Rex Laurenz</td>
       <td>Foldager Anders</td>
-      <td>Rex Laurenz</td>
+      <td class = "startlist">Rex Laurenz</td>
       <td>Pedersen Rasmus Søjberg</td>
       <td>Teutenberg Tim Torn</td>
-      <td>Andresen Tobias Lund</td>
-      <td>Romeo Iván</td>
-      <td>Van Den Broek Frank</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
+      <td class = "startlist">Romeo Iván</td>
+      <td class = "startlist">Van Den Broek Frank</td>
       <td>Rafferty Darren</td>
       <td>Aular Orluis</td>
     </tr>
     <tr>
       <th>22</th>
-      <td class = "startlist">23</td>
+      <td>23</td>
       <td>Staune-Mittet Johannes</td>
       <td>Brenner Marco</td>
-      <td>Jeannière Emilien</td>
+      <td class = "startlist">Jeannière Emilien</td>
       <td>Frigo Marco</td>
       <td>Wandahl Frederik</td>
-      <td>Naesen Oliver</td>
+      <td class = "startlist">Naesen Oliver</td>
       <td>Staune-Mittet Johannes</td>
       <td>Aleotti Giovanni</td>
-      <td>Watson Samuel</td>
+      <td class = "startlist">Watson Samuel</td>
       <td>Vermeersch Florian</td>
     </tr>
     <tr>
       <th>23</th>
-      <td class = "startlist">24</td>
-      <td>Jeannière Emilien</td>
+      <td>24</td>
+      <td class = "startlist">Jeannière Emilien</td>
       <td>Withen Philipsen Albert</td>
       <td>Behrens Niklas</td>
       <td>Artz Huub</td>
       <td>Withen Philipsen Albert</td>
-      <td>Jeannière Emilien</td>
+      <td class = "startlist">Jeannière Emilien</td>
       <td>Seixas Paul</td>
       <td>Rafferty Darren</td>
       <td>Wandahl Frederik</td>
@@ -378,7 +378,7 @@
     </tr>
     <tr>
       <th>24</th>
-      <td class = "startlist">25</td>
+      <td>25</td>
       <td>Withen Philipsen Albert</td>
       <td>August Andrew</td>
       <td>Withen Philipsen Albert</td>
@@ -388,7 +388,7 @@
       <td>Withen Philipsen Albert</td>
       <td>Withen Philipsen Albert</td>
       <td>Withen Philipsen Albert</td>
-      <td>Rex Laurenz</td>
+      <td class = "startlist">Rex Laurenz</td>
     </tr>
   </tbody>
 </table>

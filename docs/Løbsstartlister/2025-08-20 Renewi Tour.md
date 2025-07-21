@@ -218,7 +218,7 @@
       <td>Kron Andreas</td>
       <td>Martinez Lenny</td>
       <td>Castrillo Pablo</td>
-      <td>Vacek Mathias</td>
+      <td class = "startlist">Vacek Mathias</td>
       <td>Pellizzari Giulio</td>
       <td>Strong Corbin</td>
     </tr>
@@ -282,7 +282,7 @@
       <th>17</th>
       <td>18</td>
       <td>Lazkano Oier</td>
-      <td>Morgado António</td>
+      <td class = "startlist">Morgado António</td>
       <td>Torres Pablo</td>
       <td>Lafay Victor</td>
       <td>Vermeersch Florian</td>
@@ -315,7 +315,7 @@
       <td>Rex Laurenz</td>
       <td>Brennan Matthew</td>
       <td>Mollema Bauke</td>
-      <td>Morgado António</td>
+      <td class = "startlist">Morgado António</td>
       <td>Laurance Axel</td>
       <td>Andresen Tobias Lund</td>
       <td>Andresen Tobias Lund</td>
@@ -324,15 +324,15 @@
       <th>20</th>
       <td>21</td>
       <td>Brennan Matthew</td>
-      <td>Teutenberg Tim Torn</td>
-      <td>Morgado António</td>
+      <td class = "startlist">Teutenberg Tim Torn</td>
+      <td class = "startlist">Morgado António</td>
       <td>Louvel Matis</td>
       <td>Rex Laurenz</td>
       <td>Ulissi Diego</td>
       <td>Fretin Milan</td>
       <td>Andresen Tobias Lund</td>
-      <td>Teutenberg Tim Torn</td>
-      <td>Morgado António</td>
+      <td class = "startlist">Teutenberg Tim Torn</td>
+      <td class = "startlist">Morgado António</td>
     </tr>
     <tr>
       <th>21</th>
@@ -341,7 +341,7 @@
       <td>Foldager Anders</td>
       <td>Rex Laurenz</td>
       <td>Pedersen Rasmus Søjberg</td>
-      <td>Teutenberg Tim Torn</td>
+      <td class = "startlist">Teutenberg Tim Torn</td>
       <td>Andresen Tobias Lund</td>
       <td>Romeo Iván</td>
       <td>Van Den Broek Frank</td>
