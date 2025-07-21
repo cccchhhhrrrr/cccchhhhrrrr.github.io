@@ -49,7 +49,7 @@
       <td>Pogačar Tadej</td>
       <td>Pogačar Tadej</td>
       <td>Pogačar Tadej</td>
-      <td class = "startlist">Vingegaard Jonas</td>
+      <td>Vingegaard Jonas</td>
       <td>Pogačar Tadej</td>
       <td>Pogačar Tadej</td>
       <td>Pogačar Tadej</td>
@@ -57,49 +57,49 @@
     <tr>
       <th>1</th>
       <td>2</td>
-      <td class = "startlist">Vingegaard Jonas</td>
-      <td class = "startlist">Vingegaard Jonas</td>
-      <td class = "startlist">Vingegaard Jonas</td>
-      <td class = "startlist">Vingegaard Jonas</td>
-      <td class = "startlist">Vingegaard Jonas</td>
-      <td class = "startlist">Vingegaard Jonas</td>
+      <td>Vingegaard Jonas</td>
+      <td>Vingegaard Jonas</td>
+      <td>Vingegaard Jonas</td>
+      <td>Vingegaard Jonas</td>
+      <td>Vingegaard Jonas</td>
+      <td>Vingegaard Jonas</td>
       <td>Van Aert Wout</td>
-      <td class = "startlist">Vingegaard Jonas</td>
-      <td class = "startlist">Vingegaard Jonas</td>
-      <td class = "startlist">Vingegaard Jonas</td>
+      <td>Vingegaard Jonas</td>
+      <td>Vingegaard Jonas</td>
+      <td>Vingegaard Jonas</td>
     </tr>
     <tr>
       <th>2</th>
       <td>3</td>
       <td>Van Aert Wout</td>
       <td>Roglič Primož</td>
-      <td class = "startlist">Pedersen Mads</td>
+      <td>Pedersen Mads</td>
       <td>Van Aert Wout</td>
-      <td class = "startlist">Pedersen Mads</td>
+      <td>Pedersen Mads</td>
       <td>Roglič Primož</td>
-      <td class = "startlist">Pedersen Mads</td>
+      <td>Pedersen Mads</td>
       <td>Van Aert Wout</td>
       <td>Van Aert Wout</td>
-      <td class = "startlist">Pedersen Mads</td>
+      <td>Pedersen Mads</td>
     </tr>
     <tr>
       <th>3</th>
       <td>4</td>
-      <td class = "startlist">Pedersen Mads</td>
-      <td class = "startlist">Pedersen Mads</td>
-      <td class = "startlist">Van Eetvelt Lennert</td>
+      <td>Pedersen Mads</td>
+      <td>Pedersen Mads</td>
+      <td>Van Eetvelt Lennert</td>
       <td>Van Der Poel Mathieu</td>
       <td>Milan Jonathan</td>
       <td>Philipsen Jasper</td>
       <td>Milan Jonathan</td>
       <td>Milan Jonathan</td>
-      <td class = "startlist">Pedersen Mads</td>
+      <td>Pedersen Mads</td>
       <td>Milan Jonathan</td>
     </tr>
     <tr>
       <th>4</th>
       <td>5</td>
-      <td class = "startlist">Almeida João</td>
+      <td>Almeida João</td>
       <td>Ayuso Juan</td>
       <td>Merlier Tim</td>
       <td>Philipsen Jasper</td>
@@ -108,20 +108,20 @@
       <td>Skjelmose Mattias</td>
       <td>De Lie Arnaud</td>
       <td>Skjelmose Mattias</td>
-      <td class = "startlist">Rodríguez Carlos</td>
+      <td>Rodríguez Carlos</td>
     </tr>
     <tr>
       <th>5</th>
       <td>6</td>
-      <td class = "startlist">Pidcock Thomas</td>
+      <td>Pidcock Thomas</td>
       <td>De Lie Arnaud</td>
-      <td class = "startlist">Pidcock Thomas</td>
+      <td>Pidcock Thomas</td>
       <td>Milan Jonathan</td>
-      <td class = "startlist">Almeida João</td>
-      <td class = "startlist">Pidcock Thomas</td>
-      <td class = "startlist">Rodríguez Carlos</td>
+      <td>Almeida João</td>
+      <td>Pidcock Thomas</td>
+      <td>Rodríguez Carlos</td>
       <td>Lipowitz Florian</td>
-      <td class = "startlist">Van Eetvelt Lennert</td>
+      <td>Van Eetvelt Lennert</td>
       <td>Kooij Olav</td>
     </tr>
     <tr>
@@ -131,7 +131,7 @@
       <td>Hirschi Marc</td>
       <td>De Lie Arnaud</td>
       <td>De Lie Arnaud</td>
-      <td class = "startlist">Van Eetvelt Lennert</td>
+      <td>Van Eetvelt Lennert</td>
       <td>Carapaz Richard</td>
       <td>Kooij Olav</td>
       <td>Girmay Biniam</td>
@@ -143,14 +143,14 @@
       <td>8</td>
       <td>Gall Felix</td>
       <td>Onley Oscar</td>
-      <td class = "startlist">Landa Mikel</td>
-      <td class = "startlist">Landa Mikel</td>
+      <td>Landa Mikel</td>
+      <td>Landa Mikel</td>
       <td>Kooij Olav</td>
       <td>Girmay Biniam</td>
       <td>Van Gils Maxim</td>
       <td>Yates Simon</td>
       <td>Merlier Tim</td>
-      <td class = "startlist">Landa Mikel</td>
+      <td>Landa Mikel</td>
     </tr>
     <tr>
       <th>8</th>
@@ -176,7 +176,7 @@
       <td>Narváez Jhonatan</td>
       <td>Healy Ben</td>
       <td>Girmay Biniam</td>
-      <td class = "startlist">Gee Derek</td>
+      <td>Gee Derek</td>
       <td>Nys Thibau</td>
       <td>Gall Felix</td>
     </tr>
@@ -185,7 +185,7 @@
       <td>11</td>
       <td>Grégoire Romain</td>
       <td>Nys Thibau</td>
-      <td class = "startlist">Gee Derek</td>
+      <td>Gee Derek</td>
       <td>Sivakov Pavel</td>
       <td>Nys Thibau</td>
       <td>Nys Thibau</td>
@@ -200,7 +200,7 @@
       <td>Hayter Ethan</td>
       <td>Plapp Luke</td>
       <td>Powless Neilson</td>
-      <td class = "startlist">Poole Max</td>
+      <td>Poole Max</td>
       <td>Magnier Paul</td>
       <td>Grégoire Romain</td>
       <td>Gall Felix</td>
@@ -225,11 +225,11 @@
     <tr>
       <th>13</th>
       <td>14</td>
-      <td class = "startlist">Poole Max</td>
+      <td>Poole Max</td>
       <td>Mihkels Madis</td>
       <td>Hayter Ethan</td>
       <td>Bagioli Andrea</td>
-      <td class = "startlist">Christen Jan</td>
+      <td>Christen Jan</td>
       <td>Strong Corbin</td>
       <td>Nys Thibau</td>
       <td>Martinez Lenny</td>
@@ -262,7 +262,7 @@
       <td>Lazkano Oier</td>
       <td>Lazkano Oier</td>
       <td>Abrahamsen Jonas</td>
-      <td class = "startlist">Zingle Axel</td>
+      <td>Zingle Axel</td>
     </tr>
     <tr>
       <th>16</th>
@@ -275,7 +275,7 @@
       <td>Trentin Matteo</td>
       <td>Mihkels Madis</td>
       <td>Adrià Roger</td>
-      <td class = "startlist">Zingle Axel</td>
+      <td>Zingle Axel</td>
       <td>Mihkels Madis</td>
     </tr>
     <tr>
@@ -354,7 +354,7 @@
       <td>Staune-Mittet Johannes</td>
       <td>Brenner Marco</td>
       <td>Jeannière Emilien</td>
-      <td class = "startlist">Frigo Marco</td>
+      <td>Frigo Marco</td>
       <td>Wandahl Frederik</td>
       <td>Naesen Oliver</td>
       <td>Staune-Mittet Johannes</td>

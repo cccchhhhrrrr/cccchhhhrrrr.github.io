@@ -282,7 +282,7 @@
       <th>17</th>
       <td>18</td>
       <td>Lazkano Oier</td>
-      <td class = "startlist">Morgado António</td>
+      <td>Morgado António</td>
       <td>Torres Pablo</td>
       <td>Lafay Victor</td>
       <td>Vermeersch Florian</td>
@@ -315,7 +315,7 @@
       <td>Rex Laurenz</td>
       <td>Brennan Matthew</td>
       <td>Mollema Bauke</td>
-      <td class = "startlist">Morgado António</td>
+      <td>Morgado António</td>
       <td>Laurance Axel</td>
       <td>Andresen Tobias Lund</td>
       <td>Andresen Tobias Lund</td>
@@ -325,14 +325,14 @@
       <td>21</td>
       <td>Brennan Matthew</td>
       <td>Teutenberg Tim Torn</td>
-      <td class = "startlist">Morgado António</td>
+      <td>Morgado António</td>
       <td>Louvel Matis</td>
       <td>Rex Laurenz</td>
       <td>Ulissi Diego</td>
       <td>Fretin Milan</td>
       <td>Andresen Tobias Lund</td>
       <td>Teutenberg Tim Torn</td>
-      <td class = "startlist">Morgado António</td>
+      <td>Morgado António</td>
     </tr>
     <tr>
       <th>21</th>

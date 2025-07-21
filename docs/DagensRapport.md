@@ -4,6 +4,216 @@ hide:
   - toc
 ---
 
+## 2025-07-20
+### Hovedspillet
+Campenaerts, Victor **30** (Tommy)  
+Aert, Wout van **20** (Chrelle, Jarma, Matti, Okholm, Tommy)  
+Laurance, Axel **18** (Jappo, Matti, Okholm)  
+Nys, Thibau **4** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Tommy, Visti)  
+Romeo, Iván **2** (Matti)  
+Buitrago, Santiago **1** (Matti)  
+
+### Cheapo
+Jegat, Jordan **12** (Chrelle, Jappo, Knak)  
+Eenkhoorn, Pascal **3** (Kenk, Visti)  
+Romeo, Iván **2** (Chrelle, Jappo)  
+
+
+
+
+
+## 2025-07-19
+### Hovedspillet
+Gall, Felix **20** (Chrelle, Matti, Visti)  
+Healy, Ben **14** (Knak)  
+
+### Cheapo
+Jegat, Jordan **3** (Chrelle, Jappo, Knak)  
+
+
+
+
+
+## 2025-07-18
+### Hovedspillet
+Plapp, Luke **18** (Chrelle, Hustlersen)  
+Martinez, Lenny **10** (Jappo, Knak, Matti, Okholm, Tommy, Visti)  
+Gall, Felix **8** (Chrelle, Matti, Visti)  
+
+### Cheapo
+
+
+
+
+
+## 2025-07-17
+### Hovedspillet
+Gall, Felix **12** (Chrelle, Matti, Visti)  
+
+### Cheapo
+
+
+
+
+
+## 2025-07-16
+### Hovedspillet
+Abrahamsen, Jonas **40** (Tommy)  
+Schmid, Mauro **30** (Jarma, Visti)  
+Poel, Mathieu van der **25** (Jarma)  
+Lie, Arnaud De **20** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)  
+Aert, Wout van **18** (Chrelle, Jarma, Matti, Okholm, Tommy)  
+Laurance, Axel **16** (Jappo, Matti, Okholm)  
+Grégoire, Romain **2** (Chrelle, Jarma, Knak)  
+
+### Cheapo
+Jegat, Jordan **3** (Chrelle, Jappo, Knak)  
+
+
+
+
+
+## 2025-07-14
+### Hovedspillet
+Healy, Ben **25** (Knak)  
+Martinez, Lenny **12** (Jappo, Knak, Matti, Okholm, Tommy, Visti)  
+
+### Cheapo
+
+
+
+
+
+## 2025-07-13
+### Hovedspillet
+Merlier, Tim **40** (Jappo, Knak, Matti, Tommy)  
+Milan, Jonathan **30** (Jarma, Kenk, Matti, Okholm, Visti)  
+Lie, Arnaud De **25** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)  
+Penhoët, Paul **18** (Jarma)  
+Girmay, Biniam **16** (Jappo, Knak, Matti, Okholm, Visti)  
+
+### Cheapo
+Renard, Alexis **6** (Knak, Visti)  
+
+
+
+
+
+## 2025-07-12
+### Hovedspillet
+Milan, Jonathan **40** (Jarma, Kenk, Matti, Okholm, Visti)  
+Aert, Wout van **30** (Chrelle, Jarma, Matti, Okholm, Tommy)  
+Lie, Arnaud De **18** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)  
+Andresen, Tobias Lund **16** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)  
+Watson, Sam **1** (Tommy)  
+
+### Cheapo
+Tronchon, Bastien **2** (Chrelle, Jappo, Kenk, Knak, Visti)  
+
+
+
+
+
+## 2025-07-11
+### Hovedspillet
+Gall, Felix **20** (Chrelle, Matti, Visti)  
+Narváez, Jhonatan **12** (Hustlersen, Kenk)  
+Laurance, Axel **10** (Jappo, Matti, Okholm)  
+Skjelmose, Mattias **4** (Matti, Tommy)  
+Grégoire, Romain **3** (Chrelle, Jarma, Knak)  
+
+### Cheapo
+Jegat, Jordan **6** (Chrelle, Jappo, Knak)  
+
+
+
+
+
+## 2025-07-10
+### Hovedspillet
+Healy, Ben **40** (Knak)  
+Poel, Mathieu van der **12** (Jarma)  
+
+### Cheapo
+
+
+
+
+
+## 2025-07-09
+### Hovedspillet
+Romeo, Iván **14** (Matti)  
+Almeida, João **12** (Chrelle, Kenk)  
+Plapp, Luke **10** (Chrelle, Hustlersen)  
+Castrillo, Pablo **8** (Matti)  
+
+### Cheapo
+Romeo, Iván **14** (Chrelle, Jappo)  
+
+
+
+
+
+## 2025-07-08
+### Hovedspillet
+Poel, Mathieu van der **30** (Jarma)  
+Grégoire, Romain **18** (Chrelle, Jarma, Knak)  
+Almeida, João **16** (Chrelle, Kenk)  
+Skjelmose, Mattias **10** (Matti, Tommy)  
+Aert, Wout van **6** (Chrelle, Jarma, Matti, Okholm, Tommy)  
+Narváez, Jhonatan **2** (Hustlersen, Kenk)  
+
+### Cheapo
+
+
+
+
+
+## 2025-07-07
+### Hovedspillet
+Merlier, Tim **40** (Jappo, Knak, Matti, Tommy)  
+Milan, Jonathan **30** (Jarma, Kenk, Matti, Okholm, Visti)  
+Girmay, Biniam **16** (Jappo, Knak, Matti, Okholm, Visti)  
+Andresen, Tobias Lund **6** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)  
+
+### Cheapo
+Capiot, Amaury **10** (Chrelle, Jappo, Jarma, Knak)  
+Tronchon, Bastien **4** (Chrelle, Jappo, Kenk, Knak, Visti)  
+
+
+
+
+
+## 2025-07-06
+### Hovedspillet
+Poel, Mathieu van der **40** (Jarma)  
+Grégoire, Romain **20** (Chrelle, Jarma, Knak)  
+Buitrago, Santiago **3** (Matti)  
+Hirschi, Marc **2** (Hustlersen, Jappo, Knak)  
+Almeida, João **1** (Chrelle, Kenk)  
+
+### Cheapo
+Delettre, Alexandre **6** (Jappo)  
+
+
+
+
+
+## 2025-07-05
+### Hovedspillet
+Philipsen, Jasper **40** (Jarma, Knak)  
+Girmay, Biniam **30** (Jappo, Knak, Matti, Okholm, Visti)  
+Trentin, Matteo **18** (Knak)  
+Penhoët, Paul **14** (Jarma)  
+Watson, Sam **8** (Tommy)  
+
+### Cheapo
+Russo, Clément **16** (Jarma)  
+
+
+
+
+
 ## 2025-06-22
 ### Hovedspillet
 Almeida, João **125** (Chrelle, Kenk)  
