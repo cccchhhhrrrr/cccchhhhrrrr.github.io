@@ -4,6 +4,115 @@ hide:
   - toc
 ---
 
+## 2025-07-27
+### Hovedspillet
+Pogačar, Tadej **200** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
+Vingegaard, Jonas **150** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)  
+Lipowitz, Florian **120** (Okholm)  
+Onley, Oscar **100** (Hustlersen, Okholm)  
+Gall, Felix **90** (Chrelle, Matti, Visti)  
+Roglič, Primož **60** (Hustlersen, Knak)  
+Healy, Ben **55** (Knak)  
+Aert, Wout van **40** (Chrelle, Jarma, Matti, Okholm, Tommy)  
+Narváez, Jhonatan **35** (Hustlersen, Kenk)  
+Yates, Simon **25** (Okholm)  
+Trentin, Matteo **16** (Knak)  
+Lie, Arnaud De **14** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)  
+Teuns, Dylan **8** (Knak)  
+Andresen, Tobias Lund **4** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)  
+Girmay, Biniam **3** (Jappo, Knak, Matti, Okholm, Visti)  
+Powless, Neilson **1** (Jappo)  
+
+### Cheapo
+Jegat, Jordan **50** (Chrelle, Jappo, Knak)  
+
+
+
+
+
+## 2025-07-26
+### Hovedspillet
+Broek, Frank van den **30** (Okholm)  
+Grégoire, Romain **18** (Chrelle, Jarma, Knak)  
+Trentin, Matteo **6** (Knak)  
+Abrahamsen, Jonas **1** (Tommy)  
+
+### Cheapo
+Eenkhoorn, Pascal **25** (Kenk, Visti)  
+Jegat, Jordan **14** (Chrelle, Jappo, Knak)  
+Costiou, Ewen **4** (Jappo, Kenk, Knak)  
+
+
+
+
+
+## 2025-07-25
+### Hovedspillet
+Vingegaard, Jonas **30** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)  
+Pogačar, Tadej **25** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
+Lipowitz, Florian **20** (Okholm)  
+Onley, Oscar **18** (Hustlersen, Okholm)  
+Gall, Felix **16** (Chrelle, Matti, Visti)  
+Healy, Ben **12** (Knak)  
+Yates, Simon **8** (Okholm)  
+Martinez, Lenny **6** (Jappo, Knak, Matti, Okholm, Tommy, Visti)  
+
+### Cheapo
+Jegat, Jordan **2** (Chrelle, Jappo, Knak)  
+
+
+
+
+
+## 2025-07-24
+### Hovedspillet
+Pogačar, Tadej **30** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
+Vingegaard, Jonas **25** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)  
+Onley, Oscar **20** (Hustlersen, Okholm)  
+Gall, Felix **16** (Chrelle, Matti, Visti)  
+Roglič, Primož **14** (Hustlersen, Knak)  
+Lipowitz, Florian **6** (Okholm)  
+Narváez, Jhonatan **3** (Hustlersen, Kenk)  
+
+### Cheapo
+
+
+
+
+
+## 2025-07-23
+### Hovedspillet
+Milan, Jonathan **40** (Jarma, Kenk, Matti, Okholm, Visti)  
+Andresen, Tobias Lund **25** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)  
+Lie, Arnaud De **20** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)  
+Penhoët, Paul **14** (Jarma)  
+
+### Cheapo
+Russo, Clément **10** (Jarma)  
+Moer, Brent Van **6** (Visti)  
+
+
+
+
+
+## 2025-07-22
+### Hovedspillet
+Healy, Ben **30** (Knak)  
+Buitrago, Santiago **25** (Matti)  
+Wilder, Ilan Van **20** (Chrelle)  
+Pogačar, Tadej **18** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  
+Vingegaard, Jonas **16** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)  
+Roglič, Primož **10** (Hustlersen, Knak)  
+Lipowitz, Florian **8** (Okholm)  
+Onley, Oscar **2** (Hustlersen, Okholm)  
+Rodriguez, Carlos **1** (Matti, Visti)  
+
+### Cheapo
+
+
+
+
+
 ## 2025-07-20
 ### Hovedspillet
 Campenaerts, Victor **30** (Tommy)  

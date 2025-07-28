@@ -45,72 +45,72 @@ hide:
     <tr>
       <td>Chrelle</td>
       <td>350.0</td>
-      <td>857</td>
-      <td>6953</td>
-      <td>8.11</td>
-    </tr>
-    <tr>
-      <td>Jappo</td>
-      <td>350.0</td>
-      <td>840</td>
-      <td>6311</td>
-      <td>7.51</td>
+      <td>923</td>
+      <td>7710</td>
+      <td>8.35</td>
     </tr>
     <tr>
       <td>Okholm</td>
       <td>350.0</td>
-      <td>877</td>
-      <td>6004</td>
-      <td>6.85</td>
+      <td>961</td>
+      <td>7007</td>
+      <td>7.29</td>
+    </tr>
+    <tr>
+      <td>Jappo</td>
+      <td>350.0</td>
+      <td>912</td>
+      <td>6878</td>
+      <td>7.54</td>
     </tr>
     <tr>
       <td>Kenk</td>
       <td>349.9</td>
-      <td>738</td>
-      <td>5987</td>
-      <td>8.11</td>
+      <td>780</td>
+      <td>6588</td>
+      <td>8.45</td>
     </tr>
     <tr>
       <td>Knak</td>
       <td>349.8</td>
-      <td>861</td>
-      <td>5796</td>
-      <td>6.73</td>
+      <td>951</td>
+      <td>6557</td>
+      <td>6.89</td>
     </tr>
     <tr>
       <td>Visti</td>
       <td>350.0</td>
-      <td>818</td>
-      <td>5738</td>
-      <td>7.01</td>
+      <td>887</td>
+      <td>6467</td>
+      <td>7.29</td>
     </tr>
     <tr>
       <td>Tommy</td>
       <td>350.0</td>
-      <td>798</td>
-      <td>5689</td>
-      <td>7.13</td>
-    </tr>
-    <tr>
-      <td>Matti</td>
-      <td>349.1</td>
-      <td>861</td>
-      <td>5410</td>
-      <td>6.28</td>
+      <td>864</td>
+      <td>6259</td>
+      <td>7.24</td>
     </tr>
     <tr>
       <td>Jarma</td>
       <td>350.0</td>
-      <td>792</td>
-      <td>5384</td>
-      <td>6.80</td>
+      <td>865</td>
+      <td>6024</td>
+      <td>6.96</td>
     </tr>
     <tr>
       <td>Hustlersen</td>
       <td>327.8</td>
-      <td>750</td>
-      <td>5215</td>
-      <td>6.95</td>
+      <td>804</td>
+      <td>6005</td>
+      <td>7.47</td>
+    </tr>
+    <tr>
+      <td>Matti</td>
+      <td>349.1</td>
+      <td>942</td>
+      <td>5897</td>
+      <td>6.26</td>
     </tr>
   </tbody>
 </table>

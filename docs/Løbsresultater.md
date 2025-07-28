@@ -36921,15 +36921,15 @@ hide:
       <td>Tour de France</td>
       <td>Abrahamsen, Jonas</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>40</td>
-      <td>stage-11: 40</td>
+      <td>22</td>
+      <td>41</td>
+      <td>stage-11: 40 / stage-20: 1</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Ackermann, Pascal</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>36</td>
       <td>stage-3: 12 / stage-8: 20 / stage-9: 4</td>
     </tr>
@@ -36937,15 +36937,15 @@ hide:
       <td>Tour de France</td>
       <td>Aert, Wout van</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>74</td>
-      <td>stage-4: 6 / stage-8: 30 / stage-11: 18 / stage-15: 20</td>
+      <td>22</td>
+      <td>114</td>
+      <td>stage-4: 6 / stage-8: 30 / stage-11: 18 / stage-15: 20 / stage-21: 40</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Affini, Edoardo</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>25</td>
       <td>stage-5: 25</td>
     </tr>
@@ -36953,15 +36953,15 @@ hide:
       <td>Tour de France</td>
       <td>Alaphilippe, Julian</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>43</td>
-      <td>stage-2: 18 / stage-15: 25</td>
+      <td>22</td>
+      <td>55</td>
+      <td>stage-2: 18 / stage-15: 25 / stage-16: 12</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Albanese, Vincenzo</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>10</td>
       <td>stage-8: 10</td>
     </tr>
@@ -36977,31 +36977,31 @@ hide:
       <td>Tour de France</td>
       <td>Andresen, Tobias Lund</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
       <td>22</td>
-      <td>stage-3: 6 / stage-8: 16</td>
+      <td>51</td>
+      <td>stage-3: 6 / stage-8: 16 / stage-17: 25 / stage-21: 4</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Aranburu, Alex</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>0</td>
-      <td></td>
+      <td>22</td>
+      <td>2</td>
+      <td>stage-21: 2</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Arensman, Thymen</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>70</td>
-      <td>stage-10: 30 / stage-14: 40</td>
+      <td>22</td>
+      <td>154</td>
+      <td>stage-10: 30 / stage-14: 40 / stage-16: 4 / stage-19: 40 / gc: 40</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Armirail, Bruno</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>20</td>
       <td>stage-5: 20</td>
     </tr>
@@ -37009,7 +37009,7 @@ hide:
       <td>Tour de France</td>
       <td>Asgreen, Kasper</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37017,7 +37017,7 @@ hide:
       <td>Tour de France</td>
       <td>Askey, Lewis</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>3</td>
       <td>stage-8: 3</td>
     </tr>
@@ -37025,23 +37025,23 @@ hide:
       <td>Tour de France</td>
       <td>Ballerini, Davide</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>8</td>
-      <td>stage-11: 8</td>
+      <td>22</td>
+      <td>59</td>
+      <td>stage-11: 8 / stage-17: 18 / stage-20: 3 / stage-21: 30</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Barguil, Warren</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>0</td>
-      <td></td>
+      <td>22</td>
+      <td>6</td>
+      <td>gc: 6</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Barré, Louis</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37049,7 +37049,7 @@ hide:
       <td>Tour de France</td>
       <td>Barta, Will</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>16</td>
       <td>stage-6: 16</td>
     </tr>
@@ -37057,7 +37057,7 @@ hide:
       <td>Tour de France</td>
       <td>Barthe, Cyril</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>18</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37065,7 +37065,7 @@ hide:
       <td>Tour de France</td>
       <td>Baudin, Alex</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>3</td>
       <td>stage-4: 3</td>
     </tr>
@@ -37073,15 +37073,15 @@ hide:
       <td>Tour de France</td>
       <td>Bauhaus, Phil</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>43</td>
-      <td>stage-3: 25 / stage-8: 4 / stage-9: 14</td>
+      <td>22</td>
+      <td>47</td>
+      <td>stage-3: 25 / stage-8: 4 / stage-9: 14 / stage-17: 4</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Benoot, Tiesj</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37089,7 +37089,7 @@ hide:
       <td>Tour de France</td>
       <td>Berckmoes, Jenno</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>8</td>
       <td>stage-2: 8</td>
     </tr>
@@ -37105,7 +37105,7 @@ hide:
       <td>Tour de France</td>
       <td>Berthet, Clément</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37121,7 +37121,7 @@ hide:
       <td>Tour de France</td>
       <td>Bittner, Pavel</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>38</td>
       <td>stage-3: 18 / stage-9: 20</td>
     </tr>
@@ -37129,7 +37129,7 @@ hide:
       <td>Tour de France</td>
       <td>Blackmore, Joe</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>16</td>
       <td>stage-10: 16</td>
     </tr>
@@ -37137,7 +37137,7 @@ hide:
       <td>Tour de France</td>
       <td>Boivin, Guillaume</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37153,7 +37153,7 @@ hide:
       <td>Tour de France</td>
       <td>Braet, Vito</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37161,15 +37161,15 @@ hide:
       <td>Tour de France</td>
       <td>Broek, Frank van den</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>0</td>
-      <td></td>
+      <td>22</td>
+      <td>30</td>
+      <td>stage-20: 30</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Buchmann, Emanuel</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37177,15 +37177,15 @@ hide:
       <td>Tour de France</td>
       <td>Buitrago, Santiago</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>4</td>
-      <td>stage-2: 3 / stage-15: 1</td>
+      <td>22</td>
+      <td>29</td>
+      <td>stage-2: 3 / stage-15: 1 / stage-16: 25</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Burgaudeau, Mathieu</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>12</td>
       <td>stage-11: 12</td>
     </tr>
@@ -37201,7 +37201,7 @@ hide:
       <td>Tour de France</td>
       <td>Campenaerts, Victor</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>30</td>
       <td>stage-15: 30</td>
     </tr>
@@ -37209,7 +37209,7 @@ hide:
       <td>Tour de France</td>
       <td>Capiot, Amaury</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>10</td>
       <td>stage-3: 10</td>
     </tr>
@@ -37217,7 +37217,7 @@ hide:
       <td>Tour de France</td>
       <td>Castrillo, Pablo</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>8</td>
       <td>stage-5: 8</td>
     </tr>
@@ -37233,7 +37233,7 @@ hide:
       <td>Tour de France</td>
       <td>Champoussin, Clément</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37241,7 +37241,7 @@ hide:
       <td>Tour de France</td>
       <td>Consonni, Simone</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37257,7 +37257,7 @@ hide:
       <td>Tour de France</td>
       <td>Cort, Magnus</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37265,9 +37265,9 @@ hide:
       <td>Tour de France</td>
       <td>Costiou, Ewen</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>0</td>
-      <td></td>
+      <td>22</td>
+      <td>4</td>
+      <td>stage-20: 4</td>
     </tr>
     <tr>
       <td>Tour de France</td>
@@ -37281,15 +37281,15 @@ hide:
       <td>Tour de France</td>
       <td>Dainese, Alberto</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>24</td>
-      <td>stage-3: 8 / stage-8: 12 / stage-11: 4</td>
+      <td>22</td>
+      <td>40</td>
+      <td>stage-3: 8 / stage-8: 12 / stage-11: 4 / stage-17: 16</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Delettre, Alexandre</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>6</td>
       <td>stage-2: 6</td>
     </tr>
@@ -37297,7 +37297,7 @@ hide:
       <td>Tour de France</td>
       <td>Dijke, Mick van</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37305,7 +37305,7 @@ hide:
       <td>Tour de France</td>
       <td>Dillier, Silvan</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37313,9 +37313,9 @@ hide:
       <td>Tour de France</td>
       <td>Drizners, Jarrad</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>0</td>
-      <td></td>
+      <td>22</td>
+      <td>3</td>
+      <td>stage-17: 3</td>
     </tr>
     <tr>
       <td>Tour de France</td>
@@ -37329,7 +37329,7 @@ hide:
       <td>Tour de France</td>
       <td>Durbridge, Luke</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37337,7 +37337,7 @@ hide:
       <td>Tour de France</td>
       <td>Démare, Arnaud</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>3</td>
       <td>stage-9: 3</td>
     </tr>
@@ -37345,9 +37345,9 @@ hide:
       <td>Tour de France</td>
       <td>Eenkhoorn, Pascal</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>3</td>
-      <td>stage-15: 3</td>
+      <td>22</td>
+      <td>28</td>
+      <td>stage-15: 3 / stage-20: 25</td>
     </tr>
     <tr>
       <td>Tour de France</td>
@@ -37369,15 +37369,15 @@ hide:
       <td>Tour de France</td>
       <td>Fedorov, Yevgeniy</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>0</td>
-      <td></td>
+      <td>20</td>
+      <td>12</td>
+      <td>stage-17: 12</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Flynn, Sean</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37385,7 +37385,7 @@ hide:
       <td>Tour de France</td>
       <td>Foss, Tobias</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>2</td>
       <td>stage-5: 2</td>
     </tr>
@@ -37393,7 +37393,7 @@ hide:
       <td>Tour de France</td>
       <td>Fredheim, Stian</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>18</td>
       <td>stage-8: 8 / stage-9: 10</td>
     </tr>
@@ -37401,7 +37401,7 @@ hide:
       <td>Tour de France</td>
       <td>Gachignard, Thomas</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37409,9 +37409,9 @@ hide:
       <td>Tour de France</td>
       <td>Gall, Felix</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>60</td>
-      <td>stage-7: 20 / stage-12: 12 / stage-13: 8 / stage-14: 20</td>
+      <td>22</td>
+      <td>182</td>
+      <td>stage-7: 20 / stage-12: 12 / stage-13: 8 / stage-14: 20 / stage-18: 16 / stage-19: 16 / gc: 90</td>
     </tr>
     <tr>
       <td>Tour de France</td>
@@ -37425,7 +37425,7 @@ hide:
       <td>Tour de France</td>
       <td>García Cortina, Iván</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>4</td>
       <td>stage-1: 4</td>
     </tr>
@@ -37433,7 +37433,7 @@ hide:
       <td>Tour de France</td>
       <td>García, Raúl</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>4</td>
       <td>stage-12: 4</td>
     </tr>
@@ -37441,15 +37441,15 @@ hide:
       <td>Tour de France</td>
       <td>Girmay, Biniam</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>62</td>
-      <td>stage-1: 30 / stage-3: 16 / stage-9: 16</td>
+      <td>22</td>
+      <td>65</td>
+      <td>stage-1: 30 / stage-3: 16 / stage-9: 16 / stage-21: 3</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Gradek, Kamil</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37457,7 +37457,7 @@ hide:
       <td>Tour de France</td>
       <td>Grignard, Sébastien</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37465,25 +37465,25 @@ hide:
       <td>Tour de France</td>
       <td>Groenewegen, Dylan</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>4</td>
-      <td>stage-3: 3 / stage-9: 1</td>
+      <td>22</td>
+      <td>6</td>
+      <td>stage-3: 3 / stage-9: 1 / stage-17: 2</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Groves, Kaden</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>53</td>
-      <td>stage-3: 14 / stage-8: 25 / stage-9: 8 / stage-11: 6</td>
+      <td>22</td>
+      <td>99</td>
+      <td>stage-3: 14 / stage-8: 25 / stage-9: 8 / stage-11: 6 / stage-20: 40 / stage-21: 6</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Grégoire, Romain</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>43</td>
-      <td>stage-2: 20 / stage-4: 18 / stage-7: 3 / stage-11: 2</td>
+      <td>22</td>
+      <td>61</td>
+      <td>stage-2: 20 / stage-4: 18 / stage-7: 3 / stage-11: 2 / stage-20: 18</td>
     </tr>
     <tr>
       <td>Tour de France</td>
@@ -37497,7 +37497,7 @@ hide:
       <td>Tour de France</td>
       <td>Haller, Marco</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37505,23 +37505,23 @@ hide:
       <td>Tour de France</td>
       <td>Healy, Ben</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>79</td>
-      <td>stage-6: 40 / stage-10: 25 / stage-14: 14</td>
+      <td>22</td>
+      <td>176</td>
+      <td>stage-6: 40 / stage-10: 25 / stage-14: 14 / stage-16: 30 / stage-19: 12 / gc: 55</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Higuita, Sergio</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>2</td>
-      <td>stage-12: 2</td>
+      <td>22</td>
+      <td>34</td>
+      <td>stage-12: 2 / stage-18: 2 / gc: 30</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Hirschi, Marc</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>2</td>
       <td>stage-2: 2</td>
     </tr>
@@ -37529,7 +37529,7 @@ hide:
       <td>Tour de France</td>
       <td>Hoelgaard, Markus</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37537,7 +37537,7 @@ hide:
       <td>Tour de France</td>
       <td>Izagirre, Ion</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37553,15 +37553,15 @@ hide:
       <td>Tour de France</td>
       <td>Jegat, Jordan</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>24</td>
-      <td>stage-7: 6 / stage-11: 3 / stage-14: 3 / stage-15: 12</td>
+      <td>22</td>
+      <td>90</td>
+      <td>stage-7: 6 / stage-11: 3 / stage-14: 3 / stage-15: 12 / stage-19: 2 / stage-20: 14 / gc: 50</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Johannessen, Anders</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>14</td>
       <td>stage-10: 14</td>
     </tr>
@@ -37569,31 +37569,31 @@ hide:
       <td>Tour de France</td>
       <td>Johannessen, Tobias</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>42</td>
-      <td>stage-4: 1 / stage-7: 8 / stage-10: 1 / stage-12: 20 / stage-13: 2 / stage-14: 10</td>
+      <td>22</td>
+      <td>146</td>
+      <td>stage-4: 1 / stage-7: 8 / stage-10: 1 / stage-12: 20 / stage-13: 2 / stage-14: 10 / stage-18: 10 / stage-19: 14 / gc: 80</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Jorgenson, Matteo</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>75</td>
-      <td>stage-1: 12 / stage-4: 12 / stage-5: 6 / stage-6: 6 / stage-7: 18 / stage-10: 4 / stage-12: 1 / stage-13: 16</td>
+      <td>22</td>
+      <td>117</td>
+      <td>stage-1: 12 / stage-4: 12 / stage-5: 6 / stage-6: 6 / stage-7: 18 / stage-10: 4 / stage-12: 1 / stage-13: 16 / stage-20: 10 / stage-21: 18 / gc: 14</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Kuss, Sepp</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>0</td>
-      <td></td>
+      <td>22</td>
+      <td>26</td>
+      <td>stage-18: 8 / gc: 18</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Laurance, Axel</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>44</td>
       <td>stage-7: 10 / stage-11: 16 / stage-15: 18</td>
     </tr>
@@ -37601,7 +37601,7 @@ hide:
       <td>Tour de France</td>
       <td>Le Berre, Mathis</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37609,7 +37609,7 @@ hide:
       <td>Tour de France</td>
       <td>Leknessund, Andreas</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37617,7 +37617,7 @@ hide:
       <td>Tour de France</td>
       <td>Lerberghe, Bert Van</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37625,15 +37625,15 @@ hide:
       <td>Tour de France</td>
       <td>Lie, Arnaud De</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>63</td>
-      <td>stage-8: 18 / stage-9: 25 / stage-11: 20</td>
+      <td>22</td>
+      <td>97</td>
+      <td>stage-8: 18 / stage-9: 25 / stage-11: 20 / stage-17: 20 / stage-21: 14</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Lienhard, Fabian</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37641,15 +37641,15 @@ hide:
       <td>Tour de France</td>
       <td>Lipowitz, Florian</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>88</td>
-      <td>stage-5: 16 / stage-6: 1 / stage-7: 2 / stage-10: 6 / stage-12: 25 / stage-13: 20 / stage-14: 18</td>
+      <td>22</td>
+      <td>242</td>
+      <td>stage-5: 16 / stage-6: 1 / stage-7: 2 / stage-10: 6 / stage-12: 25 / stage-13: 20 / stage-14: 18 / stage-16: 8 / stage-18: 6 / stage-19: 20 / gc: 120</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Louvel, Matîs</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37657,7 +37657,7 @@ hide:
       <td>Tour de France</td>
       <td>Lutsenko, Alexey</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37665,39 +37665,39 @@ hide:
       <td>Tour de France</td>
       <td>Madouas, Valentin</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>8</td>
-      <td>stage-15: 8</td>
+      <td>22</td>
+      <td>18</td>
+      <td>stage-15: 8 / gc: 10</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Martin, Guillaume</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>3</td>
-      <td>stage-12: 3</td>
+      <td>22</td>
+      <td>23</td>
+      <td>stage-12: 3 / gc: 20</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Martinez, Lenny</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
       <td>22</td>
-      <td>stage-10: 12 / stage-13: 10</td>
+      <td>28</td>
+      <td>stage-10: 12 / stage-13: 10 / stage-19: 6</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Mas, Enric</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>4</td>
-      <td>stage-2: 4</td>
+      <td>18</td>
+      <td>18</td>
+      <td>stage-2: 4 / stage-16: 14</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Mayrhofer, Marius</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>10</td>
       <td>stage-1: 10</td>
     </tr>
@@ -37705,15 +37705,15 @@ hide:
       <td>Tour de France</td>
       <td>Meeus, Jordi</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>12</td>
-      <td>stage-9: 12</td>
+      <td>22</td>
+      <td>42</td>
+      <td>stage-9: 12 / stage-17: 30</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Merlier, Tim</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>80</td>
       <td>stage-3: 40 / stage-9: 40</td>
     </tr>
@@ -37721,15 +37721,15 @@ hide:
       <td>Tour de France</td>
       <td>Meurisse, Xandro</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>0</td>
-      <td></td>
+      <td>22</td>
+      <td>11</td>
+      <td>stage-16: 3 / gc: 8</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Mezgec, Luka</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37737,31 +37737,31 @@ hide:
       <td>Tour de France</td>
       <td>Milan, Jonathan</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>100</td>
-      <td>stage-3: 30 / stage-8: 40 / stage-9: 30</td>
+      <td>22</td>
+      <td>140</td>
+      <td>stage-3: 30 / stage-8: 40 / stage-9: 30 / stage-17: 40</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Moer, Brent Van</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>0</td>
-      <td></td>
+      <td>22</td>
+      <td>6</td>
+      <td>stage-17: 6</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Mohorič, Matej</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>0</td>
-      <td></td>
+      <td>22</td>
+      <td>25</td>
+      <td>stage-21: 25</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Moscon, Gianni</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37769,7 +37769,7 @@ hide:
       <td>Tour de France</td>
       <td>Märkl, Niklas</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>3</td>
       <td>stage-1: 3</td>
     </tr>
@@ -37777,15 +37777,15 @@ hide:
       <td>Tour de France</td>
       <td>Mühlberger, Gregor</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>0</td>
-      <td></td>
+      <td>22</td>
+      <td>23</td>
+      <td>stage-16: 6 / stage-19: 1 / gc: 16</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Naberman, Tim</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37793,7 +37793,7 @@ hide:
       <td>Tour de France</td>
       <td>Naesen, Oliver</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37801,15 +37801,15 @@ hide:
       <td>Tour de France</td>
       <td>Narváez, Jhonatan</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>14</td>
-      <td>stage-4: 2 / stage-7: 12</td>
+      <td>22</td>
+      <td>52</td>
+      <td>stage-4: 2 / stage-7: 12 / stage-18: 3 / gc: 35</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Neilands, Krists</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>1</td>
       <td>stage-1: 1</td>
     </tr>
@@ -37817,7 +37817,7 @@ hide:
       <td>Tour de France</td>
       <td>Nys, Thibau</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>4</td>
       <td>stage-15: 4</td>
     </tr>
@@ -37825,15 +37825,15 @@ hide:
       <td>Tour de France</td>
       <td>O'Connor, Ben</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>20</td>
-      <td>stage-10: 20</td>
+      <td>22</td>
+      <td>109</td>
+      <td>stage-10: 20 / stage-18: 40 / stage-19: 4 / gc: 45</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Oliveira, Nelson</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>1</td>
       <td>stage-5: 1</td>
     </tr>
@@ -37841,15 +37841,15 @@ hide:
       <td>Tour de France</td>
       <td>Onley, Oscar</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>114</td>
-      <td>stage-2: 16 / stage-4: 20 / stage-6: 3 / stage-7: 25 / stage-10: 2 / stage-12: 18 / stage-13: 14 / stage-14: 16</td>
+      <td>22</td>
+      <td>254</td>
+      <td>stage-2: 16 / stage-4: 20 / stage-6: 3 / stage-7: 25 / stage-10: 2 / stage-12: 18 / stage-13: 14 / stage-14: 16 / stage-16: 2 / stage-18: 20 / stage-19: 18 / gc: 100</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Pacher, Quentin</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37857,7 +37857,7 @@ hide:
       <td>Tour de France</td>
       <td>Page, Hugo</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37865,25 +37865,25 @@ hide:
       <td>Tour de France</td>
       <td>Paret-Peintre, Aurélien</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>18</td>
-      <td>stage-2: 14 / stage-4: 4</td>
+      <td>22</td>
+      <td>23</td>
+      <td>stage-2: 14 / stage-4: 4 / stage-19: 3 / gc: 2</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Paret-Peintre, Valentin</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>0</td>
-      <td></td>
+      <td>22</td>
+      <td>50</td>
+      <td>stage-16: 40 / stage-19: 10</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Penhoët, Paul</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>32</td>
-      <td>stage-1: 14 / stage-9: 18</td>
+      <td>22</td>
+      <td>46</td>
+      <td>stage-1: 14 / stage-9: 18 / stage-17: 14</td>
     </tr>
     <tr>
       <td>Tour de France</td>
@@ -37897,7 +37897,7 @@ hide:
       <td>Tour de France</td>
       <td>Pithie, Laurence</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37905,7 +37905,7 @@ hide:
       <td>Tour de France</td>
       <td>Plapp, Luke</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>28</td>
       <td>stage-5: 10 / stage-13: 18</td>
     </tr>
@@ -37913,7 +37913,7 @@ hide:
       <td>Tour de France</td>
       <td>Poel, Mathieu van der</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>16</td>
       <td>107</td>
       <td>stage-2: 40 / stage-4: 30 / stage-6: 12 / stage-11: 25</td>
     </tr>
@@ -37921,15 +37921,15 @@ hide:
       <td>Tour de France</td>
       <td>Pogačar, Tadej</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>270</td>
-      <td>stage-2: 30 / stage-4: 40 / stage-5: 30 / stage-6: 10 / stage-7: 40 / stage-10: 10 / stage-12: 40 / stage-13: 40 / stage-14: 30</td>
+      <td>22</td>
+      <td>543</td>
+      <td>stage-2: 30 / stage-4: 40 / stage-5: 30 / stage-6: 10 / stage-7: 40 / stage-10: 10 / stage-12: 40 / stage-13: 40 / stage-14: 30 / stage-16: 18 / stage-18: 30 / stage-19: 25 / stage-21: 20 / gc: 180</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Politt, Nils</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37937,7 +37937,7 @@ hide:
       <td>Tour de France</td>
       <td>Poppel, Danny van</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>17</td>
       <td>6</td>
       <td>stage-8: 6</td>
     </tr>
@@ -37945,15 +37945,15 @@ hide:
       <td>Tour de France</td>
       <td>Powless, Neilson</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>0</td>
-      <td></td>
+      <td>22</td>
+      <td>1</td>
+      <td>stage-21: 1</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Reinders, Elmar</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37961,7 +37961,7 @@ hide:
       <td>Tour de France</td>
       <td>Renard, Alexis</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>6</td>
       <td>stage-9: 6</td>
     </tr>
@@ -37969,7 +37969,7 @@ hide:
       <td>Tour de France</td>
       <td>Rex, Laurenz</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37977,7 +37977,7 @@ hide:
       <td>Tour de France</td>
       <td>Rickaert, Jonas</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -37985,31 +37985,31 @@ hide:
       <td>Tour de France</td>
       <td>Rodriguez, Carlos</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>10</td>
-      <td>stage-7: 1 / stage-13: 3 / stage-14: 6</td>
+      <td>18</td>
+      <td>11</td>
+      <td>stage-7: 1 / stage-13: 3 / stage-14: 6 / stage-16: 1</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Rodríguez, Cristian</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>8</td>
-      <td>stage-12: 8</td>
+      <td>22</td>
+      <td>20</td>
+      <td>stage-12: 8 / gc: 12</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Roglič, Primož</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>51</td>
-      <td>stage-5: 4 / stage-12: 10 / stage-13: 25 / stage-14: 12</td>
+      <td>22</td>
+      <td>135</td>
+      <td>stage-5: 4 / stage-12: 10 / stage-13: 25 / stage-14: 12 / stage-16: 10 / stage-18: 14 / gc: 60</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Romeo, Iván</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>16</td>
       <td>stage-5: 14 / stage-15: 2</td>
     </tr>
@@ -38017,23 +38017,23 @@ hide:
       <td>Tour de France</td>
       <td>Rubio, Einer</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>7</td>
-      <td>stage-12: 6 / stage-14: 1</td>
+      <td>22</td>
+      <td>25</td>
+      <td>stage-12: 6 / stage-14: 1 / stage-18: 18</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Russo, Clément</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>16</td>
-      <td>stage-1: 16</td>
+      <td>22</td>
+      <td>26</td>
+      <td>stage-1: 16 / stage-17: 10</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Rutsch, Jonas</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38041,7 +38041,7 @@ hide:
       <td>Tour de France</td>
       <td>Schachmann, Maximilian</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38049,7 +38049,7 @@ hide:
       <td>Tour de France</td>
       <td>Schmid, Mauro</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>30</td>
       <td>stage-11: 30</td>
     </tr>
@@ -38057,7 +38057,7 @@ hide:
       <td>Tour de France</td>
       <td>Scotson, Callum</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38065,7 +38065,7 @@ hide:
       <td>Tour de France</td>
       <td>Sepúlveda, Eduardo</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38073,7 +38073,7 @@ hide:
       <td>Tour de France</td>
       <td>Simmons, Quinn</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>40</td>
       <td>stage-6: 30 / stage-11: 10</td>
     </tr>
@@ -38081,7 +38081,7 @@ hide:
       <td>Tour de France</td>
       <td>Sintmaartensdijk, Roel van</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38089,7 +38089,7 @@ hide:
       <td>Tour de France</td>
       <td>Sivakov, Pavel</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38105,7 +38105,7 @@ hide:
       <td>Tour de France</td>
       <td>Skujins, Toms</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38113,7 +38113,7 @@ hide:
       <td>Tour de France</td>
       <td>Soler, Marc</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38121,7 +38121,7 @@ hide:
       <td>Tour de France</td>
       <td>Stannard, Robert</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38129,39 +38129,39 @@ hide:
       <td>Tour de France</td>
       <td>Stewart, Jake</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>2</td>
-      <td>stage-3: 2</td>
+      <td>22</td>
+      <td>18</td>
+      <td>stage-3: 2 / stage-20: 16</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Storer, Michael</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>43</td>
-      <td>stage-6: 25 / stage-10: 18</td>
+      <td>22</td>
+      <td>44</td>
+      <td>stage-6: 25 / stage-10: 18 / stage-18: 1</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Stuyven, Jasper</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>14</td>
-      <td>stage-15: 14</td>
+      <td>22</td>
+      <td>22</td>
+      <td>stage-15: 14 / stage-17: 8</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Sweeny, Harry</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>3</td>
-      <td>stage-1: 2 / stage-13: 1</td>
+      <td>22</td>
+      <td>11</td>
+      <td>stage-1: 2 / stage-13: 1 / stage-20: 8</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Swift, Connor</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38169,7 +38169,7 @@ hide:
       <td>Tour de France</td>
       <td>Tejada, Harold</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>24</td>
       <td>stage-6: 14 / stage-14: 4 / stage-15: 6</td>
     </tr>
@@ -38177,23 +38177,23 @@ hide:
       <td>Tour de France</td>
       <td>Teunissen, Mike</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>6</td>
-      <td>stage-1: 6</td>
+      <td>22</td>
+      <td>19</td>
+      <td>stage-1: 6 / stage-17: 1 / stage-20: 2 / stage-21: 10</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Teuns, Dylan</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>0</td>
-      <td></td>
+      <td>22</td>
+      <td>8</td>
+      <td>stage-21: 8</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Theuns, Edward</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38201,7 +38201,7 @@ hide:
       <td>Tour de France</td>
       <td>Thomas, Benjamin</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38209,7 +38209,7 @@ hide:
       <td>Tour de France</td>
       <td>Thomas, Geraint</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38217,7 +38217,7 @@ hide:
       <td>Tour de France</td>
       <td>Touzé, Damien</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>1</td>
       <td>stage-3: 1</td>
     </tr>
@@ -38225,15 +38225,15 @@ hide:
       <td>Tour de France</td>
       <td>Trentin, Matteo</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>18</td>
-      <td>stage-1: 18</td>
+      <td>22</td>
+      <td>40</td>
+      <td>stage-1: 18 / stage-20: 6 / stage-21: 16</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Tronchon, Bastien</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>6</td>
       <td>stage-3: 4 / stage-8: 2</td>
     </tr>
@@ -38241,7 +38241,7 @@ hide:
       <td>Tour de France</td>
       <td>Turgis, Anthony</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>22</td>
       <td>stage-1: 20 / stage-9: 2</td>
     </tr>
@@ -38249,7 +38249,7 @@ hide:
       <td>Tour de France</td>
       <td>Valgren, Michael</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>10</td>
       <td>stage-15: 10</td>
     </tr>
@@ -38257,23 +38257,23 @@ hide:
       <td>Tour de France</td>
       <td>Vauquelin, Kévin</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>84</td>
-      <td>stage-2: 12 / stage-4: 8 / stage-5: 18 / stage-6: 2 / stage-7: 14 / stage-12: 16 / stage-13: 6 / stage-14: 8</td>
+      <td>22</td>
+      <td>170</td>
+      <td>stage-2: 12 / stage-4: 8 / stage-5: 18 / stage-6: 2 / stage-7: 14 / stage-12: 16 / stage-13: 6 / stage-14: 8 / stage-18: 4 / stage-21: 12 / gc: 70</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Velasco, Simone</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>11</td>
-      <td>stage-2: 10 / stage-11: 1</td>
+      <td>22</td>
+      <td>31</td>
+      <td>stage-2: 10 / stage-11: 1 / stage-20: 20</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Venturini, Clément</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38281,7 +38281,7 @@ hide:
       <td>Tour de France</td>
       <td>Vercher, Mattéo</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38289,7 +38289,7 @@ hide:
       <td>Tour de France</td>
       <td>Vermeersch, Gianni</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38297,7 +38297,7 @@ hide:
       <td>Tour de France</td>
       <td>Verstrynge, Emiel</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38305,15 +38305,15 @@ hide:
       <td>Tour de France</td>
       <td>Vingegaard, Jonas</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>184</td>
-      <td>stage-2: 25 / stage-4: 25 / stage-5: 3 / stage-6: 8 / stage-7: 30 / stage-10: 8 / stage-12: 30 / stage-13: 30 / stage-14: 25</td>
+      <td>22</td>
+      <td>405</td>
+      <td>stage-2: 25 / stage-4: 25 / stage-5: 3 / stage-6: 8 / stage-7: 30 / stage-10: 8 / stage-12: 30 / stage-13: 30 / stage-14: 25 / stage-16: 16 / stage-18: 25 / stage-19: 30 / gc: 150</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Vlasov, Aleksandr</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>16</td>
       <td>stage-15: 16</td>
     </tr>
@@ -38321,7 +38321,7 @@ hide:
       <td>Tour de France</td>
       <td>Watson, Sam</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>9</td>
       <td>stage-1: 8 / stage-8: 1</td>
     </tr>
@@ -38329,23 +38329,23 @@ hide:
       <td>Tour de France</td>
       <td>Wellens, Tim</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>40</td>
-      <td>stage-15: 40</td>
+      <td>22</td>
+      <td>52</td>
+      <td>stage-15: 40 / stage-20: 12</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Wilder, Ilan Van</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>0</td>
-      <td></td>
+      <td>22</td>
+      <td>20</td>
+      <td>stage-16: 20</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Woods, Michael</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -38353,7 +38353,7 @@ hide:
       <td>Tour de France</td>
       <td>Wright, Fred</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
+      <td>22</td>
       <td>14</td>
       <td>stage-11: 14</td>
     </tr>
@@ -38369,17 +38369,17 @@ hide:
       <td>Tour de France</td>
       <td>Yates, Adam</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>14</td>
-      <td>stage-13: 12 / stage-14: 2</td>
+      <td>22</td>
+      <td>30</td>
+      <td>stage-13: 12 / stage-14: 2 / stage-18: 12 / gc: 4</td>
     </tr>
     <tr>
       <td>Tour de France</td>
       <td>Yates, Simon</td>
       <td>Tour Cat. 1</td>
-      <td>15</td>
-      <td>58</td>
-      <td>stage-6: 18 / stage-10: 40</td>
+      <td>22</td>
+      <td>91</td>
+      <td>stage-6: 18 / stage-10: 40 / stage-19: 8 / gc: 25</td>
     </tr>
     <tr>
       <td>Tour de France</td>

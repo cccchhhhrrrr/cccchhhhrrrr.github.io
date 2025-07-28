@@ -108,7 +108,7 @@
       <td>Skjelmose Mattias</td>
       <td>De Lie Arnaud</td>
       <td>Skjelmose Mattias</td>
-      <td class = "startlist">Rodríguez Carlos</td>
+      <td>Rodríguez Carlos</td>
     </tr>
     <tr>
       <th>5</th>
@@ -119,7 +119,7 @@
       <td>Milan Jonathan</td>
       <td class = "startlist">Almeida João</td>
       <td class = "startlist">Pidcock Thomas</td>
-      <td class = "startlist">Rodríguez Carlos</td>
+      <td>Rodríguez Carlos</td>
       <td>Lipowitz Florian</td>
       <td class = "startlist">Van Eetvelt Lennert</td>
       <td>Kooij Olav</td>
@@ -141,7 +141,7 @@
     <tr>
       <th>7</th>
       <td>8</td>
-      <td>Gall Felix</td>
+      <td class = "startlist">Gall Felix</td>
       <td>Onley Oscar</td>
       <td class = "startlist">Landa Mikel</td>
       <td class = "startlist">Landa Mikel</td>
@@ -178,7 +178,7 @@
       <td>Girmay Biniam</td>
       <td class = "startlist">Gee Derek</td>
       <td>Nys Thibau</td>
-      <td>Gall Felix</td>
+      <td class = "startlist">Gall Felix</td>
     </tr>
     <tr>
       <th>10</th>
@@ -203,7 +203,7 @@
       <td class = "startlist">Poole Max</td>
       <td>Magnier Paul</td>
       <td>Grégoire Romain</td>
-      <td>Gall Felix</td>
+      <td class = "startlist">Gall Felix</td>
       <td class = "startlist">Geoghegan Hart Tao</td>
       <td>Magnier Paul</td>
       <td>Martinez Lenny</td>
