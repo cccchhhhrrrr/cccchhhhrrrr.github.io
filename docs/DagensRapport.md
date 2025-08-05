@@ -4,6 +4,48 @@ hide:
   - toc
 ---
 
+## 2025-08-04
+### Hovedspillet
+Kooij, Olav **25** (Kenk, Matti, Tommy, Visti)  
+Magnier, Paul **20** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)  
+Vermeersch, Florian **6** (Kenk, Visti)  
+Kanter, Max **4** (Hustlersen)  
+Pedersen, Rasmus Søjberg **3** (Jarma)  
+Mihkels, Madis **1** (Hustlersen, Matti, Visti)  
+
+### Cheapo
+Plowright, Jensen **16** (Knak)  
+Pedersen, Rasmus Søjberg **3** (Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)  
+
+
+
+
+
+## 2025-08-02
+### Hovedspillet
+Christen, Jan **100** (Kenk)  
+Gils, Maxim Van **85** (Kenk, Matti)  
+Powless, Neilson **50** (Jappo)  
+Plapp, Luke **40** (Chrelle, Hustlersen)  
+Uijtdebroeks, Cian **30** (Hustlersen)  
+Schmid, Mauro **20** (Jarma, Visti)  
+Kron, Andreas **18** (Kenk)  
+Onley, Oscar **16** (Hustlersen, Okholm)  
+Grégoire, Romain **12** (Chrelle, Jarma, Knak)  
+Nerurkar, Lukas **9** (Hustlersen, Jarma)  
+Roglič, Primož **4** (Hustlersen, Knak)  
+Aleotti, Giovanni **2** (Okholm)  
+Hirschi, Marc **1** (Hustlersen, Jappo, Knak)  
+
+### Cheapo
+Bisiaux, Léo **14** (Hustlersen, Jappo, Kenk)  
+Charmig, Anthon **8** (Hustlersen)  
+Carr, Simon **5** (Jappo, Knak)  
+
+
+
+
+
 ## 2025-07-27
 ### Hovedspillet
 Pogačar, Tadej **200** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)  

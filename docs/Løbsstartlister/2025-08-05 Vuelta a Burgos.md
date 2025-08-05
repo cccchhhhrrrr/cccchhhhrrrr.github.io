@@ -215,7 +215,7 @@
       <td>Welsford Sam</td>
       <td>Nys Thibau</td>
       <td>Magnier Paul</td>
-      <td>Kron Andreas</td>
+      <td class = "startlist">Kron Andreas</td>
       <td>Martinez Lenny</td>
       <td>Castrillo Pablo</td>
       <td>Vacek Mathias</td>
@@ -240,7 +240,7 @@
       <th>14</th>
       <td>15</td>
       <td>Magnier Paul</td>
-      <td>Nerurkar Lukas</td>
+      <td class = "startlist">Nerurkar Lukas</td>
       <td>Martinez Lenny</td>
       <td>Schmid Mauro</td>
       <td>Bagioli Andrea</td>
@@ -270,7 +270,7 @@
       <td>Fisher-Black Finn</td>
       <td>Kanter Max</td>
       <td>Fisher-Black Finn</td>
-      <td>Nerurkar Lukas</td>
+      <td class = "startlist">Nerurkar Lukas</td>
       <td>Andresen Tobias Lund</td>
       <td>Trentin Matteo</td>
       <td>Mihkels Madis</td>

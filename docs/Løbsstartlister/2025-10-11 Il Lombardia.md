@@ -100,10 +100,10 @@
       <th>4</th>
       <td>5</td>
       <td>Almeida João</td>
-      <td>Ayuso Juan</td>
+      <td class = "startlist">Ayuso Juan</td>
       <td>Merlier Tim</td>
       <td>Philipsen Jasper</td>
-      <td>Ayuso Juan</td>
+      <td class = "startlist">Ayuso Juan</td>
       <td>Merlier Tim</td>
       <td>Skjelmose Mattias</td>
       <td>De Lie Arnaud</td>
@@ -120,7 +120,7 @@
       <td>Almeida João</td>
       <td>Pidcock Thomas</td>
       <td>Rodríguez Carlos</td>
-      <td>Lipowitz Florian</td>
+      <td class = "startlist">Lipowitz Florian</td>
       <td>Van Eetvelt Lennert</td>
       <td>Kooij Olav</td>
     </tr>

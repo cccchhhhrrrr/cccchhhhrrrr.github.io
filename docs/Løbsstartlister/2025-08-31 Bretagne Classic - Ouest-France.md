@@ -201,11 +201,11 @@
       <td>Plapp Luke</td>
       <td>Powless Neilson</td>
       <td>Poole Max</td>
-      <td>Magnier Paul</td>
+      <td class = "startlist">Magnier Paul</td>
       <td>Grégoire Romain</td>
       <td>Gall Felix</td>
       <td>Geoghegan Hart Tao</td>
-      <td>Magnier Paul</td>
+      <td class = "startlist">Magnier Paul</td>
       <td>Martinez Lenny</td>
     </tr>
     <tr>
@@ -214,7 +214,7 @@
       <td>Plapp Luke</td>
       <td>Welsford Sam</td>
       <td>Nys Thibau</td>
-      <td>Magnier Paul</td>
+      <td class = "startlist">Magnier Paul</td>
       <td>Kron Andreas</td>
       <td>Martinez Lenny</td>
       <td>Castrillo Pablo</td>
@@ -234,12 +234,12 @@
       <td>Nys Thibau</td>
       <td>Martinez Lenny</td>
       <td>Welsford Sam</td>
-      <td>Magnier Paul</td>
+      <td class = "startlist">Magnier Paul</td>
     </tr>
     <tr>
       <th>14</th>
       <td>15</td>
-      <td>Magnier Paul</td>
+      <td class = "startlist">Magnier Paul</td>
       <td>Nerurkar Lukas</td>
       <td>Martinez Lenny</td>
       <td>Schmid Mauro</td>
@@ -255,7 +255,7 @@
       <td>16</td>
       <td>Tarling Joshua</td>
       <td>Steinhauser Georg</td>
-      <td>Magnier Paul</td>
+      <td class = "startlist">Magnier Paul</td>
       <td>Schachmann Maximilian</td>
       <td>Van Dijke Tim</td>
       <td>Schachmann Maximilian</td>
@@ -271,7 +271,7 @@
       <td>Kanter Max</td>
       <td>Fisher-Black Finn</td>
       <td>Nerurkar Lukas</td>
-      <td>Andresen Tobias Lund</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
       <td>Trentin Matteo</td>
       <td>Mihkels Madis</td>
       <td>Adrià Roger</td>
@@ -287,7 +287,7 @@
       <td>Lafay Victor</td>
       <td>Vermeersch Florian</td>
       <td>Segaert Alec</td>
-      <td>Laurance Axel</td>
+      <td class = "startlist">Laurance Axel</td>
       <td>De Plus Laurens</td>
       <td>Segaert Alec</td>
       <td>Segaert Alec</td>
@@ -297,11 +297,11 @@
       <td>19</td>
       <td>Welsford Sam</td>
       <td>Brennan Matthew</td>
-      <td>Laurance Axel</td>
+      <td class = "startlist">Laurance Axel</td>
       <td>Penhoët Paul</td>
       <td>Van Baarle Dylan</td>
       <td>Teuns Dylan</td>
-      <td>Andresen Tobias Lund</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
       <td>Sheehan Riley</td>
       <td>Campenaerts Victor</td>
       <td>Van Dijke Tim</td>
@@ -309,16 +309,16 @@
     <tr>
       <th>19</th>
       <td>20</td>
-      <td>Andresen Tobias Lund</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
       <td>Uhlig Henri</td>
-      <td>Andresen Tobias Lund</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
       <td>Rex Laurenz</td>
       <td>Brennan Matthew</td>
       <td>Mollema Bauke</td>
       <td>Morgado António</td>
-      <td>Laurance Axel</td>
-      <td>Andresen Tobias Lund</td>
-      <td>Andresen Tobias Lund</td>
+      <td class = "startlist">Laurance Axel</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
     </tr>
     <tr>
       <th>20</th>
@@ -330,7 +330,7 @@
       <td>Rex Laurenz</td>
       <td>Ulissi Diego</td>
       <td>Fretin Milan</td>
-      <td>Andresen Tobias Lund</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
       <td>Teutenberg Tim Torn</td>
       <td>Morgado António</td>
     </tr>
@@ -342,7 +342,7 @@
       <td>Rex Laurenz</td>
       <td>Pedersen Rasmus Søjberg</td>
       <td>Teutenberg Tim Torn</td>
-      <td>Andresen Tobias Lund</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
       <td>Romeo Iván</td>
       <td>Van Den Broek Frank</td>
       <td>Rafferty Darren</td>

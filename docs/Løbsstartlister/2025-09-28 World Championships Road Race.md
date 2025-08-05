@@ -100,10 +100,10 @@
       <th>4</th>
       <td>5</td>
       <td>Almeida João</td>
-      <td>Ayuso Juan</td>
+      <td class = "startlist">Ayuso Juan</td>
       <td>Merlier Tim</td>
       <td>Philipsen Jasper</td>
-      <td>Ayuso Juan</td>
+      <td class = "startlist">Ayuso Juan</td>
       <td>Merlier Tim</td>
       <td>Skjelmose Mattias</td>
       <td>De Lie Arnaud</td>
@@ -128,7 +128,7 @@
       <th>6</th>
       <td>7</td>
       <td>De Lie Arnaud</td>
-      <td>Hirschi Marc</td>
+      <td class = "startlist">Hirschi Marc</td>
       <td>De Lie Arnaud</td>
       <td>De Lie Arnaud</td>
       <td>Van Eetvelt Lennert</td>
@@ -155,12 +155,12 @@
     <tr>
       <th>8</th>
       <td>9</td>
-      <td>Van Wilder Ilan</td>
+      <td class = "startlist">Van Wilder Ilan</td>
       <td>Narváez Jhonatan</td>
       <td>Girmay Biniam</td>
       <td>Geoghegan Hart Tao</td>
       <td>Van Gils Maxim</td>
-      <td>Hirschi Marc</td>
+      <td class = "startlist">Hirschi Marc</td>
       <td>Merlier Tim</td>
       <td>Onley Oscar</td>
       <td>Pithie Laurence</td>
@@ -171,10 +171,10 @@
       <td>10</td>
       <td>Nys Thibau</td>
       <td>Uijtdebroeks Cian</td>
-      <td>Hirschi Marc</td>
+      <td class = "startlist">Hirschi Marc</td>
       <td>Grégoire Romain</td>
       <td>Narváez Jhonatan</td>
-      <td>Healy Ben</td>
+      <td class = "startlist">Healy Ben</td>
       <td>Girmay Biniam</td>
       <td>Gee Derek</td>
       <td>Nys Thibau</td>
@@ -303,7 +303,7 @@
       <td>Teuns Dylan</td>
       <td>Andresen Tobias Lund</td>
       <td>Sheehan Riley</td>
-      <td>Campenaerts Victor</td>
+      <td class = "startlist">Campenaerts Victor</td>
       <td>Van Dijke Tim</td>
     </tr>
     <tr>
@@ -345,7 +345,7 @@
       <td>Andresen Tobias Lund</td>
       <td>Romeo Iván</td>
       <td>Van Den Broek Frank</td>
-      <td>Rafferty Darren</td>
+      <td class = "startlist">Rafferty Darren</td>
       <td>Aular Orluis</td>
     </tr>
     <tr>
@@ -372,7 +372,7 @@
       <td>Withen Philipsen Albert</td>
       <td>Jeannière Emilien</td>
       <td>Seixas Paul</td>
-      <td>Rafferty Darren</td>
+      <td class = "startlist">Rafferty Darren</td>
       <td>Wandahl Frederik</td>
       <td>Van Baarle Dylan</td>
     </tr>

@@ -122,7 +122,7 @@
       <td>Rodríguez Carlos</td>
       <td>Lipowitz Florian</td>
       <td>Van Eetvelt Lennert</td>
-      <td>Kooij Olav</td>
+      <td class = "startlist">Kooij Olav</td>
     </tr>
     <tr>
       <th>6</th>
@@ -133,9 +133,9 @@
       <td>De Lie Arnaud</td>
       <td>Van Eetvelt Lennert</td>
       <td>Carapaz Richard</td>
-      <td>Kooij Olav</td>
+      <td class = "startlist">Kooij Olav</td>
       <td>Girmay Biniam</td>
-      <td>Kooij Olav</td>
+      <td class = "startlist">Kooij Olav</td>
       <td>De Lie Arnaud</td>
     </tr>
     <tr>
@@ -145,7 +145,7 @@
       <td>Onley Oscar</td>
       <td>Landa Mikel</td>
       <td>Landa Mikel</td>
-      <td>Kooij Olav</td>
+      <td class = "startlist">Kooij Olav</td>
       <td>Girmay Biniam</td>
       <td>Van Gils Maxim</td>
       <td>Yates Simon</td>
@@ -356,7 +356,7 @@
       <td>Jeannière Emilien</td>
       <td>Frigo Marco</td>
       <td>Wandahl Frederik</td>
-      <td>Naesen Oliver</td>
+      <td class = "startlist">Naesen Oliver</td>
       <td>Staune-Mittet Johannes</td>
       <td>Aleotti Giovanni</td>
       <td>Watson Samuel</td>

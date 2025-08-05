@@ -100,10 +100,10 @@
       <th>4</th>
       <td>5</td>
       <td>Almeida João</td>
-      <td>Ayuso Juan</td>
+      <td class = "startlist">Ayuso Juan</td>
       <td>Merlier Tim</td>
       <td>Philipsen Jasper</td>
-      <td>Ayuso Juan</td>
+      <td class = "startlist">Ayuso Juan</td>
       <td>Merlier Tim</td>
       <td>Skjelmose Mattias</td>
       <td>De Lie Arnaud</td>
@@ -128,7 +128,7 @@
       <th>6</th>
       <td>7</td>
       <td>De Lie Arnaud</td>
-      <td>Hirschi Marc</td>
+      <td class = "startlist">Hirschi Marc</td>
       <td>De Lie Arnaud</td>
       <td>De Lie Arnaud</td>
       <td>Van Eetvelt Lennert</td>
@@ -160,7 +160,7 @@
       <td>Girmay Biniam</td>
       <td>Geoghegan Hart Tao</td>
       <td>Van Gils Maxim</td>
-      <td>Hirschi Marc</td>
+      <td class = "startlist">Hirschi Marc</td>
       <td>Merlier Tim</td>
       <td>Onley Oscar</td>
       <td>Pithie Laurence</td>
@@ -171,7 +171,7 @@
       <td>10</td>
       <td>Nys Thibau</td>
       <td>Uijtdebroeks Cian</td>
-      <td>Hirschi Marc</td>
+      <td class = "startlist">Hirschi Marc</td>
       <td>Grégoire Romain</td>
       <td>Narváez Jhonatan</td>
       <td>Healy Ben</td>
@@ -218,7 +218,7 @@
       <td>Kron Andreas</td>
       <td>Martinez Lenny</td>
       <td>Castrillo Pablo</td>
-      <td>Vacek Mathias</td>
+      <td class = "startlist">Vacek Mathias</td>
       <td>Pellizzari Giulio</td>
       <td>Strong Corbin</td>
     </tr>

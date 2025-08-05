@@ -43,16 +43,16 @@
     <tr>
       <th>0</th>
       <td>1</td>
-      <td class = "startlist">Pogačar Tadej</td>
-      <td class = "startlist">Pogačar Tadej</td>
-      <td class = "startlist">Pogačar Tadej</td>
-      <td class = "startlist">Pogačar Tadej</td>
-      <td class = "startlist">Pogačar Tadej</td>
-      <td class = "startlist">Pogačar Tadej</td>
+      <td>Pogačar Tadej</td>
+      <td>Pogačar Tadej</td>
+      <td>Pogačar Tadej</td>
+      <td>Pogačar Tadej</td>
+      <td>Pogačar Tadej</td>
+      <td>Pogačar Tadej</td>
       <td class = "startlist">Vingegaard Jonas</td>
-      <td class = "startlist">Pogačar Tadej</td>
-      <td class = "startlist">Pogačar Tadej</td>
-      <td class = "startlist">Pogačar Tadej</td>
+      <td>Pogačar Tadej</td>
+      <td>Pogačar Tadej</td>
+      <td>Pogačar Tadej</td>
     </tr>
     <tr>
       <th>1</th>
@@ -87,7 +87,7 @@
       <td>4</td>
       <td class = "startlist">Pedersen Mads</td>
       <td class = "startlist">Pedersen Mads</td>
-      <td class = "startlist">Van Eetvelt Lennert</td>
+      <td>Van Eetvelt Lennert</td>
       <td>Van Der Poel Mathieu</td>
       <td>Milan Jonathan</td>
       <td>Philipsen Jasper</td>
@@ -100,10 +100,10 @@
       <th>4</th>
       <td>5</td>
       <td class = "startlist">Almeida João</td>
-      <td>Ayuso Juan</td>
+      <td class = "startlist">Ayuso Juan</td>
       <td>Merlier Tim</td>
       <td>Philipsen Jasper</td>
-      <td>Ayuso Juan</td>
+      <td class = "startlist">Ayuso Juan</td>
       <td>Merlier Tim</td>
       <td>Skjelmose Mattias</td>
       <td>De Lie Arnaud</td>
@@ -121,7 +121,7 @@
       <td class = "startlist">Pidcock Thomas</td>
       <td>Rodríguez Carlos</td>
       <td>Lipowitz Florian</td>
-      <td class = "startlist">Van Eetvelt Lennert</td>
+      <td>Van Eetvelt Lennert</td>
       <td>Kooij Olav</td>
     </tr>
     <tr>
@@ -131,7 +131,7 @@
       <td>Hirschi Marc</td>
       <td>De Lie Arnaud</td>
       <td>De Lie Arnaud</td>
-      <td class = "startlist">Van Eetvelt Lennert</td>
+      <td>Van Eetvelt Lennert</td>
       <td class = "startlist">Carapaz Richard</td>
       <td>Kooij Olav</td>
       <td>Girmay Biniam</td>
@@ -229,7 +229,7 @@
       <td>Mihkels Madis</td>
       <td>Hayter Ethan</td>
       <td>Bagioli Andrea</td>
-      <td class = "startlist">Christen Jan</td>
+      <td>Christen Jan</td>
       <td>Strong Corbin</td>
       <td>Nys Thibau</td>
       <td>Martinez Lenny</td>

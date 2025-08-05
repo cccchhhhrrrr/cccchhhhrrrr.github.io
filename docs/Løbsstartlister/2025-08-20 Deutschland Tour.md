@@ -63,7 +63,7 @@
       <td>Vingegaard Jonas</td>
       <td>Vingegaard Jonas</td>
       <td>Vingegaard Jonas</td>
-      <td>Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
       <td>Vingegaard Jonas</td>
       <td>Vingegaard Jonas</td>
       <td>Vingegaard Jonas</td>
@@ -71,15 +71,15 @@
     <tr>
       <th>2</th>
       <td>3</td>
-      <td>Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
       <td>Roglič Primož</td>
       <td>Pedersen Mads</td>
-      <td>Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
       <td>Pedersen Mads</td>
       <td>Roglič Primož</td>
       <td>Pedersen Mads</td>
-      <td>Van Aert Wout</td>
-      <td>Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
       <td>Pedersen Mads</td>
     </tr>
     <tr>
@@ -287,7 +287,7 @@
       <td>Lafay Victor</td>
       <td>Vermeersch Florian</td>
       <td>Segaert Alec</td>
-      <td>Laurance Axel</td>
+      <td class = "startlist">Laurance Axel</td>
       <td>De Plus Laurens</td>
       <td>Segaert Alec</td>
       <td>Segaert Alec</td>
@@ -297,7 +297,7 @@
       <td>19</td>
       <td>Welsford Sam</td>
       <td>Brennan Matthew</td>
-      <td>Laurance Axel</td>
+      <td class = "startlist">Laurance Axel</td>
       <td>Penhoët Paul</td>
       <td>Van Baarle Dylan</td>
       <td>Teuns Dylan</td>
@@ -316,7 +316,7 @@
       <td>Brennan Matthew</td>
       <td>Mollema Bauke</td>
       <td>Morgado António</td>
-      <td>Laurance Axel</td>
+      <td class = "startlist">Laurance Axel</td>
       <td>Andresen Tobias Lund</td>
       <td>Andresen Tobias Lund</td>
     </tr>
