@@ -89,12 +89,12 @@
       <td>Pedersen Mads</td>
       <td>Van Eetvelt Lennert</td>
       <td>Van Der Poel Mathieu</td>
-      <td>Milan Jonathan</td>
+      <td class = "startlist">Milan Jonathan</td>
       <td>Philipsen Jasper</td>
-      <td>Milan Jonathan</td>
-      <td>Milan Jonathan</td>
+      <td class = "startlist">Milan Jonathan</td>
+      <td class = "startlist">Milan Jonathan</td>
       <td>Pedersen Mads</td>
-      <td>Milan Jonathan</td>
+      <td class = "startlist">Milan Jonathan</td>
     </tr>
     <tr>
       <th>4</th>
@@ -116,7 +116,7 @@
       <td>Pidcock Thomas</td>
       <td>De Lie Arnaud</td>
       <td>Pidcock Thomas</td>
-      <td>Milan Jonathan</td>
+      <td class = "startlist">Milan Jonathan</td>
       <td>Almeida João</td>
       <td>Pidcock Thomas</td>
       <td>Rodríguez Carlos</td>
@@ -296,7 +296,7 @@
       <th>18</th>
       <td>19</td>
       <td>Welsford Sam</td>
-      <td>Brennan Matthew</td>
+      <td class = "startlist">Brennan Matthew</td>
       <td class = "startlist">Laurance Axel</td>
       <td>Penhoët Paul</td>
       <td>Van Baarle Dylan</td>
@@ -313,7 +313,7 @@
       <td>Uhlig Henri</td>
       <td>Andresen Tobias Lund</td>
       <td>Rex Laurenz</td>
-      <td>Brennan Matthew</td>
+      <td class = "startlist">Brennan Matthew</td>
       <td>Mollema Bauke</td>
       <td>Morgado António</td>
       <td class = "startlist">Laurance Axel</td>
@@ -323,7 +323,7 @@
     <tr>
       <th>20</th>
       <td>21</td>
-      <td>Brennan Matthew</td>
+      <td class = "startlist">Brennan Matthew</td>
       <td>Teutenberg Tim Torn</td>
       <td>Morgado António</td>
       <td>Louvel Matis</td>

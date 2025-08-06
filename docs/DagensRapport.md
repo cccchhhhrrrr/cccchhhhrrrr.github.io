@@ -4,6 +4,36 @@ hide:
   - toc
 ---
 
+## 2025-08-06
+### Hovedspillet
+Bagioli, Andrea **16** (Jarma, Kenk)  
+Christen, Jan **14** (Kenk)  
+
+### Cheapo
+Blikra, Erlend **8** (Hustlersen)  
+Gautherat, Pierre **6** (Jappo, Kenk, Knak, Visti)  
+
+
+
+
+
+## 2025-08-05
+### Hovedspillet
+Lapeira, Paul **25** (Knak, Tommy)  
+Vacek, Mathias **20** (Okholm)  
+Adrià, Roger **15** (Okholm)  
+Christen, Jan **12** (Kenk)  
+Fisher-Black, Finn **6** (Chrelle, Jappo)  
+
+### Cheapo
+Langellotti, Victor **16** (Hustlersen)  
+Eulálio, Afonso **10** (Visti)  
+Bisiaux, Léo **8** (Hustlersen, Jappo, Kenk)  
+
+
+
+
+
 ## 2025-08-04
 ### Hovedspillet
 Kooij, Olav **25** (Kenk, Matti, Tommy, Visti)  
