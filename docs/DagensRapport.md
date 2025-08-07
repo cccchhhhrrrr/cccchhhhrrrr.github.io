@@ -4,6 +4,27 @@ hide:
   - toc
 ---
 
+## 2025-08-07
+### Hovedspillet
+Magnier, Paul **25** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)  
+Teutenberg, Tim Torn **16** (Hustlersen, Kenk, Tommy)  
+Mihkels, Madis **12** (Hustlersen, Matti, Visti)  
+Pellizzari, Giulio **10** (Tommy)  
+Dijke, Tim van **8** (Kenk, Visti)  
+Aleotti, Giovanni **5** (Okholm)  
+Fisher-Black, Finn **4** (Chrelle, Jappo)  
+Christen, Jan **3** (Kenk)  
+August, AJ **2** (Hustlersen)  
+
+### Cheapo
+Bisiaux, Léo **15** (Hustlersen, Jappo, Kenk)  
+Plowright, Jensen **6** (Knak)  
+August, AJ **2** (Chrelle, Hustlersen)  
+
+
+
+
+
 ## 2025-08-06
 ### Hovedspillet
 Bagioli, Andrea **16** (Jarma, Kenk)  
