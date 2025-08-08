@@ -4,6 +4,19 @@ hide:
   - toc
 ---
 
+## 2025-08-08
+### Hovedspillet
+Brennan, Matthew **25** (Chrelle, Hustlersen, Kenk)  
+Bagioli, Andrea **16** (Jarma, Kenk)  
+Fisher-Black, Finn **8** (Chrelle, Jappo)  
+
+### Cheapo
+Langellotti, Victor **2** (Hustlersen)  
+
+
+
+
+
 ## 2025-08-07
 ### Hovedspillet
 Magnier, Paul **25** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)  

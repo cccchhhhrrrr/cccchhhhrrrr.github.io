@@ -40313,7 +40313,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Allegaert, Piet</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40321,7 +40321,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Aniołkowski, Stanisław</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>20</td>
       <td>stage-1: 10 / stage-4: 10</td>
     </tr>
@@ -40329,7 +40329,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Artz, Huub</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40337,9 +40337,9 @@ hide:
       <td>Tour de Pologne</td>
       <td>Bagioli, Andrea</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>16</td>
-      <td>stage-3: 16</td>
+      <td>5</td>
+      <td>32</td>
+      <td>stage-3: 16 / stage-5: 16</td>
     </tr>
     <tr>
       <td>Tour de Pologne</td>
@@ -40353,7 +40353,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Bastiaens, Ayco</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40361,7 +40361,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Behrens, Niklas</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40369,7 +40369,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Bennett, George</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40385,7 +40385,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Berg, Marijn van den</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>2</td>
       <td>stage-4: 2</td>
     </tr>
@@ -40393,15 +40393,15 @@ hide:
       <td>Tour de Pologne</td>
       <td>Bettiol, Alberto</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>2</td>
-      <td>stage-2: 1 / stage-4: 1</td>
+      <td>5</td>
+      <td>8</td>
+      <td>stage-2: 1 / stage-4: 1 / stage-5: 6</td>
     </tr>
     <tr>
       <td>Tour de Pologne</td>
       <td>Beullens, Cedric</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40409,7 +40409,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Bilbao, Pello</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>20</td>
       <td>stage-3: 20</td>
     </tr>
@@ -40425,7 +40425,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Bossche, Fabio Van den</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40433,7 +40433,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Bouwman, Koen</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40449,15 +40449,15 @@ hide:
       <td>Tour de Pologne</td>
       <td>Brennan, Matthew</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>5</td>
+      <td>25</td>
+      <td>stage-5: 25</td>
     </tr>
     <tr>
       <td>Tour de Pologne</td>
       <td>Busatto, Francesco</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>6</td>
       <td>stage-3: 6</td>
     </tr>
@@ -40465,7 +40465,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Buyst, Jasper De</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40473,7 +40473,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Cavagna, Rémi</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40481,7 +40481,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Chamberlain, Oscar</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40489,7 +40489,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Christen, Jan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>29</td>
       <td>stage-2: 12 / stage-3: 14 / stage-4: 3</td>
     </tr>
@@ -40497,7 +40497,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Cimolai, Davide</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40505,15 +40505,15 @@ hide:
       <td>Tour de Pologne</td>
       <td>Coté, Pier-André</td>
       <td>Tour Cat. 2</td>
+      <td>5</td>
       <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>stage-5: 4</td>
     </tr>
     <tr>
       <td>Tour de Pologne</td>
       <td>Craps, Lars</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40521,7 +40521,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Davy, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40529,7 +40529,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>De Marchi, Alessandro</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40537,7 +40537,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Dewulf, Stan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40545,7 +40545,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Dijke, Tim van</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>8</td>
       <td>stage-4: 8</td>
     </tr>
@@ -40561,7 +40561,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Eddy, Patrick</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40569,7 +40569,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Epis, Giosuè</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40577,7 +40577,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Ermakov, Roman</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40585,15 +40585,15 @@ hide:
       <td>Tour de Pologne</td>
       <td>Fisher-Black, Finn</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>10</td>
-      <td>stage-2: 6 / stage-4: 4</td>
+      <td>5</td>
+      <td>18</td>
+      <td>stage-2: 6 / stage-4: 4 / stage-5: 8</td>
     </tr>
     <tr>
       <td>Tour de Pologne</td>
       <td>Formolo, Davide</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40601,7 +40601,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Frigo, Marco</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40609,7 +40609,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Froome, Chris</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40617,7 +40617,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Gamper, Patrick</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40625,7 +40625,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Gaviria, Fernando</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40633,7 +40633,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Gaze, Samuel</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40641,7 +40641,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Gazzoli, Michele</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40649,7 +40649,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Gendt, Aimé De</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40665,7 +40665,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Godon, Dorian</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40681,15 +40681,15 @@ hide:
       <td>Tour de Pologne</td>
       <td>Gruel, Thibaud</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>14</td>
-      <td>stage-4: 14</td>
+      <td>5</td>
+      <td>26</td>
+      <td>stage-4: 14 / stage-5: 12</td>
     </tr>
     <tr>
       <td>Tour de Pologne</td>
       <td>Haig, Jack</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40697,7 +40697,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Hamilton, Chris</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>2</td>
       <td>stage-3: 2</td>
     </tr>
@@ -40705,7 +40705,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Hamilton, Lucas</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40713,7 +40713,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Hayter, Ethan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40721,7 +40721,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Hermans, Quinten</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>14</td>
       <td>stage-2: 4 / stage-3: 10</td>
     </tr>
@@ -40729,7 +40729,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Hoecke, Gijs Van</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40737,7 +40737,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Honoré, Mikkel</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>2</td>
       <td>stage-2: 2</td>
     </tr>
@@ -40745,7 +40745,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Huising, Menno</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40753,7 +40753,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Jacobs, Johan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40761,7 +40761,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Johansen, Julius</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40777,7 +40777,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Juul-Jensen, Chris</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40785,7 +40785,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Kamp, Alexander</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40793,7 +40793,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Kanter, Max</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>4</td>
       <td>stage-1: 4</td>
     </tr>
@@ -40801,7 +40801,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Kielich, Timo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40817,7 +40817,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Kleijn, Arvid de</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40825,7 +40825,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Kluckers, Arthur</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40833,7 +40833,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Koch, Jonas</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40841,7 +40841,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Kolze Changizi, Sebastian</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40849,7 +40849,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Kooij, Olav</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>25</td>
       <td>stage-1: 25</td>
     </tr>
@@ -40857,7 +40857,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Kruijswijk, Steven</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40865,7 +40865,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Kwiatkowski, Michal</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40873,7 +40873,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Küng, Stefan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40881,7 +40881,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Laengen, Vegard Stake</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40889,15 +40889,15 @@ hide:
       <td>Tour de Pologne</td>
       <td>Langellotti, Victor</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>16</td>
-      <td>stage-2: 16</td>
+      <td>5</td>
+      <td>18</td>
+      <td>stage-2: 16 / stage-5: 2</td>
     </tr>
     <tr>
       <td>Tour de Pologne</td>
       <td>Lapeira, Paul</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>25</td>
       <td>stage-2: 25</td>
     </tr>
@@ -40905,7 +40905,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Leemreize, Gijs</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40913,7 +40913,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Leonard, Michael</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40921,7 +40921,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Livyns, Arjen</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>12</td>
       <td>stage-3: 12</td>
     </tr>
@@ -40929,7 +40929,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Maas, Jan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40937,7 +40937,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Maciejuk, Filip</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40945,7 +40945,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Magnier, Paul</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>45</td>
       <td>stage-1: 20 / stage-4: 25</td>
     </tr>
@@ -40953,7 +40953,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Mahoudo, Nolann</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40961,7 +40961,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Majka, Rafał</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>3</td>
       <td>stage-2: 3</td>
     </tr>
@@ -40969,7 +40969,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Martínez, Daniel</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40977,7 +40977,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>McLay, Daniel</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -40985,7 +40985,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>McNulty, Brandon</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>8</td>
       <td>stage-2: 8</td>
     </tr>
@@ -40993,7 +40993,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Mechelen, Vlad Van</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41001,7 +41001,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Mihkels, Madis</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>13</td>
       <td>stage-1: 1 / stage-4: 12</td>
     </tr>
@@ -41009,7 +41009,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Miholjević, Fran</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41017,23 +41017,23 @@ hide:
       <td>Tour de Pologne</td>
       <td>Milesi, Lorenzo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>0</td>
-      <td></td>
+      <td>5</td>
+      <td>3</td>
+      <td>stage-5: 3</td>
     </tr>
     <tr>
       <td>Tour de Pologne</td>
       <td>Molard, Rudy</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>10</td>
-      <td>stage-2: 10</td>
+      <td>5</td>
+      <td>11</td>
+      <td>stage-2: 10 / stage-5: 1</td>
     </tr>
     <tr>
       <td>Tour de Pologne</td>
       <td>Mollema, Bauke</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41041,7 +41041,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Moro, Manlio</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41049,7 +41049,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Mosca, Jacopo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41057,7 +41057,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>O'Brien, Kelland</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41065,7 +41065,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Oomen, Sam</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41073,7 +41073,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Ourselin, Paul</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41081,7 +41081,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Paleni, Enzo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41089,7 +41089,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Paquot, Tom</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41097,7 +41097,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Pedersen, Casper</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41113,7 +41113,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Perez, Anthony</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41121,7 +41121,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Plowright, Jensen</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>22</td>
       <td>stage-1: 16 / stage-4: 6</td>
     </tr>
@@ -41129,7 +41129,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Poole, Max</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41137,15 +41137,15 @@ hide:
       <td>Tour de Pologne</td>
       <td>Raccagni, Andrea</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>1</td>
-      <td>stage-3: 1</td>
+      <td>5</td>
+      <td>15</td>
+      <td>stage-3: 1 / stage-5: 14</td>
     </tr>
     <tr>
       <td>Tour de Pologne</td>
       <td>Rafferty, Darren</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41153,7 +41153,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Raisberg, Nadav</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41161,7 +41161,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Reinderink, Pepijn</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>8</td>
       <td>stage-3: 8</td>
     </tr>
@@ -41169,7 +41169,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Riccitello, Matthew</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41177,7 +41177,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Romele, Alessandro</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41185,7 +41185,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Roosen, Timo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41193,7 +41193,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Schelling, Ide</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41201,7 +41201,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Scotson, Miles</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41209,7 +41209,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Serrano, Gonzalo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41217,7 +41217,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Sheffield, Magnus</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41225,7 +41225,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Sobrero, Matteo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41233,7 +41233,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Staune-Mittet, Johannes</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41241,7 +41241,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Svestad-Bårdseng, Embret</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41249,7 +41249,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Svrček, Martin</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41257,7 +41257,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Sénéchal, Florian</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41265,7 +41265,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Sütterlin, Jasha</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>4</td>
       <td>stage-3: 4</td>
     </tr>
@@ -41273,7 +41273,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Taminiaux, Lionel</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41281,7 +41281,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Tesfatsion, Natnael</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41289,7 +41289,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Teutenberg, Tim Torn</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>16</td>
       <td>stage-4: 16</td>
     </tr>
@@ -41305,7 +41305,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Thijssen, Gerben</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>2</td>
       <td>stage-1: 2</td>
     </tr>
@@ -41313,7 +41313,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Thompson, Reuben</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41321,15 +41321,15 @@ hide:
       <td>Tour de Pologne</td>
       <td>Tiberi, Antonio</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>14</td>
-      <td>stage-2: 14</td>
+      <td>5</td>
+      <td>24</td>
+      <td>stage-2: 14 / stage-5: 10</td>
     </tr>
     <tr>
       <td>Tour de Pologne</td>
       <td>Tricht, Stan Van</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41337,15 +41337,15 @@ hide:
       <td>Tour de Pologne</td>
       <td>Turner, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
-      <td>53</td>
-      <td>stage-1: 8 / stage-3: 25 / stage-4: 20</td>
+      <td>5</td>
+      <td>73</td>
+      <td>stage-1: 8 / stage-3: 25 / stage-4: 20 / stage-5: 20</td>
     </tr>
     <tr>
       <td>Tour de Pologne</td>
       <td>Uden, Casper van</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41353,7 +41353,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Ulissi, Diego</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41369,7 +41369,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Valter, Attila</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41377,7 +41377,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Vermeersch, Florian</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>6</td>
       <td>stage-1: 6</td>
     </tr>
@@ -41385,7 +41385,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Vernon, Ethan</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>12</td>
       <td>stage-1: 12</td>
     </tr>
@@ -41393,7 +41393,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Verre, Alessandro</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41401,7 +41401,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Vinokurov, Nicolas</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41409,7 +41409,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Voisard, Yannis</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41417,7 +41417,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Walker, Max</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41425,7 +41425,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Wilksch, Hannes</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41441,7 +41441,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Zambanini, Edoardo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41449,7 +41449,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Zana, Filippo</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -41457,7 +41457,7 @@ hide:
       <td>Tour de Pologne</td>
       <td>Zijlaard, Maikel</td>
       <td>Tour Cat. 2</td>
-      <td>4</td>
+      <td>5</td>
       <td>14</td>
       <td>stage-1: 14</td>
     </tr>
@@ -51161,7 +51161,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Adrià, Roger</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>15</td>
       <td>stage-1: 15</td>
     </tr>
@@ -51169,7 +51169,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Agirre, Jon</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51177,7 +51177,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Aleotti, Giovanni</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>5</td>
       <td>stage-3: 5</td>
     </tr>
@@ -51185,7 +51185,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Aparicio, Mario</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51193,7 +51193,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Arrieta, Igor</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51201,7 +51201,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>August, AJ</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>2</td>
       <td>stage-3: 2</td>
     </tr>
@@ -51209,7 +51209,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Aznar, Hugo</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51217,7 +51217,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Azparren, Xabier</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51225,7 +51225,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Babor, Daniel</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51233,7 +51233,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Barrenetxea, Jon</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51241,7 +51241,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Battistella, Samuele</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51249,7 +51249,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Bekkum, Darren van</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51257,7 +51257,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Bernal, Egan</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>3</td>
       <td>stage-1: 3</td>
     </tr>
@@ -51265,7 +51265,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Bernard, Julien</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51273,7 +51273,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Berrade, Urko</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>3</td>
       <td>stage-3: 3</td>
     </tr>
@@ -51281,7 +51281,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Berwick, Sebastian</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51289,7 +51289,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Bisiaux, Léo</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>23</td>
       <td>stage-1: 8 / stage-3: 15</td>
     </tr>
@@ -51297,7 +51297,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Bizkarra, Mikel</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51305,7 +51305,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Blikra, Erlend</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>8</td>
       <td>stage-2: 8</td>
     </tr>
@@ -51313,7 +51313,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Bondt, Dries De</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51321,7 +51321,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Brustenga, Marc</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>3</td>
       <td>stage-2: 3</td>
     </tr>
@@ -51329,15 +51329,15 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Caruso, Damiano</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
-      <td>6</td>
-      <td>stage-1: 6</td>
+      <td>4</td>
+      <td>21</td>
+      <td>stage-1: 6 / stage-4: 15</td>
     </tr>
     <tr>
       <td>Vuelta a Burgos</td>
       <td>Castroviejo, Jonathan</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51345,7 +51345,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Cavia, Daniel</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51353,7 +51353,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Cepeda, Jefferson Alexander</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51361,7 +51361,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Cepeda, Jefferson Alveiro</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51369,7 +51369,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Chaves, Esteban</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51377,7 +51377,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Christen, Fabio</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>6</td>
       <td>stage-1: 5 / stage-3: 1</td>
     </tr>
@@ -51385,7 +51385,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Chumil, Sergio</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51393,7 +51393,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Ciccone, Giulio</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>12</td>
       <td>stage-3: 12</td>
     </tr>
@@ -51401,7 +51401,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Cobo, Iván</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51409,7 +51409,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Conci, Nicola</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51417,15 +51417,15 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Costa, Rui</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>12</td>
+      <td>stage-4: 12</td>
     </tr>
     <tr>
       <td>Vuelta a Burgos</td>
       <td>Covi, Alessandro</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51433,7 +51433,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Dalby, Simon</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51441,7 +51441,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Darder, Sergi</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51449,7 +51449,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Declercq, Tim</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51457,7 +51457,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Del Toro, Isaac</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>8</td>
       <td>stage-3: 8</td>
     </tr>
@@ -51465,7 +51465,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Denz, Nico</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51473,7 +51473,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Diaz, José Manuel</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51481,7 +51481,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Eriksson, Lucas</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>4</td>
       <td>stage-1: 4</td>
     </tr>
@@ -51489,7 +51489,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Eulálio, Afonso</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>10</td>
       <td>stage-1: 10</td>
     </tr>
@@ -51497,7 +51497,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Fagúndez, Eric</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51505,7 +51505,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Fernández, Samuel</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51513,7 +51513,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Fortunato, Lorenzo</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>6</td>
       <td>stage-3: 6</td>
     </tr>
@@ -51521,7 +51521,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Fraile, Omar</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51529,7 +51529,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Froideveaux, Robin</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51537,7 +51537,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>García, Carlos</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51545,7 +51545,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Garofoli, Gianmarco</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51553,7 +51553,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Gautherat, Pierre</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>6</td>
       <td>stage-2: 6</td>
     </tr>
@@ -51561,7 +51561,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Ghebreigzabhier, Amanuel</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51569,7 +51569,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Gomez, Germán</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51577,7 +51577,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>González, Abner</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51585,15 +51585,15 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>González, David</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>2</td>
+      <td>stage-4: 2</td>
     </tr>
     <tr>
       <td>Vuelta a Burgos</td>
       <td>Gutiérrez, Jorge</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51601,15 +51601,15 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Heming, Miká</td>
       <td>Tour Cat. 3</td>
+      <td>4</td>
       <td>3</td>
-      <td>0</td>
-      <td></td>
+      <td>stage-4: 3</td>
     </tr>
     <tr>
       <td>Vuelta a Burgos</td>
       <td>Herzog, Emil</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51617,7 +51617,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Hindley, Jai</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51625,7 +51625,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Howson, Damien</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51633,15 +51633,15 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Huby, Antoine</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>1</td>
+      <td>stage-4: 1</td>
     </tr>
     <tr>
       <td>Vuelta a Burgos</td>
       <td>Juaristi, Txomin</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51649,7 +51649,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Kepplinger, Rainer</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51657,7 +51657,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Knox, James</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51665,7 +51665,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Kron, Andreas</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51673,7 +51673,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Kulset, Johannes</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>4</td>
       <td>stage-3: 4</td>
     </tr>
@@ -51681,7 +51681,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Kulset, Magnus</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51689,7 +51689,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Labrosse, Jordan</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>12</td>
       <td>stage-1: 12</td>
     </tr>
@@ -51697,7 +51697,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Lamperti, Luke</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>4</td>
       <td>stage-2: 4</td>
     </tr>
@@ -51705,7 +51705,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Landa, Mikel</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51713,7 +51713,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Lonardi, Giovanni</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>5</td>
       <td>stage-2: 5</td>
     </tr>
@@ -51721,7 +51721,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Lopez, Harold Martin</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51729,7 +51729,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Lopez, Jordi</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51737,7 +51737,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Lopez, Juan Pedro</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51745,7 +51745,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Malucelli, Matteo</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>12</td>
       <td>stage-2: 12</td>
     </tr>
@@ -51753,7 +51753,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Martín, Alex</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51761,7 +51761,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Martín, Gotzon</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51769,7 +51769,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Meulen, Max van der</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51777,7 +51777,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Mintegi, Iker</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51785,7 +51785,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Molano, Sebastián</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>10</td>
       <td>stage-2: 10</td>
     </tr>
@@ -51793,7 +51793,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Moschetti, Matteo</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>15</td>
       <td>stage-2: 15</td>
     </tr>
@@ -51801,7 +51801,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Murguialday, Jokin</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51809,7 +51809,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Nerurkar, Lukas</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51817,7 +51817,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Novak, Domen</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51825,7 +51825,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Okamika, Ander</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51833,15 +51833,15 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Oliveira, Rui</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>10</td>
+      <td>stage-4: 10</td>
     </tr>
     <tr>
       <td>Vuelta a Burgos</td>
       <td>Paasschens, Mathijs</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51849,7 +51849,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Parisini, Nicolò</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51857,7 +51857,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Parra, José Félix</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51865,7 +51865,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Pedrero, Antonio</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51873,7 +51873,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Pellizzari, Giulio</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>10</td>
       <td>stage-3: 10</td>
     </tr>
@@ -51881,7 +51881,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Pescador, Diego</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51889,7 +51889,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Pestel, Sander De</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51897,7 +51897,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Peters, Nans</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51905,7 +51905,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Pickering, Finlay</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51913,7 +51913,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Pietrobon, Andrea</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51921,7 +51921,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Piganzoli, Davide</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51929,7 +51929,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Poels, Wout</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51937,7 +51937,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Pollefliet, Gianluca</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>2</td>
       <td>stage-2: 2</td>
     </tr>
@@ -51945,7 +51945,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Quintana, Nairo</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51953,7 +51953,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Rivera, Brandon</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>1</td>
       <td>stage-1: 1</td>
     </tr>
@@ -51961,7 +51961,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Rodríguez, Oscar</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51969,15 +51969,15 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Romo, Javier</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>5</td>
+      <td>stage-4: 5</td>
     </tr>
     <tr>
       <td>Vuelta a Burgos</td>
       <td>Rondel, Mathys</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51985,7 +51985,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Ruiz, Ibon</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -51993,7 +51993,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Ryan, Archie</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>2</td>
       <td>stage-1: 2</td>
     </tr>
@@ -52001,7 +52001,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Serry, Pieter</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -52009,7 +52009,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Shaw, James</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -52017,7 +52017,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Skaarseth, Anders</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -52025,7 +52025,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Sorarrain, Gorka</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -52033,7 +52033,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Tercero, Fernando</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -52041,7 +52041,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Thalmann, Roland</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -52049,7 +52049,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Træen, Torstein</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -52057,7 +52057,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Verona, Carlos</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -52065,7 +52065,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Vervaeke, Louis</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -52073,15 +52073,15 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Warbasse, Larry</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>8</td>
+      <td>stage-4: 8</td>
     </tr>
     <tr>
       <td>Vuelta a Burgos</td>
       <td>Weiss, Fabian</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -52089,7 +52089,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Zoccarato, Samuele</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -52097,7 +52097,7 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Zukowsky, Nick</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -52105,9 +52105,9 @@ hide:
       <td>Vuelta a Burgos</td>
       <td>Zwiehoff, Ben</td>
       <td>Tour Cat. 3</td>
-      <td>3</td>
-      <td>0</td>
-      <td></td>
+      <td>4</td>
+      <td>6</td>
+      <td>stage-4: 6</td>
     </tr>
   </tbody>
 </table>
