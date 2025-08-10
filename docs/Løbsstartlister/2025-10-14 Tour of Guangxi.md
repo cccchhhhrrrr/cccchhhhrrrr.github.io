@@ -284,7 +284,7 @@
       <td>Lazkano Oier</td>
       <td>Morgado António</td>
       <td>Torres Pablo</td>
-      <td>Lafay Victor</td>
+      <td class = "startlist">Lafay Victor</td>
       <td>Vermeersch Florian</td>
       <td>Segaert Alec</td>
       <td>Laurance Axel</td>

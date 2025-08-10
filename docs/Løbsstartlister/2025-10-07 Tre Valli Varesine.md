@@ -43,16 +43,16 @@
     <tr>
       <th>0</th>
       <td>1</td>
-      <td class = "startlist">Pogačar Tadej</td>
-      <td class = "startlist">Pogačar Tadej</td>
-      <td class = "startlist">Pogačar Tadej</td>
-      <td class = "startlist">Pogačar Tadej</td>
-      <td class = "startlist">Pogačar Tadej</td>
-      <td class = "startlist">Pogačar Tadej</td>
+      <td>Pogačar Tadej</td>
+      <td>Pogačar Tadej</td>
+      <td>Pogačar Tadej</td>
+      <td>Pogačar Tadej</td>
+      <td>Pogačar Tadej</td>
+      <td>Pogačar Tadej</td>
       <td>Vingegaard Jonas</td>
-      <td class = "startlist">Pogačar Tadej</td>
-      <td class = "startlist">Pogačar Tadej</td>
-      <td class = "startlist">Pogačar Tadej</td>
+      <td>Pogačar Tadej</td>
+      <td>Pogačar Tadej</td>
+      <td>Pogačar Tadej</td>
     </tr>
     <tr>
       <th>1</th>

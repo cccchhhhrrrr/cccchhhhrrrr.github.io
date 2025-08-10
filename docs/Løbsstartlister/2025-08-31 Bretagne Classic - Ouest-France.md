@@ -63,7 +63,7 @@
       <td>Vingegaard Jonas</td>
       <td>Vingegaard Jonas</td>
       <td>Vingegaard Jonas</td>
-      <td>Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
       <td>Vingegaard Jonas</td>
       <td>Vingegaard Jonas</td>
       <td>Vingegaard Jonas</td>
@@ -71,15 +71,15 @@
     <tr>
       <th>2</th>
       <td>3</td>
-      <td>Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
       <td>Roglič Primož</td>
       <td>Pedersen Mads</td>
-      <td>Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
       <td>Pedersen Mads</td>
       <td>Roglič Primož</td>
       <td>Pedersen Mads</td>
-      <td>Van Aert Wout</td>
-      <td>Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
+      <td class = "startlist">Van Aert Wout</td>
       <td>Pedersen Mads</td>
     </tr>
     <tr>

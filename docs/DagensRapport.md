@@ -4,6 +4,44 @@ hide:
   - toc
 ---
 
+## 2025-08-10
+### Hovedspillet
+Christen, Jan **66** (Kenk)  
+Frigo, Marco **44** (Jarma)  
+Staune-Mittet, Johannes **18** (Chrelle, Matti)  
+Artz, Huub **8** (Jarma)  
+Ulissi, Diego **4** (Knak)  
+Brennan, Matthew **2** (Chrelle, Hustlersen, Kenk)  
+
+### Cheapo
+Langellotti, Victor **50** (Hustlersen)  
+Frigo, Marco **44** (Jarma)  
+Voisard, Yannis **20** (Chrelle, Hustlersen, Knak)  
+Artz, Huub **8** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)  
+
+
+
+
+
+## 2025-08-09
+### Hovedspillet
+Pellizzari, Giulio **34** (Tommy)  
+Aleotti, Giovanni **19** (Okholm)  
+Staune-Mittet, Johannes **14** (Chrelle, Matti)  
+Frigo, Marco **8** (Jarma)  
+Christen, Jan **3** (Kenk)  
+
+### Cheapo
+Bisiaux, Léo **35** (Hustlersen, Jappo, Kenk)  
+Langellotti, Victor **25** (Hustlersen)  
+Voisard, Yannis **10** (Chrelle, Hustlersen, Knak)  
+Frigo, Marco **8** (Jarma)  
+Pescador, Diego **4** (Jappo, Jarma, Kenk, Visti)  
+
+
+
+
+
 ## 2025-08-08
 ### Hovedspillet
 Brennan, Matthew **25** (Chrelle, Hustlersen, Kenk)  
