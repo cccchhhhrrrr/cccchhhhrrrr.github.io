@@ -4,6 +4,27 @@ hide:
   - toc
 ---
 
+## 2025-08-17
+### Hovedspillet
+Lie, Arnaud De **60** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)  
+Magnier, Paul **50** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)  
+Philipsen, Jasper **40** (Jarma, Knak)  
+Morgado, António **26** (Hustlersen, Jappo, Matti, Visti)  
+Girmay, Biniam **22** (Jappo, Knak, Matti, Okholm, Visti)  
+Louvel, Matîs **18** (Jarma)  
+Aert, Wout van **14** (Chrelle, Jarma, Matti, Okholm, Tommy)  
+Penhoët, Paul **10** (Jarma)  
+Andresen, Tobias Lund **8** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)  
+Laurance, Axel **5** (Jappo, Matti, Okholm)  
+
+### Cheapo
+Louvel, Matîs **18** (Jarma)  
+Gautherat, Pierre **3** (Jappo, Kenk, Knak, Visti)  
+
+
+
+
+
 ## 2025-08-10
 ### Hovedspillet
 Christen, Jan **66** (Kenk)  
