@@ -142,7 +142,7 @@
       <th>7</th>
       <td>8</td>
       <td>Gall Felix</td>
-      <td>Onley Oscar</td>
+      <td class = "startlist">Onley Oscar</td>
       <td>Landa Mikel</td>
       <td>Landa Mikel</td>
       <td class = "startlist">Kooij Olav</td>
@@ -162,7 +162,7 @@
       <td>Van Gils Maxim</td>
       <td>Hirschi Marc</td>
       <td>Merlier Tim</td>
-      <td>Onley Oscar</td>
+      <td class = "startlist">Onley Oscar</td>
       <td>Pithie Laurence</td>
       <td>Girmay Biniam</td>
     </tr>
@@ -172,7 +172,7 @@
       <td>Nys Thibau</td>
       <td>Uijtdebroeks Cian</td>
       <td>Hirschi Marc</td>
-      <td>Grégoire Romain</td>
+      <td class = "startlist">Grégoire Romain</td>
       <td>Narváez Jhonatan</td>
       <td>Healy Ben</td>
       <td>Girmay Biniam</td>
@@ -183,7 +183,7 @@
     <tr>
       <th>10</th>
       <td>11</td>
-      <td>Grégoire Romain</td>
+      <td class = "startlist">Grégoire Romain</td>
       <td>Nys Thibau</td>
       <td>Gee Derek</td>
       <td>Sivakov Pavel</td>
@@ -202,7 +202,7 @@
       <td>Powless Neilson</td>
       <td>Poole Max</td>
       <td>Magnier Paul</td>
-      <td>Grégoire Romain</td>
+      <td class = "startlist">Grégoire Romain</td>
       <td>Gall Felix</td>
       <td>Geoghegan Hart Tao</td>
       <td>Magnier Paul</td>
