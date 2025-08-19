@@ -314,7 +314,7 @@
       <td>Andresen Tobias Lund</td>
       <td>Rex Laurenz</td>
       <td>Brennan Matthew</td>
-      <td>Mollema Bauke</td>
+      <td class = "startlist">Mollema Bauke</td>
       <td>Morgado António</td>
       <td>Laurance Axel</td>
       <td>Andresen Tobias Lund</td>
@@ -344,7 +344,7 @@
       <td>Teutenberg Tim Torn</td>
       <td>Andresen Tobias Lund</td>
       <td>Romeo Iván</td>
-      <td>Van Den Broek Frank</td>
+      <td class = "startlist">Van Den Broek Frank</td>
       <td class = "startlist">Rafferty Darren</td>
       <td>Aular Orluis</td>
     </tr>
