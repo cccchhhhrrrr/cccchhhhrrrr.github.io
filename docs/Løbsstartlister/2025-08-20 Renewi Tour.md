@@ -324,14 +324,14 @@
       <th>20</th>
       <td>21</td>
       <td>Brennan Matthew</td>
-      <td class = "startlist">Teutenberg Tim Torn</td>
+      <td>Teutenberg Tim Torn</td>
       <td class = "startlist">Morgado António</td>
       <td>Louvel Matis</td>
       <td class = "startlist">Rex Laurenz</td>
       <td>Ulissi Diego</td>
       <td class = "startlist">Fretin Milan</td>
       <td>Andresen Tobias Lund</td>
-      <td class = "startlist">Teutenberg Tim Torn</td>
+      <td>Teutenberg Tim Torn</td>
       <td class = "startlist">Morgado António</td>
     </tr>
     <tr>
@@ -341,7 +341,7 @@
       <td>Foldager Anders</td>
       <td class = "startlist">Rex Laurenz</td>
       <td>Pedersen Rasmus Søjberg</td>
-      <td class = "startlist">Teutenberg Tim Torn</td>
+      <td>Teutenberg Tim Torn</td>
       <td>Andresen Tobias Lund</td>
       <td>Romeo Iván</td>
       <td class = "startlist">Van Den Broek Frank</td>

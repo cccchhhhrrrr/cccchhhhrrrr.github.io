@@ -147,7 +147,7 @@
       <td>Landa Mikel</td>
       <td>Kooij Olav</td>
       <td class = "startlist">Girmay Biniam</td>
-      <td>Van Gils Maxim</td>
+      <td class = "startlist">Van Gils Maxim</td>
       <td>Yates Simon</td>
       <td>Merlier Tim</td>
       <td>Landa Mikel</td>
@@ -159,7 +159,7 @@
       <td>Narváez Jhonatan</td>
       <td class = "startlist">Girmay Biniam</td>
       <td>Geoghegan Hart Tao</td>
-      <td>Van Gils Maxim</td>
+      <td class = "startlist">Van Gils Maxim</td>
       <td>Hirschi Marc</td>
       <td>Merlier Tim</td>
       <td>Onley Oscar</td>
@@ -170,7 +170,7 @@
       <th>9</th>
       <td>10</td>
       <td>Nys Thibau</td>
-      <td>Uijtdebroeks Cian</td>
+      <td class = "startlist">Uijtdebroeks Cian</td>
       <td>Hirschi Marc</td>
       <td>Grégoire Romain</td>
       <td>Narváez Jhonatan</td>

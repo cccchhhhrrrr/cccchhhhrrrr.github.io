@@ -132,7 +132,7 @@
       <td>De Lie Arnaud</td>
       <td>De Lie Arnaud</td>
       <td>Van Eetvelt Lennert</td>
-      <td>Carapaz Richard</td>
+      <td class = "startlist">Carapaz Richard</td>
       <td>Kooij Olav</td>
       <td>Girmay Biniam</td>
       <td>Kooij Olav</td>
@@ -155,7 +155,7 @@
     <tr>
       <th>8</th>
       <td>9</td>
-      <td>Van Wilder Ilan</td>
+      <td class = "startlist">Van Wilder Ilan</td>
       <td>Narváez Jhonatan</td>
       <td>Girmay Biniam</td>
       <td>Geoghegan Hart Tao</td>

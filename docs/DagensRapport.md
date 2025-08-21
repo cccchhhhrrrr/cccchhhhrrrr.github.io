@@ -4,6 +4,27 @@ hide:
   - toc
 ---
 
+## 2025-08-20
+### Hovedspillet
+Merlier, Tim **25** (Jappo, Knak, Matti, Tommy)  
+Lie, Arnaud De **20** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)  
+Girmay, Biniam **12** (Jappo, Knak, Matti, Okholm, Visti)  
+Watson, Sam **12** (Tommy)  
+Kooij, Olav **8** (Kenk, Matti, Tommy, Visti)  
+Pithie, Laurence **8** (Tommy)  
+Aert, Wout van **6** (Chrelle, Jarma, Matti, Okholm, Tommy)  
+
+### Cheapo
+Haller, Marco **10** (Visti)  
+Dehairs, Simon **3** (Jappo, Jarma, Kenk, Visti)  
+Mechelen, Vlad Van **3** (Kenk)  
+Gudmestad, Tord **2** (Visti)  
+Eenkhoorn, Pascal **1** (Kenk, Visti)  
+
+
+
+
+
 ## 2025-08-17
 ### Hovedspillet
 Lie, Arnaud De **60** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)  
