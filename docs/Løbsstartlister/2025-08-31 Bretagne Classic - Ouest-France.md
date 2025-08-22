@@ -89,12 +89,12 @@
       <td>Pedersen Mads</td>
       <td>Van Eetvelt Lennert</td>
       <td>Van Der Poel Mathieu</td>
-      <td>Milan Jonathan</td>
+      <td class = "startlist">Milan Jonathan</td>
       <td>Philipsen Jasper</td>
-      <td>Milan Jonathan</td>
-      <td>Milan Jonathan</td>
+      <td class = "startlist">Milan Jonathan</td>
+      <td class = "startlist">Milan Jonathan</td>
       <td>Pedersen Mads</td>
-      <td>Milan Jonathan</td>
+      <td class = "startlist">Milan Jonathan</td>
     </tr>
     <tr>
       <th>4</th>
@@ -116,7 +116,7 @@
       <td>Pidcock Thomas</td>
       <td>De Lie Arnaud</td>
       <td>Pidcock Thomas</td>
-      <td>Milan Jonathan</td>
+      <td class = "startlist">Milan Jonathan</td>
       <td>Almeida João</td>
       <td>Pidcock Thomas</td>
       <td>Rodríguez Carlos</td>

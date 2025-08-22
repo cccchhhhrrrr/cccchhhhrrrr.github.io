@@ -4,6 +4,25 @@ hide:
   - toc
 ---
 
+## 2025-08-21
+### Hovedspillet
+Kooij, Olav **25** (Kenk, Matti, Tommy, Visti)  
+Brennan, Matthew **15** (Chrelle, Hustlersen, Kenk)  
+Girmay, Biniam **14** (Jappo, Knak, Matti, Okholm, Visti)  
+Milan, Jonathan **12** (Jarma, Kenk, Matti, Okholm, Visti)  
+Merlier, Tim **10** (Jappo, Knak, Matti, Tommy)  
+Jeanniere, Emilien **8** (Chrelle, Jappo, Knak)  
+
+### Cheapo
+Gudmestad, Tord **6** (Visti)  
+Capiot, Amaury **4** (Chrelle, Jappo, Jarma, Knak)  
+Dehairs, Simon **3** (Jappo, Jarma, Kenk, Visti)  
+Gautherat, Pierre **1** (Jappo, Kenk, Knak, Visti)  
+
+
+
+
+
 ## 2025-08-20
 ### Hovedspillet
 Merlier, Tim **25** (Jappo, Knak, Matti, Tommy)  

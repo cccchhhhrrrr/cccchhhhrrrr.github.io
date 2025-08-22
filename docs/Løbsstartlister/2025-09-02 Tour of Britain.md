@@ -272,7 +272,7 @@
       <td>Fisher-Black Finn</td>
       <td>Nerurkar Lukas</td>
       <td>Andresen Tobias Lund</td>
-      <td>Trentin Matteo</td>
+      <td class = "startlist">Trentin Matteo</td>
       <td>Mihkels Madis</td>
       <td>Adrià Roger</td>
       <td>Zingle Axel</td>

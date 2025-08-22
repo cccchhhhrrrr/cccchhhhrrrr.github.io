@@ -49,7 +49,7 @@
       <td class = "startlist">Pogačar Tadej</td>
       <td class = "startlist">Pogačar Tadej</td>
       <td class = "startlist">Pogačar Tadej</td>
-      <td class = "startlist">Vingegaard Jonas</td>
+      <td>Vingegaard Jonas</td>
       <td class = "startlist">Pogačar Tadej</td>
       <td class = "startlist">Pogačar Tadej</td>
       <td class = "startlist">Pogačar Tadej</td>
@@ -57,16 +57,16 @@
     <tr>
       <th>1</th>
       <td>2</td>
-      <td class = "startlist">Vingegaard Jonas</td>
-      <td class = "startlist">Vingegaard Jonas</td>
-      <td class = "startlist">Vingegaard Jonas</td>
-      <td class = "startlist">Vingegaard Jonas</td>
-      <td class = "startlist">Vingegaard Jonas</td>
-      <td class = "startlist">Vingegaard Jonas</td>
+      <td>Vingegaard Jonas</td>
+      <td>Vingegaard Jonas</td>
+      <td>Vingegaard Jonas</td>
+      <td>Vingegaard Jonas</td>
+      <td>Vingegaard Jonas</td>
+      <td>Vingegaard Jonas</td>
       <td>Van Aert Wout</td>
-      <td class = "startlist">Vingegaard Jonas</td>
-      <td class = "startlist">Vingegaard Jonas</td>
-      <td class = "startlist">Vingegaard Jonas</td>
+      <td>Vingegaard Jonas</td>
+      <td>Vingegaard Jonas</td>
+      <td>Vingegaard Jonas</td>
     </tr>
     <tr>
       <th>2</th>

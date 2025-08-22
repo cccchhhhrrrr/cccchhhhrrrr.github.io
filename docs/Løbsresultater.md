@@ -11825,7 +11825,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Aert, Wout van</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>6</td>
       <td>stage-0: 6</td>
     </tr>
@@ -11833,7 +11833,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Arndt, Nikias</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -11841,7 +11841,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>August, AJ</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -11849,7 +11849,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Barrenetxea, Jon</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -11857,7 +11857,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Barta, Will</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -11865,7 +11865,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Bauhaus, Phil</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -11873,7 +11873,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Bax, Sjoerd</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -11881,7 +11881,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Behrens, Niklas</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -11889,7 +11889,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Blume Levy, William</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -11897,7 +11897,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Bossche, Fabio Van den</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -11905,15 +11905,15 @@ hide:
       <td>Deutschland Tour</td>
       <td>Brennan, Matthew</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>2</td>
+      <td>15</td>
+      <td>stage-1: 15</td>
     </tr>
     <tr>
       <td>Deutschland Tour</td>
       <td>Bruttomesso, Alberto</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -11921,7 +11921,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Bugge, Martin Urianstad</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -11929,7 +11929,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Busatto, Francesco</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -11937,7 +11937,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Castroviejo, Jonathan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -11945,7 +11945,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Cattaneo, Mattia</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -11953,7 +11953,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Christen, Jan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -11961,7 +11961,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Clarke, Simon</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -11969,7 +11969,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Combaud, Romain</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -11977,7 +11977,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Consonni, Simone</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -11985,7 +11985,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Dauphin, Florian</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -11993,7 +11993,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Degenkolb, John</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12001,7 +12001,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Delbove, Joris</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12009,7 +12009,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Doubey, Fabien</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12017,7 +12017,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Eenkhoorn, Pascal</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>1</td>
       <td>stage-0: 1</td>
     </tr>
@@ -12025,7 +12025,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Eržen, Zak</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12033,7 +12033,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Fredheim, Stian</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12041,7 +12041,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Gelders, Gil</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12049,7 +12049,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Gibbons, Ryan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12057,7 +12057,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Graat, Tijmen</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12065,15 +12065,15 @@ hide:
       <td>Deutschland Tour</td>
       <td>Groves, Kaden</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>2</td>
+      <td>4</td>
+      <td>stage-1: 4</td>
     </tr>
     <tr>
       <td>Deutschland Tour</td>
       <td>Guerreiro, Ruben</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12081,7 +12081,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Haller, Marco</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>10</td>
       <td>stage-0: 10</td>
     </tr>
@@ -12089,23 +12089,23 @@ hide:
       <td>Deutschland Tour</td>
       <td>Hofstetter, Hugo</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>2</td>
+      <td>6</td>
+      <td>stage-1: 6</td>
     </tr>
     <tr>
       <td>Deutschland Tour</td>
       <td>Jeanniere, Emilien</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>2</td>
+      <td>8</td>
+      <td>stage-1: 8</td>
     </tr>
     <tr>
       <td>Deutschland Tour</td>
       <td>Jousseaume, Alan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12113,7 +12113,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Kielich, Timo</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12121,7 +12121,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Konrad, Patrick</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12129,7 +12129,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Kristoff, Alexander</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12137,7 +12137,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Kruijswijk, Steven</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12145,7 +12145,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Lamperti, Luke</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12153,7 +12153,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Leijnse, Enzo</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12161,7 +12161,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Liepiņš, Emīls</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12169,7 +12169,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Lipowitz, Florian</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12177,7 +12177,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Louvel, Matîs</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12185,7 +12185,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Majka, Rafał</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12193,7 +12193,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Manzin, Lorrenzo</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12201,7 +12201,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Mayrhofer, Marius</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12209,7 +12209,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>McNulty, Brandon</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12217,7 +12217,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Mechelen, Vlad Van</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>3</td>
       <td>stage-0: 3</td>
     </tr>
@@ -12225,7 +12225,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Meeus, Jordi</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12233,15 +12233,15 @@ hide:
       <td>Deutschland Tour</td>
       <td>Milan, Jonathan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>2</td>
+      <td>12</td>
+      <td>stage-1: 12</td>
     </tr>
     <tr>
       <td>Deutschland Tour</td>
       <td>Mosca, Jacopo</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12249,7 +12249,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Moschetti, Matteo</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12257,7 +12257,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Narváez, Jhonatan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12265,7 +12265,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Neilands, Krists</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12273,7 +12273,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Parisini, Nicolò</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12281,7 +12281,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Petit, Adrien</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12289,7 +12289,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Pithie, Laurence</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>8</td>
       <td>stage-0: 8</td>
     </tr>
@@ -12297,7 +12297,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Politt, Nils</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12305,15 +12305,15 @@ hide:
       <td>Deutschland Tour</td>
       <td>Poppel, Danny van</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>5</td>
-      <td>stage-0: 5</td>
+      <td>2</td>
+      <td>15</td>
+      <td>stage-0: 5 / stage-1: 10</td>
     </tr>
     <tr>
       <td>Deutschland Tour</td>
       <td>Raccagni, Andrea</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12321,7 +12321,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Resell, Erik</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>2</td>
       <td>stage-0: 2</td>
     </tr>
@@ -12329,7 +12329,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Rodríguez, Oscar</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12337,7 +12337,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Romeo, Iván</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12345,7 +12345,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Rutsch, Jonas</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12353,7 +12353,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Schwarzmann, Michael</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12361,7 +12361,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Sheehan, Riley</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12369,7 +12369,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Shmidt, Artem</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12377,7 +12377,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Steimle, Jannik</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12385,7 +12385,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Suter, Joel</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12393,7 +12393,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Theuns, Edward</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12401,7 +12401,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Thijssen, Gerben</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12409,7 +12409,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Thomas, Geraint</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12417,7 +12417,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Uhlig, Henri</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12425,7 +12425,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Vader, Milan</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12433,7 +12433,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Warbasse, Larry</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12441,7 +12441,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Watson, Sam</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>12</td>
       <td>stage-0: 12</td>
     </tr>
@@ -12449,7 +12449,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Wilder, Ilan Van</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12457,7 +12457,7 @@ hide:
       <td>Deutschland Tour</td>
       <td>Wilksch, Hannes</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12465,15 +12465,15 @@ hide:
       <td>Deutschland Tour</td>
       <td>Wærenskjold, Søren</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>15</td>
-      <td>stage-0: 15</td>
+      <td>2</td>
+      <td>18</td>
+      <td>stage-0: 15 / stage-1: 3</td>
     </tr>
     <tr>
       <td>Deutschland Tour</td>
       <td>Zambanini, Edoardo</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -12481,15 +12481,15 @@ hide:
       <td>Deutschland Tour</td>
       <td>Zijlaard, Maikel</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
-      <td>4</td>
-      <td>stage-0: 4</td>
+      <td>2</td>
+      <td>9</td>
+      <td>stage-0: 4 / stage-1: 5</td>
     </tr>
     <tr>
       <td>Deutschland Tour</td>
       <td>Zimmermann, Georg</td>
       <td>Tour Cat. 3</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34009,7 +34009,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Adrià, Roger</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34017,7 +34017,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Affini, Edoardo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34025,7 +34025,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Albanese, Vincenzo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34033,7 +34033,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Arrieta, Igor</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34041,7 +34041,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Asgreen, Kasper</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34049,7 +34049,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Askey, Lewis</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34057,7 +34057,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Ballerini, Davide</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>6</td>
       <td>stage-1: 6</td>
     </tr>
@@ -34065,7 +34065,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Barbier, Pierre</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34073,7 +34073,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Bastiaens, Ayco</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34081,7 +34081,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Berckmoes, Jenno</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34089,7 +34089,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Berg, Marijn van den</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34097,7 +34097,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Bettiol, Alberto</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34105,7 +34105,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Beullens, Cedric</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34113,15 +34113,15 @@ hide:
       <td>Renewi Tour</td>
       <td>Bittner, Pavel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>14</td>
-      <td>stage-1: 14</td>
+      <td>2</td>
+      <td>34</td>
+      <td>stage-1: 14 / stage-2: 20</td>
     </tr>
     <tr>
       <td>Renewi Tour</td>
       <td>Bol, Cees</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34129,7 +34129,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Bomboi, Davide</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34137,7 +34137,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Bondt, Dries De</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34145,7 +34145,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Braet, Vito</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34153,7 +34153,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Broek, Frank van den</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34161,7 +34161,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Bystrøm, Sven Erik</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34169,15 +34169,15 @@ hide:
       <td>Renewi Tour</td>
       <td>Capiot, Amaury</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>2</td>
+      <td>4</td>
+      <td>stage-2: 4</td>
     </tr>
     <tr>
       <td>Renewi Tour</td>
       <td>Cimolai, Davide</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34185,7 +34185,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Declercq, Tim</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34193,15 +34193,15 @@ hide:
       <td>Renewi Tour</td>
       <td>Dehairs, Simon</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>3</td>
-      <td>stage-1: 3</td>
+      <td>2</td>
+      <td>6</td>
+      <td>stage-1: 3 / stage-2: 3</td>
     </tr>
     <tr>
       <td>Renewi Tour</td>
       <td>Del Grosso, Tibor</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34209,7 +34209,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Desal, Cériel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34217,7 +34217,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Deweirdt, Siebe</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34225,7 +34225,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Dewulf, Stan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34233,7 +34233,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Dijke, Mick van</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34241,7 +34241,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Dillier, Silvan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34249,7 +34249,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Donaldson, Robert</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34257,7 +34257,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Doull, Owain</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34265,7 +34265,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Drizners, Jarrad</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34273,7 +34273,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Edmondson, Alex</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34281,7 +34281,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Eekhoff, Nils</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34289,7 +34289,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Epis, Giosuè</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34297,7 +34297,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Fedorov, Yevgeniy</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34305,7 +34305,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Flynn, Sean</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34313,7 +34313,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Foss, Tobias</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34321,7 +34321,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Fretin, Milan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34329,7 +34329,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Froideveaux, Robin</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34337,7 +34337,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Gate, Aaron</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34345,23 +34345,23 @@ hide:
       <td>Renewi Tour</td>
       <td>Gautherat, Pierre</td>
       <td>Tour Cat. 2</td>
+      <td>2</td>
       <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>stage-2: 1</td>
     </tr>
     <tr>
       <td>Renewi Tour</td>
       <td>Gaviria, Fernando</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>4</td>
-      <td>stage-1: 4</td>
+      <td>2</td>
+      <td>6</td>
+      <td>stage-1: 4 / stage-2: 2</td>
     </tr>
     <tr>
       <td>Renewi Tour</td>
       <td>Geens, Jonas</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34369,7 +34369,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Gendt, Aimé De</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34377,7 +34377,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Geniets, Kévin</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34385,7 +34385,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Gestel, Dries Van</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34393,7 +34393,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Gils, Maxim Van</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34401,15 +34401,15 @@ hide:
       <td>Renewi Tour</td>
       <td>Girmay, Biniam</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>12</td>
-      <td>stage-1: 12</td>
+      <td>2</td>
+      <td>26</td>
+      <td>stage-1: 12 / stage-2: 14</td>
     </tr>
     <tr>
       <td>Renewi Tour</td>
       <td>Govekar, Matevž</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34417,7 +34417,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Gradek, Kamil</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34425,15 +34425,15 @@ hide:
       <td>Renewi Tour</td>
       <td>Groenewegen, Dylan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>2</td>
+      <td>12</td>
+      <td>stage-2: 12</td>
     </tr>
     <tr>
       <td>Renewi Tour</td>
       <td>Grondin, Donavan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34441,15 +34441,15 @@ hide:
       <td>Renewi Tour</td>
       <td>Gudmestad, Tord</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
       <td>2</td>
-      <td>stage-1: 2</td>
+      <td>8</td>
+      <td>stage-1: 2 / stage-2: 6</td>
     </tr>
     <tr>
       <td>Renewi Tour</td>
       <td>Hautegem, Leander Van</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34457,7 +34457,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Hemelen, Vincent Van</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34465,7 +34465,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Heming, Miká</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34473,7 +34473,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Hesters, Jules</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34481,7 +34481,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Hoecke, Gijs Van</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34489,7 +34489,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Hoorn, Taco van der</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34497,7 +34497,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Huens, Axel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34505,7 +34505,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Huising, Menno</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34513,7 +34513,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Huys, Laurens</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34521,7 +34521,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Jacobs, Johan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34529,7 +34529,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Jakobsen, Fabio</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34537,7 +34537,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Johansen, Julius</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34545,7 +34545,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Kelemen, Petr</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34553,7 +34553,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Kirsch, Alex</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34561,15 +34561,15 @@ hide:
       <td>Renewi Tour</td>
       <td>Kleijn, Arvid de</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>1</td>
-      <td>stage-1: 1</td>
+      <td>2</td>
+      <td>17</td>
+      <td>stage-1: 1 / stage-2: 16</td>
     </tr>
     <tr>
       <td>Renewi Tour</td>
       <td>Kolze Changizi, Sebastian</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34577,15 +34577,15 @@ hide:
       <td>Renewi Tour</td>
       <td>Kooij, Olav</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>8</td>
-      <td>stage-1: 8</td>
+      <td>2</td>
+      <td>33</td>
+      <td>stage-1: 8 / stage-2: 25</td>
     </tr>
     <tr>
       <td>Renewi Tour</td>
       <td>Kopecký, Tomáš</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34593,7 +34593,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Krijnsen, Jelte</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34601,7 +34601,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Kubiš, Lukáš</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34609,7 +34609,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Kuypers, Gerben</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34617,7 +34617,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Lambrecht, Michiel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34625,7 +34625,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Lampaert, Yves</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34633,7 +34633,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Lanhove, Milan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34641,7 +34641,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Laporte, Christophe</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34649,7 +34649,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Laurance, Axel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34657,7 +34657,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Leonard, Michael</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34665,7 +34665,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Lerberghe, Bert Van</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34673,7 +34673,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Lie, Arnaud De</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>20</td>
       <td>stage-1: 20</td>
     </tr>
@@ -34689,7 +34689,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Maciejuk, Filip</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34697,7 +34697,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Madouas, Valentin</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34705,7 +34705,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Magnier, Paul</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34713,7 +34713,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Mahoudo, Nolann</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34729,15 +34729,15 @@ hide:
       <td>Renewi Tour</td>
       <td>Merlier, Tim</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>25</td>
-      <td>stage-1: 25</td>
+      <td>2</td>
+      <td>35</td>
+      <td>stage-1: 25 / stage-2: 10</td>
     </tr>
     <tr>
       <td>Renewi Tour</td>
       <td>Mezgec, Luka</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34745,7 +34745,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Miholjević, Fran</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34753,7 +34753,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Mikutis, Aivaras</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34761,7 +34761,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Milesi, Lorenzo</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34769,7 +34769,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Moer, Brent Van</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34777,7 +34777,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Mohorič, Matej</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34785,7 +34785,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Molano, Sebastián</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>16</td>
       <td>stage-1: 16</td>
     </tr>
@@ -34793,7 +34793,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Morgado, António</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34801,7 +34801,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Moro, Manlio</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34809,7 +34809,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Mullen, Ryan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34817,7 +34817,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Naberman, Tim</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34825,7 +34825,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Naesen, Oliver</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34833,7 +34833,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Norsgaard, Mathias</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34841,7 +34841,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Nys, Thibau</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34849,7 +34849,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Oliveira, Rui</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34865,7 +34865,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Penhoët, Paul</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34873,7 +34873,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Petegem, Axandre Van</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34881,7 +34881,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Plowright, Jensen</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34889,7 +34889,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Pluimers, Rick</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34897,7 +34897,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Poel, Mathieu van der</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34905,7 +34905,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Pollefliet, Gianluca</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34929,7 +34929,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Puccio, Salvatore</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34937,7 +34937,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Reinders, Elmar</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34945,7 +34945,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Renard, Alexis</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34953,7 +34953,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Rex, Laurenz</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34961,7 +34961,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Ries, Michel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34969,7 +34969,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Robeet, Ludovic</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34977,7 +34977,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Rootkin-Gray, Jack</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34985,7 +34985,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Rooy, Kenneth Van</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -34993,7 +34993,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Russo, Clément</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35001,7 +35001,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Scotson, Miles</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35009,7 +35009,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Sintmaartensdijk, Roel van</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35017,7 +35017,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Skerl, Daniel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35025,7 +35025,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Skujins, Toms</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35033,7 +35033,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Stannard, Robert</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35041,7 +35041,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Stewart, Campbell</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35049,7 +35049,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Stockman, Abram</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35057,7 +35057,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Stokbro, Andreas</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35065,7 +35065,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Stuyven, Jasper</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35073,7 +35073,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Swift, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35081,7 +35081,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Swift, Connor</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35089,7 +35089,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Sénéchal, Florian</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35097,7 +35097,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Taminiaux, Lionel</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35105,7 +35105,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Tesfatsion, Natnael</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35113,15 +35113,15 @@ hide:
       <td>Renewi Tour</td>
       <td>Teunissen, Mike</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
-      <td>0</td>
-      <td></td>
+      <td>2</td>
+      <td>8</td>
+      <td>stage-2: 8</td>
     </tr>
     <tr>
       <td>Renewi Tour</td>
       <td>Torres, Albert</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35129,7 +35129,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Toupalík, Adam</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35137,7 +35137,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Touzé, Damien</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35145,7 +35145,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Tronchon, Bastien</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35153,7 +35153,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Turner, Ben</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>3</td>
       <td>10</td>
       <td>stage-1: 10</td>
     </tr>
@@ -35161,7 +35161,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Vacek, Mathias</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35169,7 +35169,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Valter, Attila</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35177,7 +35177,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Vandenstorme, Dylan</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35185,7 +35185,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Vangheluwe, Warre</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35193,7 +35193,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Vanhoof, Ward</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35201,7 +35201,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Vergaerde, Otto</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35209,7 +35209,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Vermeersch, Florian</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35217,7 +35217,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Vermeersch, Gianni</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35225,7 +35225,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Vermote, Julien</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35233,7 +35233,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Walker, Max</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35241,7 +35241,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Walscheid, Max</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35249,7 +35249,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Wellens, Tim</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35257,7 +35257,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Welsford, Sam</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
@@ -35265,7 +35265,7 @@ hide:
       <td>Renewi Tour</td>
       <td>Wright, Fred</td>
       <td>Tour Cat. 2</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td></td>
     </tr>
