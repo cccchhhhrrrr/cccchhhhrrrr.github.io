@@ -4,6 +4,27 @@ hide:
   - toc
 ---
 
+## 2025-08-22
+### Hovedspillet
+Poel, Mathieu van der **25** (Jarma)  
+Lie, Arnaud De **20** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)  
+Narváez, Jhonatan **15** (Hustlersen, Kenk)  
+Del Grosso, Tibor **14** (Jarma)  
+Sheehan, Riley **12** (Okholm)  
+Laurance, Axel **8** (Jappo, Matti, Okholm)  
+Milan, Jonathan **6** (Jarma, Kenk, Matti, Okholm, Visti)  
+Jeanniere, Emilien **4** (Chrelle, Jappo, Knak)  
+Brennan, Matthew **3** (Chrelle, Hustlersen, Kenk)  
+Kooij, Olav **3** (Kenk, Matti, Tommy, Visti)  
+
+### Cheapo
+Del Grosso, Tibor **14** (Chrelle, Jappo, Jarma, Kenk)  
+Haller, Marco **2** (Visti)  
+
+
+
+
+
 ## 2025-08-21
 ### Hovedspillet
 Kooij, Olav **25** (Kenk, Matti, Tommy, Visti)  
