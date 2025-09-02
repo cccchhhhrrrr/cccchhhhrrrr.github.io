@@ -170,7 +170,7 @@
       <th>9</th>
       <td>10</td>
       <td>Nys Thibau</td>
-      <td>Uijtdebroeks Cian</td>
+      <td class = "startlist">Uijtdebroeks Cian</td>
       <td class = "startlist">Hirschi Marc</td>
       <td>Grégoire Romain</td>
       <td>Narváez Jhonatan</td>
@@ -190,7 +190,7 @@
       <td>Nys Thibau</td>
       <td>Nys Thibau</td>
       <td>Buitrago Santiago</td>
-      <td>Sheffield Magnus</td>
+      <td class = "startlist">Sheffield Magnus</td>
       <td>Martinez Lenny</td>
       <td>Nys Thibau</td>
     </tr>
@@ -198,7 +198,7 @@
       <th>11</th>
       <td>12</td>
       <td>Hayter Ethan</td>
-      <td>Plapp Luke</td>
+      <td class = "startlist">Plapp Luke</td>
       <td>Powless Neilson</td>
       <td>Poole Max</td>
       <td>Magnier Paul</td>
@@ -211,7 +211,7 @@
     <tr>
       <th>12</th>
       <td>13</td>
-      <td>Plapp Luke</td>
+      <td class = "startlist">Plapp Luke</td>
       <td>Welsford Sam</td>
       <td>Nys Thibau</td>
       <td>Magnier Paul</td>
@@ -285,7 +285,7 @@
       <td>Morgado António</td>
       <td>Torres Pablo</td>
       <td>Lafay Victor</td>
-      <td>Vermeersch Florian</td>
+      <td class = "startlist">Vermeersch Florian</td>
       <td>Segaert Alec</td>
       <td>Laurance Axel</td>
       <td>De Plus Laurens</td>
@@ -360,7 +360,7 @@
       <td class = "startlist">Staune-Mittet Johannes</td>
       <td>Aleotti Giovanni</td>
       <td>Watson Samuel</td>
-      <td>Vermeersch Florian</td>
+      <td class = "startlist">Vermeersch Florian</td>
     </tr>
     <tr>
       <th>23</th>
