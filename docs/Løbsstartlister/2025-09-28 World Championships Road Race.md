@@ -105,9 +105,9 @@
       <td>Philipsen Jasper</td>
       <td class = "startlist">Ayuso Juan</td>
       <td>Merlier Tim</td>
-      <td>Skjelmose Mattias</td>
+      <td class = "startlist">Skjelmose Mattias</td>
       <td>De Lie Arnaud</td>
-      <td>Skjelmose Mattias</td>
+      <td class = "startlist">Skjelmose Mattias</td>
       <td>Rodríguez Carlos</td>
     </tr>
     <tr>
@@ -256,9 +256,9 @@
       <td>Tarling Joshua</td>
       <td>Steinhauser Georg</td>
       <td>Magnier Paul</td>
-      <td>Schachmann Maximilian</td>
+      <td class = "startlist">Schachmann Maximilian</td>
       <td>Van Dijke Tim</td>
-      <td>Schachmann Maximilian</td>
+      <td class = "startlist">Schachmann Maximilian</td>
       <td>Lazkano Oier</td>
       <td>Lazkano Oier</td>
       <td>Abrahamsen Jonas</td>
@@ -338,7 +338,7 @@
       <th>21</th>
       <td>22</td>
       <td>Rex Laurenz</td>
-      <td>Foldager Anders</td>
+      <td class = "startlist">Foldager Anders</td>
       <td>Rex Laurenz</td>
       <td>Pedersen Rasmus Søjberg</td>
       <td>Teutenberg Tim Torn</td>

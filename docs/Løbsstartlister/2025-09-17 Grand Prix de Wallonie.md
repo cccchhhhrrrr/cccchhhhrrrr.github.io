@@ -355,7 +355,7 @@
       <td>Brenner Marco</td>
       <td>Jeannière Emilien</td>
       <td>Frigo Marco</td>
-      <td>Wandahl Frederik</td>
+      <td class = "startlist">Wandahl Frederik</td>
       <td>Naesen Oliver</td>
       <td>Staune-Mittet Johannes</td>
       <td>Aleotti Giovanni</td>
@@ -373,7 +373,7 @@
       <td>Jeannière Emilien</td>
       <td>Seixas Paul</td>
       <td>Rafferty Darren</td>
-      <td>Wandahl Frederik</td>
+      <td class = "startlist">Wandahl Frederik</td>
       <td>Van Baarle Dylan</td>
     </tr>
     <tr>
