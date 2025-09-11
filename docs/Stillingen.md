@@ -45,72 +45,72 @@ hide:
     <tr>
       <td>Chrelle</td>
       <td>350.0</td>
-      <td>991</td>
-      <td>8092</td>
-      <td>8.17</td>
-    </tr>
-    <tr>
-      <td>Okholm</td>
-      <td>350.0</td>
-      <td>1025</td>
-      <td>7303</td>
-      <td>7.12</td>
-    </tr>
-    <tr>
-      <td>Jappo</td>
-      <td>350.0</td>
-      <td>978</td>
-      <td>7284</td>
-      <td>7.45</td>
+      <td>1146</td>
+      <td>9324</td>
+      <td>8.14</td>
     </tr>
     <tr>
       <td>Kenk</td>
       <td>349.9</td>
-      <td>879</td>
-      <td>7193</td>
-      <td>8.18</td>
+      <td>1057</td>
+      <td>8232</td>
+      <td>7.79</td>
+    </tr>
+    <tr>
+      <td>Jappo</td>
+      <td>350.0</td>
+      <td>1098</td>
+      <td>8195</td>
+      <td>7.46</td>
     </tr>
     <tr>
       <td>Visti</td>
       <td>350.0</td>
-      <td>956</td>
-      <td>6870</td>
-      <td>7.19</td>
+      <td>1147</td>
+      <td>7974</td>
+      <td>6.95</td>
+    </tr>
+    <tr>
+      <td>Okholm</td>
+      <td>350.0</td>
+      <td>1113</td>
+      <td>7931</td>
+      <td>7.13</td>
     </tr>
     <tr>
       <td>Knak</td>
       <td>349.8</td>
-      <td>992</td>
-      <td>6746</td>
-      <td>6.80</td>
-    </tr>
-    <tr>
-      <td>Tommy</td>
-      <td>350.0</td>
-      <td>931</td>
-      <td>6583</td>
-      <td>7.07</td>
+      <td>1108</td>
+      <td>7498</td>
+      <td>6.77</td>
     </tr>
     <tr>
       <td>Jarma</td>
       <td>350.0</td>
-      <td>947</td>
-      <td>6500</td>
-      <td>6.86</td>
+      <td>1119</td>
+      <td>7419</td>
+      <td>6.63</td>
+    </tr>
+    <tr>
+      <td>Tommy</td>
+      <td>350.0</td>
+      <td>1054</td>
+      <td>7381</td>
+      <td>7.00</td>
     </tr>
     <tr>
       <td>Hustlersen</td>
       <td>327.8</td>
-      <td>876</td>
-      <td>6326</td>
-      <td>7.22</td>
+      <td>1023</td>
+      <td>7167</td>
+      <td>7.01</td>
     </tr>
     <tr>
       <td>Matti</td>
       <td>349.1</td>
-      <td>1004</td>
-      <td>6256</td>
-      <td>6.23</td>
+      <td>1151</td>
+      <td>7126</td>
+      <td>6.19</td>
     </tr>
   </tbody>
 </table>
