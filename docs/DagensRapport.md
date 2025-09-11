@@ -6,18 +6,18 @@ hide:
 
 ## 2025-09-11
 ### Hovedspillet
-Almeida, João **25.0** (Chrelle, Kenk)
 
-Segaert, Alec **12.0** (Knak, Tommy, Visti)
+Almeida, João **25** (Chrelle, Kenk)
 
-Vingegaard, Jonas **10.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Segaert, Alec **12** (Knak, Tommy, Visti)
 
-Pedersen, Mads **2.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
+Vingegaard, Jonas **10** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
+Pedersen, Mads **2** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
 ### Cheapo
-O'Brien, Kelland **14.0** (Hustlersen)
 
+O'Brien, Kelland **14** (Hustlersen)
 
 
 
@@ -25,16 +25,16 @@ O'Brien, Kelland **14.0** (Hustlersen)
 
 ## 2025-09-10
 ### Hovedspillet
-Pellizzari, Giulio **40.0** (Tommy)
 
-Pidcock, Tom **30.0** (Chrelle, Jappo, Knak)
+Pellizzari, Giulio **40** (Tommy)
 
-Vingegaard, Jonas **20.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Pidcock, Tom **30** (Chrelle, Jappo, Knak)
 
-Almeida, João **18.0** (Chrelle, Kenk)
+Vingegaard, Jonas **20** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Gall, Felix **14.0** (Chrelle, Matti, Visti)
+Almeida, João **18** (Chrelle, Kenk)
 
+Gall, Felix **14** (Chrelle, Matti, Visti)
 
 ### Cheapo
 
@@ -44,22 +44,22 @@ Gall, Felix **14.0** (Chrelle, Matti, Visti)
 
 ## 2025-09-09
 ### Hovedspillet
-Landa, Mikel **30.0** (Jappo, Jarma, Visti)
 
-Rolland, Brieuc **25.0** (Kenk)
+Landa, Mikel **30** (Jappo, Jarma, Visti)
 
-Bagioli, Andrea **3.0** (Jarma, Kenk)
+Rolland, Brieuc **25** (Kenk)
 
-Vingegaard, Jonas **1.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Bagioli, Andrea **3** (Jarma, Kenk)
 
+Vingegaard, Jonas **1** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
 ### Cheapo
-Rolland, Brieuc **25.0** (Jappo, Jarma, Kenk)
 
-Pickering, Finlay **12.0** (Chrelle, Jarma)
+Rolland, Brieuc **25** (Jappo, Jarma, Kenk)
 
-Quinn, Sean **10.0** (Hustlersen)
+Pickering, Finlay **12** (Chrelle, Jarma)
 
+Quinn, Sean **10** (Hustlersen)
 
 
 
@@ -67,58 +67,58 @@ Quinn, Sean **10.0** (Hustlersen)
 
 ## 2025-09-07
 ### Hovedspillet
-Grégoire, Romain **50.0** (Chrelle, Jarma, Knak)
 
-Pedersen, Mads **40.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
+Grégoire, Romain **50** (Chrelle, Jarma, Knak)
 
-Aular, Orluis **30.0** (Visti)
+Pedersen, Mads **40** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Onley, Oscar **30.0** (Hustlersen, Okholm)
+Onley, Oscar **30** (Hustlersen, Okholm)
 
-Frigo, Marco **25.0** (Jarma)
+Aular, Orluis **30** (Visti)
 
-Buitrago, Santiago **20.0** (Matti)
+Frigo, Marco **25** (Jarma)
 
-Wilder, Ilan Van **18.0** (Chrelle)
+Buitrago, Santiago **20** (Matti)
 
-Mollema, Bauke **16.0** (Knak)
+Wilder, Ilan Van **18** (Chrelle)
 
-Kooij, Olav **15.0** (Kenk, Matti, Tommy, Visti)
+Mollema, Bauke **16** (Knak)
 
-Watson, Sam **12.0** (Tommy)
+Kooij, Olav **15** (Kenk, Matti, Tommy, Visti)
 
-Sivakov, Pavel **12.0** (Jarma, Okholm)
+Sivakov, Pavel **12** (Jarma, Okholm)
 
-Sheffield, Magnus **10.0** (Okholm)
+Watson, Sam **12** (Tommy)
 
-Segaert, Alec **8.0** (Knak, Tommy, Visti)
+Sheffield, Magnus **10** (Okholm)
 
-August, AJ **4.0** (Hustlersen)
+Segaert, Alec **8** (Knak, Tommy, Visti)
 
-Brennan, Matthew **2.0** (Chrelle, Hustlersen, Kenk)
+August, AJ **4** (Hustlersen)
 
-Morgado, António **2.0** (Hustlersen, Jappo, Matti, Visti)
+Morgado, António **2** (Hustlersen, Jappo, Matti, Visti)
 
-Nerurkar, Lukas **2.0** (Hustlersen, Jarma)
+Nerurkar, Lukas **2** (Hustlersen, Jarma)
 
-Artz, Huub **1.0** (Jarma)
+Brennan, Matthew **2** (Chrelle, Hustlersen, Kenk)
 
+Artz, Huub **1** (Jarma)
 
 ### Cheapo
-Frigo, Marco **25.0** (Jarma)
 
-Eulálio, Afonso **20.0** (Visti)
+Frigo, Marco **25** (Jarma)
 
-Vervaeke, Louis **14.0** (Jarma)
+Eulálio, Afonso **20** (Visti)
 
-Tronchon, Bastien **4.0** (Chrelle, Jappo, Kenk, Knak, Visti)
+Vervaeke, Louis **14** (Jarma)
 
-August, AJ **4.0** (Chrelle, Hustlersen)
+Tronchon, Bastien **4** (Chrelle, Jappo, Kenk, Knak, Visti)
 
-Crabbe, Tom **3.0** (Hustlersen)
+August, AJ **4** (Chrelle, Hustlersen)
 
-Artz, Huub **1.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)
+Crabbe, Tom **3** (Hustlersen)
 
+Artz, Huub **1** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)
 
 
 
@@ -126,30 +126,30 @@ Artz, Huub **1.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)
 
 ## 2025-09-06
 ### Hovedspillet
-Vingegaard, Jonas **30.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Almeida, João **25.0** (Chrelle, Kenk)
+Vingegaard, Jonas **30** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Gall, Felix **18.0** (Chrelle, Matti, Visti)
+Almeida, João **25** (Chrelle, Kenk)
 
-Pellizzari, Giulio **16.0** (Tommy)
+Gall, Felix **18** (Chrelle, Matti, Visti)
 
-Pidcock, Tom **12.0** (Chrelle, Jappo, Knak)
+Pellizzari, Giulio **16** (Tommy)
 
-Onley, Oscar **10.0** (Hustlersen, Okholm)
+Pidcock, Tom **12** (Chrelle, Jappo, Knak)
 
-Grégoire, Romain **6.0** (Chrelle, Jarma, Knak)
+Onley, Oscar **10** (Hustlersen, Okholm)
 
-Mollema, Bauke **5.0** (Knak)
+Grégoire, Romain **6** (Chrelle, Jarma, Knak)
 
-Sivakov, Pavel **1.0** (Jarma, Okholm)
+Mollema, Bauke **5** (Knak)
 
+Sivakov, Pavel **1** (Jarma, Okholm)
 
 ### Cheapo
-Pickering, Finlay **8.0** (Chrelle, Jarma)
 
-Eulálio, Afonso **8.0** (Visti)
+Eulálio, Afonso **8** (Visti)
 
+Pickering, Finlay **8** (Chrelle, Jarma)
 
 
 
@@ -157,26 +157,26 @@ Eulálio, Afonso **8.0** (Visti)
 
 ## 2025-09-05
 ### Hovedspillet
-Almeida, João **40.0** (Chrelle, Kenk)
 
-Vingegaard, Jonas **30.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Almeida, João **40** (Chrelle, Kenk)
 
-Gall, Felix **18.0** (Chrelle, Matti, Visti)
+Vingegaard, Jonas **30** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Pellizzari, Giulio **16.0** (Tommy)
+Gall, Felix **18** (Chrelle, Matti, Visti)
 
-Grégoire, Romain **15.0** (Chrelle, Jarma, Knak)
+Pellizzari, Giulio **16** (Tommy)
 
-Pidcock, Tom **14.0** (Chrelle, Jappo, Knak)
+Grégoire, Romain **15** (Chrelle, Jarma, Knak)
 
-Teutenberg, Tim Torn **5.0** (Hustlersen, Kenk, Tommy)
+Pidcock, Tom **14** (Chrelle, Jappo, Knak)
 
+Teutenberg, Tim Torn **5** (Hustlersen, Kenk, Tommy)
 
 ### Cheapo
-Stokbro, Andreas **3.0** (Hustlersen)
 
-Eulálio, Afonso **1.0** (Visti)
+Stokbro, Andreas **3** (Hustlersen)
 
+Eulálio, Afonso **1** (Visti)
 
 
 
@@ -184,32 +184,32 @@ Eulálio, Afonso **1.0** (Visti)
 
 ## 2025-09-04
 ### Hovedspillet
-Ayuso, Juan **40.0** (Hustlersen, Kenk)
 
-Rolland, Brieuc **25.0** (Kenk)
+Ayuso, Juan **40** (Hustlersen, Kenk)
 
-Campenaerts, Victor **20.0** (Tommy)
+Rolland, Brieuc **25** (Kenk)
 
-Pedersen, Mads **18.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
+Campenaerts, Victor **20** (Tommy)
 
-Brennan, Matthew **15.0** (Chrelle, Hustlersen, Kenk)
+Pedersen, Mads **18** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Buitrago, Santiago **12.0** (Matti)
+Brennan, Matthew **15** (Chrelle, Hustlersen, Kenk)
 
-Castrillo, Pablo **8.0** (Matti)
+Buitrago, Santiago **12** (Matti)
 
-Teutenberg, Tim Torn **5.0** (Hustlersen, Kenk, Tommy)
+Castrillo, Pablo **8** (Matti)
 
-Kooij, Olav **2.0** (Kenk, Matti, Tommy, Visti)
+Teutenberg, Tim Torn **5** (Hustlersen, Kenk, Tommy)
 
+Kooij, Olav **2** (Kenk, Matti, Tommy, Visti)
 
 ### Cheapo
-Rolland, Brieuc **25.0** (Jappo, Jarma, Kenk)
 
-Vervaeke, Louis **6.0** (Jarma)
+Rolland, Brieuc **25** (Jappo, Jarma, Kenk)
 
-Crabbe, Tom **3.0** (Hustlersen)
+Vervaeke, Louis **6** (Jarma)
 
+Crabbe, Tom **3** (Hustlersen)
 
 
 
@@ -217,14 +217,14 @@ Crabbe, Tom **3.0** (Hustlersen)
 
 ## 2025-09-03
 ### Hovedspillet
-Kooij, Olav **15.0** (Kenk, Matti, Tommy, Visti)
 
-Watson, Sam **10.0** (Tommy)
+Kooij, Olav **15** (Kenk, Matti, Tommy, Visti)
 
+Watson, Sam **10** (Tommy)
 
 ### Cheapo
-Crabbe, Tom **12.0** (Hustlersen)
 
+Crabbe, Tom **12** (Hustlersen)
 
 
 
@@ -232,28 +232,28 @@ Crabbe, Tom **12.0** (Hustlersen)
 
 ## 2025-09-02
 ### Hovedspillet
-Castrillo, Pablo **30.0** (Matti)
 
-Pidcock, Tom **18.0** (Chrelle, Jappo, Knak)
+Castrillo, Pablo **30** (Matti)
 
-Kooij, Olav **15.0** (Kenk, Matti, Tommy, Visti)
+Pidcock, Tom **18** (Chrelle, Jappo, Knak)
 
-Teutenberg, Tim Torn **8.0** (Hustlersen, Kenk, Tommy)
+Kooij, Olav **15** (Kenk, Matti, Tommy, Visti)
 
-Almeida, João **8.0** (Chrelle, Kenk)
+Almeida, João **8** (Chrelle, Kenk)
 
-Vingegaard, Jonas **6.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Teutenberg, Tim Torn **8** (Hustlersen, Kenk, Tommy)
 
-Watson, Sam **5.0** (Tommy)
+Vingegaard, Jonas **6** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Pellizzari, Giulio **2.0** (Tommy)
+Watson, Sam **5** (Tommy)
 
+Pellizzari, Giulio **2** (Tommy)
 
 ### Cheapo
-Gudmestad, Tord **12.0** (Visti)
 
-Crabbe, Tom **4.0** (Hustlersen)
+Gudmestad, Tord **12** (Visti)
 
+Crabbe, Tom **4** (Hustlersen)
 
 
 
@@ -261,36 +261,36 @@ Crabbe, Tom **4.0** (Hustlersen)
 
 ## 2025-08-31
 ### Hovedspillet
-Lie, Arnaud De **70.0** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
 
-Jeanniere, Emilien **60.0** (Chrelle, Jappo, Knak)
+Lie, Arnaud De **70** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
 
-Kooij, Olav **50.0** (Kenk, Matti, Tommy, Visti)
+Jeanniere, Emilien **60** (Chrelle, Jappo, Knak)
 
-Magnier, Paul **40.0** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
+Kooij, Olav **50** (Kenk, Matti, Tommy, Visti)
 
-Vingegaard, Jonas **40.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Vingegaard, Jonas **40** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Girmay, Biniam **35.0** (Jappo, Knak, Matti, Okholm, Visti)
+Magnier, Paul **40** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
 
-Pidcock, Tom **30.0** (Chrelle, Jappo, Knak)
+Girmay, Biniam **35** (Jappo, Knak, Matti, Okholm, Visti)
 
-Almeida, João **25.0** (Chrelle, Kenk)
+Pidcock, Tom **30** (Chrelle, Jappo, Knak)
 
-Gall, Felix **20.0** (Chrelle, Matti, Visti)
+Almeida, João **25** (Chrelle, Kenk)
 
-Andresen, Tobias Lund **18.0** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Gall, Felix **20** (Chrelle, Matti, Visti)
 
-Strong, Corbin **10.0** (Knak, Visti)
+Andresen, Tobias Lund **18** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Grégoire, Romain **2.0** (Chrelle, Jarma, Knak)
+Strong, Corbin **10** (Knak, Visti)
 
+Grégoire, Romain **2** (Chrelle, Jarma, Knak)
 
 ### Cheapo
-Pluimers, Rick **30.0** (Chrelle, Jappo, Jarma, Knak)
 
-Dijke, Mick van **1.0** (Jarma, Kenk, Visti)
+Pluimers, Rick **30** (Chrelle, Jappo, Jarma, Knak)
 
+Dijke, Mick van **1** (Jarma, Kenk, Visti)
 
 
 
@@ -298,24 +298,24 @@ Dijke, Mick van **1.0** (Jarma, Kenk, Visti)
 
 ## 2025-08-30
 ### Hovedspillet
-Philipsen, Jasper **40.0** (Jarma, Knak)
 
-Foldager, Anders **20.0** (Hustlersen)
+Philipsen, Jasper **40** (Jarma, Knak)
 
-Mihkels, Madis **18.0** (Hustlersen, Matti, Visti)
+Foldager, Anders **20** (Hustlersen)
 
-Pedersen, Mads **10.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
+Mihkels, Madis **18** (Hustlersen, Matti, Visti)
 
-Dijke, Tim van **4.0** (Kenk, Visti)
+Pedersen, Mads **10** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
+Dijke, Tim van **4** (Kenk, Visti)
 
 ### Cheapo
-Marit, Arne **25.0** (Kenk, Visti)
 
-Foldager, Anders **20.0** (Hustlersen, Jappo, Kenk, Visti)
+Marit, Arne **25** (Kenk, Visti)
 
-Silva, Thomas **3.0** (Jappo, Kenk, Visti)
+Foldager, Anders **20** (Hustlersen, Jappo, Kenk, Visti)
 
+Silva, Thomas **3** (Jappo, Kenk, Visti)
 
 
 
@@ -323,26 +323,26 @@ Silva, Thomas **3.0** (Jappo, Kenk, Visti)
 
 ## 2025-08-29
 ### Hovedspillet
-Ayuso, Juan **40.0** (Hustlersen, Kenk)
 
-Frigo, Marco **30.0** (Jarma)
+Ayuso, Juan **40** (Hustlersen, Kenk)
 
-Rolland, Brieuc **12.0** (Kenk)
+Frigo, Marco **30** (Jarma)
 
-Pidcock, Tom **8.0** (Chrelle, Jappo, Knak)
+Rolland, Brieuc **12** (Kenk)
 
-Gall, Felix **6.0** (Chrelle, Matti, Visti)
+Pidcock, Tom **8** (Chrelle, Jappo, Knak)
 
-Pellizzari, Giulio **2.0** (Tommy)
+Gall, Felix **6** (Chrelle, Matti, Visti)
 
+Pellizzari, Giulio **2** (Tommy)
 
 ### Cheapo
-Frigo, Marco **30.0** (Jarma)
 
-Quinn, Sean **18.0** (Hustlersen)
+Frigo, Marco **30** (Jarma)
 
-Rolland, Brieuc **12.0** (Jappo, Jarma, Kenk)
+Quinn, Sean **18** (Hustlersen)
 
+Rolland, Brieuc **12** (Jappo, Jarma, Kenk)
 
 
 
@@ -350,18 +350,18 @@ Rolland, Brieuc **12.0** (Jappo, Jarma, Kenk)
 
 ## 2025-08-28
 ### Hovedspillet
-Castrillo, Pablo **18.0** (Matti)
 
-Almeida, João **8.0** (Chrelle, Kenk)
+Castrillo, Pablo **18** (Matti)
 
-Vingegaard, Jonas **6.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Almeida, João **8** (Chrelle, Kenk)
 
-Gall, Felix **3.0** (Chrelle, Matti, Visti)
+Vingegaard, Jonas **6** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
+Gall, Felix **3** (Chrelle, Matti, Visti)
 
 ### Cheapo
-Vervaeke, Louis **14.0** (Jarma)
 
+Vervaeke, Louis **14** (Jarma)
 
 
 
@@ -369,20 +369,20 @@ Vervaeke, Louis **14.0** (Jarma)
 
 ## 2025-08-26
 ### Hovedspillet
-Philipsen, Jasper **30.0** (Jarma, Knak)
 
-Pedersen, Mads **16.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
+Philipsen, Jasper **30** (Jarma, Knak)
 
-Aular, Orluis **12.0** (Visti)
+Pedersen, Mads **16** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Mihkels, Madis **6.0** (Hustlersen, Matti, Visti)
+Aular, Orluis **12** (Visti)
 
+Mihkels, Madis **6** (Hustlersen, Matti, Visti)
 
 ### Cheapo
-Silva, Thomas **10.0** (Jappo, Kenk, Visti)
 
-Canal, Carlos **1.0** (Chrelle, Jappo, Jarma, Kenk, Visti)
+Silva, Thomas **10** (Jappo, Kenk, Visti)
 
+Canal, Carlos **1** (Chrelle, Jappo, Jarma, Kenk, Visti)
 
 
 
@@ -390,16 +390,16 @@ Canal, Carlos **1.0** (Chrelle, Jappo, Jarma, Kenk, Visti)
 
 ## 2025-08-25
 ### Hovedspillet
-Pedersen, Mads **30.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Vingegaard, Jonas **25.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Pedersen, Mads **30** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Aular, Orluis **16.0** (Visti)
+Vingegaard, Jonas **25** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Buitrago, Santiago **14.0** (Matti)
+Aular, Orluis **16** (Visti)
 
-Fisher-Black, Finn **4.0** (Chrelle, Jappo)
+Buitrago, Santiago **14** (Matti)
 
+Fisher-Black, Finn **4** (Chrelle, Jappo)
 
 ### Cheapo
 
@@ -409,72 +409,72 @@ Fisher-Black, Finn **4.0** (Chrelle, Jappo)
 
 ## 2025-08-24
 ### Hovedspillet
-Lie, Arnaud De **125.0** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
 
-Poel, Mathieu van der **105.0** (Jarma)
+Lie, Arnaud De **125** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
 
-Kooij, Olav **54.0** (Kenk, Matti, Tommy, Visti)
+Poel, Mathieu van der **105** (Jarma)
 
-Brennan, Matthew **45.0** (Chrelle, Hustlersen, Kenk)
+Kooij, Olav **54** (Kenk, Matti, Tommy, Visti)
 
-Vingegaard, Jonas **40.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Brennan, Matthew **45** (Chrelle, Hustlersen, Kenk)
 
-Narváez, Jhonatan **40.0** (Hustlersen, Kenk)
+Narváez, Jhonatan **40** (Hustlersen, Kenk)
 
-Sheehan, Riley **35.0** (Okholm)
+Vingegaard, Jonas **40** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Del Grosso, Tibor **30.0** (Jarma)
+Sheehan, Riley **35** (Okholm)
 
-Watson, Sam **25.0** (Tommy)
+Del Grosso, Tibor **30** (Jarma)
 
-Aert, Wout van **20.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Watson, Sam **25** (Tommy)
 
-Naesen, Oliver **18.0** (Knak)
+Aert, Wout van **20** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Almeida, João **18.0** (Chrelle, Kenk)
+Naesen, Oliver **18** (Knak)
 
-Vermeersch, Florian **16.0** (Kenk, Visti)
+Almeida, João **18** (Chrelle, Kenk)
 
-Gall, Felix **16.0** (Chrelle, Matti, Visti)
+Vermeersch, Florian **16** (Kenk, Visti)
 
-Ayuso, Juan **12.0** (Hustlersen, Kenk)
+Gall, Felix **16** (Chrelle, Matti, Visti)
 
-Laurance, Axel **11.0** (Jappo, Matti, Okholm)
+Ayuso, Juan **12** (Hustlersen, Kenk)
 
-Milan, Jonathan **10.0** (Jarma, Kenk, Matti, Okholm, Visti)
+Laurance, Axel **11** (Jappo, Matti, Okholm)
 
-Romeo, Iván **8.0** (Matti)
+Milan, Jonathan **10** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Pidcock, Tom **8.0** (Chrelle, Jappo, Knak)
+Romeo, Iván **8** (Matti)
 
-Penhoët, Paul **6.0** (Jarma)
+Pidcock, Tom **8** (Chrelle, Jappo, Knak)
 
-Adrià, Roger **6.0** (Okholm)
+Penhoët, Paul **6** (Jarma)
 
-Wilder, Ilan Van **4.0** (Chrelle)
+Adrià, Roger **6** (Okholm)
 
-Uhlig, Henri **4.0** (Hustlersen)
+Magnier, Paul **4** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
 
-Magnier, Paul **4.0** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
+Wilder, Ilan Van **4** (Chrelle)
 
-Pithie, Laurence **2.0** (Tommy)
+Uhlig, Henri **4** (Hustlersen)
 
-Girmay, Biniam **1.0** (Jappo, Knak, Matti, Okholm, Visti)
+Pithie, Laurence **2** (Tommy)
 
+Girmay, Biniam **1** (Jappo, Knak, Matti, Okholm, Visti)
 
 ### Cheapo
-Del Grosso, Tibor **30.0** (Chrelle, Jappo, Jarma, Kenk)
 
-Naesen, Oliver **18.0** (Jarma, Knak, Visti)
+Del Grosso, Tibor **30** (Chrelle, Jappo, Jarma, Kenk)
 
-Haller, Marco **14.0** (Visti)
+Naesen, Oliver **18** (Jarma, Knak, Visti)
 
-Eenkhoorn, Pascal **12.0** (Kenk, Visti)
+Haller, Marco **14** (Visti)
 
-Romeo, Iván **8.0** (Chrelle, Jappo)
+Eenkhoorn, Pascal **12** (Kenk, Visti)
 
-Langellotti, Victor **1.0** (Hustlersen)
+Romeo, Iván **8** (Chrelle, Jappo)
 
+Langellotti, Victor **1** (Hustlersen)
 
 
 
@@ -482,46 +482,46 @@ Langellotti, Victor **1.0** (Hustlersen)
 
 ## 2025-08-23
 ### Hovedspillet
-Philipsen, Jasper **40.0** (Jarma, Knak)
 
-Aular, Orluis **25.0** (Visti)
+Philipsen, Jasper **40** (Jarma, Knak)
 
-Merlier, Tim **25.0** (Jappo, Knak, Matti, Tommy)
+Merlier, Tim **25** (Jappo, Knak, Matti, Tommy)
 
-Kooij, Olav **16.0** (Kenk, Matti, Tommy, Visti)
+Aular, Orluis **25** (Visti)
 
-Penhoët, Paul **14.0** (Jarma)
+Kooij, Olav **16** (Kenk, Matti, Tommy, Visti)
 
-Jeanniere, Emilien **12.0** (Chrelle, Jappo, Knak)
+Penhoët, Paul **14** (Jarma)
 
-Girmay, Biniam **10.0** (Jappo, Knak, Matti, Okholm, Visti)
+Jeanniere, Emilien **12** (Chrelle, Jappo, Knak)
 
-Pidcock, Tom **10.0** (Chrelle, Jappo, Knak)
+Girmay, Biniam **10** (Jappo, Knak, Matti, Okholm, Visti)
 
-Watson, Sam **10.0** (Tommy)
+Pidcock, Tom **10** (Chrelle, Jappo, Knak)
 
-Laurance, Axel **8.0** (Jappo, Matti, Okholm)
+Watson, Sam **10** (Tommy)
 
-Sheehan, Riley **8.0** (Okholm)
+Sheehan, Riley **8** (Okholm)
 
-Mihkels, Madis **8.0** (Hustlersen, Matti, Visti)
+Mihkels, Madis **8** (Hustlersen, Matti, Visti)
 
-Dijke, Tim van **6.0** (Kenk, Visti)
+Laurance, Axel **8** (Jappo, Matti, Okholm)
 
-Brennan, Matthew **4.0** (Chrelle, Hustlersen, Kenk)
+Dijke, Tim van **6** (Kenk, Visti)
 
-Pedersen, Mads **2.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
+Brennan, Matthew **4** (Chrelle, Hustlersen, Kenk)
 
+Pedersen, Mads **2** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
 ### Cheapo
-Silva, Thomas **12.0** (Jappo, Kenk, Visti)
 
-Dehairs, Simon **6.0** (Jappo, Jarma, Kenk, Visti)
+Silva, Thomas **12** (Jappo, Kenk, Visti)
 
-Gudmestad, Tord **4.0** (Visti)
+Dehairs, Simon **6** (Jappo, Jarma, Kenk, Visti)
 
-Haller, Marco **2.0** (Visti)
+Gudmestad, Tord **4** (Visti)
 
+Haller, Marco **2** (Visti)
 
 
 
@@ -529,36 +529,36 @@ Haller, Marco **2.0** (Visti)
 
 ## 2025-08-22
 ### Hovedspillet
-Poel, Mathieu van der **25.0** (Jarma)
 
-Lie, Arnaud De **20.0** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
+Poel, Mathieu van der **25** (Jarma)
 
-Narváez, Jhonatan **15.0** (Hustlersen, Kenk)
+Lie, Arnaud De **20** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
 
-Del Grosso, Tibor **14.0** (Jarma)
+Narváez, Jhonatan **15** (Hustlersen, Kenk)
 
-Sheehan, Riley **12.0** (Okholm)
+Del Grosso, Tibor **14** (Jarma)
 
-Laurance, Axel **8.0** (Jappo, Matti, Okholm)
+Sheehan, Riley **12** (Okholm)
 
-Milan, Jonathan **6.0** (Jarma, Kenk, Matti, Okholm, Visti)
+Laurance, Axel **8** (Jappo, Matti, Okholm)
 
-Jeanniere, Emilien **4.0** (Chrelle, Jappo, Knak)
+Milan, Jonathan **6** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Brennan, Matthew **3.0** (Chrelle, Hustlersen, Kenk)
+Jeanniere, Emilien **4** (Chrelle, Jappo, Knak)
 
-Kooij, Olav **3.0** (Kenk, Matti, Tommy, Visti)
+Brennan, Matthew **3** (Chrelle, Hustlersen, Kenk)
 
-Naesen, Oliver **1.0** (Knak)
+Kooij, Olav **3** (Kenk, Matti, Tommy, Visti)
 
+Naesen, Oliver **1** (Knak)
 
 ### Cheapo
-Del Grosso, Tibor **14.0** (Chrelle, Jappo, Jarma, Kenk)
 
-Haller, Marco **2.0** (Visti)
+Del Grosso, Tibor **14** (Chrelle, Jappo, Jarma, Kenk)
 
-Naesen, Oliver **1.0** (Jarma, Knak, Visti)
+Haller, Marco **2** (Visti)
 
+Naesen, Oliver **1** (Jarma, Knak, Visti)
 
 
 
@@ -566,28 +566,28 @@ Naesen, Oliver **1.0** (Jarma, Knak, Visti)
 
 ## 2025-08-21
 ### Hovedspillet
-Kooij, Olav **25.0** (Kenk, Matti, Tommy, Visti)
 
-Brennan, Matthew **15.0** (Chrelle, Hustlersen, Kenk)
+Kooij, Olav **25** (Kenk, Matti, Tommy, Visti)
 
-Girmay, Biniam **14.0** (Jappo, Knak, Matti, Okholm, Visti)
+Brennan, Matthew **15** (Chrelle, Hustlersen, Kenk)
 
-Milan, Jonathan **12.0** (Jarma, Kenk, Matti, Okholm, Visti)
+Girmay, Biniam **14** (Jappo, Knak, Matti, Okholm, Visti)
 
-Merlier, Tim **10.0** (Jappo, Knak, Matti, Tommy)
+Milan, Jonathan **12** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Jeanniere, Emilien **8.0** (Chrelle, Jappo, Knak)
+Merlier, Tim **10** (Jappo, Knak, Matti, Tommy)
 
+Jeanniere, Emilien **8** (Chrelle, Jappo, Knak)
 
 ### Cheapo
-Gudmestad, Tord **6.0** (Visti)
 
-Capiot, Amaury **4.0** (Chrelle, Jappo, Jarma, Knak)
+Gudmestad, Tord **6** (Visti)
 
-Dehairs, Simon **3.0** (Jappo, Jarma, Kenk, Visti)
+Capiot, Amaury **4** (Chrelle, Jappo, Jarma, Knak)
 
-Gautherat, Pierre **1.0** (Jappo, Kenk, Knak, Visti)
+Dehairs, Simon **3** (Jappo, Jarma, Kenk, Visti)
 
+Gautherat, Pierre **1** (Jappo, Kenk, Knak, Visti)
 
 
 
@@ -595,32 +595,32 @@ Gautherat, Pierre **1.0** (Jappo, Kenk, Knak, Visti)
 
 ## 2025-08-20
 ### Hovedspillet
-Merlier, Tim **25.0** (Jappo, Knak, Matti, Tommy)
 
-Lie, Arnaud De **20.0** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
+Merlier, Tim **25** (Jappo, Knak, Matti, Tommy)
 
-Girmay, Biniam **12.0** (Jappo, Knak, Matti, Okholm, Visti)
+Lie, Arnaud De **20** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
 
-Watson, Sam **12.0** (Tommy)
+Girmay, Biniam **12** (Jappo, Knak, Matti, Okholm, Visti)
 
-Pithie, Laurence **8.0** (Tommy)
+Watson, Sam **12** (Tommy)
 
-Kooij, Olav **8.0** (Kenk, Matti, Tommy, Visti)
+Pithie, Laurence **8** (Tommy)
 
-Aert, Wout van **6.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Kooij, Olav **8** (Kenk, Matti, Tommy, Visti)
 
+Aert, Wout van **6** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
 ### Cheapo
-Haller, Marco **10.0** (Visti)
 
-Mechelen, Vlad Van **3.0** (Kenk)
+Haller, Marco **10** (Visti)
 
-Dehairs, Simon **3.0** (Jappo, Jarma, Kenk, Visti)
+Mechelen, Vlad Van **3** (Kenk)
 
-Gudmestad, Tord **2.0** (Visti)
+Dehairs, Simon **3** (Jappo, Jarma, Kenk, Visti)
 
-Eenkhoorn, Pascal **1.0** (Kenk, Visti)
+Gudmestad, Tord **2** (Visti)
 
+Eenkhoorn, Pascal **1** (Kenk, Visti)
 
 
 
@@ -628,32 +628,32 @@ Eenkhoorn, Pascal **1.0** (Kenk, Visti)
 
 ## 2025-08-17
 ### Hovedspillet
-Lie, Arnaud De **60.0** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
 
-Magnier, Paul **50.0** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
+Lie, Arnaud De **60** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
 
-Philipsen, Jasper **40.0** (Jarma, Knak)
+Magnier, Paul **50** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
 
-Morgado, António **26.0** (Hustlersen, Jappo, Matti, Visti)
+Philipsen, Jasper **40** (Jarma, Knak)
 
-Girmay, Biniam **22.0** (Jappo, Knak, Matti, Okholm, Visti)
+Morgado, António **26** (Hustlersen, Jappo, Matti, Visti)
 
-Louvel, Matîs **18.0** (Jarma)
+Girmay, Biniam **22** (Jappo, Knak, Matti, Okholm, Visti)
 
-Aert, Wout van **14.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Louvel, Matîs **18** (Jarma)
 
-Penhoët, Paul **10.0** (Jarma)
+Aert, Wout van **14** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Andresen, Tobias Lund **8.0** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Penhoët, Paul **10** (Jarma)
 
-Laurance, Axel **5.0** (Jappo, Matti, Okholm)
+Andresen, Tobias Lund **8** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
+Laurance, Axel **5** (Jappo, Matti, Okholm)
 
 ### Cheapo
-Louvel, Matîs **18.0** (Jarma)
 
-Gautherat, Pierre **3.0** (Jappo, Kenk, Knak, Visti)
+Louvel, Matîs **18** (Jarma)
 
+Gautherat, Pierre **3** (Jappo, Kenk, Knak, Visti)
 
 
 
@@ -661,28 +661,28 @@ Gautherat, Pierre **3.0** (Jappo, Kenk, Knak, Visti)
 
 ## 2025-08-10
 ### Hovedspillet
-Christen, Jan **66.0** (Kenk)
 
-Frigo, Marco **44.0** (Jarma)
+Christen, Jan **66** (Kenk)
 
-Staune-Mittet, Johannes **18.0** (Chrelle, Matti)
+Frigo, Marco **44** (Jarma)
 
-Artz, Huub **8.0** (Jarma)
+Staune-Mittet, Johannes **18** (Chrelle, Matti)
 
-Ulissi, Diego **4.0** (Knak)
+Artz, Huub **8** (Jarma)
 
-Brennan, Matthew **2.0** (Chrelle, Hustlersen, Kenk)
+Ulissi, Diego **4** (Knak)
 
+Brennan, Matthew **2** (Chrelle, Hustlersen, Kenk)
 
 ### Cheapo
-Langellotti, Victor **50.0** (Hustlersen)
 
-Frigo, Marco **44.0** (Jarma)
+Langellotti, Victor **50** (Hustlersen)
 
-Voisard, Yannis **20.0** (Chrelle, Hustlersen, Knak)
+Frigo, Marco **44** (Jarma)
 
-Artz, Huub **8.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)
+Voisard, Yannis **20** (Chrelle, Hustlersen, Knak)
 
+Artz, Huub **8** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)
 
 
 
@@ -690,28 +690,28 @@ Artz, Huub **8.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)
 
 ## 2025-08-09
 ### Hovedspillet
-Pellizzari, Giulio **34.0** (Tommy)
 
-Aleotti, Giovanni **19.0** (Okholm)
+Pellizzari, Giulio **34** (Tommy)
 
-Staune-Mittet, Johannes **14.0** (Chrelle, Matti)
+Aleotti, Giovanni **19** (Okholm)
 
-Frigo, Marco **8.0** (Jarma)
+Staune-Mittet, Johannes **14** (Chrelle, Matti)
 
-Christen, Jan **3.0** (Kenk)
+Frigo, Marco **8** (Jarma)
 
+Christen, Jan **3** (Kenk)
 
 ### Cheapo
-Bisiaux, Léo **35.0** (Hustlersen, Jappo, Kenk)
 
-Langellotti, Victor **25.0** (Hustlersen)
+Bisiaux, Léo **35** (Hustlersen, Jappo, Kenk)
 
-Voisard, Yannis **10.0** (Chrelle, Hustlersen, Knak)
+Langellotti, Victor **25** (Hustlersen)
 
-Frigo, Marco **8.0** (Jarma)
+Voisard, Yannis **10** (Chrelle, Hustlersen, Knak)
 
-Pescador, Diego **4.0** (Jappo, Jarma, Kenk, Visti)
+Frigo, Marco **8** (Jarma)
 
+Pescador, Diego **4** (Jappo, Jarma, Kenk, Visti)
 
 
 
@@ -719,16 +719,16 @@ Pescador, Diego **4.0** (Jappo, Jarma, Kenk, Visti)
 
 ## 2025-08-08
 ### Hovedspillet
-Brennan, Matthew **25.0** (Chrelle, Hustlersen, Kenk)
 
-Bagioli, Andrea **16.0** (Jarma, Kenk)
+Brennan, Matthew **25** (Chrelle, Hustlersen, Kenk)
 
-Fisher-Black, Finn **8.0** (Chrelle, Jappo)
+Bagioli, Andrea **16** (Jarma, Kenk)
 
+Fisher-Black, Finn **8** (Chrelle, Jappo)
 
 ### Cheapo
-Langellotti, Victor **2.0** (Hustlersen)
 
+Langellotti, Victor **2** (Hustlersen)
 
 
 
@@ -736,32 +736,32 @@ Langellotti, Victor **2.0** (Hustlersen)
 
 ## 2025-08-07
 ### Hovedspillet
-Magnier, Paul **25.0** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
 
-Teutenberg, Tim Torn **16.0** (Hustlersen, Kenk, Tommy)
+Magnier, Paul **25** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
 
-Mihkels, Madis **12.0** (Hustlersen, Matti, Visti)
+Teutenberg, Tim Torn **16** (Hustlersen, Kenk, Tommy)
 
-Pellizzari, Giulio **10.0** (Tommy)
+Mihkels, Madis **12** (Hustlersen, Matti, Visti)
 
-Dijke, Tim van **8.0** (Kenk, Visti)
+Pellizzari, Giulio **10** (Tommy)
 
-Aleotti, Giovanni **5.0** (Okholm)
+Dijke, Tim van **8** (Kenk, Visti)
 
-Fisher-Black, Finn **4.0** (Chrelle, Jappo)
+Aleotti, Giovanni **5** (Okholm)
 
-Christen, Jan **3.0** (Kenk)
+Fisher-Black, Finn **4** (Chrelle, Jappo)
 
-August, AJ **2.0** (Hustlersen)
+Christen, Jan **3** (Kenk)
 
+August, AJ **2** (Hustlersen)
 
 ### Cheapo
-Bisiaux, Léo **15.0** (Hustlersen, Jappo, Kenk)
 
-Plowright, Jensen **6.0** (Knak)
+Bisiaux, Léo **15** (Hustlersen, Jappo, Kenk)
 
-August, AJ **2.0** (Chrelle, Hustlersen)
+Plowright, Jensen **6** (Knak)
 
+August, AJ **2** (Chrelle, Hustlersen)
 
 
 
@@ -769,16 +769,16 @@ August, AJ **2.0** (Chrelle, Hustlersen)
 
 ## 2025-08-06
 ### Hovedspillet
-Bagioli, Andrea **16.0** (Jarma, Kenk)
 
-Christen, Jan **14.0** (Kenk)
+Bagioli, Andrea **16** (Jarma, Kenk)
 
+Christen, Jan **14** (Kenk)
 
 ### Cheapo
-Blikra, Erlend **8.0** (Hustlersen)
 
-Gautherat, Pierre **6.0** (Jappo, Kenk, Knak, Visti)
+Blikra, Erlend **8** (Hustlersen)
 
+Gautherat, Pierre **6** (Jappo, Kenk, Knak, Visti)
 
 
 
@@ -786,24 +786,24 @@ Gautherat, Pierre **6.0** (Jappo, Kenk, Knak, Visti)
 
 ## 2025-08-05
 ### Hovedspillet
-Lapeira, Paul **25.0** (Knak, Tommy)
 
-Vacek, Mathias **20.0** (Okholm)
+Lapeira, Paul **25** (Knak, Tommy)
 
-Adrià, Roger **15.0** (Okholm)
+Vacek, Mathias **20** (Okholm)
 
-Christen, Jan **12.0** (Kenk)
+Adrià, Roger **15** (Okholm)
 
-Fisher-Black, Finn **6.0** (Chrelle, Jappo)
+Christen, Jan **12** (Kenk)
 
+Fisher-Black, Finn **6** (Chrelle, Jappo)
 
 ### Cheapo
-Langellotti, Victor **16.0** (Hustlersen)
 
-Eulálio, Afonso **10.0** (Visti)
+Langellotti, Victor **16** (Hustlersen)
 
-Bisiaux, Léo **8.0** (Hustlersen, Jappo, Kenk)
+Eulálio, Afonso **10** (Visti)
 
+Bisiaux, Léo **8** (Hustlersen, Jappo, Kenk)
 
 
 
@@ -811,24 +811,24 @@ Bisiaux, Léo **8.0** (Hustlersen, Jappo, Kenk)
 
 ## 2025-08-04
 ### Hovedspillet
-Kooij, Olav **25.0** (Kenk, Matti, Tommy, Visti)
 
-Magnier, Paul **20.0** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
+Kooij, Olav **25** (Kenk, Matti, Tommy, Visti)
 
-Vermeersch, Florian **6.0** (Kenk, Visti)
+Magnier, Paul **20** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
 
-Kanter, Max **4.0** (Hustlersen)
+Vermeersch, Florian **6** (Kenk, Visti)
 
-Pedersen, Rasmus Søjberg **3.0** (Jarma)
+Kanter, Max **4** (Hustlersen)
 
-Mihkels, Madis **1.0** (Hustlersen, Matti, Visti)
+Pedersen, Rasmus Søjberg **3** (Jarma)
 
+Mihkels, Madis **1** (Hustlersen, Matti, Visti)
 
 ### Cheapo
-Plowright, Jensen **16.0** (Knak)
 
-Pedersen, Rasmus Søjberg **3.0** (Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)
+Plowright, Jensen **16** (Knak)
 
+Pedersen, Rasmus Søjberg **3** (Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)
 
 
 
@@ -836,40 +836,40 @@ Pedersen, Rasmus Søjberg **3.0** (Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)
 
 ## 2025-08-02
 ### Hovedspillet
-Christen, Jan **100.0** (Kenk)
 
-Gils, Maxim Van **85.0** (Kenk, Matti)
+Christen, Jan **100** (Kenk)
 
-Powless, Neilson **50.0** (Jappo)
+Gils, Maxim Van **85** (Kenk, Matti)
 
-Plapp, Luke **40.0** (Chrelle, Hustlersen)
+Powless, Neilson **50** (Jappo)
 
-Uijtdebroeks, Cian **30.0** (Hustlersen)
+Plapp, Luke **40** (Chrelle, Hustlersen)
 
-Schmid, Mauro **20.0** (Jarma, Visti)
+Uijtdebroeks, Cian **30** (Hustlersen)
 
-Kron, Andreas **18.0** (Kenk)
+Schmid, Mauro **20** (Jarma, Visti)
 
-Onley, Oscar **16.0** (Hustlersen, Okholm)
+Kron, Andreas **18** (Kenk)
 
-Grégoire, Romain **12.0** (Chrelle, Jarma, Knak)
+Onley, Oscar **16** (Hustlersen, Okholm)
 
-Nerurkar, Lukas **9.0** (Hustlersen, Jarma)
+Grégoire, Romain **12** (Chrelle, Jarma, Knak)
 
-Roglič, Primož **4.0** (Hustlersen, Knak)
+Nerurkar, Lukas **9** (Hustlersen, Jarma)
 
-Aleotti, Giovanni **2.0** (Okholm)
+Roglič, Primož **4** (Hustlersen, Knak)
 
-Hirschi, Marc **1.0** (Hustlersen, Jappo, Knak)
+Aleotti, Giovanni **2** (Okholm)
 
+Hirschi, Marc **1** (Hustlersen, Jappo, Knak)
 
 ### Cheapo
-Bisiaux, Léo **14.0** (Hustlersen, Jappo, Kenk)
 
-Charmig, Anthon **8.0** (Hustlersen)
+Bisiaux, Léo **14** (Hustlersen, Jappo, Kenk)
 
-Carr, Simon **5.0** (Jappo, Knak)
+Charmig, Anthon **8** (Hustlersen)
 
+Carr, Simon **5** (Jappo, Knak)
 
 
 
@@ -877,42 +877,42 @@ Carr, Simon **5.0** (Jappo, Knak)
 
 ## 2025-07-27
 ### Hovedspillet
-Pogačar, Tadej **200.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Vingegaard, Jonas **150.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Pogačar, Tadej **200** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Lipowitz, Florian **120.0** (Okholm)
+Vingegaard, Jonas **150** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Onley, Oscar **100.0** (Hustlersen, Okholm)
+Lipowitz, Florian **120** (Okholm)
 
-Gall, Felix **90.0** (Chrelle, Matti, Visti)
+Onley, Oscar **100** (Hustlersen, Okholm)
 
-Roglič, Primož **60.0** (Hustlersen, Knak)
+Gall, Felix **90** (Chrelle, Matti, Visti)
 
-Healy, Ben **55.0** (Knak)
+Roglič, Primož **60** (Hustlersen, Knak)
 
-Aert, Wout van **40.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Healy, Ben **55** (Knak)
 
-Narváez, Jhonatan **35.0** (Hustlersen, Kenk)
+Aert, Wout van **40** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Yates, Simon **25.0** (Okholm)
+Narváez, Jhonatan **35** (Hustlersen, Kenk)
 
-Trentin, Matteo **16.0** (Knak)
+Yates, Simon **25** (Okholm)
 
-Lie, Arnaud De **14.0** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
+Trentin, Matteo **16** (Knak)
 
-Teuns, Dylan **8.0** (Knak)
+Lie, Arnaud De **14** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
 
-Andresen, Tobias Lund **4.0** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Teuns, Dylan **8** (Knak)
 
-Girmay, Biniam **3.0** (Jappo, Knak, Matti, Okholm, Visti)
+Andresen, Tobias Lund **4** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Powless, Neilson **1.0** (Jappo)
+Girmay, Biniam **3** (Jappo, Knak, Matti, Okholm, Visti)
 
+Powless, Neilson **1** (Jappo)
 
 ### Cheapo
-Jegat, Jordan **50.0** (Chrelle, Jappo, Knak)
 
+Jegat, Jordan **50** (Chrelle, Jappo, Knak)
 
 
 
@@ -920,22 +920,22 @@ Jegat, Jordan **50.0** (Chrelle, Jappo, Knak)
 
 ## 2025-07-26
 ### Hovedspillet
-Broek, Frank van den **30.0** (Okholm)
 
-Grégoire, Romain **18.0** (Chrelle, Jarma, Knak)
+Broek, Frank van den **30** (Okholm)
 
-Trentin, Matteo **6.0** (Knak)
+Grégoire, Romain **18** (Chrelle, Jarma, Knak)
 
-Abrahamsen, Jonas **1.0** (Tommy)
+Trentin, Matteo **6** (Knak)
 
+Abrahamsen, Jonas **1** (Tommy)
 
 ### Cheapo
-Eenkhoorn, Pascal **25.0** (Kenk, Visti)
 
-Jegat, Jordan **14.0** (Chrelle, Jappo, Knak)
+Eenkhoorn, Pascal **25** (Kenk, Visti)
 
-Costiou, Ewen **4.0** (Jappo, Kenk, Knak)
+Jegat, Jordan **14** (Chrelle, Jappo, Knak)
 
+Costiou, Ewen **4** (Jappo, Kenk, Knak)
 
 
 
@@ -943,26 +943,26 @@ Costiou, Ewen **4.0** (Jappo, Kenk, Knak)
 
 ## 2025-07-25
 ### Hovedspillet
-Vingegaard, Jonas **30.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Pogačar, Tadej **25.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
+Vingegaard, Jonas **30** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Lipowitz, Florian **20.0** (Okholm)
+Pogačar, Tadej **25** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Onley, Oscar **18.0** (Hustlersen, Okholm)
+Lipowitz, Florian **20** (Okholm)
 
-Gall, Felix **16.0** (Chrelle, Matti, Visti)
+Onley, Oscar **18** (Hustlersen, Okholm)
 
-Healy, Ben **12.0** (Knak)
+Gall, Felix **16** (Chrelle, Matti, Visti)
 
-Yates, Simon **8.0** (Okholm)
+Healy, Ben **12** (Knak)
 
-Martinez, Lenny **6.0** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
+Yates, Simon **8** (Okholm)
 
+Martinez, Lenny **6** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
 ### Cheapo
-Jegat, Jordan **2.0** (Chrelle, Jappo, Knak)
 
+Jegat, Jordan **2** (Chrelle, Jappo, Knak)
 
 
 
@@ -970,20 +970,20 @@ Jegat, Jordan **2.0** (Chrelle, Jappo, Knak)
 
 ## 2025-07-24
 ### Hovedspillet
-Pogačar, Tadej **30.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Vingegaard, Jonas **25.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Pogačar, Tadej **30** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Onley, Oscar **20.0** (Hustlersen, Okholm)
+Vingegaard, Jonas **25** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Gall, Felix **16.0** (Chrelle, Matti, Visti)
+Onley, Oscar **20** (Hustlersen, Okholm)
 
-Roglič, Primož **14.0** (Hustlersen, Knak)
+Gall, Felix **16** (Chrelle, Matti, Visti)
 
-Lipowitz, Florian **6.0** (Okholm)
+Roglič, Primož **14** (Hustlersen, Knak)
 
-Narváez, Jhonatan **3.0** (Hustlersen, Kenk)
+Lipowitz, Florian **6** (Okholm)
 
+Narváez, Jhonatan **3** (Hustlersen, Kenk)
 
 ### Cheapo
 
@@ -993,20 +993,20 @@ Narváez, Jhonatan **3.0** (Hustlersen, Kenk)
 
 ## 2025-07-23
 ### Hovedspillet
-Milan, Jonathan **40.0** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Andresen, Tobias Lund **25.0** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Milan, Jonathan **40** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Lie, Arnaud De **20.0** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
+Andresen, Tobias Lund **25** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Penhoët, Paul **14.0** (Jarma)
+Lie, Arnaud De **20** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
 
+Penhoët, Paul **14** (Jarma)
 
 ### Cheapo
-Russo, Clément **10.0** (Jarma)
 
-Moer, Brent Van **6.0** (Visti)
+Russo, Clément **10** (Jarma)
 
+Moer, Brent Van **6** (Visti)
 
 
 
@@ -1014,24 +1014,24 @@ Moer, Brent Van **6.0** (Visti)
 
 ## 2025-07-22
 ### Hovedspillet
-Healy, Ben **30.0** (Knak)
 
-Buitrago, Santiago **25.0** (Matti)
+Healy, Ben **30** (Knak)
 
-Wilder, Ilan Van **20.0** (Chrelle)
+Buitrago, Santiago **25** (Matti)
 
-Pogačar, Tadej **18.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
+Wilder, Ilan Van **20** (Chrelle)
 
-Vingegaard, Jonas **16.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Pogačar, Tadej **18** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Roglič, Primož **10.0** (Hustlersen, Knak)
+Vingegaard, Jonas **16** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Lipowitz, Florian **8.0** (Okholm)
+Roglič, Primož **10** (Hustlersen, Knak)
 
-Onley, Oscar **2.0** (Hustlersen, Okholm)
+Lipowitz, Florian **8** (Okholm)
 
-Rodriguez, Carlos **1.0** (Matti, Visti)
+Onley, Oscar **2** (Hustlersen, Okholm)
 
+Rodriguez, Carlos **1** (Matti, Visti)
 
 ### Cheapo
 
@@ -1041,26 +1041,26 @@ Rodriguez, Carlos **1.0** (Matti, Visti)
 
 ## 2025-07-20
 ### Hovedspillet
-Campenaerts, Victor **30.0** (Tommy)
 
-Aert, Wout van **20.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Campenaerts, Victor **30** (Tommy)
 
-Laurance, Axel **18.0** (Jappo, Matti, Okholm)
+Aert, Wout van **20** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Nys, Thibau **4.0** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Tommy, Visti)
+Laurance, Axel **18** (Jappo, Matti, Okholm)
 
-Romeo, Iván **2.0** (Matti)
+Nys, Thibau **4** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Tommy, Visti)
 
-Buitrago, Santiago **1.0** (Matti)
+Romeo, Iván **2** (Matti)
 
+Buitrago, Santiago **1** (Matti)
 
 ### Cheapo
-Jegat, Jordan **12.0** (Chrelle, Jappo, Knak)
 
-Eenkhoorn, Pascal **3.0** (Kenk, Visti)
+Jegat, Jordan **12** (Chrelle, Jappo, Knak)
 
-Romeo, Iván **2.0** (Chrelle, Jappo)
+Eenkhoorn, Pascal **3** (Kenk, Visti)
 
+Romeo, Iván **2** (Chrelle, Jappo)
 
 
 
@@ -1068,26 +1068,26 @@ Romeo, Iván **2.0** (Chrelle, Jappo)
 
 ## 2025-07-19
 ### Hovedspillet
-Pogačar, Tadej **30.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Vingegaard, Jonas **25.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Pogačar, Tadej **30** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Gall, Felix **20.0** (Chrelle, Matti, Visti)
+Vingegaard, Jonas **25** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Lipowitz, Florian **18.0** (Okholm)
+Gall, Felix **20** (Chrelle, Matti, Visti)
 
-Onley, Oscar **16.0** (Hustlersen, Okholm)
+Lipowitz, Florian **18** (Okholm)
 
-Healy, Ben **14.0** (Knak)
+Onley, Oscar **16** (Hustlersen, Okholm)
 
-Roglič, Primož **12.0** (Hustlersen, Knak)
+Healy, Ben **14** (Knak)
 
-Rodriguez, Carlos **6.0** (Matti, Visti)
+Roglič, Primož **12** (Hustlersen, Knak)
 
+Rodriguez, Carlos **6** (Matti, Visti)
 
 ### Cheapo
-Jegat, Jordan **3.0** (Chrelle, Jappo, Knak)
 
+Jegat, Jordan **3** (Chrelle, Jappo, Knak)
 
 
 
@@ -1095,24 +1095,24 @@ Jegat, Jordan **3.0** (Chrelle, Jappo, Knak)
 
 ## 2025-07-18
 ### Hovedspillet
-Pogačar, Tadej **40.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Vingegaard, Jonas **30.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Pogačar, Tadej **40** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Roglič, Primož **25.0** (Hustlersen, Knak)
+Vingegaard, Jonas **30** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Lipowitz, Florian **20.0** (Okholm)
+Roglič, Primož **25** (Hustlersen, Knak)
 
-Plapp, Luke **18.0** (Chrelle, Hustlersen)
+Lipowitz, Florian **20** (Okholm)
 
-Onley, Oscar **14.0** (Hustlersen, Okholm)
+Plapp, Luke **18** (Chrelle, Hustlersen)
 
-Martinez, Lenny **10.0** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
+Onley, Oscar **14** (Hustlersen, Okholm)
 
-Gall, Felix **8.0** (Chrelle, Matti, Visti)
+Martinez, Lenny **10** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
-Rodriguez, Carlos **3.0** (Matti, Visti)
+Gall, Felix **8** (Chrelle, Matti, Visti)
 
+Rodriguez, Carlos **3** (Matti, Visti)
 
 ### Cheapo
 
@@ -1122,18 +1122,18 @@ Rodriguez, Carlos **3.0** (Matti, Visti)
 
 ## 2025-07-17
 ### Hovedspillet
-Pogačar, Tadej **40.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Vingegaard, Jonas **30.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Pogačar, Tadej **40** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Lipowitz, Florian **25.0** (Okholm)
+Vingegaard, Jonas **30** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Onley, Oscar **18.0** (Hustlersen, Okholm)
+Lipowitz, Florian **25** (Okholm)
 
-Gall, Felix **12.0** (Chrelle, Matti, Visti)
+Onley, Oscar **18** (Hustlersen, Okholm)
 
-Roglič, Primož **10.0** (Hustlersen, Knak)
+Gall, Felix **12** (Chrelle, Matti, Visti)
 
+Roglič, Primož **10** (Hustlersen, Knak)
 
 ### Cheapo
 
@@ -1143,24 +1143,24 @@ Roglič, Primož **10.0** (Hustlersen, Knak)
 
 ## 2025-07-16
 ### Hovedspillet
-Abrahamsen, Jonas **40.0** (Tommy)
 
-Schmid, Mauro **30.0** (Jarma, Visti)
+Abrahamsen, Jonas **40** (Tommy)
 
-Poel, Mathieu van der **25.0** (Jarma)
+Schmid, Mauro **30** (Jarma, Visti)
 
-Lie, Arnaud De **20.0** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
+Poel, Mathieu van der **25** (Jarma)
 
-Aert, Wout van **18.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Lie, Arnaud De **20** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
 
-Laurance, Axel **16.0** (Jappo, Matti, Okholm)
+Aert, Wout van **18** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Grégoire, Romain **2.0** (Chrelle, Jarma, Knak)
+Laurance, Axel **16** (Jappo, Matti, Okholm)
 
+Grégoire, Romain **2** (Chrelle, Jarma, Knak)
 
 ### Cheapo
-Jegat, Jordan **3.0** (Chrelle, Jappo, Knak)
 
+Jegat, Jordan **3** (Chrelle, Jappo, Knak)
 
 
 
@@ -1168,20 +1168,20 @@ Jegat, Jordan **3.0** (Chrelle, Jappo, Knak)
 
 ## 2025-07-14
 ### Hovedspillet
-Yates, Simon **40.0** (Okholm)
 
-Healy, Ben **25.0** (Knak)
+Yates, Simon **40** (Okholm)
 
-Martinez, Lenny **12.0** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
+Healy, Ben **25** (Knak)
 
-Pogačar, Tadej **10.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
+Martinez, Lenny **12** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
-Vingegaard, Jonas **8.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Pogačar, Tadej **10** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Lipowitz, Florian **6.0** (Okholm)
+Vingegaard, Jonas **8** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Onley, Oscar **2.0** (Hustlersen, Okholm)
+Lipowitz, Florian **6** (Okholm)
 
+Onley, Oscar **2** (Hustlersen, Okholm)
 
 ### Cheapo
 
@@ -1191,20 +1191,20 @@ Onley, Oscar **2.0** (Hustlersen, Okholm)
 
 ## 2025-07-13
 ### Hovedspillet
-Merlier, Tim **40.0** (Jappo, Knak, Matti, Tommy)
 
-Milan, Jonathan **30.0** (Jarma, Kenk, Matti, Okholm, Visti)
+Merlier, Tim **40** (Jappo, Knak, Matti, Tommy)
 
-Lie, Arnaud De **25.0** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
+Milan, Jonathan **30** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Penhoët, Paul **18.0** (Jarma)
+Lie, Arnaud De **25** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
 
-Girmay, Biniam **16.0** (Jappo, Knak, Matti, Okholm, Visti)
+Penhoët, Paul **18** (Jarma)
 
+Girmay, Biniam **16** (Jappo, Knak, Matti, Okholm, Visti)
 
 ### Cheapo
-Renard, Alexis **6.0** (Knak, Visti)
 
+Renard, Alexis **6** (Knak, Visti)
 
 
 
@@ -1212,20 +1212,20 @@ Renard, Alexis **6.0** (Knak, Visti)
 
 ## 2025-07-12
 ### Hovedspillet
-Milan, Jonathan **40.0** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Aert, Wout van **30.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Milan, Jonathan **40** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Lie, Arnaud De **18.0** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
+Aert, Wout van **30** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Andresen, Tobias Lund **16.0** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Lie, Arnaud De **18** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
 
-Watson, Sam **1.0** (Tommy)
+Andresen, Tobias Lund **16** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
+Watson, Sam **1** (Tommy)
 
 ### Cheapo
-Tronchon, Bastien **2.0** (Chrelle, Jappo, Kenk, Knak, Visti)
 
+Tronchon, Bastien **2** (Chrelle, Jappo, Kenk, Knak, Visti)
 
 
 
@@ -1233,30 +1233,30 @@ Tronchon, Bastien **2.0** (Chrelle, Jappo, Kenk, Knak, Visti)
 
 ## 2025-07-11
 ### Hovedspillet
-Pogačar, Tadej **40.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Vingegaard, Jonas **30.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Pogačar, Tadej **40** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Onley, Oscar **25.0** (Hustlersen, Okholm)
+Vingegaard, Jonas **30** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Gall, Felix **20.0** (Chrelle, Matti, Visti)
+Onley, Oscar **25** (Hustlersen, Okholm)
 
-Narváez, Jhonatan **12.0** (Hustlersen, Kenk)
+Gall, Felix **20** (Chrelle, Matti, Visti)
 
-Laurance, Axel **10.0** (Jappo, Matti, Okholm)
+Narváez, Jhonatan **12** (Hustlersen, Kenk)
 
-Skjelmose, Mattias **4.0** (Matti, Tommy)
+Laurance, Axel **10** (Jappo, Matti, Okholm)
 
-Grégoire, Romain **3.0** (Chrelle, Jarma, Knak)
+Skjelmose, Mattias **4** (Matti, Tommy)
 
-Lipowitz, Florian **2.0** (Okholm)
+Grégoire, Romain **3** (Chrelle, Jarma, Knak)
 
-Rodriguez, Carlos **1.0** (Matti, Visti)
+Lipowitz, Florian **2** (Okholm)
 
+Rodriguez, Carlos **1** (Matti, Visti)
 
 ### Cheapo
-Jegat, Jordan **6.0** (Chrelle, Jappo, Knak)
 
+Jegat, Jordan **6** (Chrelle, Jappo, Knak)
 
 
 
@@ -1264,20 +1264,20 @@ Jegat, Jordan **6.0** (Chrelle, Jappo, Knak)
 
 ## 2025-07-10
 ### Hovedspillet
-Healy, Ben **40.0** (Knak)
 
-Yates, Simon **18.0** (Okholm)
+Healy, Ben **40** (Knak)
 
-Poel, Mathieu van der **12.0** (Jarma)
+Yates, Simon **18** (Okholm)
 
-Pogačar, Tadej **10.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
+Poel, Mathieu van der **12** (Jarma)
 
-Vingegaard, Jonas **8.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Pogačar, Tadej **10** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Onley, Oscar **3.0** (Hustlersen, Okholm)
+Vingegaard, Jonas **8** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Lipowitz, Florian **1.0** (Okholm)
+Onley, Oscar **3** (Hustlersen, Okholm)
 
+Lipowitz, Florian **1** (Okholm)
 
 ### Cheapo
 
@@ -1287,26 +1287,26 @@ Lipowitz, Florian **1.0** (Okholm)
 
 ## 2025-07-09
 ### Hovedspillet
-Pogačar, Tadej **30.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Lipowitz, Florian **16.0** (Okholm)
+Pogačar, Tadej **30** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Romeo, Iván **14.0** (Matti)
+Lipowitz, Florian **16** (Okholm)
 
-Almeida, João **12.0** (Chrelle, Kenk)
+Romeo, Iván **14** (Matti)
 
-Plapp, Luke **10.0** (Chrelle, Hustlersen)
+Almeida, João **12** (Chrelle, Kenk)
 
-Castrillo, Pablo **8.0** (Matti)
+Plapp, Luke **10** (Chrelle, Hustlersen)
 
-Roglič, Primož **4.0** (Hustlersen, Knak)
+Castrillo, Pablo **8** (Matti)
 
-Vingegaard, Jonas **3.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Roglič, Primož **4** (Hustlersen, Knak)
 
+Vingegaard, Jonas **3** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
 ### Cheapo
-Romeo, Iván **14.0** (Chrelle, Jappo)
 
+Romeo, Iván **14** (Chrelle, Jappo)
 
 
 
@@ -1314,24 +1314,24 @@ Romeo, Iván **14.0** (Chrelle, Jappo)
 
 ## 2025-07-08
 ### Hovedspillet
-Pogačar, Tadej **40.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Poel, Mathieu van der **30.0** (Jarma)
+Pogačar, Tadej **40** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Vingegaard, Jonas **25.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Poel, Mathieu van der **30** (Jarma)
 
-Onley, Oscar **20.0** (Hustlersen, Okholm)
+Vingegaard, Jonas **25** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Grégoire, Romain **18.0** (Chrelle, Jarma, Knak)
+Onley, Oscar **20** (Hustlersen, Okholm)
 
-Almeida, João **16.0** (Chrelle, Kenk)
+Grégoire, Romain **18** (Chrelle, Jarma, Knak)
 
-Skjelmose, Mattias **10.0** (Matti, Tommy)
+Almeida, João **16** (Chrelle, Kenk)
 
-Aert, Wout van **6.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Skjelmose, Mattias **10** (Matti, Tommy)
 
-Narváez, Jhonatan **2.0** (Hustlersen, Kenk)
+Aert, Wout van **6** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
+Narváez, Jhonatan **2** (Hustlersen, Kenk)
 
 ### Cheapo
 
@@ -1341,20 +1341,20 @@ Narváez, Jhonatan **2.0** (Hustlersen, Kenk)
 
 ## 2025-07-07
 ### Hovedspillet
-Merlier, Tim **40.0** (Jappo, Knak, Matti, Tommy)
 
-Milan, Jonathan **30.0** (Jarma, Kenk, Matti, Okholm, Visti)
+Merlier, Tim **40** (Jappo, Knak, Matti, Tommy)
 
-Girmay, Biniam **16.0** (Jappo, Knak, Matti, Okholm, Visti)
+Milan, Jonathan **30** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Andresen, Tobias Lund **6.0** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Girmay, Biniam **16** (Jappo, Knak, Matti, Okholm, Visti)
 
+Andresen, Tobias Lund **6** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
 ### Cheapo
-Capiot, Amaury **10.0** (Chrelle, Jappo, Jarma, Knak)
 
-Tronchon, Bastien **4.0** (Chrelle, Jappo, Kenk, Knak, Visti)
+Capiot, Amaury **10** (Chrelle, Jappo, Jarma, Knak)
 
+Tronchon, Bastien **4** (Chrelle, Jappo, Kenk, Knak, Visti)
 
 
 
@@ -1362,26 +1362,26 @@ Tronchon, Bastien **4.0** (Chrelle, Jappo, Kenk, Knak, Visti)
 
 ## 2025-07-06
 ### Hovedspillet
-Poel, Mathieu van der **40.0** (Jarma)
 
-Pogačar, Tadej **30.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
+Poel, Mathieu van der **40** (Jarma)
 
-Vingegaard, Jonas **25.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Pogačar, Tadej **30** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Grégoire, Romain **20.0** (Chrelle, Jarma, Knak)
+Vingegaard, Jonas **25** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Onley, Oscar **16.0** (Hustlersen, Okholm)
+Grégoire, Romain **20** (Chrelle, Jarma, Knak)
 
-Buitrago, Santiago **3.0** (Matti)
+Onley, Oscar **16** (Hustlersen, Okholm)
 
-Hirschi, Marc **2.0** (Hustlersen, Jappo, Knak)
+Buitrago, Santiago **3** (Matti)
 
-Almeida, João **1.0** (Chrelle, Kenk)
+Hirschi, Marc **2** (Hustlersen, Jappo, Knak)
 
+Almeida, João **1** (Chrelle, Kenk)
 
 ### Cheapo
-Delettre, Alexandre **6.0** (Jappo)
 
+Delettre, Alexandre **6** (Jappo)
 
 
 
@@ -1389,20 +1389,20 @@ Delettre, Alexandre **6.0** (Jappo)
 
 ## 2025-07-05
 ### Hovedspillet
-Philipsen, Jasper **40.0** (Jarma, Knak)
 
-Girmay, Biniam **30.0** (Jappo, Knak, Matti, Okholm, Visti)
+Philipsen, Jasper **40** (Jarma, Knak)
 
-Trentin, Matteo **18.0** (Knak)
+Girmay, Biniam **30** (Jappo, Knak, Matti, Okholm, Visti)
 
-Penhoët, Paul **14.0** (Jarma)
+Trentin, Matteo **18** (Knak)
 
-Watson, Sam **8.0** (Tommy)
+Penhoët, Paul **14** (Jarma)
 
+Watson, Sam **8** (Tommy)
 
 ### Cheapo
-Russo, Clément **16.0** (Jarma)
 
+Russo, Clément **16** (Jarma)
 
 
 
@@ -1410,68 +1410,68 @@ Russo, Clément **16.0** (Jarma)
 
 ## 2025-06-22
 ### Hovedspillet
-Almeida, João **125.0** (Chrelle, Kenk)
 
-Onley, Oscar **86.0** (Hustlersen, Okholm)
+Almeida, João **125** (Chrelle, Kenk)
 
-Gall, Felix **80.0** (Chrelle, Matti, Visti)
+Onley, Oscar **86** (Hustlersen, Okholm)
 
-Jeanniere, Emilien **50.0** (Chrelle, Jappo, Knak)
+Gall, Felix **80** (Chrelle, Matti, Visti)
 
-Hayter, Ethan **40.0** (Chrelle, Jappo)
+Jeanniere, Emilien **50** (Chrelle, Jappo, Knak)
 
-Wilder, Ilan Van **38.0** (Chrelle)
+Hayter, Ethan **40** (Chrelle, Jappo)
 
-Andresen, Tobias Lund **35.0** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Wilder, Ilan Van **38** (Chrelle)
 
-Castrillo, Pablo **30.0** (Matti)
+Andresen, Tobias Lund **35** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Frigo, Marco **25.0** (Jarma)
+Castrillo, Pablo **30** (Matti)
 
-Philipsen, Jasper **22.0** (Jarma, Knak)
+Frigo, Marco **25** (Jarma)
 
-Vermeersch, Florian **20.0** (Kenk, Visti)
+Philipsen, Jasper **22** (Jarma, Knak)
 
-Aular, Orluis **18.0** (Visti)
+Vermeersch, Florian **20** (Kenk, Visti)
 
-Merlier, Tim **15.0** (Jappo, Knak, Matti, Tommy)
+Aular, Orluis **18** (Visti)
 
-Rex, Laurenz **12.0** (Chrelle, Jappo, Jarma, Kenk, Visti)
+Merlier, Tim **15** (Jappo, Knak, Matti, Tommy)
 
-Segaert, Alec **10.0** (Knak, Tommy, Visti)
+Rex, Laurenz **12** (Chrelle, Jappo, Jarma, Kenk, Visti)
 
-Pedersen, Rasmus Søjberg **10.0** (Jarma)
+Segaert, Alec **10** (Knak, Tommy, Visti)
 
-Grégoire, Romain **8.0** (Chrelle, Jarma, Knak)
+Pedersen, Rasmus Søjberg **10** (Jarma)
 
-Teutenberg, Tim Torn **8.0** (Hustlersen, Kenk, Tommy)
+Teutenberg, Tim Torn **8** (Hustlersen, Kenk, Tommy)
 
-Del Grosso, Tibor **6.0** (Jarma)
+Grégoire, Romain **8** (Chrelle, Jarma, Knak)
 
-August, AJ **2.0** (Hustlersen)
+Del Grosso, Tibor **6** (Jarma)
 
+August, AJ **2** (Hustlersen)
 
 ### Cheapo
-Renard, Alexis **60.0** (Knak, Visti)
 
-Frigo, Marco **25.0** (Jarma)
+Renard, Alexis **60** (Knak, Visti)
 
-Champoussin, Clément **25.0** (Chrelle, Hustlersen, Visti)
+Frigo, Marco **25** (Jarma)
 
-Pickering, Finlay **20.0** (Chrelle, Jarma)
+Champoussin, Clément **25** (Chrelle, Hustlersen, Visti)
 
-Pedersen, Rasmus Søjberg **10.0** (Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)
+Pickering, Finlay **20** (Chrelle, Jarma)
 
-Pickrell, Riley **7.0** (Hustlersen)
+Pedersen, Rasmus Søjberg **10** (Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)
 
-Del Grosso, Tibor **6.0** (Chrelle, Jappo, Jarma, Kenk)
+Pickrell, Riley **7** (Hustlersen)
 
-Marit, Arne **5.0** (Kenk, Visti)
+Del Grosso, Tibor **6** (Chrelle, Jappo, Jarma, Kenk)
 
-Gachignard, Thomas **2.0** (Chrelle, Knak)
+Marit, Arne **5** (Kenk, Visti)
 
-August, AJ **2.0** (Chrelle, Hustlersen)
+August, AJ **2** (Chrelle, Hustlersen)
 
+Gachignard, Thomas **2** (Chrelle, Knak)
 
 
 
@@ -1479,30 +1479,30 @@ August, AJ **2.0** (Chrelle, Hustlersen)
 
 ## 2025-06-21
 ### Hovedspillet
-Almeida, João **25.0** (Chrelle, Kenk)
 
-Onley, Oscar **20.0** (Hustlersen, Okholm)
+Almeida, João **25** (Chrelle, Kenk)
 
-Gall, Felix **14.0** (Chrelle, Matti, Visti)
+Onley, Oscar **20** (Hustlersen, Okholm)
 
-Frigo, Marco **12.0** (Jarma)
+Gall, Felix **14** (Chrelle, Matti, Visti)
 
-Aular, Orluis **10.0** (Visti)
+Frigo, Marco **12** (Jarma)
 
-Wilder, Ilan Van **6.0** (Chrelle)
+Aular, Orluis **10** (Visti)
 
-Vermeersch, Florian **1.0** (Kenk, Visti)
+Wilder, Ilan Van **6** (Chrelle)
 
+Vermeersch, Florian **1** (Kenk, Visti)
 
 ### Cheapo
-Frigo, Marco **12.0** (Jarma)
 
-Delettre, Alexandre **6.0** (Jappo)
+Frigo, Marco **12** (Jarma)
 
-Champoussin, Clément **4.0** (Chrelle, Hustlersen, Visti)
+Delettre, Alexandre **6** (Jappo)
 
-Costiou, Ewen **2.0** (Jappo, Kenk, Knak)
+Champoussin, Clément **4** (Chrelle, Hustlersen, Visti)
 
+Costiou, Ewen **2** (Jappo, Kenk, Knak)
 
 
 
@@ -1510,24 +1510,24 @@ Costiou, Ewen **2.0** (Jappo, Kenk, Knak)
 
 ## 2025-06-20
 ### Hovedspillet
-Hayter, Ethan **15.0** (Chrelle, Jappo)
 
-Mihkels, Madis **14.0** (Hustlersen, Matti, Visti)
+Hayter, Ethan **15** (Chrelle, Jappo)
 
-Vermeersch, Florian **10.0** (Kenk, Visti)
+Mihkels, Madis **14** (Hustlersen, Matti, Visti)
 
-Lapeira, Paul **6.0** (Knak, Tommy)
+Vermeersch, Florian **10** (Kenk, Visti)
 
-Artz, Huub **6.0** (Jarma)
+Lapeira, Paul **6** (Knak, Tommy)
 
-Segaert, Alec **4.0** (Knak, Tommy, Visti)
+Artz, Huub **6** (Jarma)
 
+Segaert, Alec **4** (Knak, Tommy, Visti)
 
 ### Cheapo
-Artz, Huub **6.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)
 
-Herregodts, Rune **1.0** (Kenk)
+Artz, Huub **6** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)
 
+Herregodts, Rune **1** (Kenk)
 
 
 
@@ -1535,26 +1535,26 @@ Herregodts, Rune **1.0** (Kenk)
 
 ## 2025-06-19
 ### Hovedspillet
-Onley, Oscar **25.0** (Hustlersen, Okholm)
 
-Almeida, João **20.0** (Chrelle, Kenk)
+Onley, Oscar **25** (Hustlersen, Okholm)
 
-Gall, Felix **16.0** (Chrelle, Matti, Visti)
+Almeida, João **20** (Chrelle, Kenk)
 
-Philipsen, Jasper **15.0** (Jarma, Knak)
+Gall, Felix **16** (Chrelle, Matti, Visti)
 
-Wilder, Ilan Van **10.0** (Chrelle)
+Philipsen, Jasper **15** (Jarma, Knak)
 
-Teutenberg, Tim Torn **8.0** (Hustlersen, Kenk, Tommy)
+Wilder, Ilan Van **10** (Chrelle)
 
-Merlier, Tim **4.0** (Jappo, Knak, Matti, Tommy)
+Teutenberg, Tim Torn **8** (Hustlersen, Kenk, Tommy)
 
-Castrillo, Pablo **1.0** (Matti)
+Merlier, Tim **4** (Jappo, Knak, Matti, Tommy)
 
+Castrillo, Pablo **1** (Matti)
 
 ### Cheapo
-Schuyteneer, Steffen De **3.0** (Chrelle, Jappo, Jarma)
 
+Schuyteneer, Steffen De **3** (Chrelle, Jappo, Jarma)
 
 
 
@@ -1562,28 +1562,28 @@ Schuyteneer, Steffen De **3.0** (Chrelle, Jappo, Jarma)
 
 ## 2025-06-18
 ### Hovedspillet
-Almeida, João **25.0** (Chrelle, Kenk)
 
-Onley, Oscar **20.0** (Hustlersen, Okholm)
+Almeida, João **25** (Chrelle, Kenk)
 
-Merlier, Tim **15.0** (Jappo, Knak, Matti, Tommy)
+Onley, Oscar **20** (Hustlersen, Okholm)
 
-Grégoire, Romain **12.0** (Chrelle, Jarma, Knak)
+Merlier, Tim **15** (Jappo, Knak, Matti, Tommy)
 
-Gall, Felix **10.0** (Chrelle, Matti, Visti)
+Grégoire, Romain **12** (Chrelle, Jarma, Knak)
 
-Wilder, Ilan Van **8.0** (Chrelle)
+Gall, Felix **10** (Chrelle, Matti, Visti)
 
-Teutenberg, Tim Torn **4.0** (Hustlersen, Kenk, Tommy)
+Wilder, Ilan Van **8** (Chrelle)
 
-Castrillo, Pablo **2.0** (Matti)
+Teutenberg, Tim Torn **4** (Hustlersen, Kenk, Tommy)
 
+Castrillo, Pablo **2** (Matti)
 
 ### Cheapo
-Champoussin, Clément **6.0** (Chrelle, Hustlersen, Visti)
 
-Boven, Luca Van **1.0** (Jappo, Kenk, Visti)
+Champoussin, Clément **6** (Chrelle, Hustlersen, Visti)
 
+Boven, Luca Van **1** (Jappo, Kenk, Visti)
 
 
 
@@ -1591,22 +1591,22 @@ Boven, Luca Van **1.0** (Jappo, Kenk, Visti)
 
 ## 2025-06-17
 ### Hovedspillet
-Almeida, João **20.0** (Chrelle, Kenk)
 
-Onley, Oscar **16.0** (Hustlersen, Okholm)
+Almeida, João **20** (Chrelle, Kenk)
 
-Grégoire, Romain **14.0** (Chrelle, Jarma, Knak)
+Onley, Oscar **16** (Hustlersen, Okholm)
 
-Christen, Jan **10.0** (Kenk)
+Grégoire, Romain **14** (Chrelle, Jarma, Knak)
 
-Gall, Felix **4.0** (Chrelle, Matti, Visti)
+Christen, Jan **10** (Kenk)
 
+Gall, Felix **4** (Chrelle, Matti, Visti)
 
 ### Cheapo
-Champoussin, Clément **3.0** (Chrelle, Hustlersen, Visti)
 
-Langellotti, Victor **2.0** (Hustlersen)
+Champoussin, Clément **3** (Chrelle, Hustlersen, Visti)
 
+Langellotti, Victor **2** (Hustlersen)
 
 
 
@@ -1614,12 +1614,12 @@ Langellotti, Victor **2.0** (Hustlersen)
 
 ## 2025-06-16
 ### Hovedspillet
-Lapeira, Paul **10.0** (Knak, Tommy)
 
+Lapeira, Paul **10** (Knak, Tommy)
 
 ### Cheapo
-Glivar, Gal **4.0** (Jappo, Jarma, Kenk)
 
+Glivar, Gal **4** (Jappo, Jarma, Kenk)
 
 
 
@@ -1627,32 +1627,32 @@ Glivar, Gal **4.0** (Jappo, Jarma, Kenk)
 
 ## 2025-06-15
 ### Hovedspillet
-Pogačar, Tadej **116.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Vingegaard, Jonas **105.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Pogačar, Tadej **116** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Lipowitz, Florian **78.0** (Okholm)
+Vingegaard, Jonas **105** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Seixas, Paul **35.0** (Matti)
+Lipowitz, Florian **78** (Okholm)
 
-Rodriguez, Carlos **32.0** (Matti, Visti)
+Seixas, Paul **35** (Matti)
 
-Grégoire, Romain **25.0** (Chrelle, Jarma, Knak)
+Rodriguez, Carlos **32** (Matti, Visti)
 
-Martinez, Lenny **25.0** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
+Grégoire, Romain **25** (Chrelle, Jarma, Knak)
 
-Castrillo, Pablo **8.0** (Matti)
+Martinez, Lenny **25** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
-Healy, Ben **4.0** (Knak)
+Castrillo, Pablo **8** (Matti)
 
+Healy, Ben **4** (Knak)
 
 ### Cheapo
-Jegat, Jordan **14.0** (Chrelle, Jappo, Knak)
 
-Kepplinger, Rainer **4.0** (Chrelle)
+Jegat, Jordan **14** (Chrelle, Jappo, Knak)
 
-Conci, Nicola **3.0** (Knak)
+Kepplinger, Rainer **4** (Chrelle)
 
+Conci, Nicola **3** (Knak)
 
 
 
@@ -1660,16 +1660,16 @@ Conci, Nicola **3.0** (Knak)
 
 ## 2025-06-14
 ### Hovedspillet
-Pogačar, Tadej **25.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Vingegaard, Jonas **20.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Pogačar, Tadej **25** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Lipowitz, Florian **16.0** (Okholm)
+Vingegaard, Jonas **20** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Rodriguez, Carlos **4.0** (Matti, Visti)
+Lipowitz, Florian **16** (Okholm)
 
-Seixas, Paul **2.0** (Matti)
+Rodriguez, Carlos **4** (Matti, Visti)
 
+Seixas, Paul **2** (Matti)
 
 ### Cheapo
 
@@ -1679,18 +1679,18 @@ Seixas, Paul **2.0** (Matti)
 
 ## 2025-06-13
 ### Hovedspillet
-Pogačar, Tadej **25.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Vingegaard, Jonas **20.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Pogačar, Tadej **25** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Lipowitz, Florian **16.0** (Okholm)
+Vingegaard, Jonas **20** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Seixas, Paul **3.0** (Matti)
+Lipowitz, Florian **16** (Okholm)
 
+Seixas, Paul **3** (Matti)
 
 ### Cheapo
-Barré, Louis **6.0** (Chrelle, Knak)
 
+Barré, Louis **6** (Chrelle, Knak)
 
 
 
@@ -1698,22 +1698,22 @@ Barré, Louis **6.0** (Chrelle, Knak)
 
 ## 2025-06-12
 ### Hovedspillet
-Laurance, Axel **20.0** (Jappo, Matti, Okholm)
 
-Pithie, Laurence **14.0** (Tommy)
+Laurance, Axel **20** (Jappo, Matti, Okholm)
 
-Milan, Jonathan **12.0** (Jarma, Kenk, Matti, Okholm, Visti)
+Pithie, Laurence **14** (Tommy)
 
-Penhoët, Paul **10.0** (Jarma)
+Milan, Jonathan **12** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Jeanniere, Emilien **8.0** (Chrelle, Jappo, Knak)
+Penhoët, Paul **10** (Jarma)
 
-Poel, Mathieu van der **4.0** (Jarma)
+Jeanniere, Emilien **8** (Chrelle, Jappo, Knak)
 
+Poel, Mathieu van der **4** (Jarma)
 
 ### Cheapo
-Tronchon, Bastien **3.0** (Chrelle, Jappo, Kenk, Knak, Visti)
 
+Tronchon, Bastien **3** (Chrelle, Jappo, Kenk, Knak, Visti)
 
 
 
@@ -1721,16 +1721,16 @@ Tronchon, Bastien **3.0** (Chrelle, Jappo, Kenk, Knak, Visti)
 
 ## 2025-06-11
 ### Hovedspillet
-Vingegaard, Jonas **20.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Pogačar, Tadej **14.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
+Vingegaard, Jonas **20** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Lipowitz, Florian **12.0** (Okholm)
+Pogačar, Tadej **14** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Poel, Mathieu van der **10.0** (Jarma)
+Lipowitz, Florian **12** (Okholm)
 
-Seixas, Paul **3.0** (Matti)
+Poel, Mathieu van der **10** (Jarma)
 
+Seixas, Paul **3** (Matti)
 
 ### Cheapo
 
@@ -1740,28 +1740,28 @@ Seixas, Paul **3.0** (Matti)
 
 ## 2025-06-10
 ### Hovedspillet
-Romeo, Iván **25.0** (Matti)
 
-Lipowitz, Florian **14.0** (Okholm)
+Romeo, Iván **25** (Matti)
 
-Poel, Mathieu van der **12.0** (Jarma)
+Lipowitz, Florian **14** (Okholm)
 
-Laurance, Axel **10.0** (Jappo, Matti, Okholm)
+Poel, Mathieu van der **12** (Jarma)
 
-Rolland, Brieuc **8.0** (Kenk)
+Laurance, Axel **10** (Jappo, Matti, Okholm)
 
-Jeanniere, Emilien **2.0** (Chrelle, Jappo, Knak)
+Rolland, Brieuc **8** (Kenk)
 
+Jeanniere, Emilien **2** (Chrelle, Jappo, Knak)
 
 ### Cheapo
-Romeo, Iván **25.0** (Chrelle, Jappo)
 
-Barré, Louis **16.0** (Chrelle, Knak)
+Romeo, Iván **25** (Chrelle, Jappo)
 
-Rolland, Brieuc **8.0** (Jappo, Jarma, Kenk)
+Barré, Louis **16** (Chrelle, Knak)
 
-Tronchon, Bastien **1.0** (Chrelle, Jappo, Kenk, Knak, Visti)
+Rolland, Brieuc **8** (Jappo, Jarma, Kenk)
 
+Tronchon, Bastien **1** (Chrelle, Jappo, Kenk, Knak, Visti)
 
 
 
@@ -1769,22 +1769,22 @@ Tronchon, Bastien **1.0** (Chrelle, Jappo, Kenk, Knak, Visti)
 
 ## 2025-06-09
 ### Hovedspillet
-Milan, Jonathan **25.0** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Poel, Mathieu van der **16.0** (Jarma)
+Milan, Jonathan **25** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Jeanniere, Emilien **12.0** (Chrelle, Jappo, Knak)
+Poel, Mathieu van der **16** (Jarma)
 
-Louvel, Matîs **6.0** (Jarma)
+Jeanniere, Emilien **12** (Chrelle, Jappo, Knak)
 
-Trentin, Matteo **3.0** (Knak)
+Louvel, Matîs **6** (Jarma)
 
+Trentin, Matteo **3** (Knak)
 
 ### Cheapo
-Tronchon, Bastien **10.0** (Chrelle, Jappo, Kenk, Knak, Visti)
 
-Louvel, Matîs **6.0** (Jarma)
+Tronchon, Bastien **10** (Chrelle, Jappo, Kenk, Knak, Visti)
 
+Louvel, Matîs **6** (Jarma)
 
 
 
@@ -1792,22 +1792,22 @@ Louvel, Matîs **6.0** (Jarma)
 
 ## 2025-06-08
 ### Hovedspillet
-Pogačar, Tadej **25.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Vingegaard, Jonas **20.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Pogačar, Tadej **25** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Poel, Mathieu van der **16.0** (Jarma)
+Vingegaard, Jonas **20** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Penhoët, Paul **3.0** (Jarma)
+Poel, Mathieu van der **16** (Jarma)
 
-Jeanniere, Emilien **2.0** (Chrelle, Jappo, Knak)
+Penhoët, Paul **3** (Jarma)
 
-Pithie, Laurence **1.0** (Tommy)
+Jeanniere, Emilien **2** (Chrelle, Jappo, Knak)
 
+Pithie, Laurence **1** (Tommy)
 
 ### Cheapo
-Tronchon, Bastien **8.0** (Chrelle, Jappo, Kenk, Knak, Visti)
 
+Tronchon, Bastien **8** (Chrelle, Jappo, Kenk, Knak, Visti)
 
 
 
@@ -1815,28 +1815,28 @@ Tronchon, Bastien **8.0** (Chrelle, Jappo, Kenk, Knak, Visti)
 
 ## 2025-06-01
 ### Hovedspillet
-Yates, Simon **180.0** (Okholm)
 
-Carapaz, Richard **120.0** (Knak)
+Yates, Simon **180** (Okholm)
 
-Gee, Derek **100.0** (Jappo, Okholm)
+Carapaz, Richard **120** (Knak)
 
-Pellizzari, Giulio **80.0** (Tommy)
+Gee, Derek **100** (Jappo, Okholm)
 
-Poole, Max **45.0** (Chrelle, Jarma)
+Pellizzari, Giulio **80** (Tommy)
 
-Kooij, Olav **40.0** (Kenk, Matti, Tommy, Visti)
+Poole, Max **45** (Chrelle, Jarma)
 
-Pidcock, Tom **20.0** (Chrelle, Jappo, Knak)
+Kooij, Olav **40** (Kenk, Matti, Tommy, Visti)
 
-Pedersen, Mads **20.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
+Pidcock, Tom **20** (Chrelle, Jappo, Knak)
 
-Kanter, Max **16.0** (Hustlersen)
+Pedersen, Mads **20** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Aular, Orluis **12.0** (Visti)
+Kanter, Max **16** (Hustlersen)
 
-Ulissi, Diego **10.0** (Knak)
+Aular, Orluis **12** (Visti)
 
+Ulissi, Diego **10** (Knak)
 
 ### Cheapo
 
@@ -1846,18 +1846,18 @@ Ulissi, Diego **10.0** (Knak)
 
 ## 2025-05-31
 ### Hovedspillet
-Yates, Simon **25.0** (Okholm)
 
-Poole, Max **12.0** (Chrelle, Jarma)
+Yates, Simon **25** (Okholm)
 
-Pellizzari, Giulio **8.0** (Tommy)
+Poole, Max **12** (Chrelle, Jarma)
 
-Gee, Derek **6.0** (Jappo, Okholm)
+Pellizzari, Giulio **8** (Tommy)
 
-Carapaz, Richard **3.0** (Knak)
+Gee, Derek **6** (Jappo, Okholm)
 
-Aert, Wout van **1.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Carapaz, Richard **3** (Knak)
 
+Aert, Wout van **1** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
 ### Cheapo
 
@@ -1867,14 +1867,14 @@ Aert, Wout van **1.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
 ## 2025-05-30
 ### Hovedspillet
-Carapaz, Richard **25.0** (Knak)
 
-Yates, Simon **14.0** (Okholm)
+Carapaz, Richard **25** (Knak)
 
-Gee, Derek **6.0** (Jappo, Okholm)
+Yates, Simon **14** (Okholm)
 
-Pellizzari, Giulio **4.0** (Tommy)
+Gee, Derek **6** (Jappo, Okholm)
 
+Pellizzari, Giulio **4** (Tommy)
 
 ### Cheapo
 
@@ -1884,16 +1884,16 @@ Pellizzari, Giulio **4.0** (Tommy)
 
 ## 2025-05-29
 ### Hovedspillet
-Baarle, Dylan van **6.0** (Kenk, Visti)
 
-Aert, Wout van **1.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Baarle, Dylan van **6** (Kenk, Visti)
 
+Aert, Wout van **1** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
 ### Cheapo
-Conci, Nicola **10.0** (Knak)
 
-Pluimers, Rick **4.0** (Chrelle, Jappo, Jarma, Knak)
+Conci, Nicola **10** (Knak)
 
+Pluimers, Rick **4** (Chrelle, Jappo, Jarma, Knak)
 
 
 
@@ -1901,22 +1901,22 @@ Pluimers, Rick **4.0** (Chrelle, Jappo, Jarma, Knak)
 
 ## 2025-05-28
 ### Hovedspillet
-Carapaz, Richard **25.0** (Knak)
 
-Yates, Simon **20.0** (Okholm)
+Carapaz, Richard **25** (Knak)
 
-Pellizzari, Giulio **18.0** (Tommy)
+Yates, Simon **20** (Okholm)
 
-Gee, Derek **16.0** (Jappo, Okholm)
+Pellizzari, Giulio **18** (Tommy)
 
-Poole, Max **10.0** (Chrelle, Jarma)
+Gee, Derek **16** (Jappo, Okholm)
 
-Pidcock, Tom **6.0** (Chrelle, Jappo, Knak)
+Poole, Max **10** (Chrelle, Jarma)
 
+Pidcock, Tom **6** (Chrelle, Jappo, Knak)
 
 ### Cheapo
-Eulálio, Afonso **8.0** (Visti)
 
+Eulálio, Afonso **8** (Visti)
 
 
 
@@ -1924,18 +1924,18 @@ Eulálio, Afonso **8.0** (Visti)
 
 ## 2025-05-27
 ### Hovedspillet
-Pellizzari, Giulio **25.0** (Tommy)
 
-Carapaz, Richard **20.0** (Knak)
+Pellizzari, Giulio **25** (Tommy)
 
-Gee, Derek **18.0** (Jappo, Okholm)
+Carapaz, Richard **20** (Knak)
 
-Yates, Simon **12.0** (Okholm)
+Gee, Derek **18** (Jappo, Okholm)
 
+Yates, Simon **12** (Okholm)
 
 ### Cheapo
-Voisard, Yannis **8.0** (Chrelle, Hustlersen, Knak)
 
+Voisard, Yannis **8** (Chrelle, Hustlersen, Knak)
 
 
 
@@ -1943,20 +1943,20 @@ Voisard, Yannis **8.0** (Chrelle, Hustlersen, Knak)
 
 ## 2025-05-25
 ### Hovedspillet
-Poole, Max **8.0** (Chrelle, Jarma)
 
-Gee, Derek **4.0** (Jappo, Okholm)
+Poole, Max **8** (Chrelle, Jarma)
 
-Carapaz, Richard **3.0** (Knak)
+Gee, Derek **4** (Jappo, Okholm)
 
-Yates, Simon **2.0** (Okholm)
+Carapaz, Richard **3** (Knak)
 
+Yates, Simon **2** (Okholm)
 
 ### Cheapo
-Fiorelli, Filippo **12.0** (Kenk)
 
-Voisard, Yannis **1.0** (Chrelle, Hustlersen, Knak)
+Fiorelli, Filippo **12** (Kenk)
 
+Voisard, Yannis **1** (Chrelle, Hustlersen, Knak)
 
 
 
@@ -1964,18 +1964,18 @@ Voisard, Yannis **1.0** (Chrelle, Hustlersen, Knak)
 
 ## 2025-05-24
 ### Hovedspillet
-Kooij, Olav **25.0** (Kenk, Matti, Tommy, Visti)
 
-Aular, Orluis **20.0** (Visti)
+Kooij, Olav **25** (Kenk, Matti, Tommy, Visti)
 
-Gee, Derek **14.0** (Jappo, Okholm)
+Aular, Orluis **20** (Visti)
 
-Pidcock, Tom **12.0** (Chrelle, Jappo, Knak)
+Gee, Derek **14** (Jappo, Okholm)
 
-Carapaz, Richard **10.0** (Knak)
+Pidcock, Tom **12** (Chrelle, Jappo, Knak)
 
-Poole, Max **6.0** (Chrelle, Jarma)
+Carapaz, Richard **10** (Knak)
 
+Poole, Max **6** (Chrelle, Jarma)
 
 ### Cheapo
 
@@ -1985,22 +1985,22 @@ Poole, Max **6.0** (Chrelle, Jarma)
 
 ## 2025-05-23
 ### Hovedspillet
-Pedersen, Mads **40.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Aert, Wout van **30.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Pedersen, Mads **40** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Roglič, Primož **16.0** (Hustlersen, Knak)
+Aert, Wout van **30** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Gee, Derek **12.0** (Jappo, Okholm)
+Roglič, Primož **16** (Hustlersen, Knak)
 
-Aular, Orluis **10.0** (Visti)
+Gee, Derek **12** (Jappo, Okholm)
 
-Ayuso, Juan **1.0** (Hustlersen, Kenk)
+Aular, Orluis **10** (Visti)
 
+Ayuso, Juan **1** (Hustlersen, Kenk)
 
 ### Cheapo
-Conci, Nicola **4.0** (Knak)
 
+Conci, Nicola **4** (Knak)
 
 
 
@@ -2008,20 +2008,20 @@ Conci, Nicola **4.0** (Knak)
 
 ## 2025-05-22
 ### Hovedspillet
-Kooij, Olav **40.0** (Kenk, Matti, Tommy, Visti)
 
-Pedersen, Mads **20.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
+Kooij, Olav **40** (Kenk, Matti, Tommy, Visti)
 
-Fretin, Milan **16.0** (Matti)
+Pedersen, Mads **20** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Kanter, Max **14.0** (Hustlersen)
+Fretin, Milan **16** (Matti)
 
-Magnier, Paul **12.0** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
+Kanter, Max **14** (Hustlersen)
 
+Magnier, Paul **12** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
 
 ### Cheapo
-Pluimers, Rick **1.0** (Chrelle, Jappo, Jarma, Knak)
 
+Pluimers, Rick **1** (Chrelle, Jappo, Jarma, Knak)
 
 
 
@@ -2029,22 +2029,22 @@ Pluimers, Rick **1.0** (Chrelle, Jappo, Jarma, Knak)
 
 ## 2025-05-21
 ### Hovedspillet
-Carapaz, Richard **40.0** (Knak)
 
-Pidcock, Tom **20.0** (Chrelle, Jappo, Knak)
+Carapaz, Richard **40** (Knak)
 
-Ayuso, Juan **14.0** (Hustlersen, Kenk)
+Pidcock, Tom **20** (Chrelle, Jappo, Knak)
 
-Gee, Derek **10.0** (Jappo, Okholm)
+Ayuso, Juan **14** (Hustlersen, Kenk)
 
-Ulissi, Diego **8.0** (Knak)
+Gee, Derek **10** (Jappo, Okholm)
 
-Roglič, Primož **4.0** (Hustlersen, Knak)
+Ulissi, Diego **8** (Knak)
 
-Pellizzari, Giulio **3.0** (Tommy)
+Roglič, Primož **4** (Hustlersen, Knak)
 
-Yates, Simon **1.0** (Okholm)
+Pellizzari, Giulio **3** (Tommy)
 
+Yates, Simon **1** (Okholm)
 
 ### Cheapo
 
@@ -2054,22 +2054,22 @@ Yates, Simon **1.0** (Okholm)
 
 ## 2025-05-20
 ### Hovedspillet
-Tarling, Josh **30.0** (Chrelle)
 
-Hayter, Ethan **25.0** (Chrelle, Jappo)
+Tarling, Josh **30** (Chrelle)
 
-Plapp, Luke **14.0** (Chrelle, Hustlersen)
+Hayter, Ethan **25** (Chrelle, Jappo)
 
-Frigo, Marco **12.0** (Jarma)
+Plapp, Luke **14** (Chrelle, Hustlersen)
 
-Gee, Derek **2.0** (Jappo, Okholm)
+Frigo, Marco **12** (Jarma)
 
-Poole, Max **1.0** (Chrelle, Jarma)
+Gee, Derek **2** (Jappo, Okholm)
 
+Poole, Max **1** (Chrelle, Jarma)
 
 ### Cheapo
-Frigo, Marco **12.0** (Jarma)
 
+Frigo, Marco **12** (Jarma)
 
 
 
@@ -2077,22 +2077,22 @@ Frigo, Marco **12.0** (Jarma)
 
 ## 2025-05-18
 ### Hovedspillet
-Aert, Wout van **40.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Carapaz, Richard **20.0** (Knak)
+Aert, Wout van **40** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Yates, Simon **18.0** (Okholm)
+Carapaz, Richard **20** (Knak)
 
-Ayuso, Juan **14.0** (Hustlersen, Kenk)
+Yates, Simon **18** (Okholm)
 
-Vacek, Mathias **2.0** (Okholm)
+Ayuso, Juan **14** (Hustlersen, Kenk)
 
-Pidcock, Tom **1.0** (Chrelle, Jappo, Knak)
+Vacek, Mathias **2** (Okholm)
 
+Pidcock, Tom **1** (Chrelle, Jappo, Knak)
 
 ### Cheapo
-Geniets, Kévin **3.0** (Chrelle)
 
+Geniets, Kévin **3** (Chrelle)
 
 
 
@@ -2100,20 +2100,20 @@ Geniets, Kévin **3.0** (Chrelle)
 
 ## 2025-05-17
 ### Hovedspillet
-Plapp, Luke **40.0** (Chrelle, Hustlersen)
 
-Ulissi, Diego **25.0** (Knak)
+Plapp, Luke **40** (Chrelle, Hustlersen)
 
-Steinhauser, Georg **12.0** (Hustlersen)
+Ulissi, Diego **25** (Knak)
 
-Ayuso, Juan **6.0** (Hustlersen, Kenk)
+Steinhauser, Georg **12** (Hustlersen)
 
-Roglič, Primož **4.0** (Hustlersen, Knak)
+Ayuso, Juan **6** (Hustlersen, Kenk)
 
+Roglič, Primož **4** (Hustlersen, Knak)
 
 ### Cheapo
-Arrieta, Igor **20.0** (Jappo, Jarma)
 
+Arrieta, Igor **20** (Jappo, Jarma)
 
 
 
@@ -2121,18 +2121,18 @@ Arrieta, Igor **20.0** (Jappo, Jarma)
 
 ## 2025-05-16
 ### Hovedspillet
-Ayuso, Juan **40.0** (Hustlersen, Kenk)
 
-Roglič, Primož **20.0** (Hustlersen, Knak)
+Ayuso, Juan **40** (Hustlersen, Kenk)
 
-Carapaz, Richard **12.0** (Knak)
+Roglič, Primož **20** (Hustlersen, Knak)
 
-Poole, Max **10.0** (Chrelle, Jarma)
+Carapaz, Richard **12** (Knak)
 
-Yates, Simon **6.0** (Okholm)
+Poole, Max **10** (Chrelle, Jarma)
 
-Gee, Derek **4.0** (Jappo, Okholm)
+Yates, Simon **6** (Okholm)
 
+Gee, Derek **4** (Jappo, Okholm)
 
 ### Cheapo
 
@@ -2142,24 +2142,24 @@ Gee, Derek **4.0** (Jappo, Okholm)
 
 ## 2025-05-15
 ### Hovedspillet
-Fretin, Milan **30.0** (Matti)
 
-Magnier, Paul **25.0** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
+Fretin, Milan **30** (Matti)
 
-Kanter, Max **20.0** (Hustlersen)
+Magnier, Paul **25** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
 
-Kooij, Olav **8.0** (Kenk, Matti, Tommy, Visti)
+Kanter, Max **20** (Hustlersen)
 
-Aular, Orluis **1.0** (Visti)
+Kooij, Olav **8** (Kenk, Matti, Tommy, Visti)
 
+Aular, Orluis **1** (Visti)
 
 ### Cheapo
-Fiorelli, Filippo **4.0** (Kenk)
 
-Gudmestad, Tord **3.0** (Visti)
+Fiorelli, Filippo **4** (Kenk)
 
-Pluimers, Rick **2.0** (Chrelle, Jappo, Jarma, Knak)
+Gudmestad, Tord **3** (Visti)
 
+Pluimers, Rick **2** (Chrelle, Jappo, Jarma, Knak)
 
 
 
@@ -2167,26 +2167,26 @@ Pluimers, Rick **2.0** (Chrelle, Jappo, Jarma, Knak)
 
 ## 2025-05-14
 ### Hovedspillet
-Pedersen, Mads **40.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Pidcock, Tom **25.0** (Chrelle, Jappo, Knak)
+Pedersen, Mads **40** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Aular, Orluis **20.0** (Visti)
+Pidcock, Tom **25** (Chrelle, Jappo, Knak)
 
-Carapaz, Richard **6.0** (Knak)
+Aular, Orluis **20** (Visti)
 
-Roglič, Primož **4.0** (Hustlersen, Knak)
+Carapaz, Richard **6** (Knak)
 
-Ulissi, Diego **1.0** (Knak)
+Roglič, Primož **4** (Hustlersen, Knak)
 
+Ulissi, Diego **1** (Knak)
 
 ### Cheapo
-Fiorelli, Filippo **18.0** (Kenk)
 
-Conci, Nicola **3.0** (Knak)
+Fiorelli, Filippo **18** (Kenk)
 
-Geniets, Kévin **2.0** (Chrelle)
+Conci, Nicola **3** (Knak)
 
+Geniets, Kévin **2** (Chrelle)
 
 
 
@@ -2194,20 +2194,20 @@ Geniets, Kévin **2.0** (Chrelle)
 
 ## 2025-05-13
 ### Hovedspillet
-Kooij, Olav **30.0** (Kenk, Matti, Tommy, Visti)
 
-Pedersen, Mads **20.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
+Kooij, Olav **30** (Kenk, Matti, Tommy, Visti)
 
-Magnier, Paul **14.0** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
+Pedersen, Mads **20** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Fretin, Milan **6.0** (Matti)
+Magnier, Paul **14** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
 
-Strong, Corbin **3.0** (Knak, Visti)
+Fretin, Milan **6** (Matti)
 
+Strong, Corbin **3** (Knak, Visti)
 
 ### Cheapo
-Plowright, Jensen **2.0** (Knak)
 
+Plowright, Jensen **2** (Knak)
 
 
 
@@ -2215,20 +2215,20 @@ Plowright, Jensen **2.0** (Knak)
 
 ## 2025-05-11
 ### Hovedspillet
-Pedersen, Mads **40.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Strong, Corbin **30.0** (Knak, Visti)
+Pedersen, Mads **40** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Aular, Orluis **25.0** (Visti)
+Strong, Corbin **30** (Knak, Visti)
 
-Ulissi, Diego **4.0** (Knak)
+Aular, Orluis **25** (Visti)
 
-Poole, Max **3.0** (Chrelle, Jarma)
+Ulissi, Diego **4** (Knak)
 
+Poole, Max **3** (Chrelle, Jarma)
 
 ### Cheapo
-Fiorelli, Filippo **12.0** (Kenk)
 
+Fiorelli, Filippo **12** (Kenk)
 
 
 
@@ -2236,18 +2236,18 @@ Fiorelli, Filippo **12.0** (Kenk)
 
 ## 2025-05-10
 ### Hovedspillet
-Tarling, Josh **40.0** (Chrelle)
 
-Roglič, Primož **30.0** (Hustlersen, Knak)
+Tarling, Josh **40** (Chrelle)
 
-Vacek, Mathias **18.0** (Okholm)
+Roglič, Primož **30** (Hustlersen, Knak)
 
-Pedersen, Mads **14.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
+Vacek, Mathias **18** (Okholm)
 
-Hayter, Ethan **10.0** (Chrelle, Jappo)
+Pedersen, Mads **14** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Ayuso, Juan **8.0** (Hustlersen, Kenk)
+Hayter, Ethan **10** (Chrelle, Jappo)
 
+Ayuso, Juan **8** (Hustlersen, Kenk)
 
 ### Cheapo
 
@@ -2257,26 +2257,26 @@ Ayuso, Juan **8.0** (Hustlersen, Kenk)
 
 ## 2025-05-09
 ### Hovedspillet
-Pedersen, Mads **40.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Aert, Wout van **30.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Pedersen, Mads **40** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Aular, Orluis **25.0** (Visti)
+Aert, Wout van **30** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Pidcock, Tom **18.0** (Chrelle, Jappo, Knak)
+Aular, Orluis **25** (Visti)
 
-Ulissi, Diego **16.0** (Knak)
+Pidcock, Tom **18** (Chrelle, Jappo, Knak)
 
-Carapaz, Richard **14.0** (Knak)
+Ulissi, Diego **16** (Knak)
 
-Poole, Max **12.0** (Chrelle, Jarma)
+Carapaz, Richard **14** (Knak)
 
-Roglič, Primož **1.0** (Hustlersen, Knak)
+Poole, Max **12** (Chrelle, Jarma)
 
+Roglič, Primož **1** (Hustlersen, Knak)
 
 ### Cheapo
-Conci, Nicola **10.0** (Knak)
 
+Conci, Nicola **10** (Knak)
 
 
 
@@ -2284,30 +2284,30 @@ Conci, Nicola **10.0** (Knak)
 
 ## 2025-05-04
 ### Hovedspillet
-Almeida, João **120.0** (Chrelle, Kenk)
 
-Martinez, Lenny **85.0** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
+Almeida, João **120** (Chrelle, Kenk)
 
-Rodriguez, Carlos **45.0** (Matti, Visti)
+Martinez, Lenny **85** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
-Staune-Mittet, Johannes **18.0** (Chrelle, Matti)
+Rodriguez, Carlos **45** (Matti, Visti)
 
-Eetvelt, Lennert Van **12.0** (Jappo, Kenk, Tommy)
+Staune-Mittet, Johannes **18** (Chrelle, Matti)
 
-Onley, Oscar **10.0** (Hustlersen, Okholm)
+Eetvelt, Lennert Van **12** (Jappo, Kenk, Tommy)
 
-Brennan, Matthew **2.0** (Chrelle, Hustlersen, Kenk)
+Onley, Oscar **10** (Hustlersen, Okholm)
 
-Romeo, Iván **1.0** (Matti)
+Brennan, Matthew **2** (Chrelle, Hustlersen, Kenk)
 
+Romeo, Iván **1** (Matti)
 
 ### Cheapo
-Price-Pejtersen, Johan **6.0** (Jappo)
 
-Hellemose, Asbjørn **2.0** (Visti)
+Price-Pejtersen, Johan **6** (Jappo)
 
-Romeo, Iván **1.0** (Chrelle, Jappo)
+Hellemose, Asbjørn **2** (Visti)
 
+Romeo, Iván **1** (Chrelle, Jappo)
 
 
 
@@ -2315,12 +2315,12 @@ Romeo, Iván **1.0** (Chrelle, Jappo)
 
 ## 2025-05-03
 ### Hovedspillet
-Martinez, Lenny **25.0** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
-Almeida, João **20.0** (Chrelle, Kenk)
+Martinez, Lenny **25** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
-Rodriguez, Carlos **12.0** (Matti, Visti)
+Almeida, João **20** (Chrelle, Kenk)
 
+Rodriguez, Carlos **12** (Matti, Visti)
 
 ### Cheapo
 
@@ -2330,16 +2330,16 @@ Rodriguez, Carlos **12.0** (Matti, Visti)
 
 ## 2025-05-02
 ### Hovedspillet
-Martinez, Lenny **20.0** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
-Almeida, João **16.0** (Chrelle, Kenk)
+Martinez, Lenny **20** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
-Onley, Oscar **4.0** (Hustlersen, Okholm)
+Almeida, João **16** (Chrelle, Kenk)
 
+Onley, Oscar **4** (Hustlersen, Okholm)
 
 ### Cheapo
-Barré, Louis **14.0** (Chrelle, Knak)
 
+Barré, Louis **14** (Chrelle, Knak)
 
 
 
@@ -2347,24 +2347,24 @@ Barré, Louis **14.0** (Chrelle, Knak)
 
 ## 2025-05-01
 ### Hovedspillet
-Powless, Neilson **40.0** (Jappo)
 
-Wandahl, Frederik **35.0** (Kenk, Tommy)
+Powless, Neilson **40** (Jappo)
 
-Withen Philipsen, Albert **30.0** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Okholm, Tommy)
+Wandahl, Frederik **35** (Kenk, Tommy)
 
-Hirschi, Marc **22.0** (Hustlersen, Jappo, Knak)
+Withen Philipsen, Albert **30** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Okholm, Tommy)
 
-Eetvelt, Lennert Van **14.0** (Jappo, Kenk, Tommy)
+Hirschi, Marc **22** (Hustlersen, Jappo, Knak)
 
-Onley, Oscar **2.0** (Hustlersen, Okholm)
+Eetvelt, Lennert Van **14** (Jappo, Kenk, Tommy)
 
-Almeida, João **1.0** (Chrelle, Kenk)
+Onley, Oscar **2** (Hustlersen, Okholm)
 
+Almeida, João **1** (Chrelle, Kenk)
 
 ### Cheapo
-Wandahl, Frederik **35.0** (Hustlersen, Jappo, Kenk, Knak, Visti)
 
+Wandahl, Frederik **35** (Hustlersen, Jappo, Kenk, Knak, Visti)
 
 
 
@@ -2372,22 +2372,22 @@ Wandahl, Frederik **35.0** (Hustlersen, Jappo, Kenk, Knak, Visti)
 
 ## 2025-04-30
 ### Hovedspillet
-Brennan, Matthew **25.0** (Chrelle, Hustlersen, Kenk)
 
-Artz, Huub **14.0** (Jarma)
+Brennan, Matthew **25** (Chrelle, Hustlersen, Kenk)
 
-Onley, Oscar **10.0** (Hustlersen, Okholm)
+Artz, Huub **14** (Jarma)
 
-Romeo, Iván **2.0** (Matti)
+Onley, Oscar **10** (Hustlersen, Okholm)
 
+Romeo, Iván **2** (Matti)
 
 ### Cheapo
-Artz, Huub **14.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)
 
-Champoussin, Clément **8.0** (Chrelle, Hustlersen, Visti)
+Artz, Huub **14** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)
 
-Romeo, Iván **2.0** (Chrelle, Jappo)
+Champoussin, Clément **8** (Chrelle, Hustlersen, Visti)
 
+Romeo, Iván **2** (Chrelle, Jappo)
 
 
 
@@ -2395,18 +2395,18 @@ Romeo, Iván **2.0** (Chrelle, Jappo)
 
 ## 2025-04-29
 ### Hovedspillet
-Watson, Sam **25.0** (Tommy)
 
-Romeo, Iván **16.0** (Matti)
+Watson, Sam **25** (Tommy)
 
-Christen, Jan **3.0** (Kenk)
+Romeo, Iván **16** (Matti)
 
-Almeida, João **2.0** (Chrelle, Kenk)
+Christen, Jan **3** (Kenk)
 
+Almeida, João **2** (Chrelle, Kenk)
 
 ### Cheapo
-Romeo, Iván **16.0** (Chrelle, Jappo)
 
+Romeo, Iván **16** (Chrelle, Jappo)
 
 
 
@@ -2414,36 +2414,36 @@ Romeo, Iván **16.0** (Chrelle, Jappo)
 
 ## 2025-04-27
 ### Hovedspillet
-Pogačar, Tadej **120.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Healy, Ben **85.0** (Knak)
+Pogačar, Tadej **120** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Nys, Thibau **60.0** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Tommy, Visti)
+Healy, Ben **85** (Knak)
 
-Bagioli, Andrea **50.0** (Jarma, Kenk)
+Nys, Thibau **60** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Tommy, Visti)
 
-Laurance, Axel **35.0** (Jappo, Matti, Okholm)
+Bagioli, Andrea **50** (Jarma, Kenk)
 
-Pidcock, Tom **30.0** (Chrelle, Jappo, Knak)
+Laurance, Axel **35** (Jappo, Matti, Okholm)
 
-Powless, Neilson **25.0** (Jappo)
+Pidcock, Tom **30** (Chrelle, Jappo, Knak)
 
-Onley, Oscar **18.0** (Hustlersen, Okholm)
+Powless, Neilson **25** (Jappo)
 
-Eetvelt, Lennert Van **10.0** (Jappo, Kenk, Tommy)
+Onley, Oscar **18** (Hustlersen, Okholm)
 
-Grégoire, Romain **7.0** (Chrelle, Jarma, Knak)
+Eetvelt, Lennert Van **10** (Jappo, Kenk, Tommy)
 
-Schmid, Mauro **4.0** (Jarma, Visti)
+Grégoire, Romain **7** (Chrelle, Jarma, Knak)
 
+Schmid, Mauro **4** (Jarma, Visti)
 
 ### Cheapo
-Verstrynge, Emiel **14.0** (Jappo, Visti)
 
-Jegat, Jordan **2.0** (Chrelle, Jappo, Knak)
+Verstrynge, Emiel **14** (Jappo, Visti)
 
-Barré, Louis **1.0** (Chrelle, Knak)
+Jegat, Jordan **2** (Chrelle, Jappo, Knak)
 
+Barré, Louis **1** (Chrelle, Knak)
 
 
 
@@ -2451,22 +2451,22 @@ Barré, Louis **1.0** (Chrelle, Knak)
 
 ## 2025-04-25
 ### Hovedspillet
-Gee, Derek **35.0** (Jappo, Okholm)
 
-Gall, Felix **25.0** (Chrelle, Matti, Visti)
+Gee, Derek **35** (Jappo, Okholm)
 
-Seixas, Paul **20.0** (Matti)
+Gall, Felix **25** (Chrelle, Matti, Visti)
 
-Poole, Max **19.0** (Chrelle, Jarma)
+Seixas, Paul **20** (Matti)
 
+Poole, Max **19** (Chrelle, Jarma)
 
 ### Cheapo
-Bouwman, Koen **8.0** (Hustlersen)
 
-Tarozzi, Manuele **4.0** (Jarma)
+Bouwman, Koen **8** (Hustlersen)
 
-Cepeda, Jefferson Alexander **4.0** (Hustlersen)
+Cepeda, Jefferson Alexander **4** (Hustlersen)
 
+Tarozzi, Manuele **4** (Jarma)
 
 
 
@@ -2474,16 +2474,16 @@ Cepeda, Jefferson Alexander **4.0** (Hustlersen)
 
 ## 2025-04-24
 ### Hovedspillet
-Gee, Derek **12.0** (Jappo, Okholm)
 
-Gall, Felix **8.0** (Chrelle, Matti, Visti)
+Gee, Derek **12** (Jappo, Okholm)
 
-Poole, Max **4.0** (Chrelle, Jarma)
+Gall, Felix **8** (Chrelle, Matti, Visti)
 
+Poole, Max **4** (Chrelle, Jarma)
 
 ### Cheapo
-Cepeda, Jefferson Alexander **1.0** (Hustlersen)
 
+Cepeda, Jefferson Alexander **1** (Hustlersen)
 
 
 
@@ -2491,42 +2491,42 @@ Cepeda, Jefferson Alexander **1.0** (Hustlersen)
 
 ## 2025-04-23
 ### Hovedspillet
-Pogačar, Tadej **70.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Pidcock, Tom **50.0** (Chrelle, Jappo, Knak)
+Pogačar, Tadej **70** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Martinez, Lenny **40.0** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
+Pidcock, Tom **50** (Chrelle, Jappo, Knak)
 
-Healy, Ben **35.0** (Knak)
+Martinez, Lenny **40** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
-Buitrago, Santiago **30.0** (Matti)
+Healy, Ben **35** (Knak)
 
-Grégoire, Romain **26.0** (Chrelle, Jarma, Knak)
+Buitrago, Santiago **30** (Matti)
 
-Nys, Thibau **22.0** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Tommy, Visti)
+Grégoire, Romain **26** (Chrelle, Jarma, Knak)
 
-Frigo, Marco **15.0** (Jarma)
+Nys, Thibau **22** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Tommy, Visti)
 
-Schmid, Mauro **14.0** (Jarma, Visti)
+Frigo, Marco **15** (Jarma)
 
-Gee, Derek **10.0** (Jappo, Okholm)
+Schmid, Mauro **14** (Jarma, Visti)
 
-Christen, Jan **8.0** (Kenk)
+Gee, Derek **10** (Jappo, Okholm)
 
-Poole, Max **6.0** (Chrelle, Jarma)
+Christen, Jan **8** (Kenk)
 
-Seixas, Paul **5.0** (Matti)
+Poole, Max **6** (Chrelle, Jarma)
 
-Sheffield, Magnus **4.0** (Okholm)
+Seixas, Paul **5** (Matti)
 
-Laurance, Axel **1.0** (Jappo, Matti, Okholm)
+Sheffield, Magnus **4** (Okholm)
 
+Laurance, Axel **1** (Jappo, Matti, Okholm)
 
 ### Cheapo
-Frigo, Marco **15.0** (Jarma)
 
-Tronchon, Bastien **3.0** (Chrelle, Jappo, Kenk, Knak, Visti)
+Frigo, Marco **15** (Jarma)
 
+Tronchon, Bastien **3** (Chrelle, Jappo, Kenk, Knak, Visti)
 
 
 
@@ -2534,16 +2534,16 @@ Tronchon, Bastien **3.0** (Chrelle, Jappo, Kenk, Knak, Visti)
 
 ## 2025-04-22
 ### Hovedspillet
-Seixas, Paul **12.0** (Matti)
 
-Gall, Felix **4.0** (Chrelle, Matti, Visti)
+Seixas, Paul **12** (Matti)
 
-Poole, Max **1.0** (Chrelle, Jarma)
+Gall, Felix **4** (Chrelle, Matti, Visti)
 
+Poole, Max **1** (Chrelle, Jarma)
 
 ### Cheapo
-Cepeda, Jefferson Alexander **2.0** (Hustlersen)
 
+Cepeda, Jefferson Alexander **2** (Hustlersen)
 
 
 
@@ -2551,16 +2551,16 @@ Cepeda, Jefferson Alexander **2.0** (Hustlersen)
 
 ## 2025-04-21
 ### Hovedspillet
-Gall, Felix **12.0** (Chrelle, Matti, Visti)
 
-Seixas, Paul **10.0** (Matti)
+Gall, Felix **12** (Chrelle, Matti, Visti)
 
-Poole, Max **3.0** (Chrelle, Jarma)
+Seixas, Paul **10** (Matti)
 
+Poole, Max **3** (Chrelle, Jarma)
 
 ### Cheapo
-Cepeda, Jefferson Alexander **2.0** (Hustlersen)
 
+Cepeda, Jefferson Alexander **2** (Hustlersen)
 
 
 
@@ -2568,30 +2568,30 @@ Cepeda, Jefferson Alexander **2.0** (Hustlersen)
 
 ## 2025-04-20
 ### Hovedspillet
-Skjelmose, Mattias **120.0** (Matti, Tommy)
 
-Pogačar, Tadej **100.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
+Skjelmose, Mattias **120** (Matti, Tommy)
 
-Aert, Wout van **70.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Pogačar, Tadej **100** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Grégoire, Romain **40.0** (Chrelle, Jarma, Knak)
+Aert, Wout van **70** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Pidcock, Tom **30.0** (Chrelle, Jappo, Knak)
+Grégoire, Romain **40** (Chrelle, Jarma, Knak)
 
-Healy, Ben **25.0** (Knak)
+Pidcock, Tom **30** (Chrelle, Jappo, Knak)
 
-Nys, Thibau **18.0** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Tommy, Visti)
+Healy, Ben **25** (Knak)
 
-Powless, Neilson **16.0** (Jappo)
+Nys, Thibau **18** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Tommy, Visti)
 
-Schmid, Mauro **12.0** (Jarma, Visti)
+Powless, Neilson **16** (Jappo)
 
+Schmid, Mauro **12** (Jarma, Visti)
 
 ### Cheapo
-Barré, Louis **50.0** (Chrelle, Knak)
 
-Delettre, Alexandre **3.0** (Jappo)
+Barré, Louis **50** (Chrelle, Knak)
 
+Delettre, Alexandre **3** (Jappo)
 
 
 
@@ -2599,28 +2599,28 @@ Delettre, Alexandre **3.0** (Jappo)
 
 ## 2025-04-18
 ### Hovedspillet
-Aert, Wout van **30.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Morgado, António **26.0** (Hustlersen, Jappo, Matti, Visti)
+Aert, Wout van **30** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Powless, Neilson **12.0** (Jappo)
+Morgado, António **26** (Hustlersen, Jappo, Matti, Visti)
 
-Del Grosso, Tibor **6.0** (Jarma)
+Powless, Neilson **12** (Jappo)
 
-Pidcock, Tom **5.0** (Chrelle, Jappo, Knak)
+Del Grosso, Tibor **6** (Jarma)
 
-Strong, Corbin **2.0** (Knak, Visti)
+Pidcock, Tom **5** (Chrelle, Jappo, Knak)
 
+Strong, Corbin **2** (Knak, Visti)
 
 ### Cheapo
-Silva, Thomas **10.0** (Jappo, Kenk, Visti)
 
-Del Grosso, Tibor **6.0** (Chrelle, Jappo, Jarma, Kenk)
+Silva, Thomas **10** (Jappo, Kenk, Visti)
 
-Boven, Luca Van **3.0** (Jappo, Kenk, Visti)
+Del Grosso, Tibor **6** (Chrelle, Jappo, Jarma, Kenk)
 
-Delettre, Alexandre **1.0** (Jappo)
+Boven, Luca Van **3** (Jappo, Kenk, Visti)
 
+Delettre, Alexandre **1** (Jappo)
 
 
 
@@ -2628,38 +2628,38 @@ Delettre, Alexandre **1.0** (Jappo)
 
 ## 2025-04-13
 ### Hovedspillet
-Poel, Mathieu van der **120.0** (Jarma)
 
-Pogačar, Tadej **100.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
+Poel, Mathieu van der **120** (Jarma)
 
-Pedersen, Mads **85.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
+Pogačar, Tadej **100** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Aert, Wout van **70.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Pedersen, Mads **85** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Vermeersch, Florian **60.0** (Kenk, Visti)
+Aert, Wout van **70** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Rex, Laurenz **25.0** (Chrelle, Jappo, Jarma, Kenk, Visti)
+Vermeersch, Florian **60** (Kenk, Visti)
 
-Philipsen, Jasper **20.0** (Jarma, Knak)
+Rex, Laurenz **25** (Chrelle, Jappo, Jarma, Kenk, Visti)
 
-Mihkels, Madis **14.0** (Hustlersen, Matti, Visti)
+Philipsen, Jasper **20** (Jarma, Knak)
 
-Girmay, Biniam **12.0** (Jappo, Knak, Matti, Okholm, Visti)
+Mihkels, Madis **14** (Hustlersen, Matti, Visti)
 
-Morgado, António **2.0** (Hustlersen, Jappo, Matti, Visti)
+Girmay, Biniam **12** (Jappo, Knak, Matti, Okholm, Visti)
 
+Morgado, António **2** (Hustlersen, Jappo, Matti, Visti)
 
 ### Cheapo
-Rutsch, Jonas **50.0** (Visti)
 
-Hoelgaard, Markus **35.0** (Hustlersen)
+Rutsch, Jonas **50** (Visti)
 
-Haller, Marco **18.0** (Visti)
+Hoelgaard, Markus **35** (Hustlersen)
 
-Dijke, Mick van **8.0** (Jarma, Kenk, Visti)
+Haller, Marco **18** (Visti)
 
-Jacobs, Johan **5.0** (Jarma)
+Dijke, Mick van **8** (Jarma, Kenk, Visti)
 
+Jacobs, Johan **5** (Jarma)
 
 
 
@@ -2667,30 +2667,30 @@ Jacobs, Johan **5.0** (Jarma)
 
 ## 2025-04-12
 ### Hovedspillet
-Almeida, João **125.0** (Chrelle, Kenk)
 
-Schachmann, Maximilian **71.0** (Jarma, Knak)
+Almeida, João **125** (Chrelle, Kenk)
 
-Lipowitz, Florian **60.0** (Okholm)
+Schachmann, Maximilian **71** (Jarma, Knak)
 
-Skjelmose, Mattias **50.0** (Matti, Tommy)
+Lipowitz, Florian **60** (Okholm)
 
-Wilder, Ilan Van **45.0** (Chrelle)
+Skjelmose, Mattias **50** (Matti, Tommy)
 
-Onley, Oscar **36.0** (Hustlersen, Okholm)
+Wilder, Ilan Van **45** (Chrelle)
 
-Buitrago, Santiago **16.0** (Matti)
+Onley, Oscar **36** (Hustlersen, Okholm)
 
-Healy, Ben **16.0** (Knak)
+Buitrago, Santiago **16** (Matti)
 
-Laurance, Axel **2.0** (Jappo, Matti, Okholm)
+Healy, Ben **16** (Knak)
 
+Laurance, Axel **2** (Jappo, Matti, Okholm)
 
 ### Cheapo
-Champoussin, Clément **28.0** (Chrelle, Hustlersen, Visti)
 
-Jegat, Jordan **24.0** (Chrelle, Jappo, Knak)
+Champoussin, Clément **28** (Chrelle, Hustlersen, Visti)
 
+Jegat, Jordan **24** (Chrelle, Jappo, Knak)
 
 
 
@@ -2698,22 +2698,22 @@ Jegat, Jordan **24.0** (Chrelle, Jappo, Knak)
 
 ## 2025-04-11
 ### Hovedspillet
-Healy, Ben **25.0** (Knak)
 
-Laurance, Axel **20.0** (Jappo, Matti, Okholm)
+Healy, Ben **25** (Knak)
 
-Grégoire, Romain **12.0** (Chrelle, Jarma, Knak)
+Laurance, Axel **20** (Jappo, Matti, Okholm)
 
-Gils, Maxim Van **10.0** (Kenk, Matti)
+Grégoire, Romain **12** (Chrelle, Jarma, Knak)
 
+Gils, Maxim Van **10** (Kenk, Matti)
 
 ### Cheapo
-Jegat, Jordan **6.0** (Chrelle, Jappo, Knak)
 
-Champoussin, Clément **4.0** (Chrelle, Hustlersen, Visti)
+Jegat, Jordan **6** (Chrelle, Jappo, Knak)
 
-Silva, Thomas **3.0** (Jappo, Kenk, Visti)
+Champoussin, Clément **4** (Chrelle, Hustlersen, Visti)
 
+Silva, Thomas **3** (Jappo, Kenk, Visti)
 
 
 
@@ -2721,20 +2721,20 @@ Silva, Thomas **3.0** (Jappo, Kenk, Visti)
 
 ## 2025-04-10
 ### Hovedspillet
-Almeida, João **25.0** (Chrelle, Kenk)
 
-Schachmann, Maximilian **16.0** (Jarma, Knak)
+Almeida, João **25** (Chrelle, Kenk)
 
-Onley, Oscar **6.0** (Hustlersen, Okholm)
+Schachmann, Maximilian **16** (Jarma, Knak)
 
-Wilder, Ilan Van **4.0** (Chrelle)
+Onley, Oscar **6** (Hustlersen, Okholm)
 
-Skjelmose, Mattias **1.0** (Matti, Tommy)
+Wilder, Ilan Van **4** (Chrelle)
 
+Skjelmose, Mattias **1** (Matti, Tommy)
 
 ### Cheapo
-Champoussin, Clément **14.0** (Chrelle, Hustlersen, Visti)
 
+Champoussin, Clément **14** (Chrelle, Hustlersen, Visti)
 
 
 
@@ -2742,30 +2742,30 @@ Champoussin, Clément **14.0** (Chrelle, Hustlersen, Visti)
 
 ## 2025-04-09
 ### Hovedspillet
-Merlier, Tim **35.0** (Jappo, Knak, Matti, Tommy)
 
-Philipsen, Jasper **30.0** (Jarma, Knak)
+Merlier, Tim **35** (Jappo, Knak, Matti, Tommy)
 
-Fretin, Milan **22.0** (Matti)
+Philipsen, Jasper **30** (Jarma, Knak)
 
-Grégoire, Romain **20.0** (Chrelle, Jarma, Knak)
+Fretin, Milan **22** (Matti)
 
-Schachmann, Maximilian **16.0** (Jarma, Knak)
+Grégoire, Romain **20** (Chrelle, Jarma, Knak)
 
-Almeida, João **14.0** (Chrelle, Kenk)
+Schachmann, Maximilian **16** (Jarma, Knak)
 
-Kanter, Max **12.0** (Hustlersen)
+Almeida, João **14** (Chrelle, Kenk)
 
-Skjelmose, Mattias **10.0** (Matti, Tommy)
+Kanter, Max **12** (Hustlersen)
 
-Lipowitz, Florian **6.0** (Okholm)
+Skjelmose, Mattias **10** (Matti, Tommy)
 
-Wilder, Ilan Van **3.0** (Chrelle)
+Lipowitz, Florian **6** (Okholm)
 
+Wilder, Ilan Van **3** (Chrelle)
 
 ### Cheapo
-Galván, Francisco **5.0** (Knak)
 
+Galván, Francisco **5** (Knak)
 
 
 
@@ -2773,18 +2773,18 @@ Galván, Francisco **5.0** (Knak)
 
 ## 2025-04-08
 ### Hovedspillet
-Zingle, Axel **10.0** (Tommy, Visti)
 
-Foldager, Anders **3.0** (Hustlersen)
+Zingle, Axel **10** (Tommy, Visti)
 
+Foldager, Anders **3** (Hustlersen)
 
 ### Cheapo
-Boven, Luca Van **20.0** (Jappo, Kenk, Visti)
 
-Tronchon, Bastien **16.0** (Chrelle, Jappo, Kenk, Knak, Visti)
+Boven, Luca Van **20** (Jappo, Kenk, Visti)
 
-Foldager, Anders **3.0** (Hustlersen, Jappo, Kenk, Visti)
+Tronchon, Bastien **16** (Chrelle, Jappo, Kenk, Knak, Visti)
 
+Foldager, Anders **3** (Hustlersen, Jappo, Kenk, Visti)
 
 
 
@@ -2792,26 +2792,26 @@ Foldager, Anders **3.0** (Hustlersen, Jappo, Kenk, Visti)
 
 ## 2025-04-07
 ### Hovedspillet
-Schachmann, Maximilian **25.0** (Jarma, Knak)
 
-Almeida, João **20.0** (Chrelle, Kenk)
+Schachmann, Maximilian **25** (Jarma, Knak)
 
-Lipowitz, Florian **16.0** (Okholm)
+Almeida, João **20** (Chrelle, Kenk)
 
-Hayter, Ethan **14.0** (Chrelle, Jappo)
+Lipowitz, Florian **16** (Okholm)
 
-Wilder, Ilan Van **10.0** (Chrelle)
+Hayter, Ethan **14** (Chrelle, Jappo)
 
-Campenaerts, Victor **8.0** (Tommy)
+Wilder, Ilan Van **10** (Chrelle)
 
-Skjelmose, Mattias **6.0** (Matti, Tommy)
+Campenaerts, Victor **8** (Tommy)
 
-Healy, Ben **2.0** (Knak)
+Skjelmose, Mattias **6** (Matti, Tommy)
 
+Healy, Ben **2** (Knak)
 
 ### Cheapo
-Leonard, Michael **3.0** (Hustlersen)
 
+Leonard, Michael **3** (Hustlersen)
 
 
 
@@ -2819,28 +2819,28 @@ Leonard, Michael **3.0** (Hustlersen)
 
 ## 2025-04-06
 ### Hovedspillet
-Pogačar, Tadej **120.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Pedersen, Mads **100.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
+Pogačar, Tadej **120** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Poel, Mathieu van der **85.0** (Jarma)
+Pedersen, Mads **100** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Aert, Wout van **70.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Poel, Mathieu van der **85** (Jarma)
 
-Pithie, Laurence **20.0** (Tommy)
+Aert, Wout van **70** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Sheffield, Magnus **6.0** (Okholm)
+Pithie, Laurence **20** (Tommy)
 
-Trentin, Matteo **4.0** (Knak)
+Sheffield, Magnus **6** (Okholm)
 
+Trentin, Matteo **4** (Knak)
 
 ### Cheapo
-Hoelgaard, Markus **14.0** (Hustlersen)
 
-Kielich, Timo **8.0** (Kenk, Visti)
+Hoelgaard, Markus **14** (Hustlersen)
 
-Pluimers, Rick **2.0** (Chrelle, Jappo, Jarma, Knak)
+Kielich, Timo **8** (Kenk, Visti)
 
+Pluimers, Rick **2** (Chrelle, Jappo, Jarma, Knak)
 
 
 
@@ -2848,22 +2848,22 @@ Pluimers, Rick **2.0** (Chrelle, Jappo, Jarma, Knak)
 
 ## 2025-04-05
 ### Hovedspillet
-Nys, Thibau **35.0** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Tommy, Visti)
 
-Bagioli, Andrea **26.0** (Jarma, Kenk)
+Nys, Thibau **35** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Tommy, Visti)
 
-Hirschi, Marc **14.0** (Hustlersen, Jappo, Knak)
+Bagioli, Andrea **26** (Jarma, Kenk)
 
-Schmid, Mauro **3.0** (Jarma, Visti)
+Hirschi, Marc **14** (Hustlersen, Jappo, Knak)
 
+Schmid, Mauro **3** (Jarma, Visti)
 
 ### Cheapo
-Silva, Thomas **22.0** (Jappo, Kenk, Visti)
 
-Vercher, Mattéo **4.0** (Knak)
+Silva, Thomas **22** (Jappo, Kenk, Visti)
 
-Arrieta, Igor **2.0** (Jappo, Jarma)
+Vercher, Mattéo **4** (Knak)
 
+Arrieta, Igor **2** (Jappo, Jarma)
 
 
 
@@ -2871,26 +2871,26 @@ Arrieta, Igor **2.0** (Jappo, Jarma)
 
 ## 2025-04-02
 ### Hovedspillet
-Powless, Neilson **70.0** (Jappo)
 
-Aert, Wout van **60.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Powless, Neilson **70** (Jappo)
 
-Pedersen, Mads **35.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
+Aert, Wout van **60** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Del Grosso, Tibor **30.0** (Jarma)
+Pedersen, Mads **35** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Segaert, Alec **14.0** (Knak, Tommy, Visti)
+Del Grosso, Tibor **30** (Jarma)
 
-Girmay, Biniam **4.0** (Jappo, Knak, Matti, Okholm, Visti)
+Segaert, Alec **14** (Knak, Tommy, Visti)
 
+Girmay, Biniam **4** (Jappo, Knak, Matti, Okholm, Visti)
 
 ### Cheapo
-Del Grosso, Tibor **30.0** (Chrelle, Jappo, Jarma, Kenk)
 
-Gautherat, Pierre **10.0** (Jappo, Kenk, Knak, Visti)
+Del Grosso, Tibor **30** (Chrelle, Jappo, Jarma, Kenk)
 
-Dijke, Mick van **6.0** (Jarma, Kenk, Visti)
+Gautherat, Pierre **10** (Jappo, Kenk, Knak, Visti)
 
+Dijke, Mick van **6** (Jarma, Kenk, Visti)
 
 
 
@@ -2898,56 +2898,56 @@ Dijke, Mick van **6.0** (Jarma, Kenk, Visti)
 
 ## 2025-03-30
 ### Hovedspillet
-Roglič, Primož **125.0** (Hustlersen, Knak)
 
-Ayuso, Juan **85.0** (Hustlersen, Kenk)
+Roglič, Primož **125** (Hustlersen, Knak)
 
-Pedersen, Mads **70.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
+Ayuso, Juan **85** (Hustlersen, Kenk)
 
-Plus, Laurens De **65.0** (Okholm)
+Pedersen, Mads **70** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Landa, Mikel **60.0** (Jappo, Jarma, Visti)
+Plus, Laurens De **65** (Okholm)
 
-Merlier, Tim **60.0** (Jappo, Knak, Matti, Tommy)
+Merlier, Tim **60** (Jappo, Knak, Matti, Tommy)
 
-Eetvelt, Lennert Van **51.0** (Jappo, Kenk, Tommy)
+Landa, Mikel **60** (Jappo, Jarma, Visti)
 
-Milan, Jonathan **50.0** (Jarma, Kenk, Matti, Okholm, Visti)
+Eetvelt, Lennert Van **51** (Jappo, Kenk, Tommy)
 
-Martinez, Lenny **50.0** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
+Martinez, Lenny **50** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
-Yates, Simon **36.0** (Okholm)
+Milan, Jonathan **50** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Girmay, Biniam **26.0** (Jappo, Knak, Matti, Okholm, Visti)
+Yates, Simon **36** (Okholm)
 
-Carapaz, Richard **25.0** (Knak)
+Girmay, Biniam **26** (Jappo, Knak, Matti, Okholm, Visti)
 
-Rex, Laurenz **14.0** (Chrelle, Jappo, Jarma, Kenk, Visti)
+Carapaz, Richard **25** (Knak)
 
-Pellizzari, Giulio **10.0** (Tommy)
+Rex, Laurenz **14** (Chrelle, Jappo, Jarma, Kenk, Visti)
 
-Strong, Corbin **8.0** (Knak, Visti)
+Pellizzari, Giulio **10** (Tommy)
 
-Mihkels, Madis **7.0** (Hustlersen, Matti, Visti)
+Strong, Corbin **8** (Knak, Visti)
 
-Trentin, Matteo **6.0** (Knak)
+Mihkels, Madis **7** (Hustlersen, Matti, Visti)
 
-Louvel, Matîs **4.0** (Jarma)
+Trentin, Matteo **6** (Knak)
 
-Laurance, Axel **4.0** (Jappo, Matti, Okholm)
+Louvel, Matîs **4** (Jarma)
 
-Broek, Frank van den **2.0** (Okholm)
+Laurance, Axel **4** (Jappo, Matti, Okholm)
 
+Broek, Frank van den **2** (Okholm)
 
 ### Cheapo
-Moniquet, Sylvain **12.0** (Visti)
 
-Russo, Clément **8.0** (Jarma)
+Moniquet, Sylvain **12** (Visti)
 
-Louvel, Matîs **4.0** (Jarma)
+Russo, Clément **8** (Jarma)
 
-Canal, Carlos **1.0** (Chrelle, Jappo, Jarma, Kenk, Visti)
+Louvel, Matîs **4** (Jarma)
 
+Canal, Carlos **1** (Chrelle, Jappo, Jarma, Kenk, Visti)
 
 
 
@@ -2955,18 +2955,18 @@ Canal, Carlos **1.0** (Chrelle, Jappo, Jarma, Kenk, Visti)
 
 ## 2025-03-29
 ### Hovedspillet
-Foldager, Anders **16.0** (Hustlersen)
 
-Eetvelt, Lennert Van **14.0** (Jappo, Kenk, Tommy)
+Foldager, Anders **16** (Hustlersen)
 
-Laurance, Axel **6.0** (Jappo, Matti, Okholm)
+Eetvelt, Lennert Van **14** (Jappo, Kenk, Tommy)
 
-Carapaz, Richard **2.0** (Knak)
+Laurance, Axel **6** (Jappo, Matti, Okholm)
 
+Carapaz, Richard **2** (Knak)
 
 ### Cheapo
-Foldager, Anders **16.0** (Hustlersen, Jappo, Kenk, Visti)
 
+Foldager, Anders **16** (Hustlersen, Jappo, Kenk, Visti)
 
 
 
@@ -2974,36 +2974,36 @@ Foldager, Anders **16.0** (Hustlersen, Jappo, Kenk, Visti)
 
 ## 2025-03-28
 ### Hovedspillet
-Poel, Mathieu van der **70.0** (Jarma)
 
-Pedersen, Mads **60.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
+Poel, Mathieu van der **70** (Jarma)
 
-Brennan, Matthew **25.0** (Chrelle, Hustlersen, Kenk)
+Pedersen, Mads **60** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Del Grosso, Tibor **20.0** (Jarma)
+Brennan, Matthew **25** (Chrelle, Hustlersen, Kenk)
 
-Strong, Corbin **12.0** (Knak, Visti)
+Del Grosso, Tibor **20** (Jarma)
 
-Naesen, Oliver **10.0** (Knak)
+Strong, Corbin **12** (Knak, Visti)
 
-Laurance, Axel **10.0** (Jappo, Matti, Okholm)
+Naesen, Oliver **10** (Knak)
 
-Trentin, Matteo **7.0** (Knak)
+Laurance, Axel **10** (Jappo, Matti, Okholm)
 
-Aert, Wout van **6.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Trentin, Matteo **7** (Knak)
 
-Ayuso, Juan **3.0** (Hustlersen, Kenk)
+Aert, Wout van **6** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Dijke, Tim van **2.0** (Kenk, Visti)
+Ayuso, Juan **3** (Hustlersen, Kenk)
 
+Dijke, Tim van **2** (Kenk, Visti)
 
 ### Cheapo
-Pedersen, Casper **40.0** (Knak)
 
-Del Grosso, Tibor **20.0** (Chrelle, Jappo, Jarma, Kenk)
+Pedersen, Casper **40** (Knak)
 
-Naesen, Oliver **10.0** (Jarma, Knak, Visti)
+Del Grosso, Tibor **20** (Chrelle, Jappo, Jarma, Kenk)
 
+Naesen, Oliver **10** (Jarma, Knak, Visti)
 
 
 
@@ -3011,20 +3011,20 @@ Naesen, Oliver **10.0** (Jarma, Knak, Visti)
 
 ## 2025-03-27
 ### Hovedspillet
-Roglič, Primož **25.0** (Hustlersen, Knak)
 
-Ayuso, Juan **20.0** (Hustlersen, Kenk)
+Roglič, Primož **25** (Hustlersen, Knak)
 
-Martinez, Lenny **14.0** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
+Ayuso, Juan **20** (Hustlersen, Kenk)
 
-Landa, Mikel **12.0** (Jappo, Jarma, Visti)
+Martinez, Lenny **14** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
-Gall, Felix **10.0** (Chrelle, Matti, Visti)
+Landa, Mikel **12** (Jappo, Jarma, Visti)
 
-Eetvelt, Lennert Van **8.0** (Jappo, Kenk, Tommy)
+Gall, Felix **10** (Chrelle, Matti, Visti)
 
-Pellizzari, Giulio **3.0** (Tommy)
+Eetvelt, Lennert Van **8** (Jappo, Kenk, Tommy)
 
+Pellizzari, Giulio **3** (Tommy)
 
 ### Cheapo
 
@@ -3034,40 +3034,40 @@ Pellizzari, Giulio **3.0** (Tommy)
 
 ## 2025-03-26
 ### Hovedspillet
-Milan, Jonathan **60.0** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Mihkels, Madis **50.0** (Hustlersen, Matti, Visti)
+Milan, Jonathan **60** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Kanter, Max **30.0** (Hustlersen)
+Mihkels, Madis **50** (Hustlersen, Matti, Visti)
 
-Ayuso, Juan **25.0** (Hustlersen, Kenk)
+Kanter, Max **30** (Hustlersen)
 
-Rex, Laurenz **22.0** (Chrelle, Jappo, Jarma, Kenk, Visti)
+Ayuso, Juan **25** (Hustlersen, Kenk)
 
-Roglič, Primož **20.0** (Hustlersen, Knak)
+Rex, Laurenz **22** (Chrelle, Jappo, Jarma, Kenk, Visti)
 
-Landa, Mikel **16.0** (Jappo, Jarma, Visti)
+Roglič, Primož **20** (Hustlersen, Knak)
 
-Welsford, Sam **14.0** (Chrelle, Hustlersen, Tommy)
+Landa, Mikel **16** (Jappo, Jarma, Visti)
 
-Martinez, Lenny **14.0** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
+Martinez, Lenny **14** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
-Eetvelt, Lennert Van **12.0** (Jappo, Kenk, Tommy)
+Welsford, Sam **14** (Chrelle, Hustlersen, Tommy)
 
-Carapaz, Richard **4.0** (Knak)
+Eetvelt, Lennert Van **12** (Jappo, Kenk, Tommy)
 
-Yates, Simon **1.0** (Okholm)
+Carapaz, Richard **4** (Knak)
 
+Yates, Simon **1** (Okholm)
 
 ### Cheapo
-Blikra, Erlend **35.0** (Hustlersen)
 
-Renard, Alexis **26.0** (Knak, Visti)
+Blikra, Erlend **35** (Hustlersen)
 
-Pickrell, Riley **10.0** (Hustlersen)
+Renard, Alexis **26** (Knak, Visti)
 
-Russo, Clément **2.0** (Jarma)
+Pickrell, Riley **10** (Hustlersen)
 
+Russo, Clément **2** (Jarma)
 
 
 
@@ -3075,16 +3075,16 @@ Russo, Clément **2.0** (Jarma)
 
 ## 2025-03-25
 ### Hovedspillet
-Brennan, Matthew **20.0** (Chrelle, Hustlersen, Kenk)
 
-Laurance, Axel **14.0** (Jappo, Matti, Okholm)
+Brennan, Matthew **20** (Chrelle, Hustlersen, Kenk)
 
-Foldager, Anders **3.0** (Hustlersen)
+Laurance, Axel **14** (Jappo, Matti, Okholm)
 
+Foldager, Anders **3** (Hustlersen)
 
 ### Cheapo
-Foldager, Anders **3.0** (Hustlersen, Jappo, Kenk, Visti)
 
+Foldager, Anders **3** (Hustlersen, Jappo, Kenk, Visti)
 
 
 
@@ -3092,22 +3092,22 @@ Foldager, Anders **3.0** (Hustlersen, Jappo, Kenk, Visti)
 
 ## 2025-03-24
 ### Hovedspillet
-Brennan, Matthew **25.0** (Chrelle, Hustlersen, Kenk)
 
-Del Grosso, Tibor **16.0** (Jarma)
+Brennan, Matthew **25** (Chrelle, Hustlersen, Kenk)
 
-Strong, Corbin **10.0** (Knak, Visti)
+Del Grosso, Tibor **16** (Jarma)
 
-Landa, Mikel **6.0** (Jappo, Jarma, Visti)
+Strong, Corbin **10** (Knak, Visti)
 
-Eetvelt, Lennert Van **4.0** (Jappo, Kenk, Tommy)
+Landa, Mikel **6** (Jappo, Jarma, Visti)
 
-Plus, Laurens De **3.0** (Okholm)
+Eetvelt, Lennert Van **4** (Jappo, Kenk, Tommy)
 
+Plus, Laurens De **3** (Okholm)
 
 ### Cheapo
-Del Grosso, Tibor **16.0** (Chrelle, Jappo, Jarma, Kenk)
 
+Del Grosso, Tibor **16** (Chrelle, Jappo, Jarma, Kenk)
 
 
 
@@ -3115,24 +3115,24 @@ Del Grosso, Tibor **16.0** (Chrelle, Jappo, Jarma, Kenk)
 
 ## 2025-03-22
 ### Hovedspillet
-Poel, Mathieu van der **120.0** (Jarma)
 
-Pogačar, Tadej **85.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
+Poel, Mathieu van der **120** (Jarma)
 
-Pedersen, Mads **40.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
+Pogačar, Tadej **85** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Kooij, Olav **35.0** (Kenk, Matti, Tommy, Visti)
+Pedersen, Mads **40** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Trentin, Matteo **30.0** (Knak)
+Kooij, Olav **35** (Kenk, Matti, Tommy, Visti)
 
-Strong, Corbin **18.0** (Knak, Visti)
+Trentin, Matteo **30** (Knak)
 
-Girmay, Biniam **14.0** (Jappo, Knak, Matti, Okholm, Visti)
+Strong, Corbin **18** (Knak, Visti)
 
-Gils, Maxim Van **7.0** (Kenk, Matti)
+Girmay, Biniam **14** (Jappo, Knak, Matti, Okholm, Visti)
 
-Adrià, Roger **2.0** (Okholm)
+Gils, Maxim Van **7** (Kenk, Matti)
 
+Adrià, Roger **2** (Okholm)
 
 ### Cheapo
 
@@ -3142,22 +3142,22 @@ Adrià, Roger **2.0** (Okholm)
 
 ## 2025-03-19
 ### Hovedspillet
-Fretin, Milan **22.0** (Matti)
 
-Ulissi, Diego **4.0** (Knak)
+Fretin, Milan **22** (Matti)
 
-Hirschi, Marc **2.0** (Hustlersen, Jappo, Knak)
+Ulissi, Diego **4** (Knak)
 
+Hirschi, Marc **2** (Hustlersen, Jappo, Knak)
 
 ### Cheapo
-Allegaert, Piet **14.0** (Knak)
 
-Cepeda, Jefferson Alexander **12.0** (Hustlersen)
+Allegaert, Piet **14** (Knak)
 
-Renard, Alexis **4.0** (Knak, Visti)
+Cepeda, Jefferson Alexander **12** (Hustlersen)
 
-Jegat, Jordan **3.0** (Chrelle, Jappo, Knak)
+Renard, Alexis **4** (Knak, Visti)
 
+Jegat, Jordan **3** (Chrelle, Jappo, Knak)
 
 
 
@@ -3165,44 +3165,44 @@ Jegat, Jordan **3.0** (Chrelle, Jappo, Knak)
 
 ## 2025-03-16
 ### Hovedspillet
-Ayuso, Juan **100.0** (Hustlersen, Kenk)
 
-Lipowitz, Florian **95.0** (Okholm)
+Ayuso, Juan **100** (Hustlersen, Kenk)
 
-Sheffield, Magnus **85.0** (Okholm)
+Lipowitz, Florian **95** (Okholm)
 
-Gee, Derek **60.0** (Jappo, Okholm)
+Sheffield, Magnus **85** (Okholm)
 
-Almeida, João **45.0** (Chrelle, Kenk)
+Gee, Derek **60** (Jappo, Okholm)
 
-Pidcock, Tom **45.0** (Chrelle, Jappo, Knak)
+Pidcock, Tom **45** (Chrelle, Jappo, Knak)
 
-Landa, Mikel **40.0** (Jappo, Jarma, Visti)
+Almeida, João **45** (Chrelle, Kenk)
 
-Wilder, Ilan Van **29.0** (Chrelle)
+Landa, Mikel **40** (Jappo, Jarma, Visti)
 
-Milan, Jonathan **25.0** (Jarma, Kenk, Matti, Okholm, Visti)
+Wilder, Ilan Van **29** (Chrelle)
 
-Gall, Felix **22.0** (Chrelle, Matti, Visti)
+Milan, Jonathan **25** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Castrillo, Pablo **20.0** (Matti)
+Gall, Felix **22** (Chrelle, Matti, Visti)
 
-Kooij, Olav **16.0** (Kenk, Matti, Tommy, Visti)
+Castrillo, Pablo **20** (Matti)
 
-Yates, Simon **14.0** (Okholm)
+Kooij, Olav **16** (Kenk, Matti, Tommy, Visti)
 
-Penhoët, Paul **12.0** (Jarma)
+Yates, Simon **14** (Okholm)
 
-Grégoire, Romain **12.0** (Chrelle, Jarma, Knak)
+Grégoire, Romain **12** (Chrelle, Jarma, Knak)
 
-Schachmann, Maximilian **8.0** (Jarma, Knak)
+Penhoët, Paul **12** (Jarma)
 
-Carapaz, Richard **6.0** (Knak)
+Schachmann, Maximilian **8** (Jarma, Knak)
 
+Carapaz, Richard **6** (Knak)
 
 ### Cheapo
-Champoussin, Clément **52.0** (Chrelle, Hustlersen, Visti)
 
+Champoussin, Clément **52** (Chrelle, Hustlersen, Visti)
 
 
 
@@ -3210,40 +3210,40 @@ Champoussin, Clément **52.0** (Chrelle, Hustlersen, Visti)
 
 ## 2025-03-15
 ### Hovedspillet
-Ayuso, Juan **25.0** (Hustlersen, Kenk)
 
-Pidcock, Tom **20.0** (Chrelle, Jappo, Knak)
+Ayuso, Juan **25** (Hustlersen, Kenk)
 
-Schmid, Mauro **20.0** (Jarma, Visti)
+Schmid, Mauro **20** (Jarma, Visti)
 
-Steinhauser, Georg **16.0** (Hustlersen)
+Pidcock, Tom **20** (Chrelle, Jappo, Knak)
 
-Romeo, Iván **14.0** (Matti)
+Steinhauser, Georg **16** (Hustlersen)
 
-Landa, Mikel **14.0** (Jappo, Jarma, Visti)
+Romeo, Iván **14** (Matti)
 
-Gee, Derek **10.0** (Jappo, Okholm)
+Landa, Mikel **14** (Jappo, Jarma, Visti)
 
-Gall, Felix **10.0** (Chrelle, Matti, Visti)
+Gee, Derek **10** (Jappo, Okholm)
 
-Martinez, Lenny **8.0** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
+Gall, Felix **10** (Chrelle, Matti, Visti)
 
-Healy, Ben **6.0** (Knak)
+Martinez, Lenny **8** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
-Lipowitz, Florian **6.0** (Okholm)
+Healy, Ben **6** (Knak)
 
-Pedersen, Mads **3.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
+Lipowitz, Florian **6** (Okholm)
 
-Sheffield, Magnus **2.0** (Okholm)
+Pedersen, Mads **3** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
+Sheffield, Magnus **2** (Okholm)
 
 ### Cheapo
-Romeo, Iván **14.0** (Chrelle, Jappo)
 
-Jegat, Jordan **12.0** (Chrelle, Jappo, Knak)
+Romeo, Iván **14** (Chrelle, Jappo)
 
-Champoussin, Clément **4.0** (Chrelle, Hustlersen, Visti)
+Jegat, Jordan **12** (Chrelle, Jappo, Knak)
 
+Champoussin, Clément **4** (Chrelle, Hustlersen, Visti)
 
 
 
@@ -3251,34 +3251,34 @@ Champoussin, Clément **4.0** (Chrelle, Hustlersen, Visti)
 
 ## 2025-03-14
 ### Hovedspillet
-Pedersen, Mads **25.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Tarling, Josh **20.0** (Chrelle)
+Pedersen, Mads **25** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Poel, Mathieu van der **20.0** (Jarma)
+Tarling, Josh **20** (Chrelle)
 
-Watson, Sam **16.0** (Tommy)
+Poel, Mathieu van der **20** (Jarma)
 
-Adrià, Roger **16.0** (Okholm)
+Adrià, Roger **16** (Okholm)
 
-Zingle, Axel **14.0** (Tommy, Visti)
+Watson, Sam **16** (Tommy)
 
-Pidcock, Tom **10.0** (Chrelle, Jappo, Knak)
+Zingle, Axel **14** (Tommy, Visti)
 
-Sheffield, Magnus **10.0** (Okholm)
+Sheffield, Magnus **10** (Okholm)
 
-Grégoire, Romain **8.0** (Chrelle, Jarma, Knak)
+Pidcock, Tom **10** (Chrelle, Jappo, Knak)
 
-Skjelmose, Mattias **8.0** (Matti, Tommy)
+Skjelmose, Mattias **8** (Matti, Tommy)
 
-Schachmann, Maximilian **4.0** (Jarma, Knak)
+Grégoire, Romain **8** (Chrelle, Jarma, Knak)
 
-Lipowitz, Florian **2.0** (Okholm)
+Schachmann, Maximilian **4** (Jarma, Knak)
 
+Lipowitz, Florian **2** (Okholm)
 
 ### Cheapo
-Dversnes, Fredrik **25.0** (Chrelle, Hustlersen, Jappo, Kenk)
 
+Dversnes, Fredrik **25** (Chrelle, Hustlersen, Jappo, Kenk)
 
 
 
@@ -3286,34 +3286,34 @@ Dversnes, Fredrik **25.0** (Chrelle, Hustlersen, Jappo, Kenk)
 
 ## 2025-03-13
 ### Hovedspillet
-Martinez, Lenny **25.0** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
-Kooij, Olav **25.0** (Kenk, Matti, Tommy, Visti)
+Kooij, Olav **25** (Kenk, Matti, Tommy, Visti)
 
-Poel, Mathieu van der **16.0** (Jarma)
+Martinez, Lenny **25** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
-Magnier, Paul **14.0** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
+Poel, Mathieu van der **16** (Jarma)
 
-Lipowitz, Florian **12.0** (Okholm)
+Magnier, Paul **14** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
 
-Almeida, João **10.0** (Chrelle, Kenk)
+Lipowitz, Florian **12** (Okholm)
 
-Pidcock, Tom **6.0** (Chrelle, Jappo, Knak)
+Almeida, João **10** (Chrelle, Kenk)
 
-Wilder, Ilan Van **6.0** (Chrelle)
+Pidcock, Tom **6** (Chrelle, Jappo, Knak)
 
-Sheffield, Magnus **4.0** (Okholm)
+Wilder, Ilan Van **6** (Chrelle)
 
-Adrià, Roger **2.0** (Okholm)
+Sheffield, Magnus **4** (Okholm)
 
+Adrià, Roger **2** (Okholm)
 
 ### Cheapo
-Champoussin, Clément **20.0** (Chrelle, Hustlersen, Visti)
 
-Pluimers, Rick **20.0** (Chrelle, Jappo, Jarma, Knak)
+Champoussin, Clément **20** (Chrelle, Hustlersen, Visti)
 
-Fiorelli, Filippo **3.0** (Kenk)
+Pluimers, Rick **20** (Chrelle, Jappo, Jarma, Knak)
 
+Fiorelli, Filippo **3** (Kenk)
 
 
 
@@ -3321,36 +3321,36 @@ Fiorelli, Filippo **3.0** (Kenk)
 
 ## 2025-03-12
 ### Hovedspillet
-Almeida, João **25.0** (Chrelle, Kenk)
 
-Pidcock, Tom **20.0** (Chrelle, Jappo, Knak)
+Almeida, João **25** (Chrelle, Kenk)
 
-Vingegaard, Jonas **20.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Vingegaard, Jonas **20** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Grégoire, Romain **16.0** (Chrelle, Jarma, Knak)
+Pidcock, Tom **20** (Chrelle, Jappo, Knak)
 
-Skjelmose, Mattias **16.0** (Matti, Tommy)
+Skjelmose, Mattias **16** (Matti, Tommy)
 
-Martinez, Lenny **14.0** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
+Grégoire, Romain **16** (Chrelle, Jarma, Knak)
 
-Adrià, Roger **12.0** (Okholm)
+Martinez, Lenny **14** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
-Lipowitz, Florian **12.0** (Okholm)
+Adrià, Roger **12** (Okholm)
 
-Wilder, Ilan Van **2.0** (Chrelle)
+Lipowitz, Florian **12** (Okholm)
 
-Ayuso, Juan **2.0** (Hustlersen, Kenk)
+Wilder, Ilan Van **2** (Chrelle)
 
-Castrillo, Pablo **1.0** (Matti)
+Ayuso, Juan **2** (Hustlersen, Kenk)
 
+Castrillo, Pablo **1** (Matti)
 
 ### Cheapo
-Pluimers, Rick **14.0** (Chrelle, Jappo, Jarma, Knak)
 
-Fiorelli, Filippo **8.0** (Kenk)
+Pluimers, Rick **14** (Chrelle, Jappo, Jarma, Knak)
 
-Champoussin, Clément **3.0** (Chrelle, Hustlersen, Visti)
+Fiorelli, Filippo **8** (Kenk)
 
+Champoussin, Clément **3** (Chrelle, Hustlersen, Visti)
 
 
 
@@ -3358,18 +3358,18 @@ Champoussin, Clément **3.0** (Chrelle, Hustlersen, Visti)
 
 ## 2025-03-11
 ### Hovedspillet
-Milan, Jonathan **25.0** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Penhoët, Paul **16.0** (Jarma)
+Milan, Jonathan **25** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Kooij, Olav **14.0** (Kenk, Matti, Tommy, Visti)
+Penhoët, Paul **16** (Jarma)
 
-Dijke, Tim van **6.0** (Kenk, Visti)
+Kooij, Olav **14** (Kenk, Matti, Tommy, Visti)
 
+Dijke, Tim van **6** (Kenk, Visti)
 
 ### Cheapo
-Capiot, Amaury **1.0** (Chrelle, Jappo, Jarma, Knak)
 
+Capiot, Amaury **1** (Chrelle, Jappo, Jarma, Knak)
 
 
 
@@ -3377,30 +3377,30 @@ Capiot, Amaury **1.0** (Chrelle, Jappo, Jarma, Knak)
 
 ## 2025-03-10
 ### Hovedspillet
-Merlier, Tim **25.0** (Jappo, Knak, Matti, Tommy)
 
-Ayuso, Juan **20.0** (Hustlersen, Kenk)
+Merlier, Tim **25** (Jappo, Knak, Matti, Tommy)
 
-Jeanniere, Emilien **20.0** (Chrelle, Jappo, Knak)
+Jeanniere, Emilien **20** (Chrelle, Jappo, Knak)
 
-Pedersen, Mads **16.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
+Ayuso, Juan **20** (Hustlersen, Kenk)
 
-Milan, Jonathan **12.0** (Jarma, Kenk, Matti, Okholm, Visti)
+Pedersen, Mads **16** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Zingle, Axel **10.0** (Tommy, Visti)
+Milan, Jonathan **12** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Gee, Derek **10.0** (Jappo, Okholm)
+Gee, Derek **10** (Jappo, Okholm)
 
-Del Grosso, Tibor **2.0** (Jarma)
+Zingle, Axel **10** (Tommy, Visti)
 
+Del Grosso, Tibor **2** (Jarma)
 
 ### Cheapo
-Price-Pejtersen, Johan **16.0** (Jappo)
 
-Kielich, Timo **12.0** (Kenk, Visti)
+Price-Pejtersen, Johan **16** (Jappo)
 
-Del Grosso, Tibor **2.0** (Chrelle, Jappo, Jarma, Kenk)
+Kielich, Timo **12** (Kenk, Visti)
 
+Del Grosso, Tibor **2** (Chrelle, Jappo, Jarma, Kenk)
 
 
 
@@ -3408,18 +3408,18 @@ Del Grosso, Tibor **2.0** (Chrelle, Jappo, Jarma, Kenk)
 
 ## 2025-03-09
 ### Hovedspillet
-Merlier, Tim **25.0** (Jappo, Knak, Matti, Tommy)
 
-Zingle, Axel **12.0** (Tommy, Visti)
+Merlier, Tim **25** (Jappo, Knak, Matti, Tommy)
 
-Pedersen, Mads **1.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
+Zingle, Axel **12** (Tommy, Visti)
 
+Pedersen, Mads **1** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
 ### Cheapo
-Dijke, Mick van **8.0** (Jarma, Kenk, Visti)
 
-Kielich, Timo **6.0** (Kenk, Visti)
+Dijke, Mick van **8** (Jarma, Kenk, Visti)
 
+Kielich, Timo **6** (Kenk, Visti)
 
 
 
@@ -3427,28 +3427,28 @@ Kielich, Timo **6.0** (Kenk, Visti)
 
 ## 2025-03-08
 ### Hovedspillet
-Pogačar, Tadej **120.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Pidcock, Tom **100.0** (Chrelle, Jappo, Knak)
+Pogačar, Tadej **120** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Healy, Ben **70.0** (Knak)
+Pidcock, Tom **100** (Chrelle, Jappo, Knak)
 
-Eetvelt, Lennert Van **30.0** (Jappo, Kenk, Tommy)
+Healy, Ben **70** (Knak)
 
-Adrià, Roger **25.0** (Okholm)
+Eetvelt, Lennert Van **30** (Jappo, Kenk, Tommy)
 
-Landa, Mikel **20.0** (Jappo, Jarma, Visti)
+Adrià, Roger **25** (Okholm)
 
-Vermeersch, Florian **8.0** (Kenk, Visti)
+Landa, Mikel **20** (Jappo, Jarma, Visti)
 
-Hirschi, Marc **2.0** (Hustlersen, Jappo, Knak)
+Vermeersch, Florian **8** (Kenk, Visti)
 
-Withen Philipsen, Albert **1.0** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Okholm, Tommy)
+Hirschi, Marc **2** (Hustlersen, Jappo, Knak)
 
+Withen Philipsen, Albert **1** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Okholm, Tommy)
 
 ### Cheapo
-Dversnes, Fredrik **5.0** (Chrelle, Hustlersen, Jappo, Kenk)
 
+Dversnes, Fredrik **5** (Chrelle, Hustlersen, Jappo, Kenk)
 
 
 
@@ -3456,20 +3456,20 @@ Dversnes, Fredrik **5.0** (Chrelle, Hustlersen, Jappo, Kenk)
 
 ## 2025-03-05
 ### Hovedspillet
-Ayuso, Juan **35.0** (Hustlersen, Kenk)
 
-Powless, Neilson **22.0** (Jappo)
+Ayuso, Juan **35** (Hustlersen, Kenk)
 
-Sheffield, Magnus **14.0** (Okholm)
+Powless, Neilson **22** (Jappo)
 
+Sheffield, Magnus **14** (Okholm)
 
 ### Cheapo
-Barré, Louis **10.0** (Chrelle, Knak)
 
-Vercher, Mattéo **8.0** (Knak)
+Barré, Louis **10** (Chrelle, Knak)
 
-Costiou, Ewen **4.0** (Jappo, Kenk, Knak)
+Vercher, Mattéo **8** (Knak)
 
+Costiou, Ewen **4** (Jappo, Kenk, Knak)
 
 
 
@@ -3477,24 +3477,24 @@ Costiou, Ewen **4.0** (Jappo, Kenk, Knak)
 
 ## 2025-03-04
 ### Hovedspillet
-Poel, Mathieu van der **35.0** (Jarma)
 
-Magnier, Paul **30.0** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
+Poel, Mathieu van der **35** (Jarma)
 
-Jeanniere, Emilien **26.0** (Chrelle, Jappo, Knak)
+Magnier, Paul **30** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
 
-Lie, Arnaud De **2.0** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
+Jeanniere, Emilien **26** (Chrelle, Jappo, Knak)
 
+Lie, Arnaud De **2** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
 
 ### Cheapo
-Capiot, Amaury **8.0** (Chrelle, Jappo, Jarma, Knak)
 
-Marit, Arne **4.0** (Kenk, Visti)
+Capiot, Amaury **8** (Chrelle, Jappo, Jarma, Knak)
 
-Mechelen, Vlad Van **3.0** (Kenk)
+Marit, Arne **4** (Kenk, Visti)
 
-Boven, Luca Van **1.0** (Jappo, Kenk, Visti)
+Mechelen, Vlad Van **3** (Kenk)
 
+Boven, Luca Van **1** (Jappo, Kenk, Visti)
 
 
 
@@ -3502,26 +3502,26 @@ Boven, Luca Van **1.0** (Jappo, Kenk, Visti)
 
 ## 2025-03-02
 ### Hovedspillet
-Gee, Derek **50.0** (Jappo, Okholm)
 
-Philipsen, Jasper **35.0** (Jarma, Knak)
+Gee, Derek **50** (Jappo, Okholm)
 
-Kooij, Olav **30.0** (Kenk, Matti, Tommy, Visti)
+Philipsen, Jasper **35** (Jarma, Knak)
 
-Milan, Jonathan **14.0** (Jarma, Kenk, Matti, Okholm, Visti)
+Kooij, Olav **30** (Kenk, Matti, Tommy, Visti)
 
-Fretin, Milan **6.0** (Matti)
+Milan, Jonathan **14** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Merlier, Tim **1.0** (Jappo, Knak, Matti, Tommy)
+Fretin, Milan **6** (Matti)
 
+Merlier, Tim **1** (Jappo, Knak, Matti, Tommy)
 
 ### Cheapo
-Marit, Arne **22.0** (Kenk, Visti)
 
-Pluimers, Rick **18.0** (Chrelle, Jappo, Jarma, Knak)
+Marit, Arne **22** (Kenk, Visti)
 
-Canal, Carlos **16.0** (Chrelle, Jappo, Jarma, Kenk, Visti)
+Pluimers, Rick **18** (Chrelle, Jappo, Jarma, Knak)
 
+Canal, Carlos **16** (Chrelle, Jappo, Jarma, Kenk, Visti)
 
 
 
@@ -3529,34 +3529,34 @@ Canal, Carlos **16.0** (Chrelle, Jappo, Jarma, Kenk, Visti)
 
 ## 2025-03-01
 ### Hovedspillet
-Magnier, Paul **60.0** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
 
-Philipsen, Jasper **50.0** (Jarma, Knak)
+Magnier, Paul **60** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
 
-Watson, Sam **35.0** (Tommy)
+Philipsen, Jasper **50** (Jarma, Knak)
 
-Aert, Wout van **12.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Watson, Sam **35** (Tommy)
 
-Gee, Derek **12.0** (Jappo, Okholm)
+Gee, Derek **12** (Jappo, Okholm)
 
-Trentin, Matteo **10.0** (Knak)
+Aert, Wout van **12** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Pedersen, Rasmus Søjberg **8.0** (Jarma)
+Trentin, Matteo **10** (Knak)
 
-Dijke, Tim van **6.0** (Kenk, Visti)
+Pedersen, Rasmus Søjberg **8** (Jarma)
 
-Vacek, Mathias **5.0** (Okholm)
+Dijke, Tim van **6** (Kenk, Visti)
 
+Vacek, Mathias **5** (Okholm)
 
 ### Cheapo
-Moer, Brent Van **40.0** (Visti)
 
-Allegaert, Piet **26.0** (Knak)
+Moer, Brent Van **40** (Visti)
 
-Pedersen, Rasmus Søjberg **8.0** (Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)
+Allegaert, Piet **26** (Knak)
 
-Renard, Alexis **7.0** (Knak, Visti)
+Pedersen, Rasmus Søjberg **8** (Hustlersen, Jappo, Jarma, Kenk, Knak, Visti)
 
+Renard, Alexis **7** (Knak, Visti)
 
 
 
@@ -3564,12 +3564,12 @@ Renard, Alexis **7.0** (Knak, Visti)
 
 ## 2025-02-28
 ### Hovedspillet
-Gee, Derek **15.0** (Jappo, Okholm)
 
+Gee, Derek **15** (Jappo, Okholm)
 
 ### Cheapo
-Dversnes, Fredrik **3.0** (Chrelle, Hustlersen, Jappo, Kenk)
 
+Dversnes, Fredrik **3** (Chrelle, Hustlersen, Jappo, Kenk)
 
 
 
@@ -3577,12 +3577,12 @@ Dversnes, Fredrik **3.0** (Chrelle, Hustlersen, Jappo, Kenk)
 
 ## 2025-02-27
 ### Hovedspillet
-Gee, Derek **1.0** (Jappo, Okholm)
 
+Gee, Derek **1** (Jappo, Okholm)
 
 ### Cheapo
-Canal, Carlos **10.0** (Chrelle, Jappo, Jarma, Kenk, Visti)
 
+Canal, Carlos **10** (Chrelle, Jappo, Jarma, Kenk, Visti)
 
 
 
@@ -3592,8 +3592,8 @@ Canal, Carlos **10.0** (Chrelle, Jappo, Jarma, Kenk, Visti)
 ### Hovedspillet
 
 ### Cheapo
-Canal, Carlos **3.0** (Chrelle, Jappo, Jarma, Kenk, Visti)
 
+Canal, Carlos **3** (Chrelle, Jappo, Jarma, Kenk, Visti)
 
 
 
@@ -3601,80 +3601,80 @@ Canal, Carlos **3.0** (Chrelle, Jappo, Jarma, Kenk, Visti)
 
 ## 2025-02-23
 ### Hovedspillet
-Pogačar, Tadej **125.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Romeo, Iván **74.0** (Matti)
+Pogačar, Tadej **125** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Vingegaard, Jonas **65.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Romeo, Iván **74** (Matti)
 
-Onley, Oscar **62.0** (Hustlersen, Okholm)
+Vingegaard, Jonas **65** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Fisher-Black, Finn **53.0** (Chrelle, Jappo)
+Onley, Oscar **62** (Hustlersen, Okholm)
 
-Castrillo, Pablo **50.0** (Matti)
+Fisher-Black, Finn **53** (Chrelle, Jappo)
 
-Sivakov, Pavel **50.0** (Jarma, Okholm)
+Castrillo, Pablo **50** (Matti)
 
-Almeida, João **45.0** (Chrelle, Kenk)
+Sivakov, Pavel **50** (Jarma, Okholm)
 
-Grégoire, Romain **38.0** (Chrelle, Jarma, Knak)
+Almeida, João **45** (Chrelle, Kenk)
 
-Plus, Laurens De **38.0** (Okholm)
+Plus, Laurens De **38** (Okholm)
 
-Pidcock, Tom **36.0** (Chrelle, Jappo, Knak)
+Grégoire, Romain **38** (Chrelle, Jarma, Knak)
 
-Gils, Maxim Van **35.0** (Kenk, Matti)
+Pidcock, Tom **36** (Chrelle, Jappo, Knak)
 
-Schachmann, Maximilian **31.0** (Jarma, Knak)
+Gils, Maxim Van **35** (Kenk, Matti)
 
-Staune-Mittet, Johannes **26.0** (Chrelle, Matti)
+Schachmann, Maximilian **31** (Jarma, Knak)
 
-Powless, Neilson **24.0** (Jappo)
+Staune-Mittet, Johannes **26** (Chrelle, Matti)
 
-Eetvelt, Lennert Van **21.0** (Jappo, Kenk, Tommy)
+Powless, Neilson **24** (Jappo)
 
-Wilder, Ilan Van **20.0** (Chrelle)
+Eetvelt, Lennert Van **21** (Jappo, Kenk, Tommy)
 
-Steinhauser, Georg **18.0** (Hustlersen)
+Wilder, Ilan Van **20** (Chrelle)
 
-Roglič, Primož **16.0** (Hustlersen, Knak)
+Steinhauser, Georg **18** (Hustlersen)
 
-Geoghegan Hart, Tao **14.0** (Jarma, Okholm)
+Roglič, Primož **16** (Hustlersen, Knak)
 
-Christen, Jan **12.0** (Kenk)
+Geoghegan Hart, Tao **14** (Jarma, Okholm)
 
-Aert, Wout van **12.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Christen, Jan **12** (Kenk)
 
-Morgado, António **10.0** (Hustlersen, Jappo, Matti, Visti)
+Aert, Wout van **12** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Vacek, Mathias **8.0** (Okholm)
+Morgado, António **10** (Hustlersen, Jappo, Matti, Visti)
 
-Poole, Max **6.0** (Chrelle, Jarma)
+Vacek, Mathias **8** (Okholm)
 
-Aleotti, Giovanni **6.0** (Okholm)
+Poole, Max **6** (Chrelle, Jarma)
 
-Gall, Felix **6.0** (Chrelle, Matti, Visti)
+Aleotti, Giovanni **6** (Okholm)
 
-Teuns, Dylan **4.0** (Knak)
+Gall, Felix **6** (Chrelle, Matti, Visti)
 
-Foldager, Anders **3.0** (Hustlersen)
+Teuns, Dylan **4** (Knak)
 
-Naesen, Oliver **2.0** (Knak)
+Foldager, Anders **3** (Hustlersen)
 
+Naesen, Oliver **2** (Knak)
 
 ### Cheapo
-Romeo, Iván **74.0** (Chrelle, Jappo)
 
-Kepplinger, Rainer **16.0** (Chrelle)
+Romeo, Iván **74** (Chrelle, Jappo)
 
-Gachignard, Thomas **16.0** (Chrelle, Knak)
+Kepplinger, Rainer **16** (Chrelle)
 
-Hoelgaard, Markus **14.0** (Hustlersen)
+Gachignard, Thomas **16** (Chrelle, Knak)
 
-Foldager, Anders **3.0** (Hustlersen, Jappo, Kenk, Visti)
+Hoelgaard, Markus **14** (Hustlersen)
 
-Naesen, Oliver **2.0** (Jarma, Knak, Visti)
+Foldager, Anders **3** (Hustlersen, Jappo, Kenk, Visti)
 
+Naesen, Oliver **2** (Jarma, Knak, Visti)
 
 
 
@@ -3682,28 +3682,28 @@ Naesen, Oliver **2.0** (Jarma, Knak, Visti)
 
 ## 2025-02-22
 ### Hovedspillet
-Merlier, Tim **25.0** (Jappo, Knak, Matti, Tommy)
 
-Philipsen, Jasper **20.0** (Jarma, Knak)
+Merlier, Tim **25** (Jappo, Knak, Matti, Tommy)
 
-Milan, Jonathan **16.0** (Jarma, Kenk, Matti, Okholm, Visti)
+Philipsen, Jasper **20** (Jarma, Knak)
 
-Fretin, Milan **15.0** (Matti)
+Milan, Jonathan **16** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Lie, Arnaud De **8.0** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
+Fretin, Milan **15** (Matti)
 
-Girmay, Biniam **6.0** (Jappo, Knak, Matti, Okholm, Visti)
+Lie, Arnaud De **8** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
 
-Mihkels, Madis **5.0** (Hustlersen, Matti, Visti)
+Girmay, Biniam **6** (Jappo, Knak, Matti, Okholm, Visti)
 
-Welsford, Sam **4.0** (Chrelle, Hustlersen, Tommy)
+Mihkels, Madis **5** (Hustlersen, Matti, Visti)
 
-Aert, Wout van **4.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Welsford, Sam **4** (Chrelle, Hustlersen, Tommy)
 
+Aert, Wout van **4** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
 ### Cheapo
-Schuyteneer, Steffen De **3.0** (Chrelle, Jappo, Jarma)
 
+Schuyteneer, Steffen De **3** (Chrelle, Jappo, Jarma)
 
 
 
@@ -3711,40 +3711,40 @@ Schuyteneer, Steffen De **3.0** (Chrelle, Jappo, Jarma)
 
 ## 2025-02-21
 ### Hovedspillet
-Merlier, Tim **25.0** (Jappo, Knak, Matti, Tommy)
 
-Milan, Jonathan **16.0** (Jarma, Kenk, Matti, Okholm, Visti)
+Merlier, Tim **25** (Jappo, Knak, Matti, Tommy)
 
-Welsford, Sam **14.0** (Chrelle, Hustlersen, Tommy)
+Milan, Jonathan **16** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Girmay, Biniam **12.0** (Jappo, Knak, Matti, Okholm, Visti)
+Welsford, Sam **14** (Chrelle, Hustlersen, Tommy)
 
-Lie, Arnaud De **10.0** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
+Girmay, Biniam **12** (Jappo, Knak, Matti, Okholm, Visti)
 
-Gils, Maxim Van **10.0** (Kenk, Matti)
+Gils, Maxim Van **10** (Kenk, Matti)
 
-Pidcock, Tom **8.0** (Chrelle, Jappo, Knak)
+Lie, Arnaud De **10** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
 
-Fretin, Milan **6.0** (Matti)
+Pidcock, Tom **8** (Chrelle, Jappo, Knak)
 
-Naesen, Oliver **6.0** (Knak)
+Fretin, Milan **6** (Matti)
 
-Mihkels, Madis **5.0** (Hustlersen, Matti, Visti)
+Naesen, Oliver **6** (Knak)
 
-Aert, Wout van **4.0** (Chrelle, Jarma, Matti, Okholm, Tommy)
+Mihkels, Madis **5** (Hustlersen, Matti, Visti)
 
-Foldager, Anders **3.0** (Hustlersen)
+Aert, Wout van **4** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Watson, Sam **2.0** (Tommy)
+Foldager, Anders **3** (Hustlersen)
 
+Watson, Sam **2** (Tommy)
 
 ### Cheapo
-Naesen, Oliver **6.0** (Jarma, Knak, Visti)
 
-Foldager, Anders **3.0** (Hustlersen, Jappo, Kenk, Visti)
+Naesen, Oliver **6** (Jarma, Knak, Visti)
 
-Jacobs, Johan **1.0** (Jarma)
+Foldager, Anders **3** (Hustlersen, Jappo, Kenk, Visti)
 
+Jacobs, Johan **1** (Jarma)
 
 
 
@@ -3752,40 +3752,40 @@ Jacobs, Johan **1.0** (Jarma)
 
 ## 2025-02-20
 ### Hovedspillet
-Milan, Jonathan **25.0** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Merlier, Tim **20.0** (Jappo, Knak, Matti, Tommy)
+Milan, Jonathan **25** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Philipsen, Jasper **16.0** (Jarma, Knak)
+Merlier, Tim **20** (Jappo, Knak, Matti, Tommy)
 
-Pidcock, Tom **15.0** (Chrelle, Jappo, Knak)
+Philipsen, Jasper **16** (Jarma, Knak)
 
-Christen, Jan **15.0** (Kenk)
+Pidcock, Tom **15** (Chrelle, Jappo, Knak)
 
-Almeida, João **12.0** (Chrelle, Kenk)
+Christen, Jan **15** (Kenk)
 
-Sivakov, Pavel **10.0** (Jarma, Okholm)
+Almeida, João **12** (Chrelle, Kenk)
 
-Plus, Laurens De **10.0** (Okholm)
+Plus, Laurens De **10** (Okholm)
 
-Morgado, António **6.0** (Hustlersen, Jappo, Matti, Visti)
+Sivakov, Pavel **10** (Jarma, Okholm)
 
-Gils, Maxim Van **5.0** (Kenk, Matti)
+Morgado, António **6** (Hustlersen, Jappo, Matti, Visti)
 
-Vingegaard, Jonas **5.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Gils, Maxim Van **5** (Kenk, Matti)
 
-Geoghegan Hart, Tao **3.0** (Jarma, Okholm)
+Vingegaard, Jonas **5** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Roglič, Primož **2.0** (Hustlersen, Knak)
+Geoghegan Hart, Tao **3** (Jarma, Okholm)
 
-Powless, Neilson **1.0** (Jappo)
+Roglič, Primož **2** (Hustlersen, Knak)
 
+Powless, Neilson **1** (Jappo)
 
 ### Cheapo
-Hoelgaard, Markus **4.0** (Hustlersen)
 
-Schuyteneer, Steffen De **4.0** (Chrelle, Jappo, Jarma)
+Schuyteneer, Steffen De **4** (Chrelle, Jappo, Jarma)
 
+Hoelgaard, Markus **4** (Hustlersen)
 
 
 
@@ -3793,38 +3793,38 @@ Schuyteneer, Steffen De **4.0** (Chrelle, Jappo, Jarma)
 
 ## 2025-02-19
 ### Hovedspillet
-Pogačar, Tadej **25.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Onley, Oscar **20.0** (Hustlersen, Okholm)
+Pogačar, Tadej **25** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Gall, Felix **16.0** (Chrelle, Matti, Visti)
+Onley, Oscar **20** (Hustlersen, Okholm)
 
-Gils, Maxim Van **15.0** (Kenk, Matti)
+Gall, Felix **16** (Chrelle, Matti, Visti)
 
-Eetvelt, Lennert Van **14.0** (Jappo, Kenk, Tommy)
+Gils, Maxim Van **15** (Kenk, Matti)
 
-Fisher-Black, Finn **10.0** (Chrelle, Jappo)
+Eetvelt, Lennert Van **14** (Jappo, Kenk, Tommy)
 
-Sivakov, Pavel **10.0** (Jarma, Okholm)
+Sivakov, Pavel **10** (Jarma, Okholm)
 
-Romeo, Iván **8.0** (Matti)
+Fisher-Black, Finn **10** (Chrelle, Jappo)
 
-Castrillo, Pablo **6.0** (Matti)
+Romeo, Iván **8** (Matti)
 
-Seixas, Paul **3.0** (Matti)
+Castrillo, Pablo **6** (Matti)
 
-Pidcock, Tom **3.0** (Chrelle, Jappo, Knak)
+Pidcock, Tom **3** (Chrelle, Jappo, Knak)
 
+Seixas, Paul **3** (Matti)
 
 ### Cheapo
-Romeo, Iván **8.0** (Chrelle, Jappo)
 
-Langellotti, Victor **2.0** (Hustlersen)
+Romeo, Iván **8** (Chrelle, Jappo)
 
-Arrieta, Igor **2.0** (Jappo, Jarma)
+Langellotti, Victor **2** (Hustlersen)
 
-Gachignard, Thomas **1.0** (Chrelle, Knak)
+Arrieta, Igor **2** (Jappo, Jarma)
 
+Gachignard, Thomas **1** (Chrelle, Knak)
 
 
 
@@ -3832,22 +3832,22 @@ Gachignard, Thomas **1.0** (Chrelle, Knak)
 
 ## 2025-02-18
 ### Hovedspillet
-Tarling, Josh **25.0** (Chrelle)
 
-Pogačar, Tadej **16.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
+Tarling, Josh **25** (Chrelle)
 
-Castrillo, Pablo **10.0** (Matti)
+Pogačar, Tadej **16** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
-Romeo, Iván **8.0** (Matti)
+Castrillo, Pablo **10** (Matti)
 
-Vermeersch, Florian **4.0** (Kenk, Visti)
+Romeo, Iván **8** (Matti)
 
-Fisher-Black, Finn **3.0** (Chrelle, Jappo)
+Vermeersch, Florian **4** (Kenk, Visti)
 
+Fisher-Black, Finn **3** (Chrelle, Jappo)
 
 ### Cheapo
-Romeo, Iván **8.0** (Chrelle, Jappo)
 
+Romeo, Iván **8** (Chrelle, Jappo)
 
 
 
@@ -3855,24 +3855,24 @@ Romeo, Iván **8.0** (Chrelle, Jappo)
 
 ## 2025-02-17
 ### Hovedspillet
-Milan, Jonathan **25.0** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Fisher-Black, Finn **20.0** (Chrelle, Jappo)
+Milan, Jonathan **25** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Andresen, Tobias Lund **16.0** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Fisher-Black, Finn **20** (Chrelle, Jappo)
 
-Eetvelt, Lennert Van **14.0** (Jappo, Kenk, Tommy)
+Andresen, Tobias Lund **16** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Onley, Oscar **12.0** (Hustlersen, Okholm)
+Eetvelt, Lennert Van **14** (Jappo, Kenk, Tommy)
 
-Pogačar, Tadej **3.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
+Onley, Oscar **12** (Hustlersen, Okholm)
 
+Pogačar, Tadej **3** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
 
 ### Cheapo
-Taminiaux, Lionel **6.0** (Jarma)
 
-Langellotti, Victor **1.0** (Hustlersen)
+Taminiaux, Lionel **6** (Jarma)
 
+Langellotti, Victor **1** (Hustlersen)
 
 
 
@@ -3880,32 +3880,32 @@ Langellotti, Victor **1.0** (Hustlersen)
 
 ## 2025-02-16
 ### Hovedspillet
-Pedersen, Mads **52.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Fretin, Milan **35.0** (Matti)
+Pedersen, Mads **52** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Kanter, Max **30.0** (Hustlersen)
+Fretin, Milan **35** (Matti)
 
-Jeanniere, Emilien **26.0** (Chrelle, Jappo, Knak)
+Kanter, Max **30** (Hustlersen)
 
-Lie, Arnaud De **22.0** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
+Jeanniere, Emilien **26** (Chrelle, Jappo, Knak)
 
-Penhoët, Paul **6.0** (Jarma)
+Lie, Arnaud De **22** (Chrelle, Hustlersen, Jappo, Jarma, Okholm, Visti)
 
-Aular, Orluis **6.0** (Visti)
+Aular, Orluis **6** (Visti)
 
-Rex, Laurenz **5.0** (Chrelle, Jappo, Jarma, Kenk, Visti)
+Penhoët, Paul **6** (Jarma)
 
+Rex, Laurenz **5** (Chrelle, Jappo, Jarma, Kenk, Visti)
 
 ### Cheapo
-Ferron, Valentin **10.0** (Chrelle)
 
-Tizza, Marco **8.0** (Jarma, Knak)
+Ferron, Valentin **10** (Chrelle)
 
-Kirsch, Alex **6.0** (Hustlersen)
+Tizza, Marco **8** (Jarma, Knak)
 
-Galván, Francisco **2.0** (Knak)
+Kirsch, Alex **6** (Hustlersen)
 
+Galván, Francisco **2** (Knak)
 
 
 
@@ -3913,16 +3913,16 @@ Galván, Francisco **2.0** (Knak)
 
 ## 2025-02-15
 ### Hovedspillet
-Pedersen, Mads **15.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Penhoët, Paul **5.0** (Jarma)
+Pedersen, Mads **15** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Mollema, Bauke **2.0** (Knak)
+Penhoët, Paul **5** (Jarma)
 
+Mollema, Bauke **2** (Knak)
 
 ### Cheapo
-Kirsch, Alex **4.0** (Hustlersen)
 
+Kirsch, Alex **4** (Hustlersen)
 
 
 
@@ -3930,14 +3930,14 @@ Kirsch, Alex **4.0** (Hustlersen)
 
 ## 2025-02-14
 ### Hovedspillet
-Pedersen, Mads **6.0** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
+Pedersen, Mads **6** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
 ### Cheapo
-Renard, Alexis **10.0** (Knak, Visti)
 
-Russo, Clément **8.0** (Jarma)
+Renard, Alexis **10** (Knak, Visti)
 
+Russo, Clément **8** (Jarma)
 
 
 
@@ -3945,14 +3945,14 @@ Russo, Clément **8.0** (Jarma)
 
 ## 2025-02-12
 ### Hovedspillet
-Uijtdebroeks, Cian **31.0** (Hustlersen)
 
-Brenner, Marco **15.0** (Hustlersen)
+Uijtdebroeks, Cian **31** (Hustlersen)
 
+Brenner, Marco **15** (Hustlersen)
 
 ### Cheapo
-Dalby, Simon **12.0** (Hustlersen)
 
+Dalby, Simon **12** (Hustlersen)
 
 
 
@@ -3960,22 +3960,22 @@ Dalby, Simon **12.0** (Hustlersen)
 
 ## 2025-02-11
 ### Hovedspillet
-Kooij, Olav **15.0** (Kenk, Matti, Tommy, Visti)
 
-Aular, Orluis **10.0** (Visti)
+Kooij, Olav **15** (Kenk, Matti, Tommy, Visti)
 
-Kanter, Max **6.0** (Hustlersen)
+Aular, Orluis **10** (Visti)
 
-Jeanniere, Emilien **4.0** (Chrelle, Jappo, Knak)
+Kanter, Max **6** (Hustlersen)
 
-Vermeersch, Florian **1.0** (Kenk, Visti)
+Jeanniere, Emilien **4** (Chrelle, Jappo, Knak)
 
+Vermeersch, Florian **1** (Kenk, Visti)
 
 ### Cheapo
-Blikra, Erlend **8.0** (Hustlersen)
 
-Capiot, Amaury **2.0** (Chrelle, Jappo, Jarma, Knak)
+Blikra, Erlend **8** (Hustlersen)
 
+Capiot, Amaury **2** (Chrelle, Jappo, Jarma, Knak)
 
 
 
@@ -3983,12 +3983,12 @@ Capiot, Amaury **2.0** (Chrelle, Jappo, Jarma, Knak)
 
 ## 2025-02-10
 ### Hovedspillet
-Brenner, Marco **6.0** (Hustlersen)
 
-Uijtdebroeks, Cian **5.0** (Hustlersen)
+Brenner, Marco **6** (Hustlersen)
 
-Ulissi, Diego **3.0** (Knak)
+Uijtdebroeks, Cian **5** (Hustlersen)
 
+Ulissi, Diego **3** (Knak)
 
 ### Cheapo
 
@@ -3998,30 +3998,30 @@ Ulissi, Diego **3.0** (Knak)
 
 ## 2025-02-09
 ### Hovedspillet
-Buitrago, Santiago **50.0** (Matti)
 
-Almeida, João **40.0** (Chrelle, Kenk)
+Buitrago, Santiago **50** (Matti)
 
-Rodriguez, Carlos **20.0** (Matti, Visti)
+Almeida, João **40** (Chrelle, Kenk)
 
-Romeo, Iván **16.0** (Matti)
+Rodriguez, Carlos **20** (Matti, Visti)
 
-Milan, Jonathan **15.0** (Jarma, Kenk, Matti, Okholm, Visti)
+Romeo, Iván **16** (Matti)
 
-Martinez, Lenny **10.0** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
+Milan, Jonathan **15** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Castrillo, Pablo **8.0** (Matti)
+Martinez, Lenny **10** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
-Brenner, Marco **6.0** (Hustlersen)
+Castrillo, Pablo **8** (Matti)
 
-Sivakov, Pavel **2.0** (Jarma, Okholm)
+Brenner, Marco **6** (Hustlersen)
 
+Sivakov, Pavel **2** (Jarma, Okholm)
 
 ### Cheapo
-Romeo, Iván **16.0** (Chrelle, Jappo)
 
-Vervaeke, Louis **15.0** (Jarma)
+Romeo, Iván **16** (Chrelle, Jappo)
 
+Vervaeke, Louis **15** (Jarma)
 
 
 
@@ -4029,24 +4029,24 @@ Vervaeke, Louis **15.0** (Jarma)
 
 ## 2025-02-08
 ### Hovedspillet
-Kooij, Olav **15.0** (Kenk, Matti, Tommy, Visti)
 
-Buitrago, Santiago **15.0** (Matti)
+Kooij, Olav **15** (Kenk, Matti, Tommy, Visti)
 
-Milan, Jonathan **12.0** (Jarma, Kenk, Matti, Okholm, Visti)
+Buitrago, Santiago **15** (Matti)
 
-Sheehan, Riley **8.0** (Okholm)
+Milan, Jonathan **12** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Almeida, João **4.0** (Chrelle, Kenk)
+Sheehan, Riley **8** (Okholm)
 
-Jeanniere, Emilien **3.0** (Chrelle, Jappo, Knak)
+Almeida, João **4** (Chrelle, Kenk)
 
+Jeanniere, Emilien **3** (Chrelle, Jappo, Knak)
 
 ### Cheapo
-Blikra, Erlend **10.0** (Hustlersen)
 
-Pluimers, Rick **6.0** (Chrelle, Jappo, Jarma, Knak)
+Blikra, Erlend **10** (Hustlersen)
 
+Pluimers, Rick **6** (Chrelle, Jappo, Jarma, Knak)
 
 
 
@@ -4054,18 +4054,18 @@ Pluimers, Rick **6.0** (Chrelle, Jappo, Jarma, Knak)
 
 ## 2025-02-07
 ### Hovedspillet
-Romeo, Iván **15.0** (Matti)
 
-Buitrago, Santiago **12.0** (Matti)
+Romeo, Iván **15** (Matti)
 
-Almeida, João **10.0** (Chrelle, Kenk)
+Buitrago, Santiago **12** (Matti)
 
-Castrillo, Pablo **5.0** (Matti)
+Almeida, João **10** (Chrelle, Kenk)
 
+Castrillo, Pablo **5** (Matti)
 
 ### Cheapo
-Romeo, Iván **15.0** (Chrelle, Jappo)
 
+Romeo, Iván **15** (Chrelle, Jappo)
 
 
 
@@ -4073,20 +4073,20 @@ Romeo, Iván **15.0** (Chrelle, Jappo)
 
 ## 2025-02-06
 ### Hovedspillet
-Buitrago, Santiago **15.0** (Matti)
 
-Almeida, João **10.0** (Chrelle, Kenk)
+Buitrago, Santiago **15** (Matti)
 
-Rodriguez, Carlos **3.0** (Matti, Visti)
+Almeida, João **10** (Chrelle, Kenk)
 
-Martinez, Lenny **2.0** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
+Rodriguez, Carlos **3** (Matti, Visti)
 
-Romeo, Iván **1.0** (Matti)
+Martinez, Lenny **2** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
+Romeo, Iván **1** (Matti)
 
 ### Cheapo
-Romeo, Iván **1.0** (Chrelle, Jappo)
 
+Romeo, Iván **1** (Chrelle, Jappo)
 
 
 
@@ -4094,28 +4094,28 @@ Romeo, Iván **1.0** (Chrelle, Jappo)
 
 ## 2025-02-02
 ### Hovedspillet
-Schmid, Mauro **70.0** (Jarma, Visti)
 
-Pithie, Laurence **50.0** (Tommy)
+Schmid, Mauro **70** (Jarma, Visti)
 
-Bagioli, Andrea **35.0** (Jarma, Kenk)
+Pithie, Laurence **50** (Tommy)
 
-Strong, Corbin **30.0** (Knak, Visti)
+Bagioli, Andrea **35** (Jarma, Kenk)
 
-Sheffield, Magnus **26.0** (Okholm)
+Strong, Corbin **30** (Knak, Visti)
 
-Onley, Oscar **18.0** (Hustlersen, Okholm)
+Sheffield, Magnus **26** (Okholm)
 
-Fisher-Black, Finn **14.0** (Chrelle, Jappo)
+Onley, Oscar **18** (Hustlersen, Okholm)
 
-Teutenberg, Tim Torn **8.0** (Hustlersen, Kenk, Tommy)
+Fisher-Black, Finn **14** (Chrelle, Jappo)
 
-Andresen, Tobias Lund **6.0** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Teutenberg, Tim Torn **8** (Hustlersen, Kenk, Tommy)
 
+Andresen, Tobias Lund **6** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
 ### Cheapo
-Eenkhoorn, Pascal **1.0** (Kenk, Visti)
 
+Eenkhoorn, Pascal **1** (Kenk, Visti)
 
 
 
@@ -4123,22 +4123,22 @@ Eenkhoorn, Pascal **1.0** (Kenk, Visti)
 
 ## 2025-02-01
 ### Hovedspillet
-Pidcock, Tom **50.0** (Chrelle, Jappo, Knak)
 
-Broek, Frank van den **18.0** (Okholm)
+Pidcock, Tom **50** (Chrelle, Jappo, Knak)
 
+Broek, Frank van den **18** (Okholm)
 
 ### Cheapo
-Dversnes, Fredrik **40.0** (Chrelle, Hustlersen, Jappo, Kenk)
 
-Kepplinger, Rainer **25.0** (Chrelle)
+Dversnes, Fredrik **40** (Chrelle, Hustlersen, Jappo, Kenk)
 
-Jegat, Jordan **12.0** (Chrelle, Jappo, Knak)
+Kepplinger, Rainer **25** (Chrelle)
 
-Meulen, Max van der **6.0** (Chrelle, Hustlersen)
+Jegat, Jordan **12** (Chrelle, Jappo, Knak)
 
-Bruttomesso, Alberto **3.0** (Chrelle)
+Meulen, Max van der **6** (Chrelle, Hustlersen)
 
+Bruttomesso, Alberto **3** (Chrelle)
 
 
 
@@ -4146,14 +4146,14 @@ Bruttomesso, Alberto **3.0** (Chrelle)
 
 ## 2025-01-31
 ### Hovedspillet
-Pidcock, Tom **15.0** (Chrelle, Jappo, Knak)
 
+Pidcock, Tom **15** (Chrelle, Jappo, Knak)
 
 ### Cheapo
-Kepplinger, Rainer **10.0** (Chrelle)
 
-Meulen, Max van der **1.0** (Chrelle, Hustlersen)
+Kepplinger, Rainer **10** (Chrelle)
 
+Meulen, Max van der **1** (Chrelle, Hustlersen)
 
 
 
@@ -4161,12 +4161,12 @@ Meulen, Max van der **1.0** (Chrelle, Hustlersen)
 
 ## 2025-01-30
 ### Hovedspillet
-Merlier, Tim **15.0** (Jappo, Knak, Matti, Tommy)
 
+Merlier, Tim **15** (Jappo, Knak, Matti, Tommy)
 
 ### Cheapo
-Bruttomesso, Alberto **2.0** (Chrelle)
 
+Bruttomesso, Alberto **2** (Chrelle)
 
 
 
@@ -4174,16 +4174,16 @@ Bruttomesso, Alberto **2.0** (Chrelle)
 
 ## 2025-01-29
 ### Hovedspillet
-Pidcock, Tom **15.0** (Chrelle, Jappo, Knak)
 
+Pidcock, Tom **15** (Chrelle, Jappo, Knak)
 
 ### Cheapo
-Kepplinger, Rainer **12.0** (Chrelle)
 
-Dversnes, Fredrik **5.0** (Chrelle, Hustlersen, Jappo, Kenk)
+Kepplinger, Rainer **12** (Chrelle)
 
-Voisard, Yannis **4.0** (Chrelle, Hustlersen, Knak)
+Dversnes, Fredrik **5** (Chrelle, Hustlersen, Jappo, Kenk)
 
+Voisard, Yannis **4** (Chrelle, Hustlersen, Knak)
 
 
 
@@ -4191,12 +4191,12 @@ Voisard, Yannis **4.0** (Chrelle, Hustlersen, Knak)
 
 ## 2025-01-28
 ### Hovedspillet
-Merlier, Tim **15.0** (Jappo, Knak, Matti, Tommy)
 
+Merlier, Tim **15** (Jappo, Knak, Matti, Tommy)
 
 ### Cheapo
-Bruttomesso, Alberto **3.0** (Chrelle)
 
+Bruttomesso, Alberto **3** (Chrelle)
 
 
 
@@ -4204,38 +4204,38 @@ Bruttomesso, Alberto **3.0** (Chrelle)
 
 ## 2025-01-26
 ### Hovedspillet
-Narváez, Jhonatan **100.0** (Hustlersen, Kenk)
 
-Fisher-Black, Finn **70.0** (Chrelle, Jappo)
+Narváez, Jhonatan **100** (Hustlersen, Kenk)
 
-Onley, Oscar **60.0** (Hustlersen, Okholm)
+Fisher-Black, Finn **70** (Chrelle, Jappo)
 
-Plapp, Luke **45.0** (Chrelle, Hustlersen)
+Onley, Oscar **60** (Hustlersen, Okholm)
 
-Sheffield, Magnus **40.0** (Okholm)
+Plapp, Luke **45** (Chrelle, Hustlersen)
 
-Welsford, Sam **25.0** (Chrelle, Hustlersen, Tommy)
+Sheffield, Magnus **40** (Okholm)
 
-Mollema, Bauke **16.0** (Knak)
+Welsford, Sam **25** (Chrelle, Hustlersen, Tommy)
 
-Uhlig, Henri **10.0** (Hustlersen)
+Mollema, Bauke **16** (Knak)
 
-Withen Philipsen, Albert **8.0** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Okholm, Tommy)
+Uhlig, Henri **10** (Hustlersen)
 
-Andresen, Tobias Lund **8.0** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Withen Philipsen, Albert **8** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Okholm, Tommy)
 
-Teutenberg, Tim Torn **6.0** (Hustlersen, Kenk, Tommy)
+Andresen, Tobias Lund **8** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Strong, Corbin **2.0** (Knak, Visti)
+Teutenberg, Tim Torn **6** (Hustlersen, Kenk, Tommy)
 
+Strong, Corbin **2** (Knak, Visti)
 
 ### Cheapo
-Tronchon, Bastien **50.0** (Chrelle, Jappo, Kenk, Knak, Visti)
 
-Eulálio, Afonso **12.0** (Visti)
+Tronchon, Bastien **50** (Chrelle, Jappo, Kenk, Knak, Visti)
 
-Walls, Matthew **4.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk)
+Eulálio, Afonso **12** (Visti)
 
+Walls, Matthew **4** (Chrelle, Hustlersen, Jappo, Jarma, Kenk)
 
 
 
@@ -4243,20 +4243,20 @@ Walls, Matthew **4.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk)
 
 ## 2025-01-25
 ### Hovedspillet
-Narváez, Jhonatan **25.0** (Hustlersen, Kenk)
 
-Onley, Oscar **20.0** (Hustlersen, Okholm)
+Narváez, Jhonatan **25** (Hustlersen, Kenk)
 
-Fisher-Black, Finn **16.0** (Chrelle, Jappo)
+Onley, Oscar **20** (Hustlersen, Okholm)
 
-Plapp, Luke **14.0** (Chrelle, Hustlersen)
+Fisher-Black, Finn **16** (Chrelle, Jappo)
 
-Sheffield, Magnus **6.0** (Okholm)
+Plapp, Luke **14** (Chrelle, Hustlersen)
 
+Sheffield, Magnus **6** (Okholm)
 
 ### Cheapo
-Tronchon, Bastien **4.0** (Chrelle, Jappo, Kenk, Knak, Visti)
 
+Tronchon, Bastien **4** (Chrelle, Jappo, Kenk, Knak, Visti)
 
 
 
@@ -4264,18 +4264,18 @@ Tronchon, Bastien **4.0** (Chrelle, Jappo, Kenk, Knak, Visti)
 
 ## 2025-01-24
 ### Hovedspillet
-Narváez, Jhonatan **16.0** (Hustlersen, Kenk)
 
-Watson, Sam **12.0** (Tommy)
+Narváez, Jhonatan **16** (Hustlersen, Kenk)
 
-Andresen, Tobias Lund **10.0** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Watson, Sam **12** (Tommy)
 
-Strong, Corbin **8.0** (Knak, Visti)
+Andresen, Tobias Lund **10** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Teutenberg, Tim Torn **6.0** (Hustlersen, Kenk, Tommy)
+Strong, Corbin **8** (Knak, Visti)
 
-Uhlig, Henri **4.0** (Hustlersen)
+Teutenberg, Tim Torn **6** (Hustlersen, Kenk, Tommy)
 
+Uhlig, Henri **4** (Hustlersen)
 
 ### Cheapo
 
@@ -4285,22 +4285,22 @@ Uhlig, Henri **4.0** (Hustlersen)
 
 ## 2025-01-23
 ### Hovedspillet
-Narváez, Jhonatan **20.0** (Hustlersen, Kenk)
 
-Fisher-Black, Finn **16.0** (Chrelle, Jappo)
+Narváez, Jhonatan **20** (Hustlersen, Kenk)
 
-Withen Philipsen, Albert **14.0** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Okholm, Tommy)
+Fisher-Black, Finn **16** (Chrelle, Jappo)
 
-Bagioli, Andrea **8.0** (Jarma, Kenk)
+Withen Philipsen, Albert **14** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Okholm, Tommy)
 
-Sheffield, Magnus **3.0** (Okholm)
+Bagioli, Andrea **8** (Jarma, Kenk)
 
-Plapp, Luke **2.0** (Chrelle, Hustlersen)
+Sheffield, Magnus **3** (Okholm)
 
+Plapp, Luke **2** (Chrelle, Hustlersen)
 
 ### Cheapo
-Tronchon, Bastien **6.0** (Chrelle, Jappo, Kenk, Knak, Visti)
 
+Tronchon, Bastien **6** (Chrelle, Jappo, Kenk, Knak, Visti)
 
 
 
@@ -4308,26 +4308,26 @@ Tronchon, Bastien **6.0** (Chrelle, Jappo, Kenk, Knak, Visti)
 
 ## 2025-01-22
 ### Hovedspillet
-Welsford, Sam **25.0** (Chrelle, Hustlersen, Tommy)
 
-Teutenberg, Tim Torn **14.0** (Hustlersen, Kenk, Tommy)
+Welsford, Sam **25** (Chrelle, Hustlersen, Tommy)
 
-Andresen, Tobias Lund **12.0** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Teutenberg, Tim Torn **14** (Hustlersen, Kenk, Tommy)
 
-Uhlig, Henri **10.0** (Hustlersen)
+Andresen, Tobias Lund **12** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
-Watson, Sam **8.0** (Tommy)
+Uhlig, Henri **10** (Hustlersen)
 
-Strong, Corbin **6.0** (Knak, Visti)
+Watson, Sam **8** (Tommy)
 
+Strong, Corbin **6** (Knak, Visti)
 
 ### Cheapo
-Marit, Arne **20.0** (Kenk, Visti)
 
-Renard, Alexis **4.0** (Knak, Visti)
+Marit, Arne **20** (Kenk, Visti)
 
-Walls, Matthew **3.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk)
+Renard, Alexis **4** (Knak, Visti)
 
+Walls, Matthew **3** (Chrelle, Hustlersen, Jappo, Jarma, Kenk)
 
 
 
@@ -4335,24 +4335,24 @@ Walls, Matthew **3.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk)
 
 ## 2025-01-21
 ### Hovedspillet
-Welsford, Sam **25.0** (Chrelle, Hustlersen, Tommy)
 
-Brennan, Matthew **20.0** (Chrelle, Hustlersen, Kenk)
+Welsford, Sam **25** (Chrelle, Hustlersen, Tommy)
 
-Teutenberg, Tim Torn **14.0** (Hustlersen, Kenk, Tommy)
+Brennan, Matthew **20** (Chrelle, Hustlersen, Kenk)
 
-Strong, Corbin **8.0** (Knak, Visti)
+Teutenberg, Tim Torn **14** (Hustlersen, Kenk, Tommy)
 
-Andresen, Tobias Lund **2.0** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+Strong, Corbin **8** (Knak, Visti)
 
-Uhlig, Henri **1.0** (Hustlersen)
+Andresen, Tobias Lund **2** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
 
+Uhlig, Henri **1** (Hustlersen)
 
 ### Cheapo
-Walls, Matthew **16.0** (Chrelle, Hustlersen, Jappo, Jarma, Kenk)
 
-Dehairs, Simon **10.0** (Jappo, Jarma, Kenk, Visti)
+Walls, Matthew **16** (Chrelle, Hustlersen, Jappo, Jarma, Kenk)
 
+Dehairs, Simon **10** (Jappo, Jarma, Kenk, Visti)
 
 
 

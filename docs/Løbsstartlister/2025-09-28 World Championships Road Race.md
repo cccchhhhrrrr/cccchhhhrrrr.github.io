@@ -134,7 +134,7 @@
       <td>Van Eetvelt Lennert</td>
       <td class = "startlist">Carapaz Richard</td>
       <td>Kooij Olav</td>
-      <td>Girmay Biniam</td>
+      <td class = "startlist">Girmay Biniam</td>
       <td>Kooij Olav</td>
       <td>De Lie Arnaud</td>
     </tr>
@@ -146,7 +146,7 @@
       <td>Landa Mikel</td>
       <td>Landa Mikel</td>
       <td>Kooij Olav</td>
-      <td>Girmay Biniam</td>
+      <td class = "startlist">Girmay Biniam</td>
       <td>Van Gils Maxim</td>
       <td>Yates Simon</td>
       <td>Merlier Tim</td>
@@ -157,14 +157,14 @@
       <td>9</td>
       <td class = "startlist">Van Wilder Ilan</td>
       <td>Narváez Jhonatan</td>
-      <td>Girmay Biniam</td>
+      <td class = "startlist">Girmay Biniam</td>
       <td>Geoghegan Hart Tao</td>
       <td>Van Gils Maxim</td>
       <td class = "startlist">Hirschi Marc</td>
       <td>Merlier Tim</td>
       <td class = "startlist">Onley Oscar</td>
       <td>Pithie Laurence</td>
-      <td>Girmay Biniam</td>
+      <td class = "startlist">Girmay Biniam</td>
     </tr>
     <tr>
       <th>9</th>
@@ -175,7 +175,7 @@
       <td>Grégoire Romain</td>
       <td>Narváez Jhonatan</td>
       <td class = "startlist">Healy Ben</td>
-      <td>Girmay Biniam</td>
+      <td class = "startlist">Girmay Biniam</td>
       <td>Gee Derek</td>
       <td>Nys Thibau</td>
       <td>Gall Felix</td>
