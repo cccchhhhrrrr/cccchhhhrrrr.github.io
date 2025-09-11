@@ -337,7 +337,7 @@ hide:
       <td>Bahrain Victorious</td>
       <td>1.0</td>
       <td>1</td>
-      <td>49</td>
+      <td>52</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -348,7 +348,7 @@ hide:
       <td>Israel - Premier Tech</td>
       <td>1.0</td>
       <td>1</td>
-      <td>50</td>
+      <td>53</td>
       <td>1</td>
       <td>1.0</td>
       <td>0.0</td>
@@ -370,7 +370,7 @@ hide:
       <td>Lotto</td>
       <td>1.4</td>
       <td>1</td>
-      <td>46</td>
+      <td>49</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -436,10 +436,10 @@ hide:
       <td>Intermarché - Wanty</td>
       <td>1.0</td>
       <td>3</td>
-      <td>32</td>
+      <td>35</td>
       <td>25</td>
       <td>25.0</td>
-      <td>0.8</td>
+      <td>0.7</td>
       <td></td>
     </tr>
     <tr>
@@ -546,10 +546,10 @@ hide:
       <td>Team Jayco AlUla</td>
       <td>1.1</td>
       <td>2</td>
-      <td>42</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>45</td>
+      <td>14</td>
+      <td>12.7</td>
+      <td>0.3</td>
       <td></td>
     </tr>
     <tr>
@@ -579,7 +579,7 @@ hide:
       <td>Alpecin - Deceuninck</td>
       <td>1.2</td>
       <td>1</td>
-      <td>55</td>
+      <td>58</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -590,10 +590,10 @@ hide:
       <td>Red Bull - BORA - hansgrohe</td>
       <td>2.4</td>
       <td>1</td>
-      <td>53</td>
-      <td>80</td>
-      <td>33.3</td>
-      <td>1.5</td>
+      <td>56</td>
+      <td>100</td>
+      <td>41.7</td>
+      <td>1.8</td>
       <td></td>
     </tr>
     <tr>
@@ -601,7 +601,7 @@ hide:
       <td>Team Jayco AlUla</td>
       <td>1.0</td>
       <td>2</td>
-      <td>58</td>
+      <td>61</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -700,10 +700,10 @@ hide:
       <td>Team Visma - Lease a Bike</td>
       <td>25.6</td>
       <td>384</td>
-      <td>55</td>
-      <td>446</td>
-      <td>17.4</td>
-      <td>8.1</td>
+      <td>58</td>
+      <td>458</td>
+      <td>17.9</td>
+      <td>7.9</td>
       <td></td>
     </tr>
     <tr>
@@ -711,7 +711,7 @@ hide:
       <td>Bahrain Victorious</td>
       <td>3.9</td>
       <td>19</td>
-      <td>59</td>
+      <td>62</td>
       <td>6</td>
       <td>1.5</td>
       <td>0.1</td>
@@ -722,7 +722,7 @@ hide:
       <td>Lidl - Trek</td>
       <td>1.1</td>
       <td>2</td>
-      <td>41</td>
+      <td>44</td>
       <td>6</td>
       <td>5.5</td>
       <td>0.1</td>
@@ -733,7 +733,7 @@ hide:
       <td>Lidl - Trek</td>
       <td>1.3</td>
       <td>3</td>
-      <td>63</td>
+      <td>66</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -810,10 +810,10 @@ hide:
       <td>Israel - Premier Tech</td>
       <td>1.1</td>
       <td>2</td>
-      <td>42</td>
-      <td>23</td>
-      <td>20.9</td>
-      <td>0.5</td>
+      <td>45</td>
+      <td>29</td>
+      <td>26.4</td>
+      <td>0.6</td>
       <td></td>
     </tr>
     <tr>
@@ -832,10 +832,10 @@ hide:
       <td>UAE Emirates XRG</td>
       <td>7.7</td>
       <td>13</td>
-      <td>67</td>
+      <td>70</td>
       <td>92</td>
       <td>11.9</td>
-      <td>1.4</td>
+      <td>1.3</td>
       <td></td>
     </tr>
     <tr>
@@ -898,7 +898,7 @@ hide:
       <td>Soudal - Quick-Step</td>
       <td>8.4</td>
       <td>7</td>
-      <td>48</td>
+      <td>51</td>
       <td>15</td>
       <td>1.8</td>
       <td>0.3</td>
@@ -909,7 +909,7 @@ hide:
       <td>Decathlon AG2R La Mondiale</td>
       <td>1.0</td>
       <td>4</td>
-      <td>36</td>
+      <td>39</td>
       <td>16</td>
       <td>16.0</td>
       <td>0.4</td>
@@ -1074,7 +1074,7 @@ hide:
       <td>Q36.5 Pro Cycling Team</td>
       <td>1.0</td>
       <td>0</td>
-      <td>58</td>
+      <td>60</td>
       <td>14</td>
       <td>14.0</td>
       <td>0.2</td>
@@ -1382,10 +1382,10 @@ hide:
       <td>Groupama - FDJ</td>
       <td>1.3</td>
       <td>0</td>
-      <td>45</td>
-      <td>3</td>
-      <td>2.3</td>
-      <td>0.1</td>
+      <td>48</td>
+      <td>21</td>
+      <td>16.2</td>
+      <td>0.4</td>
       <td></td>
     </tr>
     <tr>
@@ -1393,10 +1393,10 @@ hide:
       <td>Decathlon AG2R La Mondiale</td>
       <td>1.2</td>
       <td>0</td>
-      <td>45</td>
+      <td>48</td>
       <td>39</td>
       <td>32.5</td>
-      <td>0.9</td>
+      <td>0.8</td>
       <td></td>
     </tr>
     <tr>
@@ -1591,10 +1591,10 @@ hide:
       <td>INEOS Grenadiers</td>
       <td>3.7</td>
       <td>8</td>
-      <td>61</td>
+      <td>64</td>
       <td>206</td>
       <td>55.7</td>
-      <td>3.4</td>
+      <td>3.2</td>
       <td></td>
     </tr>
     <tr>
@@ -1635,10 +1635,10 @@ hide:
       <td>Israel - Premier Tech</td>
       <td>6.5</td>
       <td>26</td>
-      <td>39</td>
-      <td>149</td>
-      <td>22.9</td>
-      <td>3.8</td>
+      <td>42</td>
+      <td>150</td>
+      <td>23.1</td>
+      <td>3.6</td>
       <td></td>
     </tr>
     <tr>
@@ -1646,10 +1646,10 @@ hide:
       <td>INEOS Grenadiers</td>
       <td>14.5</td>
       <td>91</td>
-      <td>46</td>
-      <td>284</td>
-      <td>19.6</td>
-      <td>6.2</td>
+      <td>49</td>
+      <td>324</td>
+      <td>22.3</td>
+      <td>6.6</td>
       <td></td>
     </tr>
     <tr>
@@ -1701,10 +1701,10 @@ hide:
       <td>Lidl - Trek</td>
       <td>2.6</td>
       <td>7</td>
-      <td>51</td>
+      <td>54</td>
       <td>54</td>
       <td>20.8</td>
-      <td>1.1</td>
+      <td>1.0</td>
       <td></td>
     </tr>
     <tr>
@@ -1723,7 +1723,7 @@ hide:
       <td>Soudal - Quick-Step</td>
       <td>1.9</td>
       <td>2</td>
-      <td>59</td>
+      <td>60</td>
       <td>45</td>
       <td>23.7</td>
       <td>0.8</td>
@@ -1745,7 +1745,7 @@ hide:
       <td>Team Picnic PostNL</td>
       <td>1.8</td>
       <td>4</td>
-      <td>68</td>
+      <td>71</td>
       <td>10</td>
       <td>5.6</td>
       <td>0.1</td>
@@ -1800,10 +1800,10 @@ hide:
       <td>XDS Astana Team</td>
       <td>4.9</td>
       <td>12</td>
-      <td>56</td>
+      <td>59</td>
       <td>31</td>
       <td>6.3</td>
-      <td>0.6</td>
+      <td>0.5</td>
       <td></td>
     </tr>
     <tr>
@@ -1822,7 +1822,7 @@ hide:
       <td>EF Education - EasyPost</td>
       <td>1.1</td>
       <td>0</td>
-      <td>59</td>
+      <td>62</td>
       <td>16</td>
       <td>14.5</td>
       <td>0.3</td>
@@ -1855,10 +1855,10 @@ hide:
       <td>Groupama - FDJ</td>
       <td>2.6</td>
       <td>4</td>
-      <td>37</td>
+      <td>40</td>
       <td>76</td>
       <td>29.2</td>
-      <td>2.1</td>
+      <td>1.9</td>
       <td></td>
     </tr>
     <tr>
@@ -1888,10 +1888,10 @@ hide:
       <td>Bahrain Victorious</td>
       <td>1.2</td>
       <td>4</td>
-      <td>47</td>
-      <td>28</td>
-      <td>23.3</td>
-      <td>0.6</td>
+      <td>50</td>
+      <td>40</td>
+      <td>33.3</td>
+      <td>0.8</td>
       <td></td>
     </tr>
     <tr>
@@ -1943,10 +1943,10 @@ hide:
       <td>Burgos Burpellet BH</td>
       <td>1.0</td>
       <td>0</td>
-      <td>31</td>
+      <td>34</td>
       <td>37</td>
       <td>37.0</td>
-      <td>1.2</td>
+      <td>1.1</td>
       <td></td>
     </tr>
     <tr>
@@ -1987,10 +1987,10 @@ hide:
       <td>Soudal - Quick-Step</td>
       <td>4.3</td>
       <td>0</td>
-      <td>50</td>
-      <td>128</td>
-      <td>29.8</td>
-      <td>2.6</td>
+      <td>53</td>
+      <td>130</td>
+      <td>30.2</td>
+      <td>2.5</td>
       <td></td>
     </tr>
     <tr>
@@ -1998,10 +1998,10 @@ hide:
       <td>Cofidis</td>
       <td>5.4</td>
       <td>20</td>
-      <td>38</td>
+      <td>41</td>
       <td>65</td>
       <td>12.0</td>
-      <td>1.7</td>
+      <td>1.6</td>
       <td></td>
     </tr>
     <tr>
@@ -2031,10 +2031,10 @@ hide:
       <td>Red Bull - BORA - hansgrohe</td>
       <td>3.9</td>
       <td>1</td>
-      <td>44</td>
+      <td>47</td>
       <td>107</td>
       <td>27.4</td>
-      <td>2.4</td>
+      <td>2.3</td>
       <td></td>
     </tr>
     <tr>
@@ -2042,7 +2042,7 @@ hide:
       <td>Lotto</td>
       <td>1.1</td>
       <td>1</td>
-      <td>58</td>
+      <td>61</td>
       <td>20</td>
       <td>18.2</td>
       <td>0.3</td>
@@ -2130,7 +2130,7 @@ hide:
       <td>Burgos Burpellet BH</td>
       <td>1.0</td>
       <td>1</td>
-      <td>36</td>
+      <td>39</td>
       <td>12</td>
       <td>12.0</td>
       <td>0.3</td>
@@ -2229,10 +2229,10 @@ hide:
       <td>Israel - Premier Tech</td>
       <td>8.2</td>
       <td>167</td>
-      <td>46</td>
-      <td>115</td>
-      <td>14.0</td>
-      <td>2.5</td>
+      <td>49</td>
+      <td>131</td>
+      <td>16.0</td>
+      <td>2.7</td>
       <td></td>
     </tr>
     <tr>
@@ -2614,7 +2614,7 @@ hide:
       <td>Alpecin - Deceuninck</td>
       <td>1.6</td>
       <td>39</td>
-      <td>48</td>
+      <td>51</td>
       <td>4</td>
       <td>2.5</td>
       <td>0.1</td>
@@ -2669,7 +2669,7 @@ hide:
       <td>Bahrain Victorious</td>
       <td>1.0</td>
       <td>2</td>
-      <td>40</td>
+      <td>43</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -2911,10 +2911,10 @@ hide:
       <td>Decathlon AG2R La Mondiale</td>
       <td>2.8</td>
       <td>19</td>
-      <td>69</td>
-      <td>50</td>
-      <td>17.9</td>
-      <td>0.7</td>
+      <td>72</td>
+      <td>70</td>
+      <td>25.0</td>
+      <td>1.0</td>
       <td></td>
     </tr>
     <tr>
@@ -2922,7 +2922,7 @@ hide:
       <td>Intermarché - Wanty</td>
       <td>1.1</td>
       <td>3</td>
-      <td>48</td>
+      <td>51</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -2933,10 +2933,10 @@ hide:
       <td>Bahrain Victorious</td>
       <td>3.3</td>
       <td>3</td>
-      <td>34</td>
-      <td>64</td>
-      <td>19.4</td>
-      <td>1.9</td>
+      <td>37</td>
+      <td>76</td>
+      <td>23.0</td>
+      <td>2.1</td>
       <td></td>
     </tr>
     <tr>
@@ -2977,7 +2977,7 @@ hide:
       <td>UAE Emirates XRG</td>
       <td>1.0</td>
       <td>3</td>
-      <td>53</td>
+      <td>56</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -3153,10 +3153,10 @@ hide:
       <td>INEOS Grenadiers</td>
       <td>1.8</td>
       <td>6</td>
-      <td>43</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>46</td>
+      <td>16</td>
+      <td>8.9</td>
+      <td>0.3</td>
       <td></td>
     </tr>
     <tr>
@@ -3164,7 +3164,7 @@ hide:
       <td>Alpecin - Deceuninck</td>
       <td>1.1</td>
       <td>1</td>
-      <td>40</td>
+      <td>43</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -3197,7 +3197,7 @@ hide:
       <td>Red Bull - BORA - hansgrohe</td>
       <td>2.2</td>
       <td>2</td>
-      <td>60</td>
+      <td>63</td>
       <td>6</td>
       <td>2.7</td>
       <td>0.1</td>
@@ -3208,10 +3208,10 @@ hide:
       <td>Caja Rural - Seguros RGA</td>
       <td>1.8</td>
       <td>3</td>
-      <td>33</td>
+      <td>36</td>
       <td>32</td>
       <td>17.8</td>
-      <td>1.0</td>
+      <td>0.9</td>
       <td></td>
     </tr>
     <tr>
@@ -3406,7 +3406,7 @@ hide:
       <td>Caja Rural - Seguros RGA</td>
       <td>1.1</td>
       <td>0</td>
-      <td>28</td>
+      <td>31</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -3890,9 +3890,9 @@ hide:
       <td>Movistar Team</td>
       <td>2.9</td>
       <td>33</td>
-      <td>55</td>
-      <td>74</td>
-      <td>25.5</td>
+      <td>58</td>
+      <td>78</td>
+      <td>26.9</td>
       <td>1.3</td>
       <td></td>
     </tr>
@@ -3923,10 +3923,10 @@ hide:
       <td>UAE Emirates XRG</td>
       <td>8.2</td>
       <td>241</td>
-      <td>55</td>
-      <td>310</td>
-      <td>37.8</td>
-      <td>5.6</td>
+      <td>58</td>
+      <td>340</td>
+      <td>41.5</td>
+      <td>5.9</td>
       <td></td>
     </tr>
     <tr>
@@ -3934,7 +3934,7 @@ hide:
       <td>INEOS Grenadiers</td>
       <td>2.9</td>
       <td>4</td>
-      <td>44</td>
+      <td>47</td>
       <td>45</td>
       <td>15.5</td>
       <td>1.0</td>
@@ -3945,10 +3945,10 @@ hide:
       <td>Bahrain Victorious</td>
       <td>22.6</td>
       <td>330</td>
-      <td>55</td>
+      <td>58</td>
       <td>339</td>
       <td>15.0</td>
-      <td>6.2</td>
+      <td>5.8</td>
       <td></td>
     </tr>
     <tr>
@@ -3967,10 +3967,10 @@ hide:
       <td>Team Visma - Lease a Bike</td>
       <td>9.7</td>
       <td>3</td>
-      <td>51</td>
+      <td>54</td>
       <td>49</td>
       <td>5.1</td>
-      <td>1.0</td>
+      <td>0.9</td>
       <td></td>
     </tr>
     <tr>
@@ -4033,7 +4033,7 @@ hide:
       <td>Caja Rural - Seguros RGA</td>
       <td>1.0</td>
       <td>2</td>
-      <td>32</td>
+      <td>35</td>
       <td>1</td>
       <td>1.0</td>
       <td>0.0</td>
@@ -4044,7 +4044,7 @@ hide:
       <td>Cofidis</td>
       <td>2.2</td>
       <td>3</td>
-      <td>41</td>
+      <td>44</td>
       <td>1</td>
       <td>0.5</td>
       <td>0.0</td>
@@ -4077,10 +4077,10 @@ hide:
       <td>EF Education - EasyPost</td>
       <td>1.1</td>
       <td>12</td>
-      <td>25</td>
+      <td>28</td>
       <td>22</td>
       <td>20.0</td>
-      <td>0.9</td>
+      <td>0.8</td>
       <td></td>
     </tr>
     <tr>
@@ -4099,7 +4099,7 @@ hide:
       <td>Team Picnic PostNL</td>
       <td>1.3</td>
       <td>0</td>
-      <td>47</td>
+      <td>50</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -4154,7 +4154,7 @@ hide:
       <td>Burgos Burpellet BH</td>
       <td>1.0</td>
       <td>0</td>
-      <td>24</td>
+      <td>27</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -4187,7 +4187,7 @@ hide:
       <td>Decathlon AG2R La Mondiale</td>
       <td>1.5</td>
       <td>1</td>
-      <td>28</td>
+      <td>31</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -4242,10 +4242,10 @@ hide:
       <td>Caja Rural - Seguros RGA</td>
       <td>1.0</td>
       <td>0</td>
-      <td>29</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>32</td>
+      <td>4</td>
+      <td>4.0</td>
+      <td>0.1</td>
       <td></td>
     </tr>
     <tr>
@@ -4275,10 +4275,10 @@ hide:
       <td>INEOS Grenadiers</td>
       <td>16.1</td>
       <td>70</td>
-      <td>34</td>
-      <td>374</td>
-      <td>23.2</td>
-      <td>11.0</td>
+      <td>37</td>
+      <td>414</td>
+      <td>25.7</td>
+      <td>11.2</td>
       <td></td>
     </tr>
     <tr>
@@ -4363,10 +4363,10 @@ hide:
       <td>EF Education - EasyPost</td>
       <td>1.7</td>
       <td>1</td>
-      <td>16</td>
-      <td>18</td>
-      <td>10.6</td>
-      <td>1.1</td>
+      <td>19</td>
+      <td>28</td>
+      <td>16.5</td>
+      <td>1.5</td>
       <td></td>
     </tr>
     <tr>
@@ -4462,7 +4462,7 @@ hide:
       <td>XDS Astana Team</td>
       <td>1.0</td>
       <td>1</td>
-      <td>42</td>
+      <td>45</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -4715,7 +4715,7 @@ hide:
       <td>Intermarché - Wanty</td>
       <td>1.1</td>
       <td>1</td>
-      <td>47</td>
+      <td>50</td>
       <td>1</td>
       <td>0.9</td>
       <td>0.0</td>
@@ -4847,7 +4847,7 @@ hide:
       <td>Lotto</td>
       <td>1.9</td>
       <td>2</td>
-      <td>42</td>
+      <td>45</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -4869,10 +4869,10 @@ hide:
       <td>Alpecin - Deceuninck</td>
       <td>1.1</td>
       <td>1</td>
-      <td>57</td>
+      <td>60</td>
       <td>73</td>
       <td>66.4</td>
-      <td>1.3</td>
+      <td>1.2</td>
       <td></td>
     </tr>
     <tr>
@@ -4979,10 +4979,10 @@ hide:
       <td>Arkéa - BnB Hotels</td>
       <td>1.0</td>
       <td>1</td>
-      <td>35</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>38</td>
+      <td>6</td>
+      <td>6.0</td>
+      <td>0.2</td>
       <td></td>
     </tr>
     <tr>
@@ -5012,7 +5012,7 @@ hide:
       <td>Team Picnic PostNL</td>
       <td>1.3</td>
       <td>1</td>
-      <td>64</td>
+      <td>67</td>
       <td>8</td>
       <td>6.2</td>
       <td>0.1</td>
@@ -5045,10 +5045,10 @@ hide:
       <td>Soudal - Quick-Step</td>
       <td>1.2</td>
       <td>2</td>
-      <td>41</td>
+      <td>44</td>
       <td>49</td>
       <td>40.8</td>
-      <td>1.2</td>
+      <td>1.1</td>
       <td></td>
     </tr>
     <tr>
@@ -5056,10 +5056,10 @@ hide:
       <td>Israel - Premier Tech</td>
       <td>2.6</td>
       <td>4</td>
-      <td>64</td>
+      <td>67</td>
       <td>116</td>
       <td>44.6</td>
-      <td>1.8</td>
+      <td>1.7</td>
       <td></td>
     </tr>
     <tr>
@@ -5133,10 +5133,10 @@ hide:
       <td>Cofidis</td>
       <td>7.5</td>
       <td>41</td>
-      <td>46</td>
+      <td>49</td>
       <td>110</td>
       <td>14.7</td>
-      <td>2.4</td>
+      <td>2.2</td>
       <td></td>
     </tr>
     <tr>
@@ -5166,9 +5166,9 @@ hide:
       <td>XDS Astana Team</td>
       <td>4.2</td>
       <td>7</td>
-      <td>67</td>
-      <td>197</td>
-      <td>46.9</td>
+      <td>70</td>
+      <td>200</td>
+      <td>47.6</td>
       <td>2.9</td>
       <td></td>
     </tr>
@@ -5177,10 +5177,10 @@ hide:
       <td>Team Visma - Lease a Bike</td>
       <td>10.4</td>
       <td>20</td>
-      <td>59</td>
-      <td>82</td>
-      <td>7.9</td>
-      <td>1.4</td>
+      <td>62</td>
+      <td>92</td>
+      <td>8.8</td>
+      <td>1.5</td>
       <td></td>
     </tr>
     <tr>
@@ -5188,10 +5188,10 @@ hide:
       <td>Groupama - FDJ</td>
       <td>2.7</td>
       <td>5</td>
-      <td>47</td>
-      <td>26</td>
-      <td>9.6</td>
-      <td>0.6</td>
+      <td>50</td>
+      <td>34</td>
+      <td>12.6</td>
+      <td>0.7</td>
       <td></td>
     </tr>
     <tr>
@@ -5265,7 +5265,7 @@ hide:
       <td>Movistar Team</td>
       <td>4.4</td>
       <td>12</td>
-      <td>62</td>
+      <td>65</td>
       <td>63</td>
       <td>14.3</td>
       <td>1.0</td>
@@ -5298,7 +5298,7 @@ hide:
       <td>UAE Emirates XRG</td>
       <td>4.3</td>
       <td>1</td>
-      <td>53</td>
+      <td>56</td>
       <td>65</td>
       <td>15.1</td>
       <td>1.2</td>
@@ -5309,10 +5309,10 @@ hide:
       <td>INEOS Grenadiers</td>
       <td>1.6</td>
       <td>3</td>
-      <td>49</td>
+      <td>52</td>
       <td>99</td>
       <td>61.9</td>
-      <td>2.0</td>
+      <td>1.9</td>
       <td></td>
     </tr>
     <tr>
@@ -5331,10 +5331,10 @@ hide:
       <td>Q36.5 Pro Cycling Team</td>
       <td>3.6</td>
       <td>4</td>
-      <td>40</td>
+      <td>43</td>
       <td>96</td>
       <td>26.7</td>
-      <td>2.4</td>
+      <td>2.2</td>
       <td></td>
     </tr>
     <tr>
@@ -5529,10 +5529,10 @@ hide:
       <td>Bahrain Victorious</td>
       <td>1.1</td>
       <td>0</td>
-      <td>50</td>
+      <td>53</td>
       <td>29</td>
       <td>26.4</td>
-      <td>0.6</td>
+      <td>0.5</td>
       <td></td>
     </tr>
     <tr>
@@ -5782,7 +5782,7 @@ hide:
       <td>Arkéa - BnB Hotels</td>
       <td>1.0</td>
       <td>0</td>
-      <td>31</td>
+      <td>34</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -5848,7 +5848,7 @@ hide:
       <td>Lotto</td>
       <td>1.1</td>
       <td>0</td>
-      <td>14</td>
+      <td>17</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -5870,7 +5870,7 @@ hide:
       <td>Alpecin - Deceuninck</td>
       <td>1.3</td>
       <td>0</td>
-      <td>54</td>
+      <td>57</td>
       <td>1</td>
       <td>0.8</td>
       <td>0.0</td>
@@ -6024,7 +6024,7 @@ hide:
       <td>Q36.5 Pro Cycling Team</td>
       <td>1.0</td>
       <td>0</td>
-      <td>30</td>
+      <td>33</td>
       <td>2</td>
       <td>2.0</td>
       <td>0.1</td>
@@ -6090,10 +6090,10 @@ hide:
       <td>Intermarché - Wanty</td>
       <td>2.5</td>
       <td>61</td>
-      <td>32</td>
+      <td>35</td>
       <td>76</td>
       <td>30.4</td>
-      <td>2.4</td>
+      <td>2.2</td>
       <td></td>
     </tr>
     <tr>
@@ -6101,7 +6101,7 @@ hide:
       <td>Q36.5 Pro Cycling Team</td>
       <td>1.2</td>
       <td>1</td>
-      <td>41</td>
+      <td>44</td>
       <td>29</td>
       <td>24.2</td>
       <td>0.7</td>
@@ -6112,10 +6112,10 @@ hide:
       <td>Movistar Team</td>
       <td>2.0</td>
       <td>30</td>
-      <td>35</td>
+      <td>38</td>
       <td>31</td>
       <td>15.5</td>
-      <td>0.9</td>
+      <td>0.8</td>
       <td></td>
     </tr>
     <tr>
@@ -6145,7 +6145,7 @@ hide:
       <td>Cofidis</td>
       <td>1.0</td>
       <td>2</td>
-      <td>59</td>
+      <td>62</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -6211,7 +6211,7 @@ hide:
       <td>Lidl - Trek</td>
       <td>4.5</td>
       <td>7</td>
-      <td>24</td>
+      <td>27</td>
       <td>8</td>
       <td>1.8</td>
       <td>0.3</td>
@@ -6233,10 +6233,10 @@ hide:
       <td>XDS Astana Team</td>
       <td>7.2</td>
       <td>18</td>
-      <td>68</td>
+      <td>71</td>
       <td>264</td>
       <td>36.7</td>
-      <td>3.9</td>
+      <td>3.7</td>
       <td></td>
     </tr>
     <tr>
@@ -6255,10 +6255,10 @@ hide:
       <td>Lidl - Trek</td>
       <td>13.8</td>
       <td>92</td>
-      <td>55</td>
+      <td>58</td>
       <td>660</td>
       <td>47.8</td>
-      <td>12.0</td>
+      <td>11.4</td>
       <td></td>
     </tr>
     <tr>
@@ -6266,7 +6266,7 @@ hide:
       <td>Australian National Team</td>
       <td>2.1</td>
       <td>1</td>
-      <td>62</td>
+      <td>65</td>
       <td>65</td>
       <td>31.0</td>
       <td>1.0</td>
@@ -6288,10 +6288,10 @@ hide:
       <td>Groupama - FDJ</td>
       <td>13.4</td>
       <td>178</td>
-      <td>48</td>
+      <td>51</td>
       <td>126</td>
       <td>9.4</td>
-      <td>2.6</td>
+      <td>2.5</td>
       <td></td>
     </tr>
     <tr>
@@ -6310,7 +6310,7 @@ hide:
       <td>Israel - Premier Tech</td>
       <td>5.2</td>
       <td>9</td>
-      <td>27</td>
+      <td>30</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -6354,7 +6354,7 @@ hide:
       <td>Caja Rural - Seguros RGA</td>
       <td>1.1</td>
       <td>1</td>
-      <td>29</td>
+      <td>32</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -6365,10 +6365,10 @@ hide:
       <td>Caja Rural - Seguros RGA</td>
       <td>1.1</td>
       <td>18</td>
-      <td>33</td>
+      <td>36</td>
       <td>60</td>
       <td>54.5</td>
-      <td>1.8</td>
+      <td>1.7</td>
       <td></td>
     </tr>
     <tr>
@@ -6431,7 +6431,7 @@ hide:
       <td>EF Education - EasyPost</td>
       <td>1.1</td>
       <td>0</td>
-      <td>39</td>
+      <td>42</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -6442,7 +6442,7 @@ hide:
       <td>Decathlon AG2R La Mondiale</td>
       <td>1.3</td>
       <td>0</td>
-      <td>68</td>
+      <td>71</td>
       <td>12</td>
       <td>9.2</td>
       <td>0.2</td>
@@ -6486,10 +6486,10 @@ hide:
       <td>Q36.5 Pro Cycling Team</td>
       <td>1.5</td>
       <td>11</td>
-      <td>33</td>
+      <td>36</td>
       <td>39</td>
       <td>26.0</td>
-      <td>1.2</td>
+      <td>1.1</td>
       <td></td>
     </tr>
     <tr>
@@ -6574,10 +6574,10 @@ hide:
       <td>XDS Astana Team</td>
       <td>1.7</td>
       <td>2</td>
-      <td>30</td>
+      <td>33</td>
       <td>47</td>
       <td>27.6</td>
-      <td>1.6</td>
+      <td>1.4</td>
       <td></td>
     </tr>
     <tr>
@@ -6816,10 +6816,10 @@ hide:
       <td>Alpecin - Deceuninck</td>
       <td>27.5</td>
       <td>872</td>
-      <td>39</td>
+      <td>42</td>
       <td>398</td>
       <td>14.5</td>
-      <td>10.2</td>
+      <td>9.5</td>
       <td>Jarma, Knak</td>
     </tr>
     <tr>
@@ -6849,10 +6849,10 @@ hide:
       <td>Bahrain Victorious</td>
       <td>13.5</td>
       <td>106</td>
-      <td>58</td>
+      <td>61</td>
       <td>213</td>
       <td>15.8</td>
-      <td>3.7</td>
+      <td>3.5</td>
       <td>Matti</td>
     </tr>
     <tr>
@@ -6992,10 +6992,10 @@ hide:
       <td>UAE Emirates XRG</td>
       <td>23.8</td>
       <td>306</td>
-      <td>57</td>
-      <td>912</td>
-      <td>38.3</td>
-      <td>16.0</td>
+      <td>60</td>
+      <td>955</td>
+      <td>40.1</td>
+      <td>15.9</td>
       <td>Chrelle, Kenk</td>
     </tr>
     <tr>
@@ -7080,7 +7080,7 @@ hide:
       <td>Team Visma - Lease a Bike</td>
       <td>4.8</td>
       <td>14</td>
-      <td>57</td>
+      <td>58</td>
       <td>58</td>
       <td>12.1</td>
       <td>1.0</td>
@@ -7102,10 +7102,10 @@ hide:
       <td>INEOS Grenadiers</td>
       <td>11.0</td>
       <td>75</td>
-      <td>47</td>
+      <td>50</td>
       <td>210</td>
       <td>19.1</td>
-      <td>4.5</td>
+      <td>4.2</td>
       <td>Okholm</td>
     </tr>
     <tr>
@@ -7124,10 +7124,10 @@ hide:
       <td>Soudal - Quick-Step</td>
       <td>6.0</td>
       <td>65</td>
-      <td>63</td>
+      <td>66</td>
       <td>171</td>
       <td>28.5</td>
-      <td>2.7</td>
+      <td>2.6</td>
       <td>Jarma, Knak</td>
     </tr>
     <tr>
@@ -7146,10 +7146,10 @@ hide:
       <td>Groupama - FDJ</td>
       <td>1.1</td>
       <td>19</td>
-      <td>39</td>
-      <td>45</td>
-      <td>40.9</td>
-      <td>1.2</td>
+      <td>42</td>
+      <td>70</td>
+      <td>63.6</td>
+      <td>1.7</td>
       <td>Kenk</td>
     </tr>
     <tr>
@@ -7157,10 +7157,10 @@ hide:
       <td>Q36.5 Pro Cycling Team</td>
       <td>18.0</td>
       <td>212</td>
-      <td>58</td>
-      <td>660</td>
-      <td>36.7</td>
-      <td>11.4</td>
+      <td>61</td>
+      <td>690</td>
+      <td>38.3</td>
+      <td>11.3</td>
       <td>Chrelle, Jappo, Knak</td>
     </tr>
     <tr>
@@ -7179,10 +7179,10 @@ hide:
       <td>Red Bull - BORA - hansgrohe</td>
       <td>7.8</td>
       <td>196</td>
-      <td>50</td>
+      <td>53</td>
       <td>224</td>
       <td>28.7</td>
-      <td>4.5</td>
+      <td>4.2</td>
       <td>Chrelle, Jappo</td>
     </tr>
     <tr>
@@ -7201,10 +7201,10 @@ hide:
       <td>Team Visma - Lease a Bike</td>
       <td>42.2</td>
       <td>1059</td>
-      <td>51</td>
-      <td>857</td>
-      <td>20.3</td>
-      <td>16.8</td>
+      <td>54</td>
+      <td>888</td>
+      <td>21.0</td>
+      <td>16.4</td>
       <td>Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti</td>
     </tr>
     <tr>
@@ -7234,7 +7234,7 @@ hide:
       <td>Team Visma - Lease a Bike</td>
       <td>3.8</td>
       <td>90</td>
-      <td>48</td>
+      <td>51</td>
       <td>6</td>
       <td>1.6</td>
       <td>0.1</td>
@@ -7289,10 +7289,10 @@ hide:
       <td>EF Education - EasyPost</td>
       <td>5.6</td>
       <td>588</td>
-      <td>40</td>
+      <td>43</td>
       <td>140</td>
       <td>25.0</td>
-      <td>3.5</td>
+      <td>3.3</td>
       <td>Hustlersen, Matti, Visti</td>
     </tr>
     <tr>
@@ -7300,10 +7300,10 @@ hide:
       <td>UAE Emirates XRG</td>
       <td>25.2</td>
       <td>530</td>
-      <td>47</td>
+      <td>50</td>
       <td>490</td>
       <td>19.4</td>
-      <td>10.4</td>
+      <td>9.8</td>
       <td>Hustlersen, Kenk</td>
     </tr>
     <tr>
@@ -7311,10 +7311,10 @@ hide:
       <td>Israel - Premier Tech</td>
       <td>2.1</td>
       <td>17</td>
-      <td>64</td>
+      <td>67</td>
       <td>171</td>
       <td>81.4</td>
-      <td>2.7</td>
+      <td>2.6</td>
       <td>Jarma</td>
     </tr>
     <tr>
@@ -7377,10 +7377,10 @@ hide:
       <td>Decathlon AG2R La Mondiale</td>
       <td>11.7</td>
       <td>104</td>
-      <td>67</td>
-      <td>500</td>
-      <td>42.7</td>
-      <td>7.5</td>
+      <td>70</td>
+      <td>514</td>
+      <td>43.9</td>
+      <td>7.3</td>
       <td>Chrelle, Matti, Visti</td>
     </tr>
     <tr>
@@ -7421,10 +7421,10 @@ hide:
       <td>UAE Emirates XRG</td>
       <td>1.2</td>
       <td>6</td>
-      <td>39</td>
-      <td>32</td>
-      <td>26.7</td>
-      <td>0.8</td>
+      <td>42</td>
+      <td>50</td>
+      <td>41.7</td>
+      <td>1.2</td>
       <td></td>
     </tr>
     <tr>
@@ -7443,10 +7443,10 @@ hide:
       <td>Team Jayco AlUla</td>
       <td>7.9</td>
       <td>26</td>
-      <td>56</td>
-      <td>69</td>
-      <td>8.7</td>
-      <td>1.2</td>
+      <td>59</td>
+      <td>75</td>
+      <td>9.5</td>
+      <td>1.3</td>
       <td></td>
     </tr>
     <tr>
@@ -7454,7 +7454,7 @@ hide:
       <td>Q36.5 Pro Cycling Team</td>
       <td>1.0</td>
       <td>1</td>
-      <td>49</td>
+      <td>52</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -7740,7 +7740,7 @@ hide:
       <td>Arkéa - BnB Hotels</td>
       <td>1.0</td>
       <td>1</td>
-      <td>39</td>
+      <td>42</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -7872,7 +7872,7 @@ hide:
       <td>Team Picnic PostNL</td>
       <td>1.0</td>
       <td>1</td>
-      <td>51</td>
+      <td>54</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -7894,10 +7894,10 @@ hide:
       <td>Team Visma - Lease a Bike</td>
       <td>3.3</td>
       <td>11</td>
-      <td>36</td>
+      <td>39</td>
       <td>85</td>
       <td>25.8</td>
-      <td>2.4</td>
+      <td>2.2</td>
       <td></td>
     </tr>
     <tr>
@@ -7905,7 +7905,7 @@ hide:
       <td>Intermarché - Wanty</td>
       <td>3.6</td>
       <td>12</td>
-      <td>54</td>
+      <td>57</td>
       <td>24</td>
       <td>6.7</td>
       <td>0.4</td>
@@ -7916,9 +7916,9 @@ hide:
       <td>Groupama - FDJ</td>
       <td>3.6</td>
       <td>4</td>
-      <td>47</td>
-      <td>12</td>
-      <td>3.3</td>
+      <td>50</td>
+      <td>15</td>
+      <td>4.2</td>
       <td>0.3</td>
       <td></td>
     </tr>
@@ -8015,10 +8015,10 @@ hide:
       <td>Lidl - Trek</td>
       <td>1.6</td>
       <td>1</td>
-      <td>60</td>
-      <td>79</td>
-      <td>49.4</td>
-      <td>1.3</td>
+      <td>63</td>
+      <td>87</td>
+      <td>54.4</td>
+      <td>1.4</td>
       <td></td>
     </tr>
     <tr>
@@ -8158,7 +8158,7 @@ hide:
       <td>XDS Astana Team</td>
       <td>2.7</td>
       <td>3</td>
-      <td>43</td>
+      <td>46</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -8169,7 +8169,7 @@ hide:
       <td>XDS Astana Team</td>
       <td>1.6</td>
       <td>5</td>
-      <td>67</td>
+      <td>70</td>
       <td>30</td>
       <td>18.8</td>
       <td>0.4</td>
@@ -8301,10 +8301,10 @@ hide:
       <td>Cofidis</td>
       <td>3.8</td>
       <td>62</td>
-      <td>59</td>
+      <td>62</td>
       <td>27</td>
       <td>7.1</td>
-      <td>0.5</td>
+      <td>0.4</td>
       <td></td>
     </tr>
     <tr>
@@ -8345,10 +8345,10 @@ hide:
       <td>Team Picnic PostNL</td>
       <td>7.4</td>
       <td>10</td>
-      <td>32</td>
-      <td>20</td>
-      <td>2.7</td>
-      <td>0.6</td>
+      <td>35</td>
+      <td>34</td>
+      <td>4.6</td>
+      <td>1.0</td>
       <td></td>
     </tr>
     <tr>
@@ -8356,7 +8356,7 @@ hide:
       <td>UAE Emirates XRG</td>
       <td>5.9</td>
       <td>5</td>
-      <td>43</td>
+      <td>46</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -8521,7 +8521,7 @@ hide:
       <td>Team Jayco AlUla</td>
       <td>1.0</td>
       <td>0</td>
-      <td>48</td>
+      <td>51</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -8840,7 +8840,7 @@ hide:
       <td>Intermarché - Wanty</td>
       <td>1.8</td>
       <td>0</td>
-      <td>55</td>
+      <td>58</td>
       <td>8</td>
       <td>4.4</td>
       <td>0.1</td>
@@ -9005,10 +9005,10 @@ hide:
       <td>Red Bull - BORA - hansgrohe</td>
       <td>11.5</td>
       <td>99</td>
-      <td>40</td>
-      <td>216</td>
-      <td>18.8</td>
-      <td>5.4</td>
+      <td>43</td>
+      <td>241</td>
+      <td>21.0</td>
+      <td>5.6</td>
       <td></td>
     </tr>
     <tr>
@@ -9049,7 +9049,7 @@ hide:
       <td>Intermarché - Wanty</td>
       <td>1.3</td>
       <td>1</td>
-      <td>52</td>
+      <td>55</td>
       <td>0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -9104,7 +9104,7 @@ hide:
       <td>Arkéa - BnB Hotels</td>
       <td>1.2</td>
       <td>2</td>
-      <td>67</td>
+      <td>70</td>
       <td>30</td>
       <td>25.0</td>
       <td>0.4</td>
@@ -9170,10 +9170,10 @@ hide:
       <td>Decathlon AG2R La Mondiale</td>
       <td>1.5</td>
       <td>23</td>
-      <td>35</td>
+      <td>38</td>
       <td>72</td>
       <td>48.0</td>
-      <td>2.1</td>
+      <td>1.9</td>
       <td></td>
     </tr>
     <tr>
@@ -9192,7 +9192,7 @@ hide:
       <td>INEOS Grenadiers</td>
       <td>4.3</td>
       <td>13</td>
-      <td>34</td>
+      <td>37</td>
       <td>3</td>
       <td>0.7</td>
       <td>0.1</td>
@@ -9247,9 +9247,9 @@ hide:
       <td>Caja Rural - Seguros RGA</td>
       <td>1.0</td>
       <td>0</td>
-      <td>25</td>
-      <td>11</td>
-      <td>11.0</td>
+      <td>28</td>
+      <td>12</td>
+      <td>12.0</td>
       <td>0.4</td>
       <td></td>
     </tr>
@@ -9324,10 +9324,10 @@ hide:
       <td>Groupama - FDJ</td>
       <td>14.1</td>
       <td>50</td>
-      <td>50</td>
-      <td>111</td>
-      <td>7.9</td>
-      <td>2.2</td>
+      <td>53</td>
+      <td>127</td>
+      <td>9.0</td>
+      <td>2.4</td>
       <td></td>
     </tr>
     <tr>
@@ -9478,10 +9478,10 @@ hide:
       <td>Movistar Team</td>
       <td>4.3</td>
       <td>22</td>
-      <td>39</td>
+      <td>40</td>
       <td>263</td>
       <td>61.2</td>
-      <td>6.7</td>
+      <td>6.6</td>
       <td></td>
     </tr>
     <tr>
@@ -9489,10 +9489,10 @@ hide:
       <td>Lotto</td>
       <td>1.0</td>
       <td>0</td>
-      <td>26</td>
+      <td>29</td>
       <td>4</td>
       <td>4.0</td>
-      <td>0.2</td>
+      <td>0.1</td>
       <td></td>
     </tr>
     <tr>
@@ -9533,10 +9533,10 @@ hide:
       <td>Arkéa - BnB Hotels</td>
       <td>2.0</td>
       <td>4</td>
-      <td>22</td>
+      <td>25</td>
       <td>40</td>
       <td>20.0</td>
-      <td>1.8</td>
+      <td>1.6</td>
       <td></td>
     </tr>
     <tr>
@@ -9731,7 +9731,7 @@ hide:
       <td>EF Education - EasyPost</td>
       <td>5.5</td>
       <td>120</td>
-      <td>38</td>
+      <td>41</td>
       <td>11</td>
       <td>2.0</td>
       <td>0.3</td>
@@ -9797,10 +9797,10 @@ hide:
       <td>Red Bull - BORA - hansgrohe</td>
       <td>6.8</td>
       <td>302</td>
-      <td>48</td>
-      <td>231</td>
-      <td>34.0</td>
-      <td>4.8</td>
+      <td>51</td>
+      <td>271</td>
+      <td>39.9</td>
+      <td>5.3</td>
       <td>Tommy</td>
     </tr>
     <tr>
@@ -9808,10 +9808,10 @@ hide:
       <td>Decathlon AG2R La Mondiale</td>
       <td>2.3</td>
       <td>496</td>
-      <td>45</td>
+      <td>48</td>
       <td>76</td>
       <td>33.0</td>
-      <td>1.7</td>
+      <td>1.6</td>
       <td>Chrelle, Matti</td>
     </tr>
     <tr>
@@ -9896,10 +9896,10 @@ hide:
       <td>Team Jayco AlUla</td>
       <td>1.7</td>
       <td>33</td>
-      <td>48</td>
+      <td>51</td>
       <td>48</td>
       <td>28.2</td>
-      <td>1.0</td>
+      <td>0.9</td>
       <td>Hustlersen</td>
     </tr>
     <tr>
@@ -9907,10 +9907,10 @@ hide:
       <td>Movistar Team</td>
       <td>4.1</td>
       <td>68</td>
-      <td>59</td>
+      <td>62</td>
       <td>240</td>
       <td>58.5</td>
-      <td>4.1</td>
+      <td>3.9</td>
       <td>Visti</td>
     </tr>
     <tr>
@@ -9929,10 +9929,10 @@ hide:
       <td>Intermarché - Wanty</td>
       <td>1.8</td>
       <td>59</td>
-      <td>38</td>
+      <td>41</td>
       <td>29</td>
       <td>16.1</td>
-      <td>0.8</td>
+      <td>0.7</td>
       <td>Jarma</td>
     </tr>
     <tr>
@@ -9940,10 +9940,10 @@ hide:
       <td>Lidl - Trek</td>
       <td>28.1</td>
       <td>810</td>
-      <td>51</td>
-      <td>858</td>
-      <td>30.5</td>
-      <td>16.8</td>
+      <td>54</td>
+      <td>860</td>
+      <td>30.6</td>
+      <td>15.9</td>
       <td>Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti</td>
     </tr>
     <tr>
@@ -9984,10 +9984,10 @@ hide:
       <td>Lotto</td>
       <td>5.5</td>
       <td>159</td>
-      <td>26</td>
-      <td>36</td>
-      <td>6.5</td>
-      <td>1.4</td>
+      <td>29</td>
+      <td>48</td>
+      <td>8.7</td>
+      <td>1.7</td>
       <td>Knak, Tommy, Visti</td>
     </tr>
     <tr>
@@ -9995,10 +9995,10 @@ hide:
       <td>Lidl - Trek</td>
       <td>7.1</td>
       <td>22</td>
-      <td>47</td>
-      <td>151</td>
-      <td>21.3</td>
-      <td>3.2</td>
+      <td>50</td>
+      <td>154</td>
+      <td>21.7</td>
+      <td>3.1</td>
       <td>Jarma, Kenk</td>
     </tr>
     <tr>
@@ -10039,10 +10039,10 @@ hide:
       <td>Red Bull - BORA - hansgrohe</td>
       <td>4.5</td>
       <td>22</td>
-      <td>35</td>
+      <td>38</td>
       <td>32</td>
       <td>7.1</td>
-      <td>0.9</td>
+      <td>0.8</td>
       <td>Kenk, Visti</td>
     </tr>
     <tr>
@@ -10116,10 +10116,10 @@ hide:
       <td>Soudal - Quick-Step</td>
       <td>17.2</td>
       <td>191</td>
-      <td>34</td>
-      <td>168</td>
-      <td>9.8</td>
-      <td>4.9</td>
+      <td>37</td>
+      <td>198</td>
+      <td>11.5</td>
+      <td>5.4</td>
       <td>Jappo, Jarma, Visti</td>
     </tr>
     <tr>
@@ -10138,10 +10138,10 @@ hide:
       <td>Red Bull - BORA - hansgrohe</td>
       <td>2.5</td>
       <td>12</td>
-      <td>58</td>
+      <td>61</td>
       <td>32</td>
       <td>12.8</td>
-      <td>0.6</td>
+      <td>0.5</td>
       <td>Okholm</td>
     </tr>
     <tr>

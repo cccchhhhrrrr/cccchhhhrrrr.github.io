@@ -43,16 +43,16 @@
     <tr>
       <th>0</th>
       <td>1</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
       <td>Vingegaard Jonas</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
-      <td>Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
+      <td class = "startlist">Pogačar Tadej</td>
     </tr>
     <tr>
       <th>1</th>
@@ -242,13 +242,13 @@
       <td>Magnier Paul</td>
       <td>Nerurkar Lukas</td>
       <td>Martinez Lenny</td>
-      <td>Schmid Mauro</td>
+      <td class = "startlist">Schmid Mauro</td>
       <td>Bagioli Andrea</td>
       <td>Lapeira Paul</td>
       <td>Martinez Lenny</td>
       <td>Sivakov Pavel</td>
       <td>Lapeira Paul</td>
-      <td>Schmid Mauro</td>
+      <td class = "startlist">Schmid Mauro</td>
     </tr>
     <tr>
       <th>15</th>

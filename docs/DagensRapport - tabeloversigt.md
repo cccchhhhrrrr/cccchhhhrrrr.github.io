@@ -47,6 +47,306 @@ hide:
   </thead>
   <tbody>
     <tr>
+      <td>Kenk</td>
+      <td>2025-09-11</td>
+      <td>8</td>
+      <td>135.8</td>
+      <td>37</td>
+      <td>4.63</td>
+      <td>0.27</td>
+      <td>Almeida (25), Vingegaard (10), Pedersen (2)</td>
+    </tr>
+    <tr>
+      <td>Chrelle</td>
+      <td>2025-09-11</td>
+      <td>7</td>
+      <td>133.9</td>
+      <td>37</td>
+      <td>5.29</td>
+      <td>0.28</td>
+      <td>Almeida (25), Vingegaard (10), Pedersen (2)</td>
+    </tr>
+    <tr>
+      <td>Tommy</td>
+      <td>2025-09-11</td>
+      <td>4</td>
+      <td>82.6</td>
+      <td>24</td>
+      <td>6.00</td>
+      <td>0.29</td>
+      <td>Segaert (12), Vingegaard (10), Pedersen (2)</td>
+    </tr>
+    <tr>
+      <td>Visti</td>
+      <td>2025-09-11</td>
+      <td>9</td>
+      <td>122.7</td>
+      <td>24</td>
+      <td>2.67</td>
+      <td>0.20</td>
+      <td>Segaert (12), Vingegaard (10), Pedersen (2)</td>
+    </tr>
+    <tr>
+      <td>Knak</td>
+      <td>2025-09-11</td>
+      <td>5</td>
+      <td>99.2</td>
+      <td>22</td>
+      <td>4.40</td>
+      <td>0.22</td>
+      <td>Segaert (12), Vingegaard (10)</td>
+    </tr>
+    <tr>
+      <td>Matti</td>
+      <td>2025-09-11</td>
+      <td>6</td>
+      <td>103.4</td>
+      <td>12</td>
+      <td>2.00</td>
+      <td>0.12</td>
+      <td>Vingegaard (10), Pedersen (2)</td>
+    </tr>
+    <tr>
+      <td>Jappo</td>
+      <td>2025-09-11</td>
+      <td>5</td>
+      <td>113.3</td>
+      <td>12</td>
+      <td>2.40</td>
+      <td>0.11</td>
+      <td>Vingegaard (10), Pedersen (2)</td>
+    </tr>
+    <tr>
+      <td>Hustlersen</td>
+      <td>2025-09-11</td>
+      <td>6</td>
+      <td>108.3</td>
+      <td>12</td>
+      <td>2.00</td>
+      <td>0.11</td>
+      <td>Vingegaard (10), Pedersen (2)</td>
+    </tr>
+    <tr>
+      <td>Okholm</td>
+      <td>2025-09-11</td>
+      <td>3</td>
+      <td>55.7</td>
+      <td>10</td>
+      <td>3.33</td>
+      <td>0.18</td>
+      <td>Vingegaard (10)</td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>2025-09-11</td>
+      <td>8</td>
+      <td>109.4</td>
+      <td>10</td>
+      <td>1.25</td>
+      <td>0.09</td>
+      <td>Vingegaard (10)</td>
+    </tr>
+    <tr>
+      <td>Chrelle</td>
+      <td>2025-09-10</td>
+      <td>7</td>
+      <td>133.9</td>
+      <td>82</td>
+      <td>11.71</td>
+      <td>0.61</td>
+      <td>Pidcock (30), Vingegaard (20), Almeida (18)</td>
+    </tr>
+    <tr>
+      <td>Tommy</td>
+      <td>2025-09-10</td>
+      <td>4</td>
+      <td>82.6</td>
+      <td>60</td>
+      <td>15.00</td>
+      <td>0.73</td>
+      <td>Pellizzari (40), Vingegaard (20)</td>
+    </tr>
+    <tr>
+      <td>Jappo</td>
+      <td>2025-09-10</td>
+      <td>5</td>
+      <td>113.3</td>
+      <td>50</td>
+      <td>10.00</td>
+      <td>0.44</td>
+      <td>Pidcock (30), Vingegaard (20)</td>
+    </tr>
+    <tr>
+      <td>Knak</td>
+      <td>2025-09-10</td>
+      <td>5</td>
+      <td>99.2</td>
+      <td>50</td>
+      <td>10.00</td>
+      <td>0.50</td>
+      <td>Pidcock (30), Vingegaard (20)</td>
+    </tr>
+    <tr>
+      <td>Kenk</td>
+      <td>2025-09-10</td>
+      <td>8</td>
+      <td>135.8</td>
+      <td>38</td>
+      <td>4.75</td>
+      <td>0.28</td>
+      <td>Vingegaard (20), Almeida (18)</td>
+    </tr>
+    <tr>
+      <td>Matti</td>
+      <td>2025-09-10</td>
+      <td>6</td>
+      <td>103.4</td>
+      <td>34</td>
+      <td>5.67</td>
+      <td>0.33</td>
+      <td>Vingegaard (20), Gall (14)</td>
+    </tr>
+    <tr>
+      <td>Visti</td>
+      <td>2025-09-10</td>
+      <td>9</td>
+      <td>122.7</td>
+      <td>34</td>
+      <td>3.78</td>
+      <td>0.28</td>
+      <td>Vingegaard (20), Gall (14)</td>
+    </tr>
+    <tr>
+      <td>Okholm</td>
+      <td>2025-09-10</td>
+      <td>3</td>
+      <td>55.7</td>
+      <td>20</td>
+      <td>6.67</td>
+      <td>0.36</td>
+      <td>Vingegaard (20)</td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>2025-09-10</td>
+      <td>8</td>
+      <td>109.4</td>
+      <td>20</td>
+      <td>2.50</td>
+      <td>0.18</td>
+      <td>Vingegaard (20)</td>
+    </tr>
+    <tr>
+      <td>Hustlersen</td>
+      <td>2025-09-10</td>
+      <td>6</td>
+      <td>108.3</td>
+      <td>20</td>
+      <td>3.33</td>
+      <td>0.18</td>
+      <td>Vingegaard (20)</td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>2025-09-09</td>
+      <td>8</td>
+      <td>109.4</td>
+      <td>34</td>
+      <td>4.25</td>
+      <td>0.31</td>
+      <td>Landa (30), Bagioli (3), Vingegaard (1)</td>
+    </tr>
+    <tr>
+      <td>Jappo</td>
+      <td>2025-09-09</td>
+      <td>5</td>
+      <td>113.3</td>
+      <td>31</td>
+      <td>6.20</td>
+      <td>0.27</td>
+      <td>Landa (30), Vingegaard (1)</td>
+    </tr>
+    <tr>
+      <td>Visti</td>
+      <td>2025-09-09</td>
+      <td>9</td>
+      <td>122.7</td>
+      <td>31</td>
+      <td>3.44</td>
+      <td>0.25</td>
+      <td>Landa (30), Vingegaard (1)</td>
+    </tr>
+    <tr>
+      <td>Kenk</td>
+      <td>2025-09-09</td>
+      <td>8</td>
+      <td>135.8</td>
+      <td>29</td>
+      <td>3.63</td>
+      <td>0.21</td>
+      <td>Rolland (25), Bagioli (3), Vingegaard (1)</td>
+    </tr>
+    <tr>
+      <td>Tommy</td>
+      <td>2025-09-09</td>
+      <td>5</td>
+      <td>87.4</td>
+      <td>1</td>
+      <td>0.20</td>
+      <td>0.01</td>
+      <td>Vingegaard (1)</td>
+    </tr>
+    <tr>
+      <td>Matti</td>
+      <td>2025-09-09</td>
+      <td>6</td>
+      <td>103.4</td>
+      <td>1</td>
+      <td>0.17</td>
+      <td>0.01</td>
+      <td>Vingegaard (1)</td>
+    </tr>
+    <tr>
+      <td>Chrelle</td>
+      <td>2025-09-09</td>
+      <td>7</td>
+      <td>133.9</td>
+      <td>1</td>
+      <td>0.14</td>
+      <td>0.01</td>
+      <td>Vingegaard (1)</td>
+    </tr>
+    <tr>
+      <td>Okholm</td>
+      <td>2025-09-09</td>
+      <td>3</td>
+      <td>55.7</td>
+      <td>1</td>
+      <td>0.33</td>
+      <td>0.02</td>
+      <td>Vingegaard (1)</td>
+    </tr>
+    <tr>
+      <td>Knak</td>
+      <td>2025-09-09</td>
+      <td>5</td>
+      <td>99.2</td>
+      <td>1</td>
+      <td>0.20</td>
+      <td>0.01</td>
+      <td>Vingegaard (1)</td>
+    </tr>
+    <tr>
+      <td>Hustlersen</td>
+      <td>2025-09-09</td>
+      <td>6</td>
+      <td>108.3</td>
+      <td>1</td>
+      <td>0.17</td>
+      <td>0.01</td>
+      <td>Vingegaard (1)</td>
+    </tr>
+    <tr>
       <td>Chrelle</td>
       <td>2025-09-07</td>
       <td>11</td>
@@ -497,6 +797,16 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Chrelle</td>
+      <td>2025-09-03</td>
+      <td>4</td>
+      <td>32.7</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Okholm</td>
       <td>2025-09-03</td>
       <td>3</td>
@@ -537,16 +847,6 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Chrelle</td>
-      <td>2025-09-03</td>
-      <td>4</td>
-      <td>32.7</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Matti</td>
       <td>2025-09-02</td>
       <td>9</td>
@@ -564,7 +864,7 @@ hide:
       <td>37</td>
       <td>3.08</td>
       <td>0.22</td>
-      <td>Kooij (15), Almeida (8), Teutenberg (8)</td>
+      <td>Kooij (15), Teutenberg (8), Almeida (8)</td>
     </tr>
     <tr>
       <td>Tommy</td>
@@ -694,7 +994,7 @@ hide:
       <td>173</td>
       <td>11.53</td>
       <td>0.79</td>
-      <td>Kooij (50), Vingegaard (40), Magnier (40)</td>
+      <td>Kooij (50), Magnier (40), Vingegaard (40)</td>
     </tr>
     <tr>
       <td>Matti</td>
@@ -724,7 +1024,7 @@ hide:
       <td>152</td>
       <td>10.13</td>
       <td>0.94</td>
-      <td>Lie (70), Magnier (40), Vingegaard (40)</td>
+      <td>Lie (70), Vingegaard (40), Magnier (40)</td>
     </tr>
     <tr>
       <td>Tommy</td>
@@ -734,7 +1034,7 @@ hide:
       <td>148</td>
       <td>11.38</td>
       <td>0.94</td>
-      <td>Kooij (50), Vingegaard (40), Magnier (40)</td>
+      <td>Kooij (50), Magnier (40), Vingegaard (40)</td>
     </tr>
     <tr>
       <td>Hustlersen</td>
@@ -1087,6 +1387,26 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-08-27</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Chrelle</td>
+      <td>2025-08-27</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Okholm</td>
       <td>2025-08-27</td>
       <td>0</td>
@@ -1118,26 +1438,6 @@ hide:
     </tr>
     <tr>
       <td>Hustlersen</td>
-      <td>2025-08-27</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Visti</td>
-      <td>2025-08-27</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Chrelle</td>
       <td>2025-08-27</td>
       <td>0</td>
       <td>0.0</td>
@@ -1367,16 +1667,6 @@ hide:
       <td>Lie (125), Brennan (45), Vingegaard (40)</td>
     </tr>
     <tr>
-      <td>Hustlersen</td>
-      <td>2025-08-24</td>
-      <td>14</td>
-      <td>166.3</td>
-      <td>266</td>
-      <td>19.00</td>
-      <td>1.60</td>
-      <td>Lie (125), Brennan (45), Vingegaard (40)</td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-08-24</td>
       <td>19</td>
@@ -1385,6 +1675,16 @@ hide:
       <td>14.00</td>
       <td>1.12</td>
       <td>Lie (125), Kooij (54), Vingegaard (40)</td>
+    </tr>
+    <tr>
+      <td>Hustlersen</td>
+      <td>2025-08-24</td>
+      <td>14</td>
+      <td>166.3</td>
+      <td>266</td>
+      <td>19.00</td>
+      <td>1.60</td>
+      <td>Lie (125), Brennan (45), Narváez (40)</td>
     </tr>
     <tr>
       <td>Okholm</td>
@@ -1604,7 +1904,7 @@ hide:
       <td>27</td>
       <td>2.70</td>
       <td>0.24</td>
-      <td>Narváez (15), Milan (6), Brennan (3)</td>
+      <td>Narváez (15), Milan (6), Kooij (3)</td>
     </tr>
     <tr>
       <td>Chrelle</td>
@@ -1754,7 +2054,7 @@ hide:
       <td>59</td>
       <td>7.38</td>
       <td>0.51</td>
-      <td>Merlier (25), Watson (12), Pithie (8)</td>
+      <td>Merlier (25), Watson (12), Kooij (8)</td>
     </tr>
     <tr>
       <td>Jappo</td>
@@ -1807,16 +2107,6 @@ hide:
       <td>Merlier (25), Girmay (12)</td>
     </tr>
     <tr>
-      <td>Jarma</td>
-      <td>2025-08-20</td>
-      <td>9</td>
-      <td>128.3</td>
-      <td>26</td>
-      <td>2.89</td>
-      <td>0.20</td>
-      <td>Lie (20), Aert (6)</td>
-    </tr>
-    <tr>
       <td>Chrelle</td>
       <td>2025-08-20</td>
       <td>9</td>
@@ -1824,6 +2114,16 @@ hide:
       <td>26</td>
       <td>2.89</td>
       <td>0.27</td>
+      <td>Lie (20), Aert (6)</td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>2025-08-20</td>
+      <td>9</td>
+      <td>128.3</td>
+      <td>26</td>
+      <td>2.89</td>
+      <td>0.20</td>
       <td>Lie (20), Aert (6)</td>
     </tr>
     <tr>
@@ -2027,20 +2327,20 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Okholm</td>
+      <td>Visti</td>
       <td>2025-08-10</td>
-      <td>1</td>
-      <td>1.7</td>
+      <td>4</td>
+      <td>38.0</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
       <td></td>
     </tr>
     <tr>
-      <td>Visti</td>
+      <td>Okholm</td>
       <td>2025-08-10</td>
-      <td>4</td>
-      <td>38.0</td>
+      <td>1</td>
+      <td>1.7</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -2117,6 +2417,16 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-08-09</td>
+      <td>6</td>
+      <td>59.7</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Knak</td>
       <td>2025-08-09</td>
       <td>3</td>
@@ -2131,16 +2441,6 @@ hide:
       <td>2025-08-09</td>
       <td>6</td>
       <td>21.9</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Visti</td>
-      <td>2025-08-09</td>
-      <td>6</td>
-      <td>59.7</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -2217,6 +2517,16 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-08-08</td>
+      <td>6</td>
+      <td>59.7</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Okholm</td>
       <td>2025-08-08</td>
       <td>4</td>
@@ -2231,16 +2541,6 @@ hide:
       <td>2025-08-08</td>
       <td>3</td>
       <td>15.9</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Visti</td>
-      <td>2025-08-08</td>
-      <td>6</td>
-      <td>59.7</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -2397,6 +2697,26 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-08-06</td>
+      <td>6</td>
+      <td>59.7</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Chrelle</td>
+      <td>2025-08-06</td>
+      <td>6</td>
+      <td>39.6</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Okholm</td>
       <td>2025-08-06</td>
       <td>5</td>
@@ -2421,26 +2741,6 @@ hide:
       <td>2025-08-06</td>
       <td>6</td>
       <td>21.9</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Visti</td>
-      <td>2025-08-06</td>
-      <td>6</td>
-      <td>59.7</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Chrelle</td>
-      <td>2025-08-06</td>
-      <td>6</td>
-      <td>39.6</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -2517,6 +2817,16 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-08-05</td>
+      <td>6</td>
+      <td>59.7</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Jarma</td>
       <td>2025-08-05</td>
       <td>8</td>
@@ -2531,16 +2841,6 @@ hide:
       <td>2025-08-05</td>
       <td>6</td>
       <td>21.9</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Visti</td>
-      <td>2025-08-05</td>
-      <td>6</td>
-      <td>59.7</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -2867,22 +3167,22 @@ hide:
       <td>Grégoire (18), Trentin (6)</td>
     </tr>
     <tr>
-      <td>Jarma</td>
-      <td>2025-07-26</td>
-      <td>12</td>
-      <td>223.9</td>
-      <td>18</td>
-      <td>1.50</td>
-      <td>0.08</td>
-      <td>Grégoire (18)</td>
-    </tr>
-    <tr>
       <td>Chrelle</td>
       <td>2025-07-26</td>
       <td>11</td>
       <td>215.5</td>
       <td>18</td>
       <td>1.64</td>
+      <td>0.08</td>
+      <td>Grégoire (18)</td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>2025-07-26</td>
+      <td>12</td>
+      <td>223.9</td>
+      <td>18</td>
+      <td>1.50</td>
       <td>0.08</td>
       <td>Grégoire (18)</td>
     </tr>
@@ -2927,20 +3227,20 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Hustlersen</td>
+      <td>Visti</td>
       <td>2025-07-26</td>
-      <td>9</td>
-      <td>220.0</td>
+      <td>11</td>
+      <td>206.1</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
       <td></td>
     </tr>
     <tr>
-      <td>Visti</td>
+      <td>Hustlersen</td>
       <td>2025-07-26</td>
-      <td>11</td>
-      <td>206.1</td>
+      <td>9</td>
+      <td>220.0</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -3147,16 +3447,6 @@ hide:
       <td>Vingegaard (25), Gall (16)</td>
     </tr>
     <tr>
-      <td>Okholm</td>
-      <td>2025-07-23</td>
-      <td>14</td>
-      <td>275.9</td>
-      <td>85</td>
-      <td>6.07</td>
-      <td>0.31</td>
-      <td>Milan (40), Andresen (25), Lie (20)</td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-07-23</td>
       <td>12</td>
@@ -3164,6 +3454,16 @@ hide:
       <td>85</td>
       <td>7.08</td>
       <td>0.37</td>
+      <td>Milan (40), Andresen (25), Lie (20)</td>
+    </tr>
+    <tr>
+      <td>Okholm</td>
+      <td>2025-07-23</td>
+      <td>14</td>
+      <td>275.9</td>
+      <td>85</td>
+      <td>6.07</td>
+      <td>0.31</td>
       <td>Milan (40), Andresen (25), Lie (20)</td>
     </tr>
     <tr>
@@ -3417,6 +3717,16 @@ hide:
       <td>Nys (4)</td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-07-20</td>
+      <td>12</td>
+      <td>230.1</td>
+      <td>4</td>
+      <td>0.33</td>
+      <td>0.02</td>
+      <td>Nys (4)</td>
+    </tr>
+    <tr>
       <td>Knak</td>
       <td>2025-07-20</td>
       <td>15</td>
@@ -3433,16 +3743,6 @@ hide:
       <td>220.0</td>
       <td>4</td>
       <td>0.44</td>
-      <td>0.02</td>
-      <td>Nys (4)</td>
-    </tr>
-    <tr>
-      <td>Visti</td>
-      <td>2025-07-20</td>
-      <td>12</td>
-      <td>230.1</td>
-      <td>4</td>
-      <td>0.33</td>
       <td>0.02</td>
       <td>Nys (4)</td>
     </tr>
@@ -3467,16 +3767,6 @@ hide:
       <td>Pogačar (30), Vingegaard (25), Onley (16)</td>
     </tr>
     <tr>
-      <td>Knak</td>
-      <td>2025-07-19</td>
-      <td>15</td>
-      <td>255.1</td>
-      <td>81</td>
-      <td>5.40</td>
-      <td>0.32</td>
-      <td>Pogačar (30), Vingegaard (25), Healy (14)</td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-07-19</td>
       <td>12</td>
@@ -3485,6 +3775,16 @@ hide:
       <td>6.75</td>
       <td>0.35</td>
       <td>Pogačar (30), Vingegaard (25), Gall (20)</td>
+    </tr>
+    <tr>
+      <td>Knak</td>
+      <td>2025-07-19</td>
+      <td>15</td>
+      <td>255.1</td>
+      <td>81</td>
+      <td>5.40</td>
+      <td>0.32</td>
+      <td>Pogačar (30), Vingegaard (25), Healy (14)</td>
     </tr>
     <tr>
       <td>Chrelle</td>
@@ -3927,16 +4227,6 @@ hide:
       <td>Pogačar (10), Vingegaard (8)</td>
     </tr>
     <tr>
-      <td>Jarma</td>
-      <td>2025-07-14</td>
-      <td>13</td>
-      <td>251.9</td>
-      <td>18</td>
-      <td>1.38</td>
-      <td>0.07</td>
-      <td>Pogačar (10), Vingegaard (8)</td>
-    </tr>
-    <tr>
       <td>Chrelle</td>
       <td>2025-07-14</td>
       <td>11</td>
@@ -3944,6 +4234,16 @@ hide:
       <td>18</td>
       <td>1.64</td>
       <td>0.08</td>
+      <td>Pogačar (10), Vingegaard (8)</td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>2025-07-14</td>
+      <td>13</td>
+      <td>251.9</td>
+      <td>18</td>
+      <td>1.38</td>
+      <td>0.07</td>
       <td>Pogačar (10), Vingegaard (8)</td>
     </tr>
     <tr>
@@ -3977,16 +4277,6 @@ hide:
       <td>Milan (30), Lie (25), Penhoët (18)</td>
     </tr>
     <tr>
-      <td>Okholm</td>
-      <td>2025-07-13</td>
-      <td>14</td>
-      <td>275.9</td>
-      <td>71</td>
-      <td>5.07</td>
-      <td>0.26</td>
-      <td>Milan (30), Lie (25), Girmay (16)</td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-07-13</td>
       <td>12</td>
@@ -3994,6 +4284,16 @@ hide:
       <td>71</td>
       <td>5.92</td>
       <td>0.31</td>
+      <td>Milan (30), Lie (25), Girmay (16)</td>
+    </tr>
+    <tr>
+      <td>Okholm</td>
+      <td>2025-07-13</td>
+      <td>14</td>
+      <td>275.9</td>
+      <td>71</td>
+      <td>5.07</td>
+      <td>0.26</td>
       <td>Milan (30), Lie (25), Girmay (16)</td>
     </tr>
     <tr>
@@ -4027,16 +4327,6 @@ hide:
       <td>Milan (30)</td>
     </tr>
     <tr>
-      <td>Hustlersen</td>
-      <td>2025-07-13</td>
-      <td>9</td>
-      <td>220.0</td>
-      <td>25</td>
-      <td>2.78</td>
-      <td>0.11</td>
-      <td>Lie (25)</td>
-    </tr>
-    <tr>
       <td>Chrelle</td>
       <td>2025-07-13</td>
       <td>12</td>
@@ -4044,6 +4334,16 @@ hide:
       <td>25</td>
       <td>2.08</td>
       <td>0.10</td>
+      <td>Lie (25)</td>
+    </tr>
+    <tr>
+      <td>Hustlersen</td>
+      <td>2025-07-13</td>
+      <td>9</td>
+      <td>220.0</td>
+      <td>25</td>
+      <td>2.78</td>
+      <td>0.11</td>
       <td>Lie (25)</td>
     </tr>
     <tr>
@@ -4417,16 +4717,6 @@ hide:
       <td>Pogačar (30), Vingegaard (3)</td>
     </tr>
     <tr>
-      <td>Jarma</td>
-      <td>2025-07-09</td>
-      <td>13</td>
-      <td>251.9</td>
-      <td>33</td>
-      <td>2.54</td>
-      <td>0.13</td>
-      <td>Pogačar (30), Vingegaard (3)</td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-07-09</td>
       <td>12</td>
@@ -4434,6 +4724,16 @@ hide:
       <td>33</td>
       <td>2.75</td>
       <td>0.14</td>
+      <td>Pogačar (30), Vingegaard (3)</td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>2025-07-09</td>
+      <td>13</td>
+      <td>251.9</td>
+      <td>33</td>
+      <td>2.54</td>
+      <td>0.13</td>
       <td>Pogačar (30), Vingegaard (3)</td>
     </tr>
     <tr>
@@ -4577,16 +4877,6 @@ hide:
       <td>Merlier (40), Girmay (16), Andresen (6)</td>
     </tr>
     <tr>
-      <td>Okholm</td>
-      <td>2025-07-07</td>
-      <td>14</td>
-      <td>275.9</td>
-      <td>52</td>
-      <td>3.71</td>
-      <td>0.19</td>
-      <td>Milan (30), Girmay (16), Andresen (6)</td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-07-07</td>
       <td>12</td>
@@ -4594,6 +4884,16 @@ hide:
       <td>52</td>
       <td>4.33</td>
       <td>0.23</td>
+      <td>Milan (30), Girmay (16), Andresen (6)</td>
+    </tr>
+    <tr>
+      <td>Okholm</td>
+      <td>2025-07-07</td>
+      <td>14</td>
+      <td>275.9</td>
+      <td>52</td>
+      <td>3.71</td>
+      <td>0.19</td>
       <td>Milan (30), Girmay (16), Andresen (6)</td>
     </tr>
     <tr>
@@ -4787,16 +5087,6 @@ hide:
       <td>Girmay (30)</td>
     </tr>
     <tr>
-      <td>Okholm</td>
-      <td>2025-07-05</td>
-      <td>14</td>
-      <td>275.9</td>
-      <td>30</td>
-      <td>2.14</td>
-      <td>0.11</td>
-      <td>Girmay (30)</td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-07-05</td>
       <td>12</td>
@@ -4804,6 +5094,16 @@ hide:
       <td>30</td>
       <td>2.50</td>
       <td>0.13</td>
+      <td>Girmay (30)</td>
+    </tr>
+    <tr>
+      <td>Okholm</td>
+      <td>2025-07-05</td>
+      <td>14</td>
+      <td>275.9</td>
+      <td>30</td>
+      <td>2.14</td>
+      <td>0.11</td>
       <td>Girmay (30)</td>
     </tr>
     <tr>
@@ -4827,20 +5127,20 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Hustlersen</td>
+      <td>Chrelle</td>
       <td>2025-07-05</td>
-      <td>9</td>
-      <td>220.0</td>
+      <td>13</td>
+      <td>241.0</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
       <td></td>
     </tr>
     <tr>
-      <td>Chrelle</td>
+      <td>Hustlersen</td>
       <td>2025-07-05</td>
-      <td>13</td>
-      <td>241.0</td>
+      <td>9</td>
+      <td>220.0</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -5497,6 +5797,26 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-06-16</td>
+      <td>5</td>
+      <td>46.3</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Chrelle</td>
+      <td>2025-06-16</td>
+      <td>5</td>
+      <td>73.8</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Okholm</td>
       <td>2025-06-16</td>
       <td>6</td>
@@ -5521,26 +5841,6 @@ hide:
       <td>2025-06-16</td>
       <td>7</td>
       <td>60.3</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Visti</td>
-      <td>2025-06-16</td>
-      <td>5</td>
-      <td>46.3</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Chrelle</td>
-      <td>2025-06-16</td>
-      <td>5</td>
-      <td>73.8</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -5574,7 +5874,7 @@ hide:
       <td>275</td>
       <td>25.00</td>
       <td>1.62</td>
-      <td>Pogačar (116), Vingegaard (105), Grégoire (25)</td>
+      <td>Pogačar (116), Vingegaard (105), Martinez (25)</td>
     </tr>
     <tr>
       <td>Tommy</td>
@@ -5597,16 +5897,6 @@ hide:
       <td>Pogačar (116), Vingegaard (105), Martinez (25)</td>
     </tr>
     <tr>
-      <td>Jarma</td>
-      <td>2025-06-15</td>
-      <td>14</td>
-      <td>235.3</td>
-      <td>246</td>
-      <td>17.57</td>
-      <td>1.05</td>
-      <td>Pogačar (116), Vingegaard (105), Grégoire (25)</td>
-    </tr>
-    <tr>
       <td>Chrelle</td>
       <td>2025-06-15</td>
       <td>9</td>
@@ -5614,6 +5904,16 @@ hide:
       <td>246</td>
       <td>27.33</td>
       <td>1.33</td>
+      <td>Pogačar (116), Vingegaard (105), Grégoire (25)</td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>2025-06-15</td>
+      <td>14</td>
+      <td>235.3</td>
+      <td>246</td>
+      <td>17.57</td>
+      <td>1.05</td>
       <td>Pogačar (116), Vingegaard (105), Grégoire (25)</td>
     </tr>
     <tr>
@@ -5697,6 +5997,16 @@ hide:
       <td>Pogačar (25), Vingegaard (20)</td>
     </tr>
     <tr>
+      <td>Chrelle</td>
+      <td>2025-06-14</td>
+      <td>4</td>
+      <td>111.7</td>
+      <td>45</td>
+      <td>11.25</td>
+      <td>0.40</td>
+      <td>Pogačar (25), Vingegaard (20)</td>
+    </tr>
+    <tr>
       <td>Jarma</td>
       <td>2025-06-14</td>
       <td>9</td>
@@ -5724,16 +6034,6 @@ hide:
       <td>45</td>
       <td>9.00</td>
       <td>0.37</td>
-      <td>Pogačar (25), Vingegaard (20)</td>
-    </tr>
-    <tr>
-      <td>Chrelle</td>
-      <td>2025-06-14</td>
-      <td>4</td>
-      <td>111.7</td>
-      <td>45</td>
-      <td>11.25</td>
-      <td>0.40</td>
       <td>Pogačar (25), Vingegaard (20)</td>
     </tr>
     <tr>
@@ -5787,6 +6087,26 @@ hide:
       <td>Pogačar (25), Vingegaard (20)</td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-06-13</td>
+      <td>5</td>
+      <td>160.7</td>
+      <td>45</td>
+      <td>9.00</td>
+      <td>0.28</td>
+      <td>Pogačar (25), Vingegaard (20)</td>
+    </tr>
+    <tr>
+      <td>Chrelle</td>
+      <td>2025-06-13</td>
+      <td>5</td>
+      <td>120.4</td>
+      <td>45</td>
+      <td>9.00</td>
+      <td>0.37</td>
+      <td>Pogačar (25), Vingegaard (20)</td>
+    </tr>
+    <tr>
       <td>Jarma</td>
       <td>2025-06-13</td>
       <td>10</td>
@@ -5811,26 +6131,6 @@ hide:
       <td>2025-06-13</td>
       <td>5</td>
       <td>123.0</td>
-      <td>45</td>
-      <td>9.00</td>
-      <td>0.37</td>
-      <td>Pogačar (25), Vingegaard (20)</td>
-    </tr>
-    <tr>
-      <td>Visti</td>
-      <td>2025-06-13</td>
-      <td>5</td>
-      <td>160.7</td>
-      <td>45</td>
-      <td>9.00</td>
-      <td>0.28</td>
-      <td>Pogačar (25), Vingegaard (20)</td>
-    </tr>
-    <tr>
-      <td>Chrelle</td>
-      <td>2025-06-13</td>
-      <td>5</td>
-      <td>120.4</td>
       <td>45</td>
       <td>9.00</td>
       <td>0.37</td>
@@ -5917,16 +6217,6 @@ hide:
       <td>Milan (12)</td>
     </tr>
     <tr>
-      <td>Knak</td>
-      <td>2025-06-12</td>
-      <td>9</td>
-      <td>144.8</td>
-      <td>8</td>
-      <td>0.89</td>
-      <td>0.06</td>
-      <td>Jeanniere (8)</td>
-    </tr>
-    <tr>
       <td>Chrelle</td>
       <td>2025-06-12</td>
       <td>5</td>
@@ -5934,6 +6224,16 @@ hide:
       <td>8</td>
       <td>1.60</td>
       <td>0.07</td>
+      <td>Jeanniere (8)</td>
+    </tr>
+    <tr>
+      <td>Knak</td>
+      <td>2025-06-12</td>
+      <td>9</td>
+      <td>144.8</td>
+      <td>8</td>
+      <td>0.89</td>
+      <td>0.06</td>
       <td>Jeanniere (8)</td>
     </tr>
     <tr>
@@ -5997,26 +6297,6 @@ hide:
       <td>Vingegaard (20), Pogačar (14)</td>
     </tr>
     <tr>
-      <td>Knak</td>
-      <td>2025-06-11</td>
-      <td>9</td>
-      <td>144.8</td>
-      <td>34</td>
-      <td>3.78</td>
-      <td>0.23</td>
-      <td>Vingegaard (20), Pogačar (14)</td>
-    </tr>
-    <tr>
-      <td>Hustlersen</td>
-      <td>2025-06-11</td>
-      <td>5</td>
-      <td>123.0</td>
-      <td>34</td>
-      <td>6.80</td>
-      <td>0.28</td>
-      <td>Vingegaard (20), Pogačar (14)</td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-06-11</td>
       <td>5</td>
@@ -6031,6 +6311,26 @@ hide:
       <td>2025-06-11</td>
       <td>5</td>
       <td>120.4</td>
+      <td>34</td>
+      <td>6.80</td>
+      <td>0.28</td>
+      <td>Vingegaard (20), Pogačar (14)</td>
+    </tr>
+    <tr>
+      <td>Knak</td>
+      <td>2025-06-11</td>
+      <td>9</td>
+      <td>144.8</td>
+      <td>34</td>
+      <td>3.78</td>
+      <td>0.23</td>
+      <td>Vingegaard (20), Pogačar (14)</td>
+    </tr>
+    <tr>
+      <td>Hustlersen</td>
+      <td>2025-06-11</td>
+      <td>5</td>
+      <td>123.0</td>
       <td>34</td>
       <td>6.80</td>
       <td>0.28</td>
@@ -6097,16 +6397,6 @@ hide:
       <td>Rolland (8)</td>
     </tr>
     <tr>
-      <td>Knak</td>
-      <td>2025-06-10</td>
-      <td>9</td>
-      <td>144.8</td>
-      <td>2</td>
-      <td>0.22</td>
-      <td>0.01</td>
-      <td>Jeanniere (2)</td>
-    </tr>
-    <tr>
       <td>Chrelle</td>
       <td>2025-06-10</td>
       <td>5</td>
@@ -6114,6 +6404,16 @@ hide:
       <td>2</td>
       <td>0.40</td>
       <td>0.02</td>
+      <td>Jeanniere (2)</td>
+    </tr>
+    <tr>
+      <td>Knak</td>
+      <td>2025-06-10</td>
+      <td>9</td>
+      <td>144.8</td>
+      <td>2</td>
+      <td>0.22</td>
+      <td>0.01</td>
       <td>Jeanniere (2)</td>
     </tr>
     <tr>
@@ -6127,20 +6427,20 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Hustlersen</td>
+      <td>Visti</td>
       <td>2025-06-10</td>
       <td>5</td>
-      <td>123.0</td>
+      <td>160.7</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
       <td></td>
     </tr>
     <tr>
-      <td>Visti</td>
+      <td>Hustlersen</td>
       <td>2025-06-10</td>
       <td>5</td>
-      <td>160.7</td>
+      <td>123.0</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -6177,16 +6477,6 @@ hide:
       <td>Milan (25)</td>
     </tr>
     <tr>
-      <td>Okholm</td>
-      <td>2025-06-09</td>
-      <td>8</td>
-      <td>178.0</td>
-      <td>25</td>
-      <td>3.13</td>
-      <td>0.14</td>
-      <td>Milan (25)</td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-06-09</td>
       <td>5</td>
@@ -6194,6 +6484,16 @@ hide:
       <td>25</td>
       <td>5.00</td>
       <td>0.16</td>
+      <td>Milan (25)</td>
+    </tr>
+    <tr>
+      <td>Okholm</td>
+      <td>2025-06-09</td>
+      <td>8</td>
+      <td>178.0</td>
+      <td>25</td>
+      <td>3.13</td>
+      <td>0.14</td>
       <td>Milan (25)</td>
     </tr>
     <tr>
@@ -6267,16 +6567,6 @@ hide:
       <td>Pogačar (25), Vingegaard (20), Jeanniere (2)</td>
     </tr>
     <tr>
-      <td>Knak</td>
-      <td>2025-06-08</td>
-      <td>9</td>
-      <td>144.8</td>
-      <td>47</td>
-      <td>5.22</td>
-      <td>0.32</td>
-      <td>Pogačar (25), Vingegaard (20), Jeanniere (2)</td>
-    </tr>
-    <tr>
       <td>Chrelle</td>
       <td>2025-06-08</td>
       <td>5</td>
@@ -6284,6 +6574,16 @@ hide:
       <td>47</td>
       <td>9.40</td>
       <td>0.39</td>
+      <td>Pogačar (25), Vingegaard (20), Jeanniere (2)</td>
+    </tr>
+    <tr>
+      <td>Knak</td>
+      <td>2025-06-08</td>
+      <td>9</td>
+      <td>144.8</td>
+      <td>47</td>
+      <td>5.22</td>
+      <td>0.32</td>
       <td>Pogačar (25), Vingegaard (20), Jeanniere (2)</td>
     </tr>
     <tr>
@@ -6307,6 +6607,16 @@ hide:
       <td>Pogačar (25), Vingegaard (20)</td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-06-08</td>
+      <td>5</td>
+      <td>160.7</td>
+      <td>45</td>
+      <td>9.00</td>
+      <td>0.28</td>
+      <td>Pogačar (25), Vingegaard (20)</td>
+    </tr>
+    <tr>
       <td>Okholm</td>
       <td>2025-06-08</td>
       <td>8</td>
@@ -6324,16 +6634,6 @@ hide:
       <td>45</td>
       <td>9.00</td>
       <td>0.37</td>
-      <td>Pogačar (25), Vingegaard (20)</td>
-    </tr>
-    <tr>
-      <td>Visti</td>
-      <td>2025-06-08</td>
-      <td>5</td>
-      <td>160.7</td>
-      <td>45</td>
-      <td>9.00</td>
-      <td>0.28</td>
       <td>Pogačar (25), Vingegaard (20)</td>
     </tr>
     <tr>
@@ -6394,7 +6694,7 @@ hide:
       <td>85</td>
       <td>17.00</td>
       <td>0.84</td>
-      <td>Poole (45), Pidcock (20), Pedersen (20)</td>
+      <td>Poole (45), Pedersen (20), Pidcock (20)</td>
     </tr>
     <tr>
       <td>Visti</td>
@@ -6457,16 +6757,6 @@ hide:
       <td>Yates (25), Gee (6), Aert (1)</td>
     </tr>
     <tr>
-      <td>Jarma</td>
-      <td>2025-05-31</td>
-      <td>3</td>
-      <td>48.2</td>
-      <td>13</td>
-      <td>4.33</td>
-      <td>0.27</td>
-      <td>Poole (12), Aert (1)</td>
-    </tr>
-    <tr>
       <td>Chrelle</td>
       <td>2025-05-31</td>
       <td>5</td>
@@ -6474,6 +6764,16 @@ hide:
       <td>13</td>
       <td>2.60</td>
       <td>0.13</td>
+      <td>Poole (12), Aert (1)</td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>2025-05-31</td>
+      <td>3</td>
+      <td>48.2</td>
+      <td>13</td>
+      <td>4.33</td>
+      <td>0.27</td>
       <td>Poole (12), Aert (1)</td>
     </tr>
     <tr>
@@ -6527,20 +6827,20 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Hustlersen</td>
+      <td>Visti</td>
       <td>2025-05-31</td>
-      <td>3</td>
-      <td>37.8</td>
+      <td>5</td>
+      <td>64.5</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
       <td></td>
     </tr>
     <tr>
-      <td>Visti</td>
+      <td>Hustlersen</td>
       <td>2025-05-31</td>
-      <td>5</td>
-      <td>64.5</td>
+      <td>3</td>
+      <td>37.8</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -6607,26 +6907,6 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Jarma</td>
-      <td>2025-05-30</td>
-      <td>3</td>
-      <td>48.2</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Hustlersen</td>
-      <td>2025-05-30</td>
-      <td>4</td>
-      <td>39.5</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-05-30</td>
       <td>5</td>
@@ -6641,6 +6921,26 @@ hide:
       <td>2025-05-30</td>
       <td>5</td>
       <td>101.6</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>2025-05-30</td>
+      <td>3</td>
+      <td>48.2</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Hustlersen</td>
+      <td>2025-05-30</td>
+      <td>4</td>
+      <td>39.5</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -6687,6 +6987,16 @@ hide:
       <td>Aert (1)</td>
     </tr>
     <tr>
+      <td>Chrelle</td>
+      <td>2025-05-29</td>
+      <td>5</td>
+      <td>101.6</td>
+      <td>1</td>
+      <td>0.20</td>
+      <td>0.01</td>
+      <td>Aert (1)</td>
+    </tr>
+    <tr>
       <td>Okholm</td>
       <td>2025-05-29</td>
       <td>6</td>
@@ -6704,16 +7014,6 @@ hide:
       <td>1</td>
       <td>0.33</td>
       <td>0.02</td>
-      <td>Aert (1)</td>
-    </tr>
-    <tr>
-      <td>Chrelle</td>
-      <td>2025-05-29</td>
-      <td>5</td>
-      <td>101.6</td>
-      <td>1</td>
-      <td>0.20</td>
-      <td>0.01</td>
       <td>Aert (1)</td>
     </tr>
     <tr>
@@ -6827,20 +7127,20 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Hustlersen</td>
+      <td>Visti</td>
       <td>2025-05-28</td>
-      <td>6</td>
-      <td>73.8</td>
+      <td>5</td>
+      <td>64.5</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
       <td></td>
     </tr>
     <tr>
-      <td>Visti</td>
+      <td>Hustlersen</td>
       <td>2025-05-28</td>
-      <td>5</td>
-      <td>64.5</td>
+      <td>6</td>
+      <td>73.8</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -6907,26 +7207,6 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Jarma</td>
-      <td>2025-05-27</td>
-      <td>4</td>
-      <td>56.7</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Hustlersen</td>
-      <td>2025-05-27</td>
-      <td>7</td>
-      <td>111.6</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-05-27</td>
       <td>6</td>
@@ -6948,13 +7228,23 @@ hide:
     </tr>
     <tr>
       <td>Jarma</td>
-      <td>2025-05-25</td>
+      <td>2025-05-27</td>
       <td>4</td>
       <td>56.7</td>
-      <td>8</td>
-      <td>2.00</td>
-      <td>0.14</td>
-      <td>Poole (8)</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Hustlersen</td>
+      <td>2025-05-27</td>
+      <td>7</td>
+      <td>111.6</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
     </tr>
     <tr>
       <td>Chrelle</td>
@@ -6964,6 +7254,16 @@ hide:
       <td>8</td>
       <td>1.00</td>
       <td>0.06</td>
+      <td>Poole (8)</td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>2025-05-25</td>
+      <td>4</td>
+      <td>56.7</td>
+      <td>8</td>
+      <td>2.00</td>
+      <td>0.14</td>
       <td>Poole (8)</td>
     </tr>
     <tr>
@@ -7027,20 +7327,20 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Hustlersen</td>
+      <td>Visti</td>
       <td>2025-05-25</td>
-      <td>7</td>
-      <td>111.6</td>
+      <td>6</td>
+      <td>73.0</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
       <td></td>
     </tr>
     <tr>
-      <td>Visti</td>
+      <td>Hustlersen</td>
       <td>2025-05-25</td>
-      <td>6</td>
-      <td>73.0</td>
+      <td>7</td>
+      <td>111.6</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -7427,20 +7727,20 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Jarma</td>
+      <td>Visti</td>
       <td>2025-05-21</td>
-      <td>4</td>
-      <td>56.7</td>
+      <td>6</td>
+      <td>73.0</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
       <td></td>
     </tr>
     <tr>
-      <td>Visti</td>
+      <td>Jarma</td>
       <td>2025-05-21</td>
-      <td>6</td>
-      <td>73.0</td>
+      <td>4</td>
+      <td>56.7</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -7527,20 +7827,20 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Knak</td>
+      <td>Visti</td>
       <td>2025-05-20</td>
-      <td>5</td>
-      <td>85.3</td>
+      <td>6</td>
+      <td>73.0</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
       <td></td>
     </tr>
     <tr>
-      <td>Visti</td>
+      <td>Knak</td>
       <td>2025-05-20</td>
-      <td>6</td>
-      <td>73.0</td>
+      <td>5</td>
+      <td>85.3</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -7717,6 +8017,16 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-05-17</td>
+      <td>6</td>
+      <td>73.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Okholm</td>
       <td>2025-05-17</td>
       <td>6</td>
@@ -7731,16 +8041,6 @@ hide:
       <td>2025-05-17</td>
       <td>4</td>
       <td>56.7</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Visti</td>
-      <td>2025-05-17</td>
-      <td>6</td>
-      <td>73.0</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -7777,6 +8077,16 @@ hide:
       <td>Roglič (20), Carapaz (12)</td>
     </tr>
     <tr>
+      <td>Chrelle</td>
+      <td>2025-05-16</td>
+      <td>8</td>
+      <td>127.3</td>
+      <td>10</td>
+      <td>1.25</td>
+      <td>0.08</td>
+      <td>Poole (10)</td>
+    </tr>
+    <tr>
       <td>Okholm</td>
       <td>2025-05-16</td>
       <td>6</td>
@@ -7794,16 +8104,6 @@ hide:
       <td>10</td>
       <td>2.50</td>
       <td>0.18</td>
-      <td>Poole (10)</td>
-    </tr>
-    <tr>
-      <td>Chrelle</td>
-      <td>2025-05-16</td>
-      <td>8</td>
-      <td>127.3</td>
-      <td>10</td>
-      <td>1.25</td>
-      <td>0.08</td>
       <td>Poole (10)</td>
     </tr>
     <tr>
@@ -7897,16 +8197,6 @@ hide:
       <td>Magnier (25)</td>
     </tr>
     <tr>
-      <td>Jarma</td>
-      <td>2025-05-15</td>
-      <td>4</td>
-      <td>56.7</td>
-      <td>25</td>
-      <td>6.25</td>
-      <td>0.44</td>
-      <td>Magnier (25)</td>
-    </tr>
-    <tr>
       <td>Chrelle</td>
       <td>2025-05-15</td>
       <td>8</td>
@@ -7914,6 +8204,16 @@ hide:
       <td>25</td>
       <td>3.13</td>
       <td>0.20</td>
+      <td>Magnier (25)</td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>2025-05-15</td>
+      <td>4</td>
+      <td>56.7</td>
+      <td>25</td>
+      <td>6.25</td>
+      <td>0.44</td>
       <td>Magnier (25)</td>
     </tr>
     <tr>
@@ -8687,16 +8987,6 @@ hide:
       <td>Martinez (20)</td>
     </tr>
     <tr>
-      <td>Knak</td>
-      <td>2025-05-02</td>
-      <td>2</td>
-      <td>14.3</td>
-      <td>20</td>
-      <td>10.00</td>
-      <td>1.40</td>
-      <td>Martinez (20)</td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-05-02</td>
       <td>2</td>
@@ -8704,6 +8994,16 @@ hide:
       <td>20</td>
       <td>10.00</td>
       <td>0.60</td>
+      <td>Martinez (20)</td>
+    </tr>
+    <tr>
+      <td>Knak</td>
+      <td>2025-05-02</td>
+      <td>2</td>
+      <td>14.3</td>
+      <td>20</td>
+      <td>10.00</td>
+      <td>1.40</td>
       <td>Martinez (20)</td>
     </tr>
     <tr>
@@ -8827,20 +9127,20 @@ hide:
       <td>Withen Philipsen (30)</td>
     </tr>
     <tr>
-      <td>Jarma</td>
+      <td>Visti</td>
       <td>2025-05-01</td>
-      <td>7</td>
-      <td>63.4</td>
+      <td>8</td>
+      <td>71.0</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
       <td></td>
     </tr>
     <tr>
-      <td>Visti</td>
+      <td>Jarma</td>
       <td>2025-05-01</td>
-      <td>8</td>
-      <td>71.0</td>
+      <td>7</td>
+      <td>63.4</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -8927,20 +9227,20 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Knak</td>
+      <td>Visti</td>
       <td>2025-04-30</td>
       <td>2</td>
-      <td>14.3</td>
+      <td>33.2</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
       <td></td>
     </tr>
     <tr>
-      <td>Visti</td>
+      <td>Knak</td>
       <td>2025-04-30</td>
       <td>2</td>
-      <td>33.2</td>
+      <td>14.3</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -8997,6 +9297,16 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-04-29</td>
+      <td>2</td>
+      <td>33.2</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Okholm</td>
       <td>2025-04-29</td>
       <td>3</td>
@@ -9031,16 +9341,6 @@ hide:
       <td>2025-04-29</td>
       <td>6</td>
       <td>36.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Visti</td>
-      <td>2025-04-29</td>
-      <td>2</td>
-      <td>33.2</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -9257,16 +9557,6 @@ hide:
       <td>Gee (12)</td>
     </tr>
     <tr>
-      <td>Okholm</td>
-      <td>2025-04-24</td>
-      <td>2</td>
-      <td>23.0</td>
-      <td>12</td>
-      <td>6.00</td>
-      <td>0.52</td>
-      <td>Gee (12)</td>
-    </tr>
-    <tr>
       <td>Chrelle</td>
       <td>2025-04-24</td>
       <td>2</td>
@@ -9275,6 +9565,16 @@ hide:
       <td>6.00</td>
       <td>0.59</td>
       <td>Gall (8), Poole (4)</td>
+    </tr>
+    <tr>
+      <td>Okholm</td>
+      <td>2025-04-24</td>
+      <td>2</td>
+      <td>23.0</td>
+      <td>12</td>
+      <td>6.00</td>
+      <td>0.52</td>
+      <td>Gee (12)</td>
     </tr>
     <tr>
       <td>Matti</td>
@@ -10087,16 +10387,6 @@ hide:
       <td>Laurance (20)</td>
     </tr>
     <tr>
-      <td>Jarma</td>
-      <td>2025-04-11</td>
-      <td>4</td>
-      <td>29.7</td>
-      <td>12</td>
-      <td>3.00</td>
-      <td>0.40</td>
-      <td>Grégoire (12)</td>
-    </tr>
-    <tr>
       <td>Chrelle</td>
       <td>2025-04-11</td>
       <td>6</td>
@@ -10104,6 +10394,16 @@ hide:
       <td>12</td>
       <td>2.00</td>
       <td>0.17</td>
+      <td>Grégoire (12)</td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>2025-04-11</td>
+      <td>4</td>
+      <td>29.7</td>
+      <td>12</td>
+      <td>3.00</td>
+      <td>0.40</td>
       <td>Grégoire (12)</td>
     </tr>
     <tr>
@@ -10127,20 +10427,20 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Hustlersen</td>
+      <td>Visti</td>
       <td>2025-04-11</td>
       <td>3</td>
-      <td>39.4</td>
+      <td>23.0</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
       <td></td>
     </tr>
     <tr>
-      <td>Visti</td>
+      <td>Hustlersen</td>
       <td>2025-04-11</td>
       <td>3</td>
-      <td>23.0</td>
+      <td>39.4</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -10407,6 +10707,16 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Chrelle</td>
+      <td>2025-04-08</td>
+      <td>6</td>
+      <td>71.3</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Okholm</td>
       <td>2025-04-08</td>
       <td>4</td>
@@ -10431,16 +10741,6 @@ hide:
       <td>2025-04-08</td>
       <td>6</td>
       <td>57.8</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Chrelle</td>
-      <td>2025-04-08</td>
-      <td>6</td>
-      <td>71.3</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -10527,20 +10827,20 @@ hide:
       <td>Skjelmose (6)</td>
     </tr>
     <tr>
-      <td>Hustlersen</td>
+      <td>Visti</td>
       <td>2025-04-07</td>
-      <td>4</td>
-      <td>41.1</td>
+      <td>3</td>
+      <td>23.0</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
       <td></td>
     </tr>
     <tr>
-      <td>Visti</td>
+      <td>Hustlersen</td>
       <td>2025-04-07</td>
-      <td>3</td>
-      <td>23.0</td>
+      <td>4</td>
+      <td>41.1</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -10597,16 +10897,6 @@ hide:
       <td>Pogačar (120), Pedersen (100)</td>
     </tr>
     <tr>
-      <td>Hustlersen</td>
-      <td>2025-04-06</td>
-      <td>4</td>
-      <td>105.8</td>
-      <td>220</td>
-      <td>55.00</td>
-      <td>2.08</td>
-      <td>Pogačar (120), Pedersen (100)</td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-04-06</td>
       <td>12</td>
@@ -10614,6 +10904,16 @@ hide:
       <td>220</td>
       <td>18.33</td>
       <td>1.47</td>
+      <td>Pogačar (120), Pedersen (100)</td>
+    </tr>
+    <tr>
+      <td>Hustlersen</td>
+      <td>2025-04-06</td>
+      <td>4</td>
+      <td>105.8</td>
+      <td>220</td>
+      <td>55.00</td>
+      <td>2.08</td>
       <td>Pogačar (120), Pedersen (100)</td>
     </tr>
     <tr>
@@ -10854,7 +11154,7 @@ hide:
       <td>335</td>
       <td>23.93</td>
       <td>2.01</td>
-      <td>Pedersen (70), Landa (60), Merlier (60)</td>
+      <td>Pedersen (70), Merlier (60), Landa (60)</td>
     </tr>
     <tr>
       <td>Knak</td>
@@ -10904,7 +11204,7 @@ hide:
       <td>267</td>
       <td>24.27</td>
       <td>1.95</td>
-      <td>Pedersen (70), Merlier (60), Martinez (50)</td>
+      <td>Pedersen (70), Merlier (60), Milan (50)</td>
     </tr>
     <tr>
       <td>Tommy</td>
@@ -11017,16 +11317,6 @@ hide:
       <td>Carapaz (2)</td>
     </tr>
     <tr>
-      <td>Jarma</td>
-      <td>2025-03-29</td>
-      <td>3</td>
-      <td>27.7</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-03-29</td>
       <td>4</td>
@@ -11041,6 +11331,16 @@ hide:
       <td>2025-03-29</td>
       <td>4</td>
       <td>26.3</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>2025-03-29</td>
+      <td>3</td>
+      <td>27.7</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -11324,7 +11624,7 @@ hide:
       <td>40</td>
       <td>3.64</td>
       <td>0.40</td>
-      <td>Martinez (14), Welsford (14), Eetvelt (12)</td>
+      <td>Welsford (14), Martinez (14), Eetvelt (12)</td>
     </tr>
     <tr>
       <td>Knak</td>
@@ -11417,6 +11717,16 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-03-25</td>
+      <td>4</td>
+      <td>46.6</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Jarma</td>
       <td>2025-03-25</td>
       <td>4</td>
@@ -11437,16 +11747,6 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Visti</td>
-      <td>2025-03-25</td>
-      <td>4</td>
-      <td>46.6</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Kenk</td>
       <td>2025-03-24</td>
       <td>5</td>
@@ -11457,16 +11757,6 @@ hide:
       <td>Brennan (25), Eetvelt (4)</td>
     </tr>
     <tr>
-      <td>Hustlersen</td>
-      <td>2025-03-24</td>
-      <td>5</td>
-      <td>72.6</td>
-      <td>25</td>
-      <td>5.00</td>
-      <td>0.34</td>
-      <td>Brennan (25)</td>
-    </tr>
-    <tr>
       <td>Chrelle</td>
       <td>2025-03-24</td>
       <td>4</td>
@@ -11474,6 +11764,16 @@ hide:
       <td>25</td>
       <td>6.25</td>
       <td>0.95</td>
+      <td>Brennan (25)</td>
+    </tr>
+    <tr>
+      <td>Hustlersen</td>
+      <td>2025-03-24</td>
+      <td>5</td>
+      <td>72.6</td>
+      <td>25</td>
+      <td>5.00</td>
+      <td>0.34</td>
       <td>Brennan (25)</td>
     </tr>
     <tr>
@@ -11607,16 +11907,6 @@ hide:
       <td>Pogačar (85), Pedersen (40), Girmay (14)</td>
     </tr>
     <tr>
-      <td>Hustlersen</td>
-      <td>2025-03-22</td>
-      <td>5</td>
-      <td>109.0</td>
-      <td>125</td>
-      <td>25.00</td>
-      <td>1.15</td>
-      <td>Pogačar (85), Pedersen (40)</td>
-    </tr>
-    <tr>
       <td>Chrelle</td>
       <td>2025-03-22</td>
       <td>5</td>
@@ -11624,6 +11914,16 @@ hide:
       <td>125</td>
       <td>25.00</td>
       <td>1.06</td>
+      <td>Pogačar (85), Pedersen (40)</td>
+    </tr>
+    <tr>
+      <td>Hustlersen</td>
+      <td>2025-03-22</td>
+      <td>5</td>
+      <td>109.0</td>
+      <td>125</td>
+      <td>25.00</td>
+      <td>1.15</td>
       <td>Pogačar (85), Pedersen (40)</td>
     </tr>
     <tr>
@@ -11707,26 +12007,6 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Okholm</td>
-      <td>2025-03-19</td>
-      <td>2</td>
-      <td>22.5</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Jarma</td>
-      <td>2025-03-19</td>
-      <td>2</td>
-      <td>45.4</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-03-19</td>
       <td>2</td>
@@ -11741,6 +12021,26 @@ hide:
       <td>2025-03-19</td>
       <td>1</td>
       <td>17.9</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Okholm</td>
+      <td>2025-03-19</td>
+      <td>2</td>
+      <td>22.5</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>2025-03-19</td>
+      <td>2</td>
+      <td>45.4</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -12114,7 +12414,7 @@ hide:
       <td>36</td>
       <td>3.00</td>
       <td>0.21</td>
-      <td>Magnier (14), Almeida (10), Pidcock (6)</td>
+      <td>Magnier (14), Almeida (10), Wilder (6)</td>
     </tr>
     <tr>
       <td>Knak</td>
@@ -12154,7 +12454,7 @@ hide:
       <td>83</td>
       <td>6.92</td>
       <td>0.49</td>
-      <td>Almeida (25), Vingegaard (20), Pidcock (20)</td>
+      <td>Almeida (25), Pidcock (20), Vingegaard (20)</td>
     </tr>
     <tr>
       <td>Knak</td>
@@ -12164,7 +12464,7 @@ hide:
       <td>70</td>
       <td>5.38</td>
       <td>0.43</td>
-      <td>Pidcock (20), Vingegaard (20), Grégoire (16)</td>
+      <td>Vingegaard (20), Pidcock (20), Grégoire (16)</td>
     </tr>
     <tr>
       <td>Okholm</td>
@@ -12174,7 +12474,7 @@ hide:
       <td>58</td>
       <td>5.27</td>
       <td>0.37</td>
-      <td>Vingegaard (20), Martinez (14), Adrià (12)</td>
+      <td>Vingegaard (20), Martinez (14), Lipowitz (12)</td>
     </tr>
     <tr>
       <td>Jappo</td>
@@ -12184,7 +12484,7 @@ hide:
       <td>54</td>
       <td>4.50</td>
       <td>0.29</td>
-      <td>Vingegaard (20), Pidcock (20), Martinez (14)</td>
+      <td>Pidcock (20), Vingegaard (20), Martinez (14)</td>
     </tr>
     <tr>
       <td>Matti</td>
@@ -12317,6 +12617,16 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Chrelle</td>
+      <td>2025-03-11</td>
+      <td>4</td>
+      <td>38.4</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Knak</td>
       <td>2025-03-11</td>
       <td>5</td>
@@ -12331,16 +12641,6 @@ hide:
       <td>2025-03-11</td>
       <td>3</td>
       <td>50.5</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Chrelle</td>
-      <td>2025-03-11</td>
-      <td>4</td>
-      <td>38.4</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -12407,16 +12707,6 @@ hide:
       <td>Pedersen (16), Milan (12), Zingle (10)</td>
     </tr>
     <tr>
-      <td>Hustlersen</td>
-      <td>2025-03-10</td>
-      <td>7</td>
-      <td>139.4</td>
-      <td>36</td>
-      <td>5.14</td>
-      <td>0.26</td>
-      <td>Ayuso (20), Pedersen (16)</td>
-    </tr>
-    <tr>
       <td>Chrelle</td>
       <td>2025-03-10</td>
       <td>12</td>
@@ -12425,6 +12715,16 @@ hide:
       <td>3.00</td>
       <td>0.21</td>
       <td>Jeanniere (20), Pedersen (16)</td>
+    </tr>
+    <tr>
+      <td>Hustlersen</td>
+      <td>2025-03-10</td>
+      <td>7</td>
+      <td>139.4</td>
+      <td>36</td>
+      <td>5.14</td>
+      <td>0.26</td>
+      <td>Ayuso (20), Pedersen (16)</td>
     </tr>
     <tr>
       <td>Okholm</td>
@@ -12507,22 +12807,22 @@ hide:
       <td>Pedersen (1)</td>
     </tr>
     <tr>
-      <td>Hustlersen</td>
-      <td>2025-03-09</td>
-      <td>4</td>
-      <td>88.9</td>
-      <td>1</td>
-      <td>0.25</td>
-      <td>0.01</td>
-      <td>Pedersen (1)</td>
-    </tr>
-    <tr>
       <td>Chrelle</td>
       <td>2025-03-09</td>
       <td>8</td>
       <td>130.8</td>
       <td>1</td>
       <td>0.13</td>
+      <td>0.01</td>
+      <td>Pedersen (1)</td>
+    </tr>
+    <tr>
+      <td>Hustlersen</td>
+      <td>2025-03-09</td>
+      <td>4</td>
+      <td>88.9</td>
+      <td>1</td>
+      <td>0.25</td>
       <td>0.01</td>
       <td>Pedersen (1)</td>
     </tr>
@@ -12707,26 +13007,6 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Jarma</td>
-      <td>2025-03-05</td>
-      <td>1</td>
-      <td>5.5</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Knak</td>
-      <td>2025-03-05</td>
-      <td>1</td>
-      <td>4.5</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-03-05</td>
       <td>1</td>
@@ -12741,6 +13021,26 @@ hide:
       <td>2025-03-05</td>
       <td>0</td>
       <td>0.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>2025-03-05</td>
+      <td>1</td>
+      <td>5.5</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Knak</td>
+      <td>2025-03-05</td>
+      <td>1</td>
+      <td>4.5</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -12927,20 +13227,20 @@ hide:
       <td>Kooij (30), Merlier (1)</td>
     </tr>
     <tr>
-      <td>Hustlersen</td>
+      <td>Chrelle</td>
       <td>2025-03-02</td>
-      <td>3</td>
-      <td>23.9</td>
+      <td>2</td>
+      <td>45.1</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
       <td></td>
     </tr>
     <tr>
-      <td>Chrelle</td>
+      <td>Hustlersen</td>
       <td>2025-03-02</td>
-      <td>2</td>
-      <td>45.1</td>
+      <td>3</td>
+      <td>23.9</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -13024,7 +13324,7 @@ hide:
       <td>29</td>
       <td>4.14</td>
       <td>0.30</td>
-      <td>Aert (12), Gee (12), Vacek (5)</td>
+      <td>Gee (12), Aert (12), Vacek (5)</td>
     </tr>
     <tr>
       <td>Matti</td>
@@ -13097,6 +13397,26 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-02-28</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Chrelle</td>
+      <td>2025-02-28</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Jarma</td>
       <td>2025-02-28</td>
       <td>1</td>
@@ -13118,26 +13438,6 @@ hide:
     </tr>
     <tr>
       <td>Hustlersen</td>
-      <td>2025-02-28</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Visti</td>
-      <td>2025-02-28</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Chrelle</td>
       <td>2025-02-28</td>
       <td>0</td>
       <td>0.0</td>
@@ -13197,6 +13497,26 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-02-27</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Chrelle</td>
+      <td>2025-02-27</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Jarma</td>
       <td>2025-02-27</td>
       <td>1</td>
@@ -13218,26 +13538,6 @@ hide:
     </tr>
     <tr>
       <td>Hustlersen</td>
-      <td>2025-02-27</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Visti</td>
-      <td>2025-02-27</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Chrelle</td>
       <td>2025-02-27</td>
       <td>0</td>
       <td>0.0</td>
@@ -13287,6 +13587,26 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-02-26</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Chrelle</td>
+      <td>2025-02-26</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Okholm</td>
       <td>2025-02-26</td>
       <td>1</td>
@@ -13318,26 +13638,6 @@ hide:
     </tr>
     <tr>
       <td>Hustlersen</td>
-      <td>2025-02-26</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Visti</td>
-      <td>2025-02-26</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Chrelle</td>
       <td>2025-02-26</td>
       <td>0</td>
       <td>0.0</td>
@@ -13544,7 +13844,7 @@ hide:
       <td>16</td>
       <td>0.94</td>
       <td>0.06</td>
-      <td>Lie (8), Welsford (4), Aert (4)</td>
+      <td>Lie (8), Aert (4), Welsford (4)</td>
     </tr>
     <tr>
       <td>Matti</td>
@@ -13694,7 +13994,7 @@ hide:
       <td>53</td>
       <td>3.31</td>
       <td>0.20</td>
-      <td>Milan (25), Sivakov (10), Plus (10)</td>
+      <td>Milan (25), Plus (10), Sivakov (10)</td>
     </tr>
     <tr>
       <td>Jappo</td>
@@ -14187,16 +14487,6 @@ hide:
       <td>Pedersen (15)</td>
     </tr>
     <tr>
-      <td>Hustlersen</td>
-      <td>2025-02-15</td>
-      <td>1</td>
-      <td>28.1</td>
-      <td>15</td>
-      <td>15.00</td>
-      <td>0.53</td>
-      <td>Pedersen (15)</td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-02-15</td>
       <td>1</td>
@@ -14208,6 +14498,16 @@ hide:
     </tr>
     <tr>
       <td>Chrelle</td>
+      <td>2025-02-15</td>
+      <td>1</td>
+      <td>28.1</td>
+      <td>15</td>
+      <td>15.00</td>
+      <td>0.53</td>
+      <td>Pedersen (15)</td>
+    </tr>
+    <tr>
+      <td>Hustlersen</td>
       <td>2025-02-15</td>
       <td>1</td>
       <td>28.1</td>
@@ -14287,16 +14587,6 @@ hide:
       <td>Pedersen (6)</td>
     </tr>
     <tr>
-      <td>Hustlersen</td>
-      <td>2025-02-14</td>
-      <td>1</td>
-      <td>28.1</td>
-      <td>6</td>
-      <td>6.00</td>
-      <td>0.21</td>
-      <td>Pedersen (6)</td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-02-14</td>
       <td>1</td>
@@ -14308,6 +14598,16 @@ hide:
     </tr>
     <tr>
       <td>Chrelle</td>
+      <td>2025-02-14</td>
+      <td>1</td>
+      <td>28.1</td>
+      <td>6</td>
+      <td>6.00</td>
+      <td>0.21</td>
+      <td>Pedersen (6)</td>
+    </tr>
+    <tr>
+      <td>Hustlersen</td>
       <td>2025-02-14</td>
       <td>1</td>
       <td>28.1</td>
@@ -14397,6 +14697,26 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-02-12</td>
+      <td>3</td>
+      <td>28.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Chrelle</td>
+      <td>2025-02-12</td>
+      <td>2</td>
+      <td>11.1</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Knak</td>
       <td>2025-02-12</td>
       <td>1</td>
@@ -14421,26 +14741,6 @@ hide:
       <td>2025-02-12</td>
       <td>0</td>
       <td>0.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Visti</td>
-      <td>2025-02-12</td>
-      <td>3</td>
-      <td>28.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Chrelle</td>
-      <td>2025-02-12</td>
-      <td>2</td>
-      <td>11.1</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -14507,16 +14807,6 @@ hide:
       <td>Jeanniere (4)</td>
     </tr>
     <tr>
-      <td>Knak</td>
-      <td>2025-02-11</td>
-      <td>2</td>
-      <td>6.2</td>
-      <td>4</td>
-      <td>2.00</td>
-      <td>0.65</td>
-      <td>Jeanniere (4)</td>
-    </tr>
-    <tr>
       <td>Chrelle</td>
       <td>2025-02-11</td>
       <td>2</td>
@@ -14524,6 +14814,16 @@ hide:
       <td>4</td>
       <td>2.00</td>
       <td>0.36</td>
+      <td>Jeanniere (4)</td>
+    </tr>
+    <tr>
+      <td>Knak</td>
+      <td>2025-02-11</td>
+      <td>2</td>
+      <td>6.2</td>
+      <td>4</td>
+      <td>2.00</td>
+      <td>0.65</td>
       <td>Jeanniere (4)</td>
     </tr>
     <tr>
@@ -14607,26 +14907,6 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Okholm</td>
-      <td>2025-02-10</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Jarma</td>
-      <td>2025-02-10</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-02-10</td>
       <td>3</td>
@@ -14641,6 +14921,26 @@ hide:
       <td>2025-02-10</td>
       <td>2</td>
       <td>11.1</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Okholm</td>
+      <td>2025-02-10</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>2025-02-10</td>
+      <td>0</td>
+      <td>0.0</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -14897,6 +15197,16 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-02-07</td>
+      <td>3</td>
+      <td>58.5</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Okholm</td>
       <td>2025-02-07</td>
       <td>6</td>
@@ -14931,16 +15241,6 @@ hide:
       <td>2025-02-07</td>
       <td>2</td>
       <td>3.2</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Visti</td>
-      <td>2025-02-07</td>
-      <td>3</td>
-      <td>58.5</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -15087,6 +15387,26 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-02-05</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Chrelle</td>
+      <td>2025-02-05</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Okholm</td>
       <td>2025-02-05</td>
       <td>0</td>
@@ -15118,26 +15438,6 @@ hide:
     </tr>
     <tr>
       <td>Hustlersen</td>
-      <td>2025-02-05</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Visti</td>
-      <td>2025-02-05</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Chrelle</td>
       <td>2025-02-05</td>
       <td>0</td>
       <td>0.0</td>
@@ -15257,16 +15557,6 @@ hide:
       <td>Pidcock (50)</td>
     </tr>
     <tr>
-      <td>Knak</td>
-      <td>2025-02-01</td>
-      <td>2</td>
-      <td>37.5</td>
-      <td>50</td>
-      <td>25.00</td>
-      <td>1.33</td>
-      <td>Pidcock (50)</td>
-    </tr>
-    <tr>
       <td>Chrelle</td>
       <td>2025-02-01</td>
       <td>1</td>
@@ -15274,6 +15564,16 @@ hide:
       <td>50</td>
       <td>50.00</td>
       <td>2.78</td>
+      <td>Pidcock (50)</td>
+    </tr>
+    <tr>
+      <td>Knak</td>
+      <td>2025-02-01</td>
+      <td>2</td>
+      <td>37.5</td>
+      <td>50</td>
+      <td>25.00</td>
+      <td>1.33</td>
       <td>Pidcock (50)</td>
     </tr>
     <tr>
@@ -15317,6 +15617,16 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-02-01</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Jarma</td>
       <td>2025-02-01</td>
       <td>0</td>
@@ -15337,27 +15647,7 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Visti</td>
-      <td>2025-02-01</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Jappo</td>
-      <td>2025-01-31</td>
-      <td>2</td>
-      <td>37.5</td>
-      <td>15</td>
-      <td>7.50</td>
-      <td>0.40</td>
-      <td>Pidcock (15)</td>
-    </tr>
-    <tr>
-      <td>Knak</td>
       <td>2025-01-31</td>
       <td>2</td>
       <td>37.5</td>
@@ -15374,6 +15664,16 @@ hide:
       <td>15</td>
       <td>15.00</td>
       <td>0.83</td>
+      <td>Pidcock (15)</td>
+    </tr>
+    <tr>
+      <td>Knak</td>
+      <td>2025-01-31</td>
+      <td>2</td>
+      <td>37.5</td>
+      <td>15</td>
+      <td>7.50</td>
+      <td>0.40</td>
       <td>Pidcock (15)</td>
     </tr>
     <tr>
@@ -15407,6 +15707,16 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-01-31</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Okholm</td>
       <td>2025-01-31</td>
       <td>1</td>
@@ -15428,16 +15738,6 @@ hide:
     </tr>
     <tr>
       <td>Hustlersen</td>
-      <td>2025-01-31</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Visti</td>
       <td>2025-01-31</td>
       <td>0</td>
       <td>0.0</td>
@@ -15497,6 +15797,26 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Chrelle</td>
+      <td>2025-01-30</td>
+      <td>1</td>
+      <td>18.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Visti</td>
+      <td>2025-01-30</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Okholm</td>
       <td>2025-01-30</td>
       <td>1</td>
@@ -15527,37 +15847,7 @@ hide:
       <td></td>
     </tr>
     <tr>
-      <td>Chrelle</td>
-      <td>2025-01-30</td>
-      <td>1</td>
-      <td>18.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Visti</td>
-      <td>2025-01-30</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Jappo</td>
-      <td>2025-01-29</td>
-      <td>2</td>
-      <td>37.5</td>
-      <td>15</td>
-      <td>7.50</td>
-      <td>0.40</td>
-      <td>Pidcock (15)</td>
-    </tr>
-    <tr>
-      <td>Knak</td>
       <td>2025-01-29</td>
       <td>2</td>
       <td>37.5</td>
@@ -15574,6 +15864,16 @@ hide:
       <td>15</td>
       <td>15.00</td>
       <td>0.83</td>
+      <td>Pidcock (15)</td>
+    </tr>
+    <tr>
+      <td>Knak</td>
+      <td>2025-01-29</td>
+      <td>2</td>
+      <td>37.5</td>
+      <td>15</td>
+      <td>7.50</td>
+      <td>0.40</td>
       <td>Pidcock (15)</td>
     </tr>
     <tr>
@@ -15607,6 +15907,16 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-01-29</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Okholm</td>
       <td>2025-01-29</td>
       <td>1</td>
@@ -15628,16 +15938,6 @@ hide:
     </tr>
     <tr>
       <td>Hustlersen</td>
-      <td>2025-01-29</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Visti</td>
       <td>2025-01-29</td>
       <td>0</td>
       <td>0.0</td>
@@ -15697,6 +15997,26 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Chrelle</td>
+      <td>2025-01-28</td>
+      <td>1</td>
+      <td>18.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Visti</td>
+      <td>2025-01-28</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Okholm</td>
       <td>2025-01-28</td>
       <td>1</td>
@@ -15718,26 +16038,6 @@ hide:
     </tr>
     <tr>
       <td>Hustlersen</td>
-      <td>2025-01-28</td>
-      <td>0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Chrelle</td>
-      <td>2025-01-28</td>
-      <td>1</td>
-      <td>18.0</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Visti</td>
       <td>2025-01-28</td>
       <td>0</td>
       <td>0.0</td>
@@ -15774,7 +16074,7 @@ hide:
       <td>122</td>
       <td>20.33</td>
       <td>3.91</td>
-      <td>Narváez (100), Andresen (8), Withen Philipsen (8)</td>
+      <td>Narváez (100), Withen Philipsen (8), Andresen (8)</td>
     </tr>
     <tr>
       <td>Okholm</td>
@@ -15784,7 +16084,7 @@ hide:
       <td>116</td>
       <td>29.00</td>
       <td>3.72</td>
-      <td>Onley (60), Sheffield (40), Withen Philipsen (8)</td>
+      <td>Onley (60), Sheffield (40), Andresen (8)</td>
     </tr>
     <tr>
       <td>Jappo</td>
@@ -15804,7 +16104,7 @@ hide:
       <td>47</td>
       <td>6.71</td>
       <td>1.35</td>
-      <td>Welsford (25), Withen Philipsen (8), Andresen (8)</td>
+      <td>Welsford (25), Andresen (8), Withen Philipsen (8)</td>
     </tr>
     <tr>
       <td>Knak</td>
@@ -15824,7 +16124,7 @@ hide:
       <td>16</td>
       <td>8.00</td>
       <td>2.91</td>
-      <td>Andresen (8), Withen Philipsen (8)</td>
+      <td>Withen Philipsen (8), Andresen (8)</td>
     </tr>
     <tr>
       <td>Visti</td>
@@ -15917,6 +16217,16 @@ hide:
       <td></td>
     </tr>
     <tr>
+      <td>Visti</td>
+      <td>2025-01-25</td>
+      <td>3</td>
+      <td>19.9</td>
+      <td>0</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Jarma</td>
       <td>2025-01-25</td>
       <td>3</td>
@@ -15931,16 +16241,6 @@ hide:
       <td>2025-01-25</td>
       <td>5</td>
       <td>25.4</td>
-      <td>0</td>
-      <td>0.00</td>
-      <td>0.00</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Visti</td>
-      <td>2025-01-25</td>
-      <td>3</td>
-      <td>19.9</td>
       <td>0</td>
       <td>0.00</td>
       <td>0.00</td>
@@ -15977,16 +16277,6 @@ hide:
       <td>Narváez (16), Teutenberg (6), Uhlig (4)</td>
     </tr>
     <tr>
-      <td>Knak</td>
-      <td>2025-01-24</td>
-      <td>5</td>
-      <td>25.4</td>
-      <td>18</td>
-      <td>3.60</td>
-      <td>0.71</td>
-      <td>Andresen (10), Strong (8)</td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-01-24</td>
       <td>3</td>
@@ -15994,6 +16284,16 @@ hide:
       <td>18</td>
       <td>6.00</td>
       <td>0.90</td>
+      <td>Andresen (10), Strong (8)</td>
+    </tr>
+    <tr>
+      <td>Knak</td>
+      <td>2025-01-24</td>
+      <td>5</td>
+      <td>25.4</td>
+      <td>18</td>
+      <td>3.60</td>
+      <td>0.71</td>
       <td>Andresen (10), Strong (8)</td>
     </tr>
     <tr>
@@ -16017,22 +16317,22 @@ hide:
       <td>Andresen (10)</td>
     </tr>
     <tr>
-      <td>Okholm</td>
-      <td>2025-01-24</td>
-      <td>4</td>
-      <td>31.2</td>
-      <td>10</td>
-      <td>2.50</td>
-      <td>0.32</td>
-      <td>Andresen (10)</td>
-    </tr>
-    <tr>
       <td>Chrelle</td>
       <td>2025-01-24</td>
       <td>6</td>
       <td>31.7</td>
       <td>10</td>
       <td>1.67</td>
+      <td>0.32</td>
+      <td>Andresen (10)</td>
+    </tr>
+    <tr>
+      <td>Okholm</td>
+      <td>2025-01-24</td>
+      <td>4</td>
+      <td>31.2</td>
+      <td>10</td>
+      <td>2.50</td>
       <td>0.32</td>
       <td>Andresen (10)</td>
     </tr>
@@ -16187,16 +16487,6 @@ hide:
       <td>Teutenberg (14), Andresen (12)</td>
     </tr>
     <tr>
-      <td>Knak</td>
-      <td>2025-01-22</td>
-      <td>5</td>
-      <td>25.4</td>
-      <td>18</td>
-      <td>3.60</td>
-      <td>0.71</td>
-      <td>Andresen (12), Strong (6)</td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-01-22</td>
       <td>4</td>
@@ -16204,6 +16494,16 @@ hide:
       <td>18</td>
       <td>4.50</td>
       <td>0.76</td>
+      <td>Andresen (12), Strong (6)</td>
+    </tr>
+    <tr>
+      <td>Knak</td>
+      <td>2025-01-22</td>
+      <td>5</td>
+      <td>25.4</td>
+      <td>18</td>
+      <td>3.60</td>
+      <td>0.71</td>
       <td>Andresen (12), Strong (6)</td>
     </tr>
     <tr>
@@ -16287,16 +16587,6 @@ hide:
       <td>Brennan (20), Teutenberg (14), Andresen (2)</td>
     </tr>
     <tr>
-      <td>Knak</td>
-      <td>2025-01-21</td>
-      <td>5</td>
-      <td>25.4</td>
-      <td>10</td>
-      <td>2.00</td>
-      <td>0.39</td>
-      <td>Strong (8), Andresen (2)</td>
-    </tr>
-    <tr>
       <td>Visti</td>
       <td>2025-01-21</td>
       <td>4</td>
@@ -16304,6 +16594,16 @@ hide:
       <td>10</td>
       <td>2.50</td>
       <td>0.42</td>
+      <td>Strong (8), Andresen (2)</td>
+    </tr>
+    <tr>
+      <td>Knak</td>
+      <td>2025-01-21</td>
+      <td>5</td>
+      <td>25.4</td>
+      <td>10</td>
+      <td>2.00</td>
+      <td>0.39</td>
       <td>Strong (8), Andresen (2)</td>
     </tr>
     <tr>

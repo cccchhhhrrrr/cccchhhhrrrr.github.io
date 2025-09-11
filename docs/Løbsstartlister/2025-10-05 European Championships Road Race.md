@@ -229,7 +229,7 @@
       <td>Mihkels Madis</td>
       <td>Hayter Ethan</td>
       <td>Bagioli Andrea</td>
-      <td>Christen Jan</td>
+      <td class = "startlist">Christen Jan</td>
       <td>Strong Corbin</td>
       <td>Nys Thibau</td>
       <td>Martinez Lenny</td>
@@ -242,13 +242,13 @@
       <td>Magnier Paul</td>
       <td>Nerurkar Lukas</td>
       <td>Martinez Lenny</td>
-      <td>Schmid Mauro</td>
+      <td class = "startlist">Schmid Mauro</td>
       <td>Bagioli Andrea</td>
       <td>Lapeira Paul</td>
       <td>Martinez Lenny</td>
       <td>Sivakov Pavel</td>
       <td>Lapeira Paul</td>
-      <td>Schmid Mauro</td>
+      <td class = "startlist">Schmid Mauro</td>
     </tr>
     <tr>
       <th>15</th>
