@@ -90,7 +90,7 @@
       <td>Van Eetvelt Lennert</td>
       <td>Van Der Poel Mathieu</td>
       <td class = "startlist">Milan Jonathan</td>
-      <td class = "startlist">Philipsen Jasper</td>
+      <td>Philipsen Jasper</td>
       <td class = "startlist">Milan Jonathan</td>
       <td class = "startlist">Milan Jonathan</td>
       <td>Pedersen Mads</td>
@@ -102,7 +102,7 @@
       <td>Almeida João</td>
       <td>Ayuso Juan</td>
       <td>Merlier Tim</td>
-      <td class = "startlist">Philipsen Jasper</td>
+      <td>Philipsen Jasper</td>
       <td>Ayuso Juan</td>
       <td>Merlier Tim</td>
       <td>Skjelmose Mattias</td>
@@ -261,7 +261,7 @@
       <td>Schachmann Maximilian</td>
       <td>Lazkano Oier</td>
       <td>Lazkano Oier</td>
-      <td>Abrahamsen Jonas</td>
+      <td class = "startlist">Abrahamsen Jonas</td>
       <td>Zingle Axel</td>
     </tr>
     <tr>

@@ -105,9 +105,9 @@
       <td>Philipsen Jasper</td>
       <td>Ayuso Juan</td>
       <td>Merlier Tim</td>
-      <td>Skjelmose Mattias</td>
+      <td class = "startlist">Skjelmose Mattias</td>
       <td>De Lie Arnaud</td>
-      <td>Skjelmose Mattias</td>
+      <td class = "startlist">Skjelmose Mattias</td>
       <td>Rodríguez Carlos</td>
     </tr>
     <tr>
@@ -132,7 +132,7 @@
       <td>De Lie Arnaud</td>
       <td>De Lie Arnaud</td>
       <td>Van Eetvelt Lennert</td>
-      <td>Carapaz Richard</td>
+      <td class = "startlist">Carapaz Richard</td>
       <td>Kooij Olav</td>
       <td>Girmay Biniam</td>
       <td>Kooij Olav</td>
@@ -174,7 +174,7 @@
       <td class = "startlist">Hirschi Marc</td>
       <td class = "startlist">Grégoire Romain</td>
       <td class = "startlist">Narváez Jhonatan</td>
-      <td>Healy Ben</td>
+      <td class = "startlist">Healy Ben</td>
       <td>Girmay Biniam</td>
       <td>Gee Derek</td>
       <td>Nys Thibau</td>
@@ -345,7 +345,7 @@
       <td>Andresen Tobias Lund</td>
       <td>Romeo Iván</td>
       <td>Van Den Broek Frank</td>
-      <td class = "startlist">Rafferty Darren</td>
+      <td>Rafferty Darren</td>
       <td>Aular Orluis</td>
     </tr>
     <tr>
@@ -372,7 +372,7 @@
       <td>Withen Philipsen Albert</td>
       <td>Jeannière Emilien</td>
       <td>Seixas Paul</td>
-      <td class = "startlist">Rafferty Darren</td>
+      <td>Rafferty Darren</td>
       <td>Wandahl Frederik</td>
       <td>Van Baarle Dylan</td>
     </tr>

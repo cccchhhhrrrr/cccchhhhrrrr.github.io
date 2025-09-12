@@ -219,7 +219,7 @@
       <td>Martinez Lenny</td>
       <td>Castrillo Pablo</td>
       <td>Vacek Mathias</td>
-      <td>Pellizzari Giulio</td>
+      <td class = "startlist">Pellizzari Giulio</td>
       <td>Strong Corbin</td>
     </tr>
     <tr>
@@ -228,7 +228,7 @@
       <td>Poole Max</td>
       <td>Mihkels Madis</td>
       <td>Hayter Ethan</td>
-      <td>Bagioli Andrea</td>
+      <td class = "startlist">Bagioli Andrea</td>
       <td class = "startlist">Christen Jan</td>
       <td>Strong Corbin</td>
       <td>Nys Thibau</td>
@@ -243,7 +243,7 @@
       <td>Nerurkar Lukas</td>
       <td>Martinez Lenny</td>
       <td class = "startlist">Schmid Mauro</td>
-      <td>Bagioli Andrea</td>
+      <td class = "startlist">Bagioli Andrea</td>
       <td>Lapeira Paul</td>
       <td>Martinez Lenny</td>
       <td>Sivakov Pavel</td>
@@ -354,7 +354,7 @@
       <td class = "startlist">Staune-Mittet Johannes</td>
       <td>Brenner Marco</td>
       <td>Jeannière Emilien</td>
-      <td>Frigo Marco</td>
+      <td class = "startlist">Frigo Marco</td>
       <td>Wandahl Frederik</td>
       <td>Naesen Oliver</td>
       <td class = "startlist">Staune-Mittet Johannes</td>

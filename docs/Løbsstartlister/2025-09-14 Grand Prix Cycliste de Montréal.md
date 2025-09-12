@@ -287,7 +287,7 @@
       <td class = "startlist">Lafay Victor</td>
       <td>Vermeersch Florian</td>
       <td>Segaert Alec</td>
-      <td class = "startlist">Laurance Axel</td>
+      <td>Laurance Axel</td>
       <td>De Plus Laurens</td>
       <td>Segaert Alec</td>
       <td>Segaert Alec</td>
@@ -297,7 +297,7 @@
       <td>19</td>
       <td>Welsford Sam</td>
       <td>Brennan Matthew</td>
-      <td class = "startlist">Laurance Axel</td>
+      <td>Laurance Axel</td>
       <td>Penhoët Paul</td>
       <td>Van Baarle Dylan</td>
       <td>Teuns Dylan</td>
@@ -316,7 +316,7 @@
       <td>Brennan Matthew</td>
       <td>Mollema Bauke</td>
       <td>Morgado António</td>
-      <td class = "startlist">Laurance Axel</td>
+      <td>Laurance Axel</td>
       <td class = "startlist">Andresen Tobias Lund</td>
       <td class = "startlist">Andresen Tobias Lund</td>
     </tr>
