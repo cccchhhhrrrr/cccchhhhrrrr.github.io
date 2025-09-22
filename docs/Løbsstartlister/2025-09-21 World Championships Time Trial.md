@@ -190,7 +190,7 @@
       <td>Nys Thibau</td>
       <td>Nys Thibau</td>
       <td>Buitrago Santiago</td>
-      <td class = "startlist">Sheffield Magnus</td>
+      <td>Sheffield Magnus</td>
       <td>Martinez Lenny</td>
       <td>Nys Thibau</td>
     </tr>

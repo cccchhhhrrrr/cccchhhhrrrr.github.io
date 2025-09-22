@@ -296,7 +296,7 @@
       <th>18</th>
       <td>19</td>
       <td>Welsford Sam</td>
-      <td>Brennan Matthew</td>
+      <td class = "startlist">Brennan Matthew</td>
       <td>Laurance Axel</td>
       <td>Penhoët Paul</td>
       <td>Van Baarle Dylan</td>
@@ -313,7 +313,7 @@
       <td>Uhlig Henri</td>
       <td>Andresen Tobias Lund</td>
       <td>Rex Laurenz</td>
-      <td>Brennan Matthew</td>
+      <td class = "startlist">Brennan Matthew</td>
       <td>Mollema Bauke</td>
       <td>Morgado António</td>
       <td>Laurance Axel</td>
@@ -323,7 +323,7 @@
     <tr>
       <th>20</th>
       <td>21</td>
-      <td>Brennan Matthew</td>
+      <td class = "startlist">Brennan Matthew</td>
       <td>Teutenberg Tim Torn</td>
       <td>Morgado António</td>
       <td>Louvel Matis</td>

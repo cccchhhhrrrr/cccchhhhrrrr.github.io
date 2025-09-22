@@ -1,237 +1,688 @@
 RaceName,RaceYear,StageNumber,StageName,StageType,StageDate,RiderRank,RiderName,TeamName,UCIPoints,PCSPoints,UpdateTimeStamp
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,1,Grégoire RomainGroupama - FDJfav_gc,Groupama - FDJ,20,30,2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,2,van den Berg MarijnEF Education - EasyPost,EF Education - EasyPost,15,18,2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,3,Hirschi MarcTudor Pro Cycling Team,Tudor Pro Cycling Team,10,12,2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,4,Vendrame AndreaDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,5,7,2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,5,Del Grosso TiborAlpecin - Deceuninckfav_gc,Alpecin - Deceuninck,3,4,2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,6,Kragh Andersen SørenLidl - Trek,Lidl - Trek,"",3,2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,7,Ballabio GiacomoHrinkow Advarics,Hrinkow Advarics,"",2,2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,8,Narváez JhonatanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"",1,2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,9,Burgaudeau MathieuTeam TotalEnergies,Team TotalEnergies,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,10,Reinderink PepijnSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,11,Kulset JohannesUno-X Mobility,Uno-X Mobility,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,12,Wenzel MatsEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,13,Carapaz RichardEF Education - EasyPostfav_gc,EF Education - EasyPost,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,14,Jegat JordanTeam TotalEnergiesfav_gc,Team TotalEnergies,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,15,Nørtoft Morten AallingTeam ColoQuick,Team ColoQuick,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,16,Healy BenEF Education - EasyPostfav_gc,EF Education - EasyPost,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,17,Bévort Carl-FrederikUno-X Mobility,Uno-X Mobility,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,18,McNulty BrandonUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,19,Skjelmose MattiasLidl - Trekfav_gc,Lidl - Trek,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,20,Brenner MarcoTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,21,Skujiņš TomsLidl - Trek,Lidl - Trek,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,22,Prodhomme NicolasDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,23,Rondel MathysTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,24,Geoghegan Hart TaoLidl - Trek,Lidl - Trek,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,25,Antunes TiagoEfapel Cycling,Efapel Cycling,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,26,Hayter EthanSoudal Quick-Stepfav_gc,Soudal Quick-Step,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,27,Pedersen CasperSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,28,Bais MattiaTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,29,Wallenborn ArnoLuxembourg,Luxembourg,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,30,Majka RafałUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,31,Paleni EnzoGroupama - FDJ,Groupama - FDJ,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,32,Berrade UrkoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,33,Muñoz FranciscoTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,34,Lanhove MilanTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,35,De Tier FlorisWagner Bazin WB,Wagner Bazin WB,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,36,Piganzoli DavideTeam Polti VisitMaltafav_gc,Team Polti VisitMalta,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,37,Villa GiacomoWagner Bazin WB,Wagner Bazin WB,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,38,Guglielmi SimonArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,39,Guernalec ThibaultArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,40,Vercher MattéoTeam TotalEnergies,Team TotalEnergies,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,41,Uriarte DiegoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,42,Adamietz JohannesREMBE | rad-net,REMBE | rad-net,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,43,Ries MichelArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,44,Tonelli AlessandroTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,45,Bettendorff LoïcHrinkow Advarics,Hrinkow Advarics,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,46,Geens JonasTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,47,Swirbul KeeganEfapel Cycling,Efapel Cycling,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,48,Donnenwirth TomGroupama - FDJ,Groupama - FDJ,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,49,Huys LaurensArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,50,Remijn SennaAlpecin - Deceuninckfav_gc,Alpecin - Deceuninck,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,51,Fayolle Jean-LoupArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,52,Kess AlexandreLuxembourg,Luxembourg,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,53,Dockx AaronAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,54,Arrieta IgorUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,55,Torres PabloUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,56,Gachignard ThomasTeam TotalEnergies,Team TotalEnergies,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,57,Silva JoaquimEfapel Cycling,Efapel Cycling,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,58,Germani LorenzoGroupama - FDJ,Groupama - FDJ,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,59,Kämna LennardLidl - Trek,Lidl - Trek,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,60,Kluckers ArthurTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,61,Zoidl RiccardoHrinkow Advarics,Hrinkow Advarics,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,62,Schoofs JasperSoudal Quick-Stepfav_gc,Soudal Quick-Step,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,63,Renard-Haquin Henri-FrançoisWagner Bazin WB,Wagner Bazin WB,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,64,Gillet BaptisteArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,65,Albanese VincenzoEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,66,Pedersen HenrikUno-X Mobility,Uno-X Mobility,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,67,Kulset MagnusUno-X Mobility,Uno-X Mobility,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,68,Chamberlain OscarDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,69,Politt NilsUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,70,Aznar HugoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,71,Albrecht PepeREMBE | rad-net,REMBE | rad-net,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,72,Theiler OleREMBE | rad-net,REMBE | rad-net,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,73,Sørensen Anders VosTeam ColoQuick,Team ColoQuick,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,74,Zemke JermaineREMBE | rad-net,REMBE | rad-net,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,75,Jølving Otto SchultzTeam ColoQuick,Team ColoQuick,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,76,Borresch JulianREMBE | rad-net,REMBE | rad-net,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,77,Vandevelde YentlTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,78,Grigorev AleksandrEfapel Cycling,Efapel Cycling,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,79,Vercouillie VictorTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,80,De Vylder LindsayTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,81,Clynhens ToonTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,82,Papon VictorWagner Bazin WB,Wagner Bazin WB,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,83,Primožič JakaHrinkow Advarics,Hrinkow Advarics,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,84,Doubey FabienTeam TotalEnergies,Team TotalEnergies,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,85,Kockelmann MathieuLuxembourg,Luxembourg,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,86,Gogl MichaelAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,87,Dillier SilvanAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,88,Bissegger StefanDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,89,Asgreen KasperEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,90,Suter JoelTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,91,Le Gac OlivierGroupama - FDJ,Groupama - FDJ,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,92,Pérez CésarEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,93,Azanza IbaiEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,94,Pinto PedroEfapel Cycling,Efapel Cycling,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,95,Paret-Peintre AurélienDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,96,Pietrobon Andrea Team Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,97,Holter ÅdneUno-X Mobility,Uno-X Mobility,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,98,Hödlmoser DominikHrinkow Advarics,Hrinkow Advarics,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,99,Poschacher ValentinHrinkow Advarics,Hrinkow Advarics,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,100,Ury NoéLuxembourg,Luxembourg,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,101,Arenz LeonREMBE | rad-net,REMBE | rad-net,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,102,Morang Mil Luxembourg,Luxembourg,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,103,Barusseau MathéoTeam TotalEnergies,Team TotalEnergies,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,104,Knox JamesSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,105,Serry PieterSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,106,Mosca JacopoLidl - Trek,Lidl - Trek,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,107,Walker MaxEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,108,Le Huitouze EddyGroupama - FDJ,Groupama - FDJ,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,109,Aagaard Hansen TobiasTeam ColoQuick,Team ColoQuick,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,110,Bezza Quentin Wagner Bazin WB,Wagner Bazin WB,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,111,Stiansen JesperTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,112,Carvalho André Efapel Cycling,Efapel Cycling,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,113,Hellerup Malte Team ColoQuick,Team ColoQuick,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,114,Berns Mats Luxembourg,Luxembourg,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,115,Price-Pejtersen JohanAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,116,Peñalver ManuelTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,117,Gudnitz JoshuaTeam ColoQuick,Team ColoQuick,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,DNF,Bouchard GeoffreyDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,DNF,Persico DavideWagner Bazin WB,Wagner Bazin WB,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,1,Kockelmann MathieuLuxembourg,Luxembourg,20,30,2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,2,Vendrame AndreaDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,15,18,2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,3,Donnenwirth TomGroupama - FDJ,Groupama - FDJ,10,12,2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,4,Del Grosso TiborAlpecin - Deceuninckfav_gc,Alpecin - Deceuninck,5,7,2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,5,van den Berg MarijnEF Education - EasyPost,EF Education - EasyPost,3,4,2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,6,Villa GiacomoWagner Bazin WB,Wagner Bazin WB,"",3,2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,7,Bévort Carl-FrederikUno-X Mobility,Uno-X Mobility,"",2,2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,8,Kragh Andersen SørenLidl - Trek,Lidl - Trek,"",1,2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,9,Reinderink PepijnSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,10,Burgaudeau MathieuTeam TotalEnergies,Team TotalEnergies,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,11,Peñalver ManuelTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,12,Pedersen HenrikUno-X Mobility,Uno-X Mobility,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,13,Renard-Haquin Henri-FrançoisWagner Bazin WB,Wagner Bazin WB,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,14,De Vylder LindsayTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,15,Wenzel MatsEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,16,Grégoire RomainGroupama - FDJfav_gc,Groupama - FDJ,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,17,Hirschi MarcTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,18,Remijn SennaAlpecin - Deceuninckfav_gc,Alpecin - Deceuninck,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,19,Carvalho AndréEfapel Cycling,Efapel Cycling,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,20,Guglielmi SimonArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,21,Ury NoéLuxembourg,Luxembourg,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,22,Vandevelde YentlTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,23,Bissegger StefanDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,24,Ballabio GiacomoHrinkow Advarics,Hrinkow Advarics,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,25,Brenner MarcoTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,26,Germani LorenzoGroupama - FDJ,Groupama - FDJ,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,27,Nørtoft Morten AallingTeam ColoQuick,Team ColoQuick,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,28,Albanese VincenzoEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,29,Healy BenEF Education - EasyPostfav_gc,EF Education - EasyPost,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,30,Guernalec ThibaultArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,31,Paleni EnzoGroupama - FDJ,Groupama - FDJ,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,32,Chamberlain OscarDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,33,Rondel MathysTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,34,Kulset JohannesUno-X Mobility,Uno-X Mobility,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,35,Hayter EthanSoudal Quick-Stepfav_gc,Soudal Quick-Step,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,36,Fayolle Jean-LoupArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,37,Poschacher ValentinHrinkow Advarics,Hrinkow Advarics,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,38,De Tier FlorisWagner Bazin WB,Wagner Bazin WB,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,39,Lanhove MilanTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,40,Geens Jonas Team Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,41,Narváez JhonatanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,42,Huys LaurensArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,43,Politt NilsUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,44,Skjelmose MattiasLidl - Trekfav_gc,Lidl - Trek,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,45,Bais MattiaTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,46,Antunes TiagoEfapel Cycling,Efapel Cycling,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,47,Doubey FabienTeam TotalEnergies,Team TotalEnergies,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,48,Ries MichelArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,49,McNulty BrandonUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,50,Theiler OleREMBE | rad-net,REMBE | rad-net,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,51,Hödlmoser DominikHrinkow Advarics,Hrinkow Advarics,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,52,Aagaard Hansen TobiasTeam ColoQuick,Team ColoQuick,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,53,Dockx AaronAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,54,Vercouillie VictorTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,55,Berrade UrkoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,56,Wallenborn ArnoLuxembourg,Luxembourg,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,57,Kess AlexandreLuxembourg,Luxembourg,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,58,Majka RafałUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,59,Gudnitz JoshuaTeam ColoQuick,Team ColoQuick,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,60,Jølving Otto SchultzTeam ColoQuick,Team ColoQuick,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,61,Tonelli AlessandroTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,62,Paret-Peintre AurélienDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,63,Prodhomme NicolasDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,64,Gillet Baptiste Arkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,65,Aznar HugoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,66,Sørensen Anders VosTeam ColoQuick,Team ColoQuick,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,67,Uriarte DiegoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,68,Carapaz RichardEF Education - EasyPostfav_gc,EF Education - EasyPost,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,69,Torres PabloUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,70,Asgreen KasperEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,71,Arrieta IgorUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,72,Borresch JulianREMBE | rad-net,REMBE | rad-net,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,73,Geoghegan Hart TaoLidl - Trek,Lidl - Trek,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,74,Kämna LennardLidl - Trek,Lidl - Trek,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,75,Adamietz JohannesREMBE | rad-net,REMBE | rad-net,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,76,Bezza QuentinWagner Bazin WB,Wagner Bazin WB,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,77,Swirbul KeeganEfapel Cycling,Efapel Cycling,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,78,Gachignard ThomasTeam TotalEnergies,Team TotalEnergies,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,79,Skujiņš TomsLidl - Trek,Lidl - Trek,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,80,Piganzoli DavideTeam Polti VisitMaltafav_gc,Team Polti VisitMalta,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,81,Silva JoaquimEfapel Cycling,Efapel Cycling,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,82,Grigorev AleksandrEfapel Cycling,Efapel Cycling,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,83,Schoofs JasperSoudal Quick-Stepfav_gc,Soudal Quick-Step,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,84,Kulset MagnusUno-X Mobility,Uno-X Mobility,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,85,Pedersen CasperSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,86,Muñoz FranciscoTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,87,Albrecht PepeREMBE | rad-net,REMBE | rad-net,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,88,Jegat JordanTeam TotalEnergiesfav_gc,Team TotalEnergies,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,89,Papon Victor  Wagner Bazin WB,Wagner Bazin WB,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,90,Vercher MattéoTeam TotalEnergies,Team TotalEnergies,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,91,Clynhens ToonTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,92,Arenz LeonREMBE | rad-net,REMBE | rad-net,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,93,Berns MatsLuxembourg,Luxembourg,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,94,Primožič JakaHrinkow Advarics,Hrinkow Advarics,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,95,Zoidl RiccardoHrinkow Advarics,Hrinkow Advarics,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,96,Serry PieterSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,97,Mosca JacopoLidl - Trek,Lidl - Trek,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,98,Dillier SilvanAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,99,Pietrobon AndreaTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,100,Barusseau MathéoTeam TotalEnergies,Team TotalEnergies,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,101,Le Gac OlivierGroupama - FDJ,Groupama - FDJ,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,102,Stiansen JesperTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,103,Holter ÅdneUno-X Mobility,Uno-X Mobility,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,104,Morang Mil Luxembourg,Luxembourg,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,105,Bettendorff Loïc Hrinkow Advarics,Hrinkow Advarics,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,106,Pérez CésarEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,107,Knox JamesSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,108,Kluckers ArthurTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,109,Azanza IbaiEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,110,Price-Pejtersen JohanAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,111,Gogl MichaelAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,112,Suter JoelTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,113,Walker MaxEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,114,Pinto Pedro Efapel Cycling,Efapel Cycling,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,115,Le Huitouze EddyGroupama - FDJ,Groupama - FDJ,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,116,Hellerup Malte Team ColoQuick,Team ColoQuick,"","",2025-09-19 09:14:11
-tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,117,Zemke JermaineREMBE | rad-net,REMBE | rad-net,"","",2025-09-19 09:14:11
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,1,Grégoire RomainGroupama - FDJfav_gc,Groupama - FDJ,20,30,2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,2,van den Berg MarijnEF Education - EasyPost,EF Education - EasyPost,15,18,2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,3,Hirschi MarcTudor Pro Cycling Team,Tudor Pro Cycling Team,10,12,2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,4,Vendrame AndreaDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,5,7,2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,5,Del Grosso TiborAlpecin - Deceuninckfav_gc,Alpecin - Deceuninck,3,4,2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,6,Kragh Andersen SørenLidl - Trek,Lidl - Trek,"",3,2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,7,Ballabio GiacomoHrinkow Advarics,Hrinkow Advarics,"",2,2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,8,Narváez JhonatanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"",1,2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,9,Burgaudeau MathieuTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,10,Reinderink PepijnSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,11,Kulset JohannesUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,12,Wenzel MatsEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,13,Carapaz RichardEF Education - EasyPostfav_gc,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,14,Jegat JordanTeam TotalEnergiesfav_gc,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,15,Nørtoft Morten AallingTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,16,Healy BenEF Education - EasyPostfav_gc,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,17,Bévort Carl-FrederikUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,18,McNulty BrandonUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,19,Skjelmose MattiasLidl - Trekfav_gc,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,20,Brenner MarcoTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,21,Skujiņš TomsLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,22,Prodhomme NicolasDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,23,Rondel MathysTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,24,Geoghegan Hart TaoLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,25,Antunes TiagoEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,26,Hayter EthanSoudal Quick-Stepfav_gc,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,27,Pedersen CasperSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,28,Bais MattiaTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,29,Wallenborn ArnoLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,30,Majka RafałUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,31,Paleni EnzoGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,32,Berrade UrkoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,33,Muñoz FranciscoTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,34,Lanhove MilanTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,35,De Tier FlorisWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,36,Piganzoli DavideTeam Polti VisitMaltafav_gc,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,37,Villa GiacomoWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,38,Guglielmi SimonArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,39,Guernalec ThibaultArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,40,Vercher MattéoTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,41,Uriarte DiegoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,42,Adamietz JohannesREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,43,Ries MichelArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,44,Tonelli AlessandroTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,45,Bettendorff LoïcHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,46,Geens JonasTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,47,Swirbul KeeganEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,48,Donnenwirth TomGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,49,Huys LaurensArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,50,Remijn SennaAlpecin - Deceuninckfav_gc,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,51,Fayolle Jean-LoupArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,52,Kess AlexandreLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,53,Dockx AaronAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,54,Arrieta IgorUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,55,Torres PabloUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,56,Gachignard ThomasTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,57,Silva JoaquimEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,58,Germani LorenzoGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,59,Kämna LennardLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,60,Kluckers ArthurTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,61,Zoidl RiccardoHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,62,Schoofs JasperSoudal Quick-Stepfav_gc,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,63,Renard-Haquin Henri-FrançoisWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,64,Gillet BaptisteArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,65,Albanese VincenzoEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,66,Pedersen HenrikUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,67,Kulset MagnusUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,68,Chamberlain OscarDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,69,Politt NilsUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,70,Aznar HugoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,71,Albrecht PepeREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,72,Theiler OleREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,73,Sørensen Anders VosTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,74,Zemke JermaineREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,75,Jølving Otto SchultzTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,76,Borresch JulianREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,77,Vandevelde YentlTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,78,Grigorev AleksandrEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,79,Vercouillie VictorTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,80,De Vylder LindsayTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,81,Clynhens ToonTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,82,Papon VictorWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,83,Primožič JakaHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,84,Doubey FabienTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,85,Kockelmann MathieuLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,86,Gogl MichaelAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,87,Dillier SilvanAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,88,Bissegger StefanDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,89,Asgreen KasperEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,90,Suter JoelTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,91,Le Gac OlivierGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,92,Pérez CésarEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,93,Azanza IbaiEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,94,Pinto PedroEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,95,Paret-Peintre AurélienDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,96,Pietrobon Andrea Team Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,97,Holter ÅdneUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,98,Hödlmoser DominikHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,99,Poschacher ValentinHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,100,Ury NoéLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,101,Arenz LeonREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,102,Morang Mil Luxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,103,Barusseau MathéoTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,104,Knox JamesSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,105,Serry PieterSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,106,Mosca JacopoLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,107,Walker MaxEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,108,Le Huitouze EddyGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,109,Aagaard Hansen TobiasTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,110,Bezza Quentin Wagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,111,Stiansen JesperTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,112,Carvalho André Efapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,113,Hellerup Malte Team ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,114,Berns Mats Luxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,115,Price-Pejtersen JohanAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,116,Peñalver ManuelTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,117,Gudnitz JoshuaTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,DNF,Bouchard GeoffreyDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,1,Stage 1,Normal stage,17/09,DNF,Persico DavideWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,1,Kockelmann MathieuLuxembourg,Luxembourg,20,30,2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,2,Vendrame AndreaDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,15,18,2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,3,Donnenwirth TomGroupama - FDJ,Groupama - FDJ,10,12,2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,4,Del Grosso TiborAlpecin - Deceuninckfav_gc,Alpecin - Deceuninck,5,7,2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,5,van den Berg MarijnEF Education - EasyPost,EF Education - EasyPost,3,4,2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,6,Villa GiacomoWagner Bazin WB,Wagner Bazin WB,"",3,2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,7,Bévort Carl-FrederikUno-X Mobility,Uno-X Mobility,"",2,2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,8,Kragh Andersen SørenLidl - Trek,Lidl - Trek,"",1,2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,9,Reinderink PepijnSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,10,Burgaudeau MathieuTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,11,Peñalver ManuelTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,12,Pedersen HenrikUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,13,Renard-Haquin Henri-FrançoisWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,14,De Vylder LindsayTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,15,Wenzel MatsEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,16,Grégoire RomainGroupama - FDJfav_gc,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,17,Hirschi MarcTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,18,Remijn SennaAlpecin - Deceuninckfav_gc,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,19,Carvalho AndréEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,20,Guglielmi SimonArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,21,Ury NoéLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,22,Vandevelde YentlTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,23,Bissegger StefanDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,24,Ballabio GiacomoHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,25,Brenner MarcoTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,26,Germani LorenzoGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,27,Nørtoft Morten AallingTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,28,Albanese VincenzoEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,29,Healy BenEF Education - EasyPostfav_gc,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,30,Guernalec ThibaultArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,31,Paleni EnzoGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,32,Chamberlain OscarDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,33,Rondel MathysTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,34,Kulset JohannesUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,35,Hayter EthanSoudal Quick-Stepfav_gc,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,36,Fayolle Jean-LoupArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,37,Poschacher ValentinHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,38,De Tier FlorisWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,39,Lanhove MilanTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,40,Geens Jonas Team Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,41,Narváez JhonatanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,42,Huys LaurensArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,43,Politt NilsUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,44,Skjelmose MattiasLidl - Trekfav_gc,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,45,Bais MattiaTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,46,Antunes TiagoEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,47,Doubey FabienTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,48,Ries MichelArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,49,McNulty BrandonUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,50,Theiler OleREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,51,Hödlmoser DominikHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,52,Aagaard Hansen TobiasTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,53,Dockx AaronAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,54,Vercouillie VictorTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,55,Berrade UrkoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,56,Wallenborn ArnoLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,57,Kess AlexandreLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,58,Majka RafałUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,59,Gudnitz JoshuaTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,60,Jølving Otto SchultzTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,61,Tonelli AlessandroTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,62,Paret-Peintre AurélienDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,63,Prodhomme NicolasDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,64,Gillet Baptiste Arkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,65,Aznar HugoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,66,Sørensen Anders VosTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,67,Uriarte DiegoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,68,Carapaz RichardEF Education - EasyPostfav_gc,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,69,Torres PabloUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,70,Asgreen KasperEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,71,Arrieta IgorUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,72,Borresch JulianREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,73,Geoghegan Hart TaoLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,74,Kämna LennardLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,75,Adamietz JohannesREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,76,Bezza QuentinWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,77,Swirbul KeeganEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,78,Gachignard ThomasTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,79,Skujiņš TomsLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,80,Piganzoli DavideTeam Polti VisitMaltafav_gc,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,81,Silva JoaquimEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,82,Grigorev AleksandrEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,83,Schoofs JasperSoudal Quick-Stepfav_gc,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,84,Kulset MagnusUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,85,Pedersen CasperSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,86,Muñoz FranciscoTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,87,Albrecht PepeREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,88,Jegat JordanTeam TotalEnergiesfav_gc,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,89,Papon Victor  Wagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,90,Vercher MattéoTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,91,Clynhens ToonTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,92,Arenz LeonREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,93,Berns MatsLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,94,Primožič JakaHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,95,Zoidl RiccardoHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,96,Serry PieterSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,97,Mosca JacopoLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,98,Dillier SilvanAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,99,Pietrobon AndreaTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,100,Barusseau MathéoTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,101,Le Gac OlivierGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,102,Stiansen JesperTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,103,Holter ÅdneUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,104,Morang Mil Luxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,105,Bettendorff Loïc Hrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,106,Pérez CésarEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,107,Knox JamesSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,108,Kluckers ArthurTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,109,Azanza IbaiEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,110,Price-Pejtersen JohanAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,111,Gogl MichaelAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,112,Suter JoelTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,113,Walker MaxEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,114,Pinto Pedro Efapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,115,Le Huitouze EddyGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,116,Hellerup Malte Team ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,2,Stage 2,Normal stage,18/09,117,Zemke JermaineREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,1,Skjelmose MattiasLidl - Trekfav_gc,Lidl - Trek,20,30,2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,2,Jegat JordanTeam TotalEnergiesfav_gc,Team TotalEnergies,15,18,2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,3,McNulty BrandonUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,10,12,2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,4,Narváez JhonatanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,5,7,2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,5,Brenner MarcoTudor Pro Cycling Team,Tudor Pro Cycling Team,3,4,2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,6,Hirschi MarcTudor Pro Cycling Team,Tudor Pro Cycling Team,"",3,2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,7,Prodhomme NicolasDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"",2,2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,8,Skujiņš TomsLidl - Trek,Lidl - Trek,"",1,2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,9,Carapaz RichardEF Education - EasyPostfav_gc,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,10,Rondel MathysTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,11,Berrade UrkoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,12,Majka RafałUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,13,Paret-Peintre AurélienDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,14,Piganzoli DavideTeam Polti VisitMaltafav_gc,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,15,Wallenborn ArnoLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,16,Kulset JohannesUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,17,Antunes TiagoEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,18,Torres PabloUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,19,Swirbul KeeganEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,20,Bais MattiaTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,21,Reinderink PepijnSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,22,Wenzel MatsEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,23,Lanhove MilanTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,24,Chamberlain OscarDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,25,Healy BenEF Education - EasyPostfav_gc,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,26,Schoofs JasperSoudal Quick-Stepfav_gc,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,27,Zoidl RiccardoHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,28,Gachignard Thomas Team TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,29,Grégoire RomainGroupama - FDJfav_gc,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,30,Arrieta IgorUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,31,Renard-Haquin Henri-François  Wagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,32,Guglielmi Simon  Arkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,33,Holter Ådne Uno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,34,Ballabio GiacomoHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,35,Nørtoft Morten AallingTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,36,Hayter EthanSoudal Quick-Stepfav_gc,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,37,De Tier FlorisWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,38,Uriarte DiegoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,39,Dockx AaronAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,40,Muñoz FranciscoTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,41,Remijn SennaAlpecin - Deceuninckfav_gc,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,42,Adamietz JohannesREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,43,Tonelli AlessandroTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,44,Villa GiacomoWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,45,Vendrame AndreaDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,46,Paleni EnzoGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,47,Dillier Silvan Alpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,48,Papon Victor Wagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,49,Geoghegan Hart TaoLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,50,Kragh Andersen SørenLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,51,Del Grosso TiborAlpecin - Deceuninckfav_gc,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,52,Ries MichelArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,53,Burgaudeau MathieuTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,54,Fayolle Jean-LoupArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,55,Guernalec ThibaultArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,56,Politt NilsUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,57,De Vylder LindsayTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,58,Silva JoaquimEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,59,Germani LorenzoGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,60,Vercher MattéoTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,61,Kämna LennardLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,62,Geens JonasTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,63,Bettendorff LoïcHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,64,Bévort Carl-FrederikUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,65,Donnenwirth TomGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,66,Serry PieterSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,67,Doubey FabienTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,68,Grigorev AleksandrEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,69,Gillet BaptisteArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,70,Poschacher ValentinHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,71,Pedersen HenrikUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,72,Mosca JacopoLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,73,Hellerup MalteTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,74,Sørensen Anders VosTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,75,Clynhens ToonTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,76,Pérez CésarEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,77,Le Gac OlivierGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,78,Aznar HugoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,79,Kockelmann MathieuLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,80,Morang MilLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,81,Bissegger StefanDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,82,Primožič JakaHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,83,Huys LaurensArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,84,Borresch JulianREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,85,Theiler OleREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,86,Albanese VincenzoEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,87,Pedersen CasperSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,88,van den Berg MarijnEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,89,Albrecht PepeREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,90,Asgreen KasperEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,91,Ury NoéLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,92,Bezza QuentinWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,93,Berns MatsLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,94,Suter JoelTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,95,Kess AlexandreLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,96,Pietrobon AndreaTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,97,Jølving Otto SchultzTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,98,Kluckers ArthurTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,99,Vercouillie VictorTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,100,Barusseau MathéoTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,101,Le Huitouze EddyGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,102,Arenz LeonREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,103,Gogl MichaelAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,104,Pinto PedroEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,105,Aagaard Hansen TobiasTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,106,Knox JamesSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,107,Carvalho AndréEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,108,Azanza IbaiEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,109,Price-Pejtersen JohanAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,110,Kulset MagnusUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,111,Walker MaxEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,112,Stiansen JesperTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,113,Gudnitz Joshua Team ColoQuick,Team ColoQuick,-15,"",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,114,Zemke JermaineREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,115,Hödlmoser DominikHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,DNF,Vandevelde YentlTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,3,Stage 3,Normal stage,19/09,DNS,Peñalver ManuelTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,1,Hayter EthanSoudal Quick-Stepfav_gc,Soudal Quick-Step,20,30,2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,2,McNulty BrandonUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,15,18,2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,3,Healy BenEF Education - EasyPostfav_gc,EF Education - EasyPost,10,12,2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,4,Guernalec ThibaultArkéa - B&B Hotels,Arkéa - B&B Hotels,5,7,2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,5,Chamberlain OscarDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,3,4,2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,6,Paret-Peintre AurélienDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"",3,2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,7,Politt NilsUAE Team Emirates - XRG,UAE Team Emirates - XRG,"",2,2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,8,Carapaz RichardEF Education - EasyPostfav_gc,EF Education - EasyPost,"",1,2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,9,Gachignard ThomasTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,10,Skjelmose MattiasLidl - Trekfav_gc,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,11,Rondel MathysTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,12,Bévort Carl-FrederikUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,13,Torres PabloUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,14,Reinderink PepijnSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,15,Skujiņš TomsLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,16,Berrade UrkoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,17,Schoofs JasperSoudal Quick-Stepfav_gc,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,18,Kragh Andersen SørenLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,19,Hirschi MarcTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,20,Geoghegan Hart TaoLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,21,Lanhove MilanTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,22,Paleni EnzoGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,23,Suter JoelTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,24,Antunes TiagoEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,25,Piganzoli DavideTeam Polti VisitMaltafav_gc,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,26,Pedersen CasperSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,27,Brenner MarcoTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,28,Narváez JhonatanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,29,Kulset JohannesUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,30,Walker MaxEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,31,Price-Pejtersen JohanAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,32,Bissegger StefanDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,33,Arrieta IgorUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,34,Papon VictorWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,35,Zoidl RiccardoHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,36,Del Grosso TiborAlpecin - Deceuninckfav_gc,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,37,Majka RafałUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,38,Borresch JulianREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,39,Wenzel MatsEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,40,Grégoire RomainGroupama - FDJfav_gc,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,41,Kockelmann MathieuLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,42,Dockx AaronAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,43,Wallenborn ArnoLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,44,Vercher MattéoTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,45,Albanese VincenzoEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,46,Geens JonasTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,47,Tonelli AlessandroTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,48,Le Huitouze EddyGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,49,Guglielmi SimonArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,50,Jegat JordanTeam TotalEnergiesfav_gc,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,51,Mosca JacopoLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,52,Gillet BaptisteArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,53,Vercouillie VictorTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,54,Gudnitz JoshuaTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,55,Gogl MichaelAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,56,Prodhomme NicolasDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,57,Remijn SennaAlpecin - Deceuninckfav_gc,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,58,Serry PieterSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,59,Renard-Haquin Henri-FrançoisWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,60,Nørtoft Morten AallingTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,61,Vendrame AndreaDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,62,Bezza QuentinWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,63,Theiler OleREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,64,Arenz LeonREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,65,Grigorev AleksandrEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,66,Silva JoaquimEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,67,Muñoz FranciscoTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,68,Kämna LennardLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,69,Ries MichelArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,70,Fayolle Jean-LoupArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,71,Burgaudeau MathieuTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,72,van den Berg MarijnEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,73,Aagaard Hansen TobiasTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,74,Dillier SilvanAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,75,Ballabio GiacomoHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,76,Pinto PedroEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,77,Bais MattiaTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,78,Asgreen KasperEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,79,Swirbul KeeganEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,80,Pedersen HenrikUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,81,Adamietz JohannesREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,82,Primožič JakaHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,83,Sørensen Anders VosTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,84,Clynhens ToonTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,85,Germani LorenzoGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,86,Hellerup MalteTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,87,Doubey FabienTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,88,Jølving Otto SchultzTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,89,Barusseau MathéoTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,90,Pietrobon AndreaTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,91,Knox JamesSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,92,De Tier FlorisWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,93,Kess AlexandreLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,94,Villa GiacomoWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,95,Uriarte DiegoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,96,Le Gac OlivierGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,97,Carvalho AndréEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,98,Stiansen JesperTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,99,Donnenwirth TomGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,100,Aznar HugoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,101,Huys LaurensArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,102,Ury NoéLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,103,Morang MilLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,104,Holter ÅdneUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,105,Berns MatsLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,106,Pérez CésarEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,107,Poschacher ValentinHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,108,Kluckers ArthurTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,109,Bettendorff LoïcHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,110,De Vylder LindsayTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,111,Albrecht PepeREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,112,Zemke JermaineREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,113,Kulset MagnusUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,114,Azanza IbaiEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,4,Stage 4 (ITT),ITT,20/09,115,Hödlmoser DominikHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,1,Grégoire RomainGroupama - FDJfav_gc,Groupama - FDJ,20,30,2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,2,Healy BenEF Education - EasyPostfav_gc,EF Education - EasyPost,15,18,2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,3,Remijn SennaAlpecin - Deceuninckfav_gc,Alpecin - Deceuninck,10,12,2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,4,McNulty BrandonUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,5,7,2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,5,Carapaz RichardEF Education - EasyPostfav_gc,EF Education - EasyPost,3,4,2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,6,Paret-Peintre AurélienDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"",3,2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,7,Hirschi MarcTudor Pro Cycling Team,Tudor Pro Cycling Team,"",2,2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,8,Skjelmose MattiasLidl - Trekfav_gc,Lidl - Trek,"",1,2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,9,Rondel MathysTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,10,Adamietz JohannesREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,11,Jegat JordanTeam TotalEnergiesfav_gc,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,12,Kulset JohannesUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,13,Wallenborn ArnoLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,14,Berrade UrkoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,15,Prodhomme NicolasDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,16,Del Grosso TiborAlpecin - Deceuninckfav_gc,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,17,Lanhove MilanTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,18,Reinderink PepijnSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,19,Skujiņš TomsLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,20,Kragh Andersen SørenLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,21,Narváez JhonatanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,22,Germani LorenzoGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,23,Vendrame AndreaDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,24,Uriarte Diego Equipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,25,Kess AlexandreLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,26,Guernalec Thibault Arkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,27,Gachignard Thomas Team TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,28,Majka RafałUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,29,Wenzel Mats Equipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,30,Paleni Enzo Groupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,31,Ballabio GiacomoHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,32,Pedersen HenrikUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,33,Jølving Otto SchultzTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,34,Borresch JulianREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,35,Nørtoft Morten AallingTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,36,Ries MichelArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,37,Burgaudeau MathieuTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,38,Mosca JacopoLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,39,Serry PieterSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,40,Tonelli AlessandroTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,41,Kockelmann MathieuLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,42,Doubey FabienTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,43,Huys LaurensArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,44,Hayter EthanSoudal Quick-Stepfav_gc,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,45,Guglielmi SimonArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,46,Gillet BaptisteArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,47,Antunes TiagoEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,48,Swirbul KeeganEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,49,Bévort Carl-FrederikUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,50,Vercher MattéoTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,51,Azanza IbaiEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,52,Villa GiacomoWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,53,Schoofs JasperSoudal Quick-Stepfav_gc,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,54,Geens JonasTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,55,Geoghegan Hart Tao Lidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,56,Politt NilsUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,57,Arrieta IgorUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,58,Torres PabloUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,59,Pietrobon AndreaTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,60,Kulset MagnusUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,61,Holter Ådne Uno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,62,Pedersen Casper Soudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,63,Walker Max EF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,64,Stiansen JesperTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,65,Clynhens ToonTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,66,Silva JoaquimEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,67,Kämna LennardLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,68,Asgreen KasperEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,69,van den Berg MarijnEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,70,Dillier SilvanAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,71,Albanese VincenzoEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,72,De Tier FlorisWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,73,Sørensen Anders VosTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,74,Bais Mattia Team Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,75,Ury NoéLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,76,Morang MilLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,77,Berns MatsLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,78,Bezza QuentinWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,79,Hellerup MalteTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,80,Kluckers ArthurTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,81,Suter JoelTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,82,Albrecht PepeREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,83,Pérez CésarEquipo Kern Pharma,Equipo Kern Pharma,-15,"",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,84,Muñoz FranciscoTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,85,Renard-Haquin Henri-FrançoisWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,86,Fayolle Jean-LoupArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,87,Donnenwirth TomGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,88,Hödlmoser DominikHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,89,Barusseau MathéoTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,90,Primožič JakaHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,91,Vercouillie VictorTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,92,Bissegger Stefan Decathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,93,Zemke JermaineREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,94,Bettendorff LoïcHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,95,Pinto PedroEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,96,Grigorev AleksandrEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,97,Carvalho AndréEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,98,Zoidl RiccardoHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,99,Aagaard Hansen TobiasTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,100,Gogl Michael Alpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,101,Theiler OleREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,102,Gudnitz JoshuaTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,103,Price-Pejtersen JohanAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,104,Aznar HugoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,DNF,Chamberlain OscarDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,DNF,Dockx AaronAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,DNF,Le Gac OlivierGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,DNF,Le Huitouze EddyGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,DNF,Knox JamesSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,DNF,De Vylder LindsayTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,DNF,Papon VictorWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,DNF,Arenz LeonREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,DNF,Piganzoli DavideTeam Polti VisitMaltafav_gc,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,DNF,Brenner MarcoTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,5,Stage 5,Normal stage,21/09,DNS,Poschacher ValentinHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",1,McNulty BrandonUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,200,150,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",2,Skjelmose MattiasLidl - Trekfav_gc,Lidl - Trek,150,110,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",3,Carapaz RichardEF Education - EasyPostfav_gc,EF Education - EasyPost,125,90,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",4,Rondel MathysTudor Pro Cycling Team,Tudor Pro Cycling Team,100,80,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",5,Hirschi MarcTudor Pro Cycling Team,Tudor Pro Cycling Team,85,70,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",6,Healy BenEF Education - EasyPostfav_gc,EF Education - EasyPost,70,60,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",7,Skujiņš TomsLidl - Trek,Lidl - Trek,60,55,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",8,Paret-Peintre AurélienDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,50,50,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",9,Narváez JhonatanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,40,45,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",10,Berrade UrkoEquipo Kern Pharma,Equipo Kern Pharma,35,40,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",11,Jegat JordanTeam TotalEnergiesfav_gc,Team TotalEnergies,30,36,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",12,Kulset JohannesUno-X Mobility,Uno-X Mobility,25,32,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",13,Reinderink PepijnSoudal Quick-Step,Soudal Quick-Step,20,28,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",14,Prodhomme NicolasDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,15,24,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",15,Lanhove MilanTeam Flanders - Baloise,Team Flanders - Baloise,10,20,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",16,Wallenborn ArnoLuxembourg,Luxembourg,5,16,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",17,Majka RafałUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,5,14,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",18,Grégoire RomainGroupama - FDJfav_gc,Groupama - FDJ,5,12,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",19,Wenzel MatsEquipo Kern Pharma,Equipo Kern Pharma,5,10,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",20,Gachignard ThomasTeam TotalEnergies,Team TotalEnergies,5,8,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",21,Antunes TiagoEfapel Cycling,Efapel Cycling,5,6,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",22,Torres PabloUAE Team Emirates - XRG,UAE Team Emirates - XRG,5,4,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",23,Hayter EthanSoudal Quick-Stepfav_gc,Soudal Quick-Step,5,3,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",24,Schoofs JasperSoudal Quick-Stepfav_gc,Soudal Quick-Step,5,2,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",25,Swirbul KeeganEfapel Cycling,Efapel Cycling,5,1,2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",26,Guernalec ThibaultArkéa - B&B Hotels,Arkéa - B&B Hotels,5,"",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",27,Guglielmi SimonArkéa - B&B Hotels,Arkéa - B&B Hotels,5,"",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",28,Kragh Andersen SørenLidl - Trek,Lidl - Trek,5,"",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",29,Del Grosso TiborAlpecin - Deceuninckfav_gc,Alpecin - Deceuninck,5,"",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",30,Arrieta IgorUAE Team Emirates - XRG,UAE Team Emirates - XRG,5,"",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",31,Remijn SennaAlpecin - Deceuninckfav_gc,Alpecin - Deceuninck,3,"",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",32,Vendrame AndreaDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,3,"",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",33,Uriarte DiegoEquipo Kern Pharma,Equipo Kern Pharma,3,"",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",34,Nørtoft Morten AallingTeam ColoQuick,Team ColoQuick,3,"",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",35,Adamietz JohannesREMBE | rad-net,REMBE | rad-net,3,"",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",36,Paleni EnzoGroupama - FDJ,Groupama - FDJ,3,"",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",37,Ballabio GiacomoHrinkow Advarics,Hrinkow Advarics,3,"",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",38,Geoghegan Hart TaoLidl - Trek,Lidl - Trek,3,"",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",39,Tonelli AlessandroTeam Polti VisitMalta,Team Polti VisitMalta,3,"",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",40,Germani LorenzoGroupama - FDJ,Groupama - FDJ,3,"",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",41,Burgaudeau MathieuTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",42,Bévort Carl-FrederikUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",43,Ries MichelArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",44,Politt NilsUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",45,Villa GiacomoWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",46,Vercher MattéoTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",47,Bais MattiaTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",48,Geens JonasTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",49,Gillet BaptisteArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",50,De Tier FlorisWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",51,Holter ÅdneUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",52,Silva JoaquimEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",53,Zoidl RiccardoHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",54,Doubey FabienTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",55,Serry PieterSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",56,Pedersen HenrikUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",57,Renard-Haquin Henri-FrançoisWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",58,Pedersen CasperSoudal Quick-Step,Soudal Quick-Step,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",59,Muñoz FranciscoTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",60,Kämna LennardLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",61,Borresch JulianREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",62,Kockelmann MathieuLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",63,Huys LaurensArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",64,Kess AlexandreLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",65,Dillier SilvanAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",66,Mosca JacopoLidl - Trek,Lidl - Trek,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",67,Fayolle Jean-LoupArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",68,Clynhens ToonTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",69,Sørensen Anders VosTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",70,Albanese VincenzoEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",71,Jølving Otto SchultzTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",72,Donnenwirth TomGroupama - FDJ,Groupama - FDJ,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",73,Grigorev AleksandrEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",74,Kulset MagnusUno-X Mobility,Uno-X Mobility,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",75,van den Berg MarijnEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",76,Bettendorff LoïcHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",77,Pietrobon AndreaTeam Polti VisitMalta,Team Polti VisitMalta,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",78,Aznar HugoEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",79,Bissegger StefanDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",80,Azanza IbaiEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",81,Theiler OleREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",82,Asgreen KasperEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",83,Pérez CésarEquipo Kern Pharma,Equipo Kern Pharma,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",84,Stiansen JesperTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",85,Primožič JakaHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",86,Kluckers ArthurTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",87,Morang MilLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",88,Walker MaxEF Education - EasyPost,EF Education - EasyPost,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",89,Vercouillie VictorTeam Flanders - Baloise,Team Flanders - Baloise,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",90,Albrecht PepeREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",91,Bezza QuentinWagner Bazin WB,Wagner Bazin WB,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",92,Ury NoéLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",93,Hellerup MalteTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",94,Suter JoelTudor Pro Cycling Team,Tudor Pro Cycling Team,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",95,Berns MatsLuxembourg,Luxembourg,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",96,Zemke JermaineREMBE | rad-net,REMBE | rad-net,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",97,Aagaard Hansen TobiasTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",98,Barusseau MathéoTeam TotalEnergies,Team TotalEnergies,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",99,Carvalho AndréEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",100,Gogl MichaelAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",101,Price-Pejtersen JohanAlpecin - Deceuninck,Alpecin - Deceuninck,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",102,Hödlmoser DominikHrinkow Advarics,Hrinkow Advarics,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",103,Pinto PedroEfapel Cycling,Efapel Cycling,"","",2025-09-22 22:13:42
+tour-de-luxembourg,2025,99,GC,GC,"",104,Gudnitz JoshuaTeam ColoQuick,Team ColoQuick,"","",2025-09-22 22:13:42

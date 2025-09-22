@@ -314,7 +314,7 @@
       <td>Andresen Tobias Lund</td>
       <td>Rex Laurenz</td>
       <td>Brennan Matthew</td>
-      <td>Mollema Bauke</td>
+      <td class = "startlist">Mollema Bauke</td>
       <td>Morgado António</td>
       <td>Laurance Axel</td>
       <td>Andresen Tobias Lund</td>
@@ -355,7 +355,7 @@
       <td>Brenner Marco</td>
       <td>Jeannière Emilien</td>
       <td>Frigo Marco</td>
-      <td>Wandahl Frederik</td>
+      <td class = "startlist">Wandahl Frederik</td>
       <td>Naesen Oliver</td>
       <td>Staune-Mittet Johannes</td>
       <td>Aleotti Giovanni</td>
@@ -371,16 +371,16 @@
       <td>Artz Huub</td>
       <td>Withen Philipsen Albert</td>
       <td>Jeannière Emilien</td>
-      <td class = "startlist">Seixas Paul</td>
+      <td>Seixas Paul</td>
       <td>Rafferty Darren</td>
-      <td>Wandahl Frederik</td>
+      <td class = "startlist">Wandahl Frederik</td>
       <td>Van Baarle Dylan</td>
     </tr>
     <tr>
       <th>24</th>
       <td>25</td>
       <td>Withen Philipsen Albert</td>
-      <td>August Andrew</td>
+      <td class = "startlist">August Andrew</td>
       <td>Withen Philipsen Albert</td>
       <td>Del Grosso Tibor</td>
       <td>Rolland Brieuc</td>
