@@ -72,11 +72,11 @@
       <th>2</th>
       <td>3</td>
       <td>Van Aert Wout</td>
-      <td>Roglič Primož</td>
+      <td class = "startlist">Roglič Primož</td>
       <td>Pedersen Mads</td>
       <td>Van Aert Wout</td>
       <td>Pedersen Mads</td>
-      <td>Roglič Primož</td>
+      <td class = "startlist">Roglič Primož</td>
       <td>Pedersen Mads</td>
       <td>Van Aert Wout</td>
       <td>Van Aert Wout</td>
@@ -132,7 +132,7 @@
       <td>De Lie Arnaud</td>
       <td>De Lie Arnaud</td>
       <td>Van Eetvelt Lennert</td>
-      <td>Carapaz Richard</td>
+      <td class = "startlist">Carapaz Richard</td>
       <td>Kooij Olav</td>
       <td>Girmay Biniam</td>
       <td>Kooij Olav</td>
@@ -148,7 +148,7 @@
       <td>Kooij Olav</td>
       <td>Girmay Biniam</td>
       <td>Van Gils Maxim</td>
-      <td>Yates Simon</td>
+      <td class = "startlist">Yates Simon</td>
       <td>Merlier Tim</td>
       <td>Landa Mikel</td>
     </tr>
@@ -219,7 +219,7 @@
       <td>Martinez Lenny</td>
       <td>Castrillo Pablo</td>
       <td>Vacek Mathias</td>
-      <td>Pellizzari Giulio</td>
+      <td class = "startlist">Pellizzari Giulio</td>
       <td>Strong Corbin</td>
     </tr>
     <tr>
@@ -296,7 +296,7 @@
       <th>18</th>
       <td>19</td>
       <td>Welsford Sam</td>
-      <td class = "startlist">Brennan Matthew</td>
+      <td>Brennan Matthew</td>
       <td>Laurance Axel</td>
       <td>Penhoët Paul</td>
       <td>Van Baarle Dylan</td>
@@ -313,7 +313,7 @@
       <td>Uhlig Henri</td>
       <td>Andresen Tobias Lund</td>
       <td>Rex Laurenz</td>
-      <td class = "startlist">Brennan Matthew</td>
+      <td>Brennan Matthew</td>
       <td>Mollema Bauke</td>
       <td>Morgado António</td>
       <td>Laurance Axel</td>
@@ -323,7 +323,7 @@
     <tr>
       <th>20</th>
       <td>21</td>
-      <td class = "startlist">Brennan Matthew</td>
+      <td>Brennan Matthew</td>
       <td>Teutenberg Tim Torn</td>
       <td>Morgado António</td>
       <td>Louvel Matis</td>

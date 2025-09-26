@@ -7,21 +7,41 @@ hide:
 ## 2025-09-21
 ### Hovedspillet
 
+Wilder, Ilan Van **85** (Chrelle)
+
+Pogačar, Tadej **70** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Okholm, Tommy, Visti)
+
 Skjelmose, Mattias **43** (Matti, Tommy)
 
 Carapaz, Richard **41** (Knak)
+
+Plapp, Luke **40** (Chrelle, Hustlersen)
 
 Healy, Ben **32** (Knak)
 
 Hirschi, Marc **29** (Hustlersen, Jappo, Knak)
 
+Romeo, Iván **20** (Matti)
+
 Grégoire, Romain **15** (Chrelle, Jarma, Knak)
 
 Narváez, Jhonatan **14** (Hustlersen, Kenk)
 
+Seixas, Paul **10** (Matti)
+
+Vermeersch, Florian **7** (Kenk, Visti)
+
+Rafferty, Darren **3** (Okholm, Tommy)
+
 ### Cheapo
 
+Romeo, Iván **20** (Chrelle, Jappo)
+
+Leonard, Michael **18** (Hustlersen)
+
 Jegat, Jordan **10** (Chrelle, Jappo, Knak)
+
+Rafferty, Darren **3** (Chrelle, Jappo, Visti)
 
 
 
@@ -56,9 +76,9 @@ Delettre, Alexandre **8** (Jappo)
 
 Jacobs, Johan **5** (Jarma)
 
-Gachignard, Thomas **2** (Chrelle, Knak)
-
 Haller, Marco **2** (Visti)
+
+Gachignard, Thomas **2** (Chrelle, Knak)
 
 
 
@@ -204,9 +224,9 @@ Pickering, Finlay **8** (Chrelle, Jarma)
 
 Sivakov, Pavel **60** (Jarma, Okholm)
 
-Skjelmose, Mattias **40** (Matti, Tommy)
-
 Philipsen, Jasper **40** (Jarma, Knak)
+
+Skjelmose, Mattias **40** (Matti, Tommy)
 
 Pedersen, Mads **30** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
@@ -304,9 +324,9 @@ Grégoire, Romain **50** (Chrelle, Jarma, Knak)
 
 Pedersen, Mads **40** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Aular, Orluis **30** (Visti)
-
 Onley, Oscar **30** (Hustlersen, Okholm)
+
+Aular, Orluis **30** (Visti)
 
 Frigo, Marco **25** (Jarma)
 
@@ -318,9 +338,9 @@ Mollema, Bauke **16** (Knak)
 
 Kooij, Olav **15** (Kenk, Matti, Tommy, Visti)
 
-Watson, Sam **12** (Tommy)
-
 Sivakov, Pavel **12** (Jarma, Okholm)
+
+Watson, Sam **12** (Tommy)
 
 Sheffield, Magnus **10** (Okholm)
 
@@ -328,11 +348,11 @@ Segaert, Alec **8** (Knak, Tommy, Visti)
 
 August, AJ **4** (Hustlersen)
 
+Nerurkar, Lukas **2** (Hustlersen, Jarma)
+
 Morgado, António **2** (Hustlersen, Jappo, Matti, Visti)
 
 Brennan, Matthew **2** (Chrelle, Hustlersen, Kenk)
-
-Nerurkar, Lukas **2** (Hustlersen, Jarma)
 
 Artz, Huub **1** (Jarma)
 
@@ -460,9 +480,9 @@ Gall, Felix **16** (Chrelle, Matti, Visti)
 
 Kooij, Olav **15** (Kenk, Matti, Tommy, Visti)
 
-Pellizzari, Giulio **10** (Tommy)
-
 Watson, Sam **10** (Tommy)
+
+Pellizzari, Giulio **10** (Tommy)
 
 ### Cheapo
 
@@ -660,9 +680,9 @@ Kooij, Olav **54** (Kenk, Matti, Tommy, Visti)
 
 Brennan, Matthew **45** (Chrelle, Hustlersen, Kenk)
 
-Narváez, Jhonatan **40** (Hustlersen, Kenk)
-
 Vingegaard, Jonas **40** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+
+Narváez, Jhonatan **40** (Hustlersen, Kenk)
 
 Sheehan, Riley **35** (Okholm)
 
@@ -672,9 +692,9 @@ Watson, Sam **25** (Tommy)
 
 Aert, Wout van **20** (Chrelle, Jarma, Matti, Okholm, Tommy)
 
-Naesen, Oliver **18** (Knak)
-
 Almeida, João **18** (Chrelle, Kenk)
+
+Naesen, Oliver **18** (Knak)
 
 Vermeersch, Florian **16** (Kenk, Visti)
 
@@ -686,17 +706,17 @@ Laurance, Axel **11** (Jappo, Matti, Okholm)
 
 Milan, Jonathan **10** (Jarma, Kenk, Matti, Okholm, Visti)
 
-Romeo, Iván **8** (Matti)
-
 Pidcock, Tom **8** (Chrelle, Jappo, Knak)
 
-Adrià, Roger **6** (Okholm)
+Romeo, Iván **8** (Matti)
 
 Penhoët, Paul **6** (Jarma)
 
-Magnier, Paul **4** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
+Adrià, Roger **6** (Okholm)
 
 Uhlig, Henri **4** (Hustlersen)
+
+Magnier, Paul **4** (Chrelle, Jappo, Jarma, Kenk, Tommy, Visti)
 
 Wilder, Ilan Van **4** (Chrelle)
 
@@ -737,17 +757,17 @@ Penhoët, Paul **14** (Jarma)
 
 Jeanniere, Emilien **12** (Chrelle, Jappo, Knak)
 
-Pidcock, Tom **10** (Chrelle, Jappo, Knak)
+Watson, Sam **10** (Tommy)
 
 Girmay, Biniam **10** (Jappo, Knak, Matti, Okholm, Visti)
 
-Watson, Sam **10** (Tommy)
+Pidcock, Tom **10** (Chrelle, Jappo, Knak)
+
+Laurance, Axel **8** (Jappo, Matti, Okholm)
 
 Sheehan, Riley **8** (Okholm)
 
 Mihkels, Madis **8** (Hustlersen, Matti, Visti)
-
-Laurance, Axel **8** (Jappo, Matti, Okholm)
 
 Dijke, Tim van **6** (Kenk, Visti)
 
@@ -1697,9 +1717,9 @@ August, AJ **2** (Hustlersen)
 
 Renard, Alexis **60** (Knak, Visti)
 
-Frigo, Marco **25** (Jarma)
-
 Champoussin, Clément **25** (Chrelle, Hustlersen, Visti)
+
+Frigo, Marco **25** (Jarma)
 
 Pickering, Finlay **20** (Chrelle, Jarma)
 
@@ -1759,9 +1779,9 @@ Mihkels, Madis **14** (Hustlersen, Matti, Visti)
 
 Vermeersch, Florian **10** (Kenk, Visti)
 
-Artz, Huub **6** (Jarma)
-
 Lapeira, Paul **6** (Knak, Tommy)
+
+Artz, Huub **6** (Jarma)
 
 Segaert, Alec **4** (Knak, Tommy, Visti)
 
@@ -2070,9 +2090,9 @@ Poole, Max **45** (Chrelle, Jarma)
 
 Kooij, Olav **40** (Kenk, Matti, Tommy, Visti)
 
-Pedersen, Mads **20** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
-
 Pidcock, Tom **20** (Chrelle, Jappo, Knak)
+
+Pedersen, Mads **20** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
 Kanter, Max **16** (Hustlersen)
 
@@ -3175,9 +3195,9 @@ Mihkels, Madis **7** (Hustlersen, Matti, Visti)
 
 Trentin, Matteo **6** (Knak)
 
-Louvel, Matîs **4** (Jarma)
-
 Laurance, Axel **4** (Jappo, Matti, Okholm)
+
+Louvel, Matîs **4** (Jarma)
 
 Broek, Frank van den **2** (Okholm)
 
@@ -3291,9 +3311,9 @@ Roglič, Primož **20** (Hustlersen, Knak)
 
 Landa, Mikel **16** (Jappo, Jarma, Visti)
 
-Martinez, Lenny **14** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
-
 Welsford, Sam **14** (Chrelle, Hustlersen, Tommy)
+
+Martinez, Lenny **14** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
 Eetvelt, Lennert Van **12** (Jappo, Kenk, Tommy)
 
@@ -3416,9 +3436,9 @@ Sheffield, Magnus **85** (Okholm)
 
 Gee, Derek **60** (Jappo, Okholm)
 
-Pidcock, Tom **45** (Chrelle, Jappo, Knak)
-
 Almeida, João **45** (Chrelle, Kenk)
+
+Pidcock, Tom **45** (Chrelle, Jappo, Knak)
 
 Landa, Mikel **40** (Jappo, Jarma, Visti)
 
@@ -3461,9 +3481,9 @@ Pidcock, Tom **20** (Chrelle, Jappo, Knak)
 
 Steinhauser, Georg **16** (Hustlersen)
 
-Romeo, Iván **14** (Matti)
-
 Landa, Mikel **14** (Jappo, Jarma, Visti)
+
+Romeo, Iván **14** (Matti)
 
 Gall, Felix **10** (Chrelle, Matti, Visti)
 
@@ -3496,9 +3516,9 @@ Champoussin, Clément **4** (Chrelle, Hustlersen, Visti)
 
 Pedersen, Mads **25** (Chrelle, Hustlersen, Jappo, Kenk, Matti, Tommy, Visti)
 
-Tarling, Josh **20** (Chrelle)
-
 Poel, Mathieu van der **20** (Jarma)
+
+Tarling, Josh **20** (Chrelle)
 
 Watson, Sam **16** (Tommy)
 
@@ -3510,9 +3530,9 @@ Pidcock, Tom **10** (Chrelle, Jappo, Knak)
 
 Sheffield, Magnus **10** (Okholm)
 
-Skjelmose, Mattias **8** (Matti, Tommy)
-
 Grégoire, Romain **8** (Chrelle, Jarma, Knak)
+
+Skjelmose, Mattias **8** (Matti, Tommy)
 
 Schachmann, Maximilian **4** (Jarma, Knak)
 
@@ -3541,9 +3561,9 @@ Lipowitz, Florian **12** (Okholm)
 
 Almeida, João **10** (Chrelle, Kenk)
 
-Pidcock, Tom **6** (Chrelle, Jappo, Knak)
-
 Wilder, Ilan Van **6** (Chrelle)
+
+Pidcock, Tom **6** (Chrelle, Jappo, Knak)
 
 Sheffield, Magnus **4** (Okholm)
 
@@ -3570,9 +3590,9 @@ Vingegaard, Jonas **20** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, 
 
 Pidcock, Tom **20** (Chrelle, Jappo, Knak)
 
-Grégoire, Romain **16** (Chrelle, Jarma, Knak)
-
 Skjelmose, Mattias **16** (Matti, Tommy)
+
+Grégoire, Romain **16** (Chrelle, Jarma, Knak)
 
 Martinez, Lenny **14** (Jappo, Knak, Matti, Okholm, Tommy, Visti)
 
@@ -3908,9 +3928,9 @@ Naesen, Oliver **2** (Knak)
 
 Romeo, Iván **74** (Chrelle, Jappo)
 
-Gachignard, Thomas **16** (Chrelle, Knak)
-
 Kepplinger, Rainer **16** (Chrelle)
+
+Gachignard, Thomas **16** (Chrelle, Knak)
 
 Hoelgaard, Markus **14** (Hustlersen)
 
@@ -4001,9 +4021,9 @@ Merlier, Tim **20** (Jappo, Knak, Matti, Tommy)
 
 Philipsen, Jasper **16** (Jarma, Knak)
 
-Pidcock, Tom **15** (Chrelle, Jappo, Knak)
-
 Christen, Jan **15** (Kenk)
+
+Pidcock, Tom **15** (Chrelle, Jappo, Knak)
 
 Almeida, João **12** (Chrelle, Kenk)
 
@@ -4013,9 +4033,9 @@ Plus, Laurens De **10** (Okholm)
 
 Morgado, António **6** (Hustlersen, Jappo, Matti, Visti)
 
-Gils, Maxim Van **5** (Kenk, Matti)
-
 Vingegaard, Jonas **5** (Chrelle, Hustlersen, Jappo, Jarma, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+
+Gils, Maxim Van **5** (Kenk, Matti)
 
 Geoghegan Hart, Tao **3** (Jarma, Okholm)
 
@@ -4025,9 +4045,9 @@ Powless, Neilson **1** (Jappo)
 
 ### Cheapo
 
-Hoelgaard, Markus **4** (Hustlersen)
-
 Schuyteneer, Steffen De **4** (Chrelle, Jappo, Jarma)
+
+Hoelgaard, Markus **4** (Hustlersen)
 
 
 
@@ -4054,17 +4074,17 @@ Romeo, Iván **8** (Matti)
 
 Castrillo, Pablo **6** (Matti)
 
-Pidcock, Tom **3** (Chrelle, Jappo, Knak)
-
 Seixas, Paul **3** (Matti)
+
+Pidcock, Tom **3** (Chrelle, Jappo, Knak)
 
 ### Cheapo
 
 Romeo, Iván **8** (Chrelle, Jappo)
 
-Langellotti, Victor **2** (Hustlersen)
-
 Arrieta, Igor **2** (Jappo, Jarma)
+
+Langellotti, Victor **2** (Hustlersen)
 
 Gachignard, Thomas **1** (Chrelle, Knak)
 
@@ -4463,9 +4483,9 @@ Mollema, Bauke **16** (Knak)
 
 Uhlig, Henri **10** (Hustlersen)
 
-Withen Philipsen, Albert **8** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Okholm, Tommy)
-
 Andresen, Tobias Lund **8** (Chrelle, Jappo, Kenk, Knak, Matti, Okholm, Tommy, Visti)
+
+Withen Philipsen, Albert **8** (Chrelle, Hustlersen, Jappo, Kenk, Knak, Matti, Okholm, Tommy)
 
 Teutenberg, Tim Torn **6** (Hustlersen, Kenk, Tommy)
 
