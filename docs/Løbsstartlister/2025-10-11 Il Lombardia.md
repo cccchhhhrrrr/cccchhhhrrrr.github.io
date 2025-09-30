@@ -155,7 +155,7 @@
     <tr>
       <th>8</th>
       <td>9</td>
-      <td class = "startlist">Van Wilder Ilan</td>
+      <td>Van Wilder Ilan</td>
       <td>Narváez Jhonatan</td>
       <td>Girmay Biniam</td>
       <td>Geoghegan Hart Tao</td>

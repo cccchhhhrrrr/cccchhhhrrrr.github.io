@@ -155,7 +155,7 @@
     <tr>
       <th>8</th>
       <td>9</td>
-      <td class = "startlist">Van Wilder Ilan</td>
+      <td>Van Wilder Ilan</td>
       <td>Narváez Jhonatan</td>
       <td>Girmay Biniam</td>
       <td>Geoghegan Hart Tao</td>
@@ -274,7 +274,7 @@
       <td>Andresen Tobias Lund</td>
       <td>Trentin Matteo</td>
       <td class = "startlist">Mihkels Madis</td>
-      <td class = "startlist">Adrià Roger</td>
+      <td>Adrià Roger</td>
       <td>Zingle Axel</td>
       <td class = "startlist">Mihkels Madis</td>
     </tr>
@@ -283,7 +283,7 @@
       <td>18</td>
       <td>Lazkano Oier</td>
       <td class = "startlist">Morgado António</td>
-      <td>Torres Pablo</td>
+      <td class = "startlist">Torres Pablo</td>
       <td>Lafay Victor</td>
       <td>Vermeersch Florian</td>
       <td>Segaert Alec</td>
@@ -352,7 +352,7 @@
       <th>22</th>
       <td>23</td>
       <td>Staune-Mittet Johannes</td>
-      <td class = "startlist">Brenner Marco</td>
+      <td>Brenner Marco</td>
       <td>Jeannière Emilien</td>
       <td class = "startlist">Frigo Marco</td>
       <td>Wandahl Frederik</td>

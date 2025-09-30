@@ -299,7 +299,7 @@
       <td>Brennan Matthew</td>
       <td>Laurance Axel</td>
       <td>Penhoët Paul</td>
-      <td>Van Baarle Dylan</td>
+      <td class = "startlist">Van Baarle Dylan</td>
       <td>Teuns Dylan</td>
       <td>Andresen Tobias Lund</td>
       <td>Sheehan Riley</td>
@@ -374,7 +374,7 @@
       <td>Seixas Paul</td>
       <td>Rafferty Darren</td>
       <td>Wandahl Frederik</td>
-      <td>Van Baarle Dylan</td>
+      <td class = "startlist">Van Baarle Dylan</td>
     </tr>
     <tr>
       <th>24</th>

@@ -45,72 +45,72 @@ hide:
     <tr>
       <td>Chrelle</td>
       <td>350.0</td>
-      <td>1206</td>
-      <td>10510</td>
-      <td>8.71</td>
+      <td>1211</td>
+      <td>10655</td>
+      <td>8.80</td>
     </tr>
     <tr>
       <td>Jappo</td>
       <td>350.0</td>
-      <td>1154</td>
-      <td>9034</td>
-      <td>7.83</td>
+      <td>1159</td>
+      <td>9187</td>
+      <td>7.93</td>
     </tr>
     <tr>
       <td>Kenk</td>
       <td>349.9</td>
-      <td>1109</td>
-      <td>8915</td>
-      <td>8.04</td>
+      <td>1114</td>
+      <td>9079</td>
+      <td>8.15</td>
     </tr>
     <tr>
       <td>Visti</td>
       <td>350.0</td>
-      <td>1208</td>
-      <td>8657</td>
-      <td>7.17</td>
+      <td>1213</td>
+      <td>8777</td>
+      <td>7.24</td>
     </tr>
     <tr>
       <td>Okholm</td>
       <td>350.0</td>
-      <td>1169</td>
-      <td>8549</td>
-      <td>7.31</td>
+      <td>1176</td>
+      <td>8681</td>
+      <td>7.38</td>
     </tr>
     <tr>
       <td>Knak</td>
       <td>349.8</td>
-      <td>1171</td>
-      <td>8396</td>
-      <td>7.17</td>
-    </tr>
-    <tr>
-      <td>Jarma</td>
-      <td>350.0</td>
-      <td>1190</td>
-      <td>8059</td>
-      <td>6.77</td>
+      <td>1179</td>
+      <td>8659</td>
+      <td>7.34</td>
     </tr>
     <tr>
       <td>Tommy</td>
       <td>350.0</td>
-      <td>1101</td>
-      <td>8020</td>
-      <td>7.28</td>
+      <td>1105</td>
+      <td>8210</td>
+      <td>7.43</td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>350.0</td>
+      <td>1195</td>
+      <td>8200</td>
+      <td>6.86</td>
     </tr>
     <tr>
       <td>Hustlersen</td>
       <td>327.8</td>
-      <td>1084</td>
-      <td>7842</td>
-      <td>7.23</td>
+      <td>1093</td>
+      <td>8025</td>
+      <td>7.34</td>
     </tr>
     <tr>
       <td>Matti</td>
       <td>349.1</td>
-      <td>1197</td>
-      <td>7686</td>
-      <td>6.42</td>
+      <td>1203</td>
+      <td>7772</td>
+      <td>6.46</td>
     </tr>
   </tbody>
 </table>
