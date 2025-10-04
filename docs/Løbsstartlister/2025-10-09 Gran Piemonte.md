@@ -186,7 +186,7 @@
       <td>Grégoire Romain</td>
       <td>Nys Thibau</td>
       <td>Gee Derek</td>
-      <td>Sivakov Pavel</td>
+      <td class = "startlist">Sivakov Pavel</td>
       <td>Nys Thibau</td>
       <td>Nys Thibau</td>
       <td>Buitrago Santiago</td>
@@ -199,7 +199,7 @@
       <td>12</td>
       <td>Hayter Ethan</td>
       <td>Plapp Luke</td>
-      <td>Powless Neilson</td>
+      <td class = "startlist">Powless Neilson</td>
       <td>Poole Max</td>
       <td>Magnier Paul</td>
       <td>Grégoire Romain</td>
@@ -246,7 +246,7 @@
       <td>Bagioli Andrea</td>
       <td>Lapeira Paul</td>
       <td>Martinez Lenny</td>
-      <td>Sivakov Pavel</td>
+      <td class = "startlist">Sivakov Pavel</td>
       <td>Lapeira Paul</td>
       <td>Schmid Mauro</td>
     </tr>
@@ -271,8 +271,8 @@
       <td>Kanter Max</td>
       <td>Fisher-Black Finn</td>
       <td>Nerurkar Lukas</td>
-      <td>Andresen Tobias Lund</td>
-      <td>Trentin Matteo</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
+      <td class = "startlist">Trentin Matteo</td>
       <td>Mihkels Madis</td>
       <td>Adrià Roger</td>
       <td>Zingle Axel</td>
@@ -301,7 +301,7 @@
       <td>Penhoët Paul</td>
       <td>Van Baarle Dylan</td>
       <td>Teuns Dylan</td>
-      <td>Andresen Tobias Lund</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
       <td>Sheehan Riley</td>
       <td>Campenaerts Victor</td>
       <td>Van Dijke Tim</td>
@@ -309,16 +309,16 @@
     <tr>
       <th>19</th>
       <td>20</td>
-      <td>Andresen Tobias Lund</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
       <td>Uhlig Henri</td>
-      <td>Andresen Tobias Lund</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
       <td>Rex Laurenz</td>
       <td>Brennan Matthew</td>
       <td>Mollema Bauke</td>
       <td>Morgado António</td>
       <td>Laurance Axel</td>
-      <td>Andresen Tobias Lund</td>
-      <td>Andresen Tobias Lund</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
     </tr>
     <tr>
       <th>20</th>
@@ -330,7 +330,7 @@
       <td>Rex Laurenz</td>
       <td>Ulissi Diego</td>
       <td>Fretin Milan</td>
-      <td>Andresen Tobias Lund</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
       <td>Teutenberg Tim Torn</td>
       <td>Morgado António</td>
     </tr>
@@ -342,11 +342,11 @@
       <td>Rex Laurenz</td>
       <td>Pedersen Rasmus Søjberg</td>
       <td>Teutenberg Tim Torn</td>
-      <td>Andresen Tobias Lund</td>
+      <td class = "startlist">Andresen Tobias Lund</td>
       <td>Romeo Iván</td>
       <td>Van Den Broek Frank</td>
       <td>Rafferty Darren</td>
-      <td>Aular Orluis</td>
+      <td class = "startlist">Aular Orluis</td>
     </tr>
     <tr>
       <th>22</th>
