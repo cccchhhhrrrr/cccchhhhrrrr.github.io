@@ -48,6 +48,106 @@ hide:
   <tbody>
     <tr>
       <td>Knak</td>
+      <td>202540</td>
+      <td>6</td>
+      <td>88.0</td>
+      <td>85</td>
+      <td>14.17</td>
+      <td>0.97</td>
+      <td>Pidcock (30), Martinez (26), Roglič (18)</td>
+    </tr>
+    <tr>
+      <td>Jappo</td>
+      <td>202540</td>
+      <td>6</td>
+      <td>66.3</td>
+      <td>65</td>
+      <td>10.83</td>
+      <td>0.98</td>
+      <td>Pidcock (30), Martinez (26), Withen Philipsen (6)</td>
+    </tr>
+    <tr>
+      <td>Chrelle</td>
+      <td>202540</td>
+      <td>5</td>
+      <td>39.9</td>
+      <td>36</td>
+      <td>7.20</td>
+      <td>0.90</td>
+      <td>Pidcock (30), Withen Philipsen (6)</td>
+    </tr>
+    <tr>
+      <td>Hustlersen</td>
+      <td>202540</td>
+      <td>7</td>
+      <td>66.8</td>
+      <td>34</td>
+      <td>4.86</td>
+      <td>0.51</td>
+      <td>Roglič (18), Uijtdebroeks (10), Withen Philipsen (6)</td>
+    </tr>
+    <tr>
+      <td>Tommy</td>
+      <td>202540</td>
+      <td>3</td>
+      <td>17.1</td>
+      <td>32</td>
+      <td>10.67</td>
+      <td>1.87</td>
+      <td>Martinez (26), Withen Philipsen (6)</td>
+    </tr>
+    <tr>
+      <td>Matti</td>
+      <td>202540</td>
+      <td>3</td>
+      <td>12.6</td>
+      <td>32</td>
+      <td>10.67</td>
+      <td>2.54</td>
+      <td>Martinez (26), Withen Philipsen (6)</td>
+    </tr>
+    <tr>
+      <td>Okholm</td>
+      <td>202540</td>
+      <td>5</td>
+      <td>27.1</td>
+      <td>32</td>
+      <td>6.40</td>
+      <td>1.18</td>
+      <td>Martinez (26), Withen Philipsen (6)</td>
+    </tr>
+    <tr>
+      <td>Visti</td>
+      <td>202540</td>
+      <td>2</td>
+      <td>26.4</td>
+      <td>29</td>
+      <td>14.50</td>
+      <td>1.10</td>
+      <td>Martinez (26), Landa (3)</td>
+    </tr>
+    <tr>
+      <td>Kenk</td>
+      <td>202540</td>
+      <td>3</td>
+      <td>9.3</td>
+      <td>6</td>
+      <td>2.00</td>
+      <td>0.65</td>
+      <td>Withen Philipsen (6)</td>
+    </tr>
+    <tr>
+      <td>Jarma</td>
+      <td>202540</td>
+      <td>5</td>
+      <td>45.8</td>
+      <td>3</td>
+      <td>0.60</td>
+      <td>0.07</td>
+      <td>Landa (3)</td>
+    </tr>
+    <tr>
+      <td>Knak</td>
       <td>202539</td>
       <td>8</td>
       <td>180.6</td>
@@ -154,7 +254,7 @@ hide:
       <td>370</td>
       <td>15.42</td>
       <td>1.31</td>
-      <td>Wilder (85), Lie (70), Pogačar (70)</td>
+      <td>Wilder (85), Pogačar (70), Lie (70)</td>
     </tr>
     <tr>
       <td>Knak</td>
@@ -514,7 +614,7 @@ hide:
       <td>283</td>
       <td>5.15</td>
       <td>0.40</td>
-      <td>Vingegaard (71), Lie (70), Philipsen (70)</td>
+      <td>Vingegaard (71), Philipsen (70), Lie (70)</td>
     </tr>
     <tr>
       <td>Hustlersen</td>
@@ -644,7 +744,7 @@ hide:
       <td>238</td>
       <td>6.80</td>
       <td>0.54</td>
-      <td>Merlier (60), Philipsen (40), Vingegaard (40)</td>
+      <td>Merlier (60), Vingegaard (40), Philipsen (40)</td>
     </tr>
     <tr>
       <td>Jarma</td>
@@ -764,7 +864,7 @@ hide:
       <td>155</td>
       <td>3.88</td>
       <td>0.51</td>
-      <td>Magnier (45), Pellizzari (44), Lapeira (25)</td>
+      <td>Magnier (45), Pellizzari (44), Kooij (25)</td>
     </tr>
     <tr>
       <td>Jarma</td>
@@ -1004,7 +1104,7 @@ hide:
       <td>640</td>
       <td>8.77</td>
       <td>0.47</td>
-      <td>Pogačar (273), Vingegaard (221), Aert (40)</td>
+      <td>Pogačar (273), Vingegaard (221), Milan (40)</td>
     </tr>
     <tr>
       <td>Kenk</td>
@@ -1254,7 +1354,7 @@ hide:
       <td>169</td>
       <td>6.04</td>
       <td>0.30</td>
-      <td>Poel (40), Philipsen (40), Pogačar (30)</td>
+      <td>Philipsen (40), Poel (40), Pogačar (30)</td>
     </tr>
     <tr>
       <td>Knak</td>
@@ -1284,7 +1384,7 @@ hide:
       <td>87</td>
       <td>3.11</td>
       <td>0.18</td>
-      <td>Girmay (30), Pogačar (30), Vingegaard (25)</td>
+      <td>Pogačar (30), Girmay (30), Vingegaard (25)</td>
     </tr>
     <tr>
       <td>Visti</td>
@@ -1294,7 +1394,7 @@ hide:
       <td>85</td>
       <td>3.54</td>
       <td>0.18</td>
-      <td>Pogačar (30), Girmay (30), Vingegaard (25)</td>
+      <td>Girmay (30), Pogačar (30), Vingegaard (25)</td>
     </tr>
     <tr>
       <td>Chrelle</td>
@@ -1844,7 +1944,7 @@ hide:
       <td>69</td>
       <td>2.88</td>
       <td>0.20</td>
-      <td>Aert (30), Poole (15), Frigo (12)</td>
+      <td>Aert (30), Poole (15), Magnier (12)</td>
     </tr>
     <tr>
       <td>Hustlersen</td>
@@ -1854,7 +1954,7 @@ hide:
       <td>220</td>
       <td>5.24</td>
       <td>0.33</td>
-      <td>Pedersen (60), Ayuso (60), Plapp (40)</td>
+      <td>Ayuso (60), Pedersen (60), Plapp (40)</td>
     </tr>
     <tr>
       <td>Chrelle</td>
@@ -1864,7 +1964,7 @@ hide:
       <td>215</td>
       <td>4.48</td>
       <td>0.28</td>
-      <td>Pedersen (60), Aert (40), Plapp (40)</td>
+      <td>Pedersen (60), Plapp (40), Aert (40)</td>
     </tr>
     <tr>
       <td>Kenk</td>
@@ -1924,7 +2024,7 @@ hide:
       <td>121</td>
       <td>4.03</td>
       <td>0.24</td>
-      <td>Carapaz (38), Roglič (28), Ulissi (26)</td>
+      <td>Carapaz (38), Roglič (28), Pidcock (26)</td>
     </tr>
     <tr>
       <td>Jarma</td>
@@ -1977,16 +2077,6 @@ hide:
       <td>Pedersen (94), Roglič (31), Ayuso (8)</td>
     </tr>
     <tr>
-      <td>Matti</td>
-      <td>202519</td>
-      <td>12</td>
-      <td>267.0</td>
-      <td>124</td>
-      <td>10.33</td>
-      <td>0.46</td>
-      <td>Pedersen (94), Aert (30)</td>
-    </tr>
-    <tr>
       <td>Tommy</td>
       <td>202519</td>
       <td>18</td>
@@ -1994,6 +2084,16 @@ hide:
       <td>124</td>
       <td>6.89</td>
       <td>0.40</td>
+      <td>Pedersen (94), Aert (30)</td>
+    </tr>
+    <tr>
+      <td>Matti</td>
+      <td>202519</td>
+      <td>12</td>
+      <td>267.0</td>
+      <td>124</td>
+      <td>10.33</td>
+      <td>0.46</td>
       <td>Pedersen (94), Aert (30)</td>
     </tr>
     <tr>
@@ -2254,7 +2354,7 @@ hide:
       <td>338</td>
       <td>56.33</td>
       <td>1.93</td>
-      <td>Skjelmose (120), Aert (100), Pogačar (100)</td>
+      <td>Skjelmose (120), Pogačar (100), Aert (100)</td>
     </tr>
     <tr>
       <td>Chrelle</td>
@@ -2544,7 +2644,7 @@ hide:
       <td>191</td>
       <td>14.69</td>
       <td>0.96</td>
-      <td>Pogačar (120), Nys (35), Segaert (14)</td>
+      <td>Pogačar (120), Nys (35), Hirschi (14)</td>
     </tr>
     <tr>
       <td>Hustlersen</td>
@@ -2814,7 +2914,7 @@ hide:
       <td>284</td>
       <td>3.69</td>
       <td>0.29</td>
-      <td>Milan (62), Landa (54), Grégoire (36)</td>
+      <td>Milan (62), Landa (54), Poel (36)</td>
     </tr>
     <tr>
       <td>Knak</td>
@@ -2884,7 +2984,7 @@ hide:
       <td>225</td>
       <td>15.00</td>
       <td>0.90</td>
-      <td>Pogačar (120), Ayuso (35), Magnier (30)</td>
+      <td>Pogačar (120), Ayuso (35), Eetvelt (30)</td>
     </tr>
     <tr>
       <td>Tommy</td>
@@ -2934,7 +3034,7 @@ hide:
       <td>161</td>
       <td>10.73</td>
       <td>0.71</td>
-      <td>Pogačar (120), Ayuso (35), Hirschi (2)</td>
+      <td>Pogačar (120), Ayuso (35), Lie (2)</td>
     </tr>
     <tr>
       <td>Matti</td>
@@ -2944,7 +3044,7 @@ hide:
       <td>27</td>
       <td>2.08</td>
       <td>0.15</td>
-      <td>Merlier (25), Pedersen (1), Withen Philipsen (1)</td>
+      <td>Merlier (25), Withen Philipsen (1), Pedersen (1)</td>
     </tr>
     <tr>
       <td>Jarma</td>
@@ -3074,7 +3174,7 @@ hide:
       <td>599</td>
       <td>7.40</td>
       <td>0.45</td>
-      <td>Pogačar (169), Fisher-Black (86), Merlier (70)</td>
+      <td>Pogačar (169), Fisher-Black (86), Vingegaard (70)</td>
     </tr>
     <tr>
       <td>Matti</td>
@@ -3094,7 +3194,7 @@ hide:
       <td>557</td>
       <td>8.57</td>
       <td>0.40</td>
-      <td>Pogačar (169), Milan (82), Sivakov (70)</td>
+      <td>Pogačar (169), Milan (82), Vingegaard (70)</td>
     </tr>
     <tr>
       <td>Knak</td>
@@ -3354,7 +3454,7 @@ hide:
       <td>146</td>
       <td>10.43</td>
       <td>0.71</td>
-      <td>Pidcock (80), Merlier (30), Strong (30)</td>
+      <td>Pidcock (80), Strong (30), Merlier (30)</td>
     </tr>
     <tr>
       <td>Jappo</td>
@@ -3414,7 +3514,7 @@ hide:
       <td>68</td>
       <td>7.56</td>
       <td>1.38</td>
-      <td>Sheffield (26), Broek (18), Onley (18)</td>
+      <td>Sheffield (26), Onley (18), Broek (18)</td>
     </tr>
     <tr>
       <td>Kenk</td>

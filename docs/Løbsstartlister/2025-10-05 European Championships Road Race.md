@@ -73,27 +73,27 @@
       <td>3</td>
       <td>Van Aert Wout</td>
       <td>Roglič Primož</td>
-      <td>Pedersen Mads</td>
+      <td class = "startlist">Pedersen Mads</td>
       <td>Van Aert Wout</td>
-      <td>Pedersen Mads</td>
+      <td class = "startlist">Pedersen Mads</td>
       <td>Roglič Primož</td>
-      <td>Pedersen Mads</td>
+      <td class = "startlist">Pedersen Mads</td>
       <td>Van Aert Wout</td>
       <td>Van Aert Wout</td>
-      <td>Pedersen Mads</td>
+      <td class = "startlist">Pedersen Mads</td>
     </tr>
     <tr>
       <th>3</th>
       <td>4</td>
-      <td>Pedersen Mads</td>
-      <td>Pedersen Mads</td>
+      <td class = "startlist">Pedersen Mads</td>
+      <td class = "startlist">Pedersen Mads</td>
       <td>Van Eetvelt Lennert</td>
       <td>Van Der Poel Mathieu</td>
       <td>Milan Jonathan</td>
       <td>Philipsen Jasper</td>
       <td>Milan Jonathan</td>
       <td>Milan Jonathan</td>
-      <td>Pedersen Mads</td>
+      <td class = "startlist">Pedersen Mads</td>
       <td>Milan Jonathan</td>
     </tr>
     <tr>
@@ -242,13 +242,13 @@
       <td>Magnier Paul</td>
       <td>Nerurkar Lukas</td>
       <td>Martinez Lenny</td>
-      <td class = "startlist">Schmid Mauro</td>
+      <td>Schmid Mauro</td>
       <td>Bagioli Andrea</td>
       <td>Lapeira Paul</td>
       <td>Martinez Lenny</td>
       <td class = "startlist">Sivakov Pavel</td>
       <td>Lapeira Paul</td>
-      <td class = "startlist">Schmid Mauro</td>
+      <td>Schmid Mauro</td>
     </tr>
     <tr>
       <th>15</th>

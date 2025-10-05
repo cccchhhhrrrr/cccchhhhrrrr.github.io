@@ -198,7 +198,7 @@
       <th>11</th>
       <td>12</td>
       <td class = "startlist">Hayter Ethan</td>
-      <td>Plapp Luke</td>
+      <td class = "startlist">Plapp Luke</td>
       <td>Powless Neilson</td>
       <td>Poole Max</td>
       <td>Magnier Paul</td>
@@ -211,7 +211,7 @@
     <tr>
       <th>12</th>
       <td>13</td>
-      <td>Plapp Luke</td>
+      <td class = "startlist">Plapp Luke</td>
       <td>Welsford Sam</td>
       <td>Nys Thibau</td>
       <td>Magnier Paul</td>
@@ -338,7 +338,7 @@
       <th>21</th>
       <td>22</td>
       <td>Rex Laurenz</td>
-      <td>Foldager Anders</td>
+      <td class = "startlist">Foldager Anders</td>
       <td>Rex Laurenz</td>
       <td>Pedersen Rasmus Søjberg</td>
       <td>Teutenberg Tim Torn</td>
