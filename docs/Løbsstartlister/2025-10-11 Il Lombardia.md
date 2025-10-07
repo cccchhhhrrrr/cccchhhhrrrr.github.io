@@ -120,7 +120,7 @@
       <td>Almeida João</td>
       <td class = "startlist">Pidcock Thomas</td>
       <td>Rodríguez Carlos</td>
-      <td class = "startlist">Lipowitz Florian</td>
+      <td>Lipowitz Florian</td>
       <td>Van Eetvelt Lennert</td>
       <td>Kooij Olav</td>
     </tr>

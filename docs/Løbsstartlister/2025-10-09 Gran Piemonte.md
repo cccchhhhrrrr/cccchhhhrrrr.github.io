@@ -300,7 +300,7 @@
       <td>Laurance Axel</td>
       <td>Penhoët Paul</td>
       <td>Van Baarle Dylan</td>
-      <td>Teuns Dylan</td>
+      <td class = "startlist">Teuns Dylan</td>
       <td class = "startlist">Andresen Tobias Lund</td>
       <td>Sheehan Riley</td>
       <td>Campenaerts Victor</td>
