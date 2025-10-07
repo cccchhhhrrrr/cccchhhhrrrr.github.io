@@ -100,10 +100,10 @@
       <th>4</th>
       <td>5</td>
       <td>Almeida João</td>
-      <td class = "startlist">Ayuso Juan</td>
+      <td>Ayuso Juan</td>
       <td>Merlier Tim</td>
       <td>Philipsen Jasper</td>
-      <td class = "startlist">Ayuso Juan</td>
+      <td>Ayuso Juan</td>
       <td>Merlier Tim</td>
       <td>Skjelmose Mattias</td>
       <td>De Lie Arnaud</td>

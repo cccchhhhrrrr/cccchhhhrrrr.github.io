@@ -366,10 +366,10 @@
       <th>23</th>
       <td>24</td>
       <td>Jeannière Emilien</td>
-      <td>Withen Philipsen Albert</td>
+      <td class = "startlist">Withen Philipsen Albert</td>
       <td>Behrens Niklas</td>
       <td>Artz Huub</td>
-      <td>Withen Philipsen Albert</td>
+      <td class = "startlist">Withen Philipsen Albert</td>
       <td>Jeannière Emilien</td>
       <td>Seixas Paul</td>
       <td>Rafferty Darren</td>
@@ -379,15 +379,15 @@
     <tr>
       <th>24</th>
       <td>25</td>
-      <td>Withen Philipsen Albert</td>
+      <td class = "startlist">Withen Philipsen Albert</td>
       <td>August Andrew</td>
-      <td>Withen Philipsen Albert</td>
+      <td class = "startlist">Withen Philipsen Albert</td>
       <td>Del Grosso Tibor</td>
       <td>Rolland Brieuc</td>
-      <td>Withen Philipsen Albert</td>
-      <td>Withen Philipsen Albert</td>
-      <td>Withen Philipsen Albert</td>
-      <td>Withen Philipsen Albert</td>
+      <td class = "startlist">Withen Philipsen Albert</td>
+      <td class = "startlist">Withen Philipsen Albert</td>
+      <td class = "startlist">Withen Philipsen Albert</td>
+      <td class = "startlist">Withen Philipsen Albert</td>
       <td>Rex Laurenz</td>
     </tr>
   </tbody>
