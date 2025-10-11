@@ -197,7 +197,7 @@
     <tr>
       <th>11</th>
       <td>12</td>
-      <td class = "startlist">Hayter Ethan</td>
+      <td>Hayter Ethan</td>
       <td>Plapp Luke</td>
       <td>Powless Neilson</td>
       <td>Poole Max</td>
@@ -227,7 +227,7 @@
       <td>14</td>
       <td>Poole Max</td>
       <td>Mihkels Madis</td>
-      <td class = "startlist">Hayter Ethan</td>
+      <td>Hayter Ethan</td>
       <td>Bagioli Andrea</td>
       <td class = "startlist">Christen Jan</td>
       <td>Strong Corbin</td>
@@ -314,7 +314,7 @@
       <td>Andresen Tobias Lund</td>
       <td>Rex Laurenz</td>
       <td>Brennan Matthew</td>
-      <td>Mollema Bauke</td>
+      <td class = "startlist">Mollema Bauke</td>
       <td>Morgado António</td>
       <td>Laurance Axel</td>
       <td>Andresen Tobias Lund</td>
@@ -340,7 +340,7 @@
       <td>Rex Laurenz</td>
       <td>Foldager Anders</td>
       <td>Rex Laurenz</td>
-      <td>Pedersen Rasmus Søjberg</td>
+      <td class = "startlist">Pedersen Rasmus Søjberg</td>
       <td>Teutenberg Tim Torn</td>
       <td>Andresen Tobias Lund</td>
       <td>Romeo Iván</td>
