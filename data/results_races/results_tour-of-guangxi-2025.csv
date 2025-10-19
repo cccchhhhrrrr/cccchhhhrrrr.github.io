@@ -1,540 +1,669 @@
 RaceName,RaceYear,StageNumber,StageName,StageType,StageDate,RiderRank,RiderName,TeamName,UCIPoints,PCSPoints,UpdateTimeStamp
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,1,Magnier PaulSoudal Quick-Step,Soudal Quick-Step,40,50,2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,2,Kanter MaxXDS Astana Team,XDS Astana Team,25,30,2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,3,Meeus JordiRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,20,18,2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,4,Pedersen Rasmus SøjbergDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,15,13,2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,5,Kogut OdedIsrael - Premier Tech,Israel - Premier Tech,10,10,2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,6,Gaviria FernandoMovistar Team,Movistar Team,8,7,2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,7,Aniołkowski StanisławCofidis,Cofidis,6,4,2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,8,Pollefliet GianlucaDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,3,3,2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,9,Lozouet LéandreArkéa - B&B Hotels,Arkéa - B&B Hotels,2,2,2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,10,Van Gestel DriesSoudal Quick-Step,Soudal Quick-Step,1,1,2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,11,Einhorn ItamarIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,12,Donaldson RobertTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,13,Giddings JoshuaLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,14,Paquot TomIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,15,Černý JosefSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,16,Doull OwainEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,17,Peters NansDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,18,Charmig AnthonXDS Astana Team,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,19,van den Berg MarijnEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,20,Nordhagen JørgenTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,21,Norsgaard MathiasMovistar Team,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,22,Valgren MichaelEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,23,Hatherly AlanTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,24,Cimolai DavideMovistar Team,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,25,Oliveira IvoUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,26,Großschartner FelixUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,27,Zwiehoff BenRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,28,Maas JanCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,29,Costiou EwenArkéa - B&B Hotelsfav_gc,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,30,Le Berre Mathis Arkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,31,Pescador DiegoMovistar Team,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,32,Paasschens MathijsBahrain - Victorious,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,33,Graat TijmenTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,34,Christen JanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,35,Uijtdebroeks CianTeam Visma | Lease a Bikefav_gc,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,36,Rodríguez ÓscarINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,37,van Uden CasperTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,38,Mezgec LukaTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,39,Honoré Mikkel FrølichEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,40,Oomen SamLidl - Trek,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,41,Rochas RémyGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,42,Gibbons RyanLidl - Trek,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,43,Skerl DanielBahrain - Victorious,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,44,Mühlberger GregorMovistar Teamfav_gc,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,45,Hajek AlexanderRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,46,Busatto FrancescoIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,47,Bilbao PelloBahrain - Victoriousfav_gc,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,48,Sepúlveda EduardoLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,49,Paleni EnzoGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,50,Pedrero AntonioMovistar Team,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,51,Double PaulTeam Jayco AlUlafav_gc,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,52,Wandahl FrederikRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,53,Nerurkar LukasEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,54,Raccagni Noviero AndreaSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,55,Herrada JesúsCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,56,Paret-Peintre AurélienDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,57,Colleoni KevinIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,58,Geniets KevinGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,59,Heiduk KimINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,60,Beloki MarkelEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,61,Pasqualon AndreaBahrain - Victorious,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,62,van den Broek FrankTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,63,Lutsenko AlexeyIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,64,Mullen RyanRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,65,Arrieta IgorUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,66,Su HaoyuXDS Astana Team,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,67,Shen YutaoChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,68,Li YouChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,69,Allegaert PietCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,70,Currie LoganLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,71,Leonard MichaelINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,72,van der Meulen MaxBahrain - Victorious,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,73,Ermakov RomanBahrain - Victorious,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,74,Lafay VictorDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,75,Davy ClémentGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,76,Johansen JuliusUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,77,Dewulf StanDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,78,Buchmann EmanuelCofidisfav_gc,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,79,Moniquet SylvainCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,80,Narváez JhonatanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,81,August AndrewINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,82,Geoghegan Hart TaoLidl - Trek,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,83,Skjelmose MattiasLidl - Trek,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,84,Yu JiaqingChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,85,Valter AttilaTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,86,Schultz NickIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,87,Mollema BaukeLidl - Trek,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,88,Ries MichelArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,89,Adrià RogerRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,90,Sütterlin JashaTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,91,Faure Prost AlexyIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,92,Dinham MatthewTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,93,Thompson ReubenLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,94,Shmidt ArtemINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,95,Øxenberg Peter INEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,96,López Harold MartínXDS Astana Team,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,97,Higuita SergioXDS Astana Teamfav_gc,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,98,Teng GengChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,99,Zhang RongqiChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,100,Warlop JordiSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,101,Huby AntoineSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,102,Bonneu KamielIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,103,Gloag ThomasTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,104,Li ZhenChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,105,López Juan PedroLidl - Trekfav_gc,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,106,Rouland LouisArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,107,Kajamini Florian SamuelXDS Astana Team,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,108,Masnada FaustoXDS Astana Team,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,109,Maciejuk FilipRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,110,Gamper PatrickTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,111,Li YuhengChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,112,Leijnse EnzoTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,113,Bittner PavelTeam Picnic PostNLfav_gc,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,114,Eddy PatrickTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,115,Naberman TimTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,116,Walker MaxEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,117,Craps LarsLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,118,Debeaumarché NicolasCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,119,Le Huitouze EddyGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,120,Pickrell RileyIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,121,Walscheid MaxTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,122,Vangheluwe WarreSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,123,Marit ArneIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,124,Van Hoecke GijsIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,125,McLay DanielTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,126,De Schuyteneer SteffenLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,127,Slock LiamLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,128,Guglielmi SimonArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,129,Gautherat PierreDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,130,Mozzato LucaArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,131,Bauhaus PhilBahrain - Victorious,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,132,Behrens NiklasTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,133,Bower LewisGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,134,Penhoët PaulGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,135,Oliveira RuiUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,136,Raisberg NadavIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,137,Consonni SimoneLidl - Trek,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,1,Magnier PaulSoudal Quick-Step,Soudal Quick-Step,40,50,2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,2,Bittner PavelTeam Picnic PostNLfav_gc,Team Picnic PostNL,25,30,2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,3,Aniołkowski StanisławCofidis,Cofidis,20,18,2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,4,Skerl DanielBahrain - Victorious,Bahrain - Victorious,15,13,2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,5,Marit ArneIntermarché - Wanty,Intermarché - Wanty,10,10,2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,6,Kanter MaxXDS Astana Team,XDS Astana Team,8,7,2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,7,Donaldson RobertTeam Jayco AlUla,Team Jayco AlUla,6,4,2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,8,Penhoët PaulGroupama - FDJ,Groupama - FDJ,3,3,2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,9,Meeus JordiRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,2,2,2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,10,Kogut OdedIsrael - Premier Tech,Israel - Premier Tech,1,1,2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,11,Behrens NiklasTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,12,van den Berg MarijnEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,13,De Schuyteneer SteffenLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,14,Pedersen Rasmus SøjbergDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,15,Walscheid MaxTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,16,Heiduk KimINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,17,Gaviria FernandoMovistar Team,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,18,Pasqualon AndreaBahrain - Victorious,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,19,Gibbons RyanLidl - Trek,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,20,Oliveira IvoUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,21,Le Berre MathisArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,22,Slock LiamLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,23,Giddings JoshuaLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,24,Bower LewisGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,25,van Uden CasperTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,26,Hatherly AlanTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,27,Gautherat PierreDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,28,Currie LoganLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,29,Allegaert PietCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,30,Davy ClémentGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,31,Einhorn ItamarIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,32,Lafay VictorDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,33,Norsgaard MathiasMovistar Team,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,34,Honoré Mikkel FrølichEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,35,Maas JanCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,36,Pedrero AntonioMovistar Team,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,37,Paret-Peintre AurélienDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,38,Peters NansDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,39,Bilbao PelloBahrain - Victoriousfav_gc,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,40,Nordhagen JørgenTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,41,Pescador DiegoMovistar Team,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,42,Double PaulTeam Jayco AlUlafav_gc,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,43,Huby AntoineSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,44,Colleoni KevinIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,45,Dinham MatthewTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,46,Debeaumarché NicolasCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,47,Christen JanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,48,Zwiehoff BenRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,49,Ermakov RomanBahrain - Victorious,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,50,Faure Prost AlexyIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,51,Higuita SergioXDS Astana Teamfav_gc,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,52,Uijtdebroeks CianTeam Visma | Lease a Bikefav_gc,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,53,Wandahl FrederikRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,54,Hajek AlexanderRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,55,August AndrewINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,56,Graat TijmenTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,57,Raisberg NadavIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,58,Adrià RogerRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,59,Charmig AnthonXDS Astana Team,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,60,Le Huitouze EddyGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,61,Costiou EwenArkéa - B&B Hotelsfav_gc,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,62,Craps LarsLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,63,Øxenberg Peter  INEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,64,Valter AttilaTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,65,Nerurkar LukasEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,66,Geoghegan Hart TaoLidl - Trek,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,67,Moniquet SylvainCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,68,Oomen SamLidl - Trek,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,69,Rochas RémyGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,70,Schultz NickIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,71,Lutsenko AlexeyIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,72,Rodríguez ÓscarINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,73,Su HaoyuXDS Astana Team,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,74,Thompson ReubenLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,75,Paleni EnzoGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,76,Rouland LouisArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,77,Beloki MarkelEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,78,Van Gestel DriesSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,79,Teng GengChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,80,Narváez JhonatanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,81,Bonneu KamielIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,82,Geniets Kevin Groupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,83,Gloag ThomasTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,84,Großschartner FelixUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,85,Eddy PatrickTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,86,Skjelmose MattiasLidl - Trek,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,87,Ries MichelArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,88,van den Broek Frank Team Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,89,Sepúlveda EduardoLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,90,Leonard MichaelINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,91,Gamper PatrickTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,92,Busatto FrancescoIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,93,Dewulf Stan Decathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,94,Masnada FaustoXDS Astana Team,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,95,Herrada JesúsCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,96,Raccagni Noviero AndreaSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,97,Guglielmi Simon Arkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,98,Johansen JuliusUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,99,Mühlberger GregorMovistar Teamfav_gc,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,100,Pickrell RileyIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,101,Mozzato LucaArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,102,Paasschens MathijsBahrain - Victorious,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,103,Mullen RyanRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,104,Valgren Michael EF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,105,Van Hoecke GijsIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,106,Arrieta IgorUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,107,Mezgec LukaTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,108,López Harold MartínXDS Astana Team,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,109,Buchmann EmanuelCofidisfav_gc,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,110,Maciejuk FilipRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,111,Paquot TomIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,112,Lozouet LéandreArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,113,Sütterlin JashaTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,114,van der Meulen MaxBahrain - Victorious,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,115,Doull OwainEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,116,Walker MaxEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,117,Li YouChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,118,Zhang RongqiChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,119,Naberman TimTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,120,Cimolai DavideMovistar Team,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,121,Shmidt ArtemINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,122,López Juan PedroLidl - Trekfav_gc,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,123,Warlop JordiSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,124,Leijnse EnzoTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,125,Bauhaus PhilBahrain - Victorious,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,126,Černý JosefSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,127,Li ZhenChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,128,Oliveira RuiUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,129,Shen YutaoChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,130,Vangheluwe WarreSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,131,Yu JiaqingChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,132,McLay DanielTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,133,Kajamini Florian SamuelXDS Astana Team,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,134,Li YuhengChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,DNF,Pollefliet GianlucaDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,DNF,Mollema BaukeLidl - Trek,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,DNS,Consonni SimoneLidl - Trek,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,1,Magnier PaulSoudal Quick-Step,Soudal Quick-Step,40,50,2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,2,Meeus JordiRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,25,30,2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,3,Kanter MaxXDS Astana Team,XDS Astana Team,20,18,2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,4,Aniołkowski StanisławCofidis,Cofidis,15,13,2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,5,Skerl DanielBahrain - Victorious,Bahrain - Victorious,10,10,2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,6,Kogut OdedIsrael - Premier Tech,Israel - Premier Tech,8,7,2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,7,Penhoët PaulGroupama - FDJ,Groupama - FDJ,6,4,2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,8,Gaviria FernandoMovistar Team,Movistar Team,3,3,2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,9,van den Berg MarijnEF Education - EasyPost,EF Education - EasyPost,2,2,2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,10,Marit ArneIntermarché - Wanty,Intermarché - Wanty,1,1,2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,11,Oliveira RuiUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,12,Heiduk KimINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,13,De Schuyteneer SteffenLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,14,Bittner PavelTeam Picnic PostNLfav_gc,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,15,Einhorn ItamarIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,16,Pedersen Rasmus SøjbergDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,17,Walscheid MaxTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,18,Bower LewisGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,19,Norsgaard MathiasMovistar Team,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,20,Paquot TomIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,21,Hatherly AlanTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,22,Lozouet LéandreArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,23,Le Berre MathisArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,24,Shmidt ArtemINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,25,Adrià RogerRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,26,Rochas RémyGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,27,Charmig AnthonXDS Astana Team,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,28,Paleni EnzoGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,29,Behrens NiklasTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,30,Double PaulTeam Jayco AlUlafav_gc,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,31,Pedrero AntonioMovistar Team,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,32,Bilbao PelloBahrain - Victoriousfav_gc,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,33,Christen JanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,34,Dewulf StanDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,35,Le Huitouze EddyGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,36,Bauhaus PhilBahrain - Victorious,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,37,Nordhagen JørgenTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,38,Uijtdebroeks CianTeam Visma | Lease a Bikefav_gc,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,39,Wandahl FrederikRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,40,Pescador DiegoMovistar Team,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,41,Faure Prost AlexyIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,42,Van Gestel DriesSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,43,Honoré Mikkel FrølichEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,44,Davy ClémentGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,45,Peters NansDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,46,Geniets KevinGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,47,Lafay VictorDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,48,Leonard MichaelINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,49,Oomen SamLidl - Trek,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,50,Sütterlin JashaTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,51,Paasschens MathijsBahrain - Victorious,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,52,Dinham MatthewTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,53,Raisberg NadavIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,54,Debeaumarché NicolasCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,55,Colleoni KevinIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,56,Mühlberger GregorMovistar Teamfav_gc,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,57,van den Broek FrankTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,58,Allegaert PietCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,59,Ermakov RomanBahrain - Victorious,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,60,Lutsenko AlexeyIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,61,Moniquet SylvainCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,62,Currie LoganLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,63,Maas JanCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,64,Narváez JhonatanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,65,Sepúlveda EduardoLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,66,Donaldson RobertTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,67,Higuita SergioXDS Astana Teamfav_gc,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,68,Beloki MarkelEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,69,Huby AntoineSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,70,Nerurkar LukasEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,71,Zwiehoff BenRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,72,Graat TijmenTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,73,Großschartner FelixUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,74,van Uden CasperTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,75,Gibbons Ryan Lidl - Trek,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,76,Paret-Peintre AurélienDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,77,Hajek AlexanderRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,78,Gloag ThomasTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,79,Su HaoyuXDS Astana Team,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,80,Craps LarsLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,81,Valter AttilaTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,82,Geoghegan Hart TaoLidl - Trek,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,83,Herrada JesúsCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,84,Van Hoecke GijsIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,85,Arrieta IgorUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,86,Schultz NickIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,87,August AndrewINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,88,Bonneu KamielIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,89,Li YouChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,90,Øxenberg Peter INEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,91,Raccagni Noviero AndreaSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,92,van der Meulen MaxBahrain - Victorious,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,93,Masnada FaustoXDS Astana Team,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,94,Slock Liam Lotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,95,Rodríguez ÓscarINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,96,Buchmann EmanuelCofidisfav_gc,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,97,Ries MichelArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,98,Rouland LouisArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,99,Guglielmi Simon Arkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,100,Busatto FrancescoIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,101,Pasqualon AndreaBahrain - Victorious,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,102,Oliveira IvoUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,103,Costiou EwenArkéa - B&B Hotelsfav_gc,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,104,Johansen JuliusUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,105,Doull OwainEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,106,Naberman TimTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,107,Li YuhengChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,108,Giddings JoshuaLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,109,Thompson ReubenLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,110,Mullen RyanRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,111,Gautherat PierreDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,112,Valgren MichaelEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,113,Zhang RongqiChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,114,Teng GengChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,115,López Juan PedroLidl - Trekfav_gc,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,116,Maciejuk FilipRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,117,Eddy PatrickTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,118,Mezgec LukaTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,119,Gamper PatrickTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,120,Walker MaxEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,121,Leijnse EnzoTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,122,Pickrell RileyIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,123,Shen YutaoChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,124,Černý JosefSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,125,Cimolai DavideMovistar Team,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,126,McLay DanielTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,127,Vangheluwe WarreSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,128,Li ZhenChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,129,Warlop JordiSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,130,Kajamini Florian SamuelXDS Astana Team,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,131,Yu JiaqingChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,DNF,Skjelmose MattiasLidl - Trek,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,DNS,Mozzato LucaArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,DNS,López Harold MartínXDS Astana Team,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,1,Magnier PaulSoudal Quick-Step,Soudal Quick-Step,40,50,2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,2,Bittner PavelTeam Picnic PostNLfav_gc,Team Picnic PostNL,25,30,2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,3,Meeus JordiRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,20,18,2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,4,Penhoët PaulGroupama - FDJ,Groupama - FDJ,15,13,2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,5,Gaviria FernandoMovistar Team,Movistar Team,10,10,2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,6,Pasqualon AndreaBahrain - Victorious,Bahrain - Victorious,8,7,2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,7,Marit ArneIntermarché - Wanty,Intermarché - Wanty,6,4,2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,8,Heiduk KimINEOS Grenadiers,INEOS Grenadiers,3,3,2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,9,Walscheid MaxTeam Jayco AlUla,Team Jayco AlUla,2,2,2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,10,Oliveira IvoUAE Team Emirates - XRG,UAE Team Emirates - XRG,1,1,2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,11,Aniołkowski StanisławCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,12,Einhorn ItamarIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,13,Le Berre MathisArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,14,De Schuyteneer SteffenLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,15,Slock LiamLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,16,Pedersen Rasmus SøjbergDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,17,Lozouet LéandreArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,18,Mühlberger GregorMovistar Teamfav_gc,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,19,Kanter MaxXDS Astana Team,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,20,Adrià RogerRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,21,van den Berg MarijnEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,22,Bilbao PelloBahrain - Victoriousfav_gc,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,23,Honoré Mikkel FrølichEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,24,Faure Prost AlexyIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,25,Van Gestel DriesSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,26,Gautherat PierreDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,27,Donaldson RobertTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,28,Pescador DiegoMovistar Team,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,29,Norsgaard MathiasMovistar Team,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,30,Moniquet SylvainCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,31,Hatherly AlanTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,32,Peters NansDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,33,Christen JanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,34,Gibbons RyanLidl - Trek,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,35,Pedrero AntonioMovistar Team,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,36,Maas JanCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,37,Valter AttilaTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,38,van den Broek FrankTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,39,Wandahl FrederikRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,40,Ermakov RomanBahrain - Victorious,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,41,Double PaulTeam Jayco AlUlafav_gc,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,42,Nordhagen JørgenTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,43,Thompson ReubenLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,44,Eddy PatrickTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,45,Beloki MarkelEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,46,Dinham MatthewTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,47,Uijtdebroeks CianTeam Visma | Lease a Bikefav_gc,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,48,Colleoni KevinIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,49,Geniets KevinGroupama - FDJ,Groupama - FDJ,-25,"",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,50,Rochas RémyGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,51,Hajek AlexanderRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,52,Schultz NickIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,53,Zwiehoff BenRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,54,Oomen SamLidl - Trek,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,55,Raccagni Noviero AndreaSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,56,van der Meulen MaxBahrain - Victorious,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,57,Graat TijmenTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,58,Craps LarsLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,59,Huby AntoineSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,60,August AndrewINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,61,Lafay VictorDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,62,Großschartner FelixUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,63,Sepúlveda EduardoLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,64,Gloag ThomasTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,65,Paret-Peintre AurélienDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,66,Raisberg NadavIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,67,Narváez JhonatanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,68,Charmig AnthonXDS Astana Team,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,69,Ries MichelArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,70,Dewulf Stan Decathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,71,Geoghegan Hart TaoLidl - Trek,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,72,Cimolai DavideMovistar Team,Movistar Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,73,Li YuhengChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,74,Allegaert PietCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,75,Leonard Michael INEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,76,Nerurkar LukasEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,77,Rouland LouisArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,78,Bonneu KamielIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,79,Masnada FaustoXDS Astana Team,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,80,van Uden CasperTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,81,Sütterlin JashaTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,82,Rodríguez ÓscarINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,83,Paleni EnzoGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,84,Paasschens MathijsBahrain - Victorious,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,85,Maciejuk FilipRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,86,Øxenberg Peter INEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,87,Herrada JesúsCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,88,Gamper PatrickTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,89,Valgren Michael EF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,90,Van Hoecke GijsIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,91,Mullen RyanRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,92,Costiou EwenArkéa - B&B Hotelsfav_gc,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,93,Higuita SergioXDS Astana Teamfav_gc,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,94,Giddings JoshuaLotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,95,Pickrell RileyIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,96,Busatto FrancescoIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,97,Arrieta IgorUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,98,Buchmann EmanuelCofidisfav_gc,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,99,Paquot TomIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,100,Mezgec LukaTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,101,Walker MaxEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,102,Doull OwainEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,103,Debeaumarché NicolasCofidis,Cofidis,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,104,Davy ClémentGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,105,Shmidt ArtemINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,106,Behrens NiklasTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,107,Teng GengChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,108,Guglielmi Simon Arkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,109,López Juan Pedro Lidl - Trekfav_gc,Lidl - Trek,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,110,Currie Logan Lotto,Lotto,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,111,Černý JosefSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,112,Oliveira RuiUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,113,Su HaoyuXDS Astana Team,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,114,Zhang RongqiChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,115,Li YouChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,116,Skerl DanielBahrain - Victorious,Bahrain - Victorious,-25,"",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,117,Bauhaus PhilBahrain - Victorious,Bahrain - Victorious,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,118,Kogut OdedIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,119,Naberman TimTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,120,Shen YutaoChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,121,Johansen JuliusUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,122,Bower LewisGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,123,Leijnse EnzoTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,124,Vangheluwe WarreSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,125,Yu JiaqingChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,126,Warlop JordiSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,DNF,Le Huitouze EddyGroupama - FDJ,Groupama - FDJ,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,DNF,Kajamini Florian SamuelXDS Astana Team,XDS Astana Team,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,DNF,McLay DanielTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,DNF,Li ZhenChina,China,"","",2025-10-17 11:44:23
-tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,DNF,Lutsenko AlexeyIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-17 11:44:23
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,1,Magnier PaulSoudal Quick-Step,Soudal Quick-Step,40,50,2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,2,Kanter MaxXDS Astana Team,XDS Astana Team,25,30,2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,3,Meeus JordiRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,20,18,2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,4,Pedersen Rasmus SøjbergDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,15,13,2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,5,Kogut OdedIsrael - Premier Tech,Israel - Premier Tech,10,10,2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,6,Gaviria FernandoMovistar Team,Movistar Team,8,7,2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,7,Aniołkowski StanisławCofidis,Cofidis,6,4,2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,8,Pollefliet GianlucaDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,3,3,2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,9,Lozouet LéandreArkéa - B&B Hotels,Arkéa - B&B Hotels,2,2,2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,10,Van Gestel DriesSoudal Quick-Step,Soudal Quick-Step,1,1,2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,11,Einhorn ItamarIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,12,Donaldson RobertTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,13,Giddings JoshuaLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,14,Paquot TomIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,15,Černý JosefSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,16,Doull OwainEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,17,Peters NansDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,18,Charmig AnthonXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,19,van den Berg MarijnEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,20,Nordhagen JørgenTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,21,Norsgaard MathiasMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,22,Valgren MichaelEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,23,Hatherly AlanTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,24,Cimolai DavideMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,25,Oliveira IvoUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,26,Großschartner FelixUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,27,Zwiehoff BenRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,28,Maas JanCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,29,Costiou EwenArkéa - B&B Hotelsfav_gc,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,30,Le Berre Mathis Arkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,31,Pescador DiegoMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,32,Paasschens MathijsBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,33,Graat TijmenTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,34,Christen JanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,35,Uijtdebroeks CianTeam Visma | Lease a Bikefav_gc,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,36,Rodríguez ÓscarINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,37,van Uden CasperTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,38,Mezgec LukaTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,39,Honoré Mikkel FrølichEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,40,Oomen SamLidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,41,Rochas RémyGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,42,Gibbons RyanLidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,43,Skerl DanielBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,44,Mühlberger GregorMovistar Teamfav_gc,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,45,Hajek AlexanderRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,46,Busatto FrancescoIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,47,Bilbao PelloBahrain - Victoriousfav_gc,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,48,Sepúlveda EduardoLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,49,Paleni EnzoGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,50,Pedrero AntonioMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,51,Double PaulTeam Jayco AlUlafav_gc,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,52,Wandahl FrederikRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,53,Nerurkar LukasEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,54,Raccagni Noviero AndreaSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,55,Herrada JesúsCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,56,Paret-Peintre AurélienDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,57,Colleoni KevinIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,58,Geniets KevinGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,59,Heiduk KimINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,60,Beloki MarkelEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,61,Pasqualon AndreaBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,62,van den Broek FrankTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,63,Lutsenko AlexeyIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,64,Mullen RyanRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,65,Arrieta IgorUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,66,Su HaoyuXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,67,Shen YutaoChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,68,Li YouChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,69,Allegaert PietCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,70,Currie LoganLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,71,Leonard MichaelINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,72,van der Meulen MaxBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,73,Ermakov RomanBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,74,Lafay VictorDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,75,Davy ClémentGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,76,Johansen JuliusUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,77,Dewulf StanDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,78,Buchmann EmanuelCofidisfav_gc,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,79,Moniquet SylvainCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,80,Narváez JhonatanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,81,August AndrewINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,82,Geoghegan Hart TaoLidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,83,Skjelmose MattiasLidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,84,Yu JiaqingChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,85,Valter AttilaTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,86,Schultz NickIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,87,Mollema BaukeLidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,88,Ries MichelArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,89,Adrià RogerRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,90,Sütterlin JashaTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,91,Faure Prost AlexyIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,92,Dinham MatthewTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,93,Thompson ReubenLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,94,Shmidt ArtemINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,95,Øxenberg Peter INEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,96,López Harold MartínXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,97,Higuita SergioXDS Astana Teamfav_gc,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,98,Teng GengChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,99,Zhang RongqiChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,100,Warlop JordiSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,101,Huby AntoineSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,102,Bonneu KamielIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,103,Gloag ThomasTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,104,Li ZhenChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,105,López Juan PedroLidl - Trekfav_gc,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,106,Rouland LouisArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,107,Kajamini Florian SamuelXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,108,Masnada FaustoXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,109,Maciejuk FilipRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,110,Gamper PatrickTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,111,Li YuhengChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,112,Leijnse EnzoTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,113,Bittner PavelTeam Picnic PostNLfav_gc,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,114,Eddy PatrickTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,115,Naberman TimTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,116,Walker MaxEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,117,Craps LarsLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,118,Debeaumarché NicolasCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,119,Le Huitouze EddyGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,120,Pickrell RileyIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,121,Walscheid MaxTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,122,Vangheluwe WarreSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,123,Marit ArneIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,124,Van Hoecke GijsIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,125,McLay DanielTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,126,De Schuyteneer SteffenLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,127,Slock LiamLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,128,Guglielmi SimonArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,129,Gautherat PierreDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,130,Mozzato LucaArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,131,Bauhaus PhilBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,132,Behrens NiklasTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,133,Bower LewisGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,134,Penhoët PaulGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,135,Oliveira RuiUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,136,Raisberg NadavIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,1,Stage 1,Normal stage,14/10,137,Consonni SimoneLidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,1,Magnier PaulSoudal Quick-Step,Soudal Quick-Step,40,50,2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,2,Bittner PavelTeam Picnic PostNLfav_gc,Team Picnic PostNL,25,30,2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,3,Aniołkowski StanisławCofidis,Cofidis,20,18,2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,4,Skerl DanielBahrain - Victorious,Bahrain - Victorious,15,13,2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,5,Marit ArneIntermarché - Wanty,Intermarché - Wanty,10,10,2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,6,Kanter MaxXDS Astana Team,XDS Astana Team,8,7,2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,7,Donaldson RobertTeam Jayco AlUla,Team Jayco AlUla,6,4,2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,8,Penhoët PaulGroupama - FDJ,Groupama - FDJ,3,3,2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,9,Meeus JordiRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,2,2,2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,10,Kogut OdedIsrael - Premier Tech,Israel - Premier Tech,1,1,2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,11,Behrens NiklasTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,12,van den Berg MarijnEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,13,De Schuyteneer SteffenLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,14,Pedersen Rasmus SøjbergDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,15,Walscheid MaxTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,16,Heiduk KimINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,17,Gaviria FernandoMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,18,Pasqualon AndreaBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,19,Gibbons RyanLidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,20,Oliveira IvoUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,21,Le Berre MathisArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,22,Slock LiamLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,23,Giddings JoshuaLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,24,Bower LewisGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,25,van Uden CasperTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,26,Hatherly AlanTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,27,Gautherat PierreDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,28,Currie LoganLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,29,Allegaert PietCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,30,Davy ClémentGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,31,Einhorn ItamarIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,32,Lafay VictorDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,33,Norsgaard MathiasMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,34,Honoré Mikkel FrølichEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,35,Maas JanCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,36,Pedrero AntonioMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,37,Paret-Peintre AurélienDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,38,Peters NansDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,39,Bilbao PelloBahrain - Victoriousfav_gc,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,40,Nordhagen JørgenTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,41,Pescador DiegoMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,42,Double PaulTeam Jayco AlUlafav_gc,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,43,Huby AntoineSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,44,Colleoni KevinIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,45,Dinham MatthewTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,46,Debeaumarché NicolasCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,47,Christen JanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,48,Zwiehoff BenRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,49,Ermakov RomanBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,50,Faure Prost AlexyIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,51,Higuita SergioXDS Astana Teamfav_gc,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,52,Uijtdebroeks CianTeam Visma | Lease a Bikefav_gc,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,53,Wandahl FrederikRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,54,Hajek AlexanderRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,55,August AndrewINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,56,Graat TijmenTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,57,Raisberg NadavIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,58,Adrià RogerRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,59,Charmig AnthonXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,60,Le Huitouze EddyGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,61,Costiou EwenArkéa - B&B Hotelsfav_gc,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,62,Craps LarsLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,63,Øxenberg Peter  INEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,64,Valter AttilaTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,65,Nerurkar LukasEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,66,Geoghegan Hart TaoLidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,67,Moniquet SylvainCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,68,Oomen SamLidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,69,Rochas RémyGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,70,Schultz NickIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,71,Lutsenko AlexeyIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,72,Rodríguez ÓscarINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,73,Su HaoyuXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,74,Thompson ReubenLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,75,Paleni EnzoGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,76,Rouland LouisArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,77,Beloki MarkelEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,78,Van Gestel DriesSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,79,Teng GengChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,80,Narváez JhonatanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,81,Bonneu KamielIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,82,Geniets Kevin Groupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,83,Gloag ThomasTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,84,Großschartner FelixUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,85,Eddy PatrickTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,86,Skjelmose MattiasLidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,87,Ries MichelArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,88,van den Broek Frank Team Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,89,Sepúlveda EduardoLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,90,Leonard MichaelINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,91,Gamper PatrickTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,92,Busatto FrancescoIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,93,Dewulf Stan Decathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,94,Masnada FaustoXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,95,Herrada JesúsCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,96,Raccagni Noviero AndreaSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,97,Guglielmi Simon Arkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,98,Johansen JuliusUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,99,Mühlberger GregorMovistar Teamfav_gc,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,100,Pickrell RileyIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,101,Mozzato LucaArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,102,Paasschens MathijsBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,103,Mullen RyanRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,104,Valgren Michael EF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,105,Van Hoecke GijsIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,106,Arrieta IgorUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,107,Mezgec LukaTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,108,López Harold MartínXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,109,Buchmann EmanuelCofidisfav_gc,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,110,Maciejuk FilipRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,111,Paquot TomIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,112,Lozouet LéandreArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,113,Sütterlin JashaTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,114,van der Meulen MaxBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,115,Doull OwainEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,116,Walker MaxEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,117,Li YouChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,118,Zhang RongqiChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,119,Naberman TimTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,120,Cimolai DavideMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,121,Shmidt ArtemINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,122,López Juan PedroLidl - Trekfav_gc,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,123,Warlop JordiSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,124,Leijnse EnzoTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,125,Bauhaus PhilBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,126,Černý JosefSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,127,Li ZhenChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,128,Oliveira RuiUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,129,Shen YutaoChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,130,Vangheluwe WarreSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,131,Yu JiaqingChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,132,McLay DanielTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,133,Kajamini Florian SamuelXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,134,Li YuhengChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,DNF,Pollefliet GianlucaDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,DNF,Mollema BaukeLidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,2,Stage 2,Normal stage,15/10,DNS,Consonni SimoneLidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,1,Magnier PaulSoudal Quick-Step,Soudal Quick-Step,40,50,2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,2,Meeus JordiRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,25,30,2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,3,Kanter MaxXDS Astana Team,XDS Astana Team,20,18,2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,4,Aniołkowski StanisławCofidis,Cofidis,15,13,2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,5,Skerl DanielBahrain - Victorious,Bahrain - Victorious,10,10,2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,6,Kogut OdedIsrael - Premier Tech,Israel - Premier Tech,8,7,2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,7,Penhoët PaulGroupama - FDJ,Groupama - FDJ,6,4,2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,8,Gaviria FernandoMovistar Team,Movistar Team,3,3,2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,9,van den Berg MarijnEF Education - EasyPost,EF Education - EasyPost,2,2,2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,10,Marit ArneIntermarché - Wanty,Intermarché - Wanty,1,1,2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,11,Oliveira RuiUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,12,Heiduk KimINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,13,De Schuyteneer SteffenLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,14,Bittner PavelTeam Picnic PostNLfav_gc,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,15,Einhorn ItamarIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,16,Pedersen Rasmus SøjbergDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,17,Walscheid MaxTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,18,Bower LewisGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,19,Norsgaard MathiasMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,20,Paquot TomIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,21,Hatherly AlanTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,22,Lozouet LéandreArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,23,Le Berre MathisArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,24,Shmidt ArtemINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,25,Adrià RogerRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,26,Rochas RémyGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,27,Charmig AnthonXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,28,Paleni EnzoGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,29,Behrens NiklasTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,30,Double PaulTeam Jayco AlUlafav_gc,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,31,Pedrero AntonioMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,32,Bilbao PelloBahrain - Victoriousfav_gc,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,33,Christen JanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,34,Dewulf StanDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,35,Le Huitouze EddyGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,36,Bauhaus PhilBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,37,Nordhagen JørgenTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,38,Uijtdebroeks CianTeam Visma | Lease a Bikefav_gc,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,39,Wandahl FrederikRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,40,Pescador DiegoMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,41,Faure Prost AlexyIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,42,Van Gestel DriesSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,43,Honoré Mikkel FrølichEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,44,Davy ClémentGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,45,Peters NansDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,46,Geniets KevinGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,47,Lafay VictorDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,48,Leonard MichaelINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,49,Oomen SamLidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,50,Sütterlin JashaTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,51,Paasschens MathijsBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,52,Dinham MatthewTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,53,Raisberg NadavIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,54,Debeaumarché NicolasCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,55,Colleoni KevinIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,56,Mühlberger GregorMovistar Teamfav_gc,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,57,van den Broek FrankTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,58,Allegaert PietCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,59,Ermakov RomanBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,60,Lutsenko AlexeyIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,61,Moniquet SylvainCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,62,Currie LoganLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,63,Maas JanCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,64,Narváez JhonatanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,65,Sepúlveda EduardoLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,66,Donaldson RobertTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,67,Higuita SergioXDS Astana Teamfav_gc,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,68,Beloki MarkelEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,69,Huby AntoineSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,70,Nerurkar LukasEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,71,Zwiehoff BenRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,72,Graat TijmenTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,73,Großschartner FelixUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,74,van Uden CasperTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,75,Gibbons Ryan Lidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,76,Paret-Peintre AurélienDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,77,Hajek AlexanderRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,78,Gloag ThomasTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,79,Su HaoyuXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,80,Craps LarsLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,81,Valter AttilaTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,82,Geoghegan Hart TaoLidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,83,Herrada JesúsCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,84,Van Hoecke GijsIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,85,Arrieta IgorUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,86,Schultz NickIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,87,August AndrewINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,88,Bonneu KamielIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,89,Li YouChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,90,Øxenberg Peter INEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,91,Raccagni Noviero AndreaSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,92,van der Meulen MaxBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,93,Masnada FaustoXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,94,Slock Liam Lotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,95,Rodríguez ÓscarINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,96,Buchmann EmanuelCofidisfav_gc,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,97,Ries MichelArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,98,Rouland LouisArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,99,Guglielmi Simon Arkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,100,Busatto FrancescoIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,101,Pasqualon AndreaBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,102,Oliveira IvoUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,103,Costiou EwenArkéa - B&B Hotelsfav_gc,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,104,Johansen JuliusUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,105,Doull OwainEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,106,Naberman TimTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,107,Li YuhengChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,108,Giddings JoshuaLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,109,Thompson ReubenLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,110,Mullen RyanRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,111,Gautherat PierreDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,112,Valgren MichaelEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,113,Zhang RongqiChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,114,Teng GengChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,115,López Juan PedroLidl - Trekfav_gc,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,116,Maciejuk FilipRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,117,Eddy PatrickTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,118,Mezgec LukaTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,119,Gamper PatrickTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,120,Walker MaxEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,121,Leijnse EnzoTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,122,Pickrell RileyIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,123,Shen YutaoChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,124,Černý JosefSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,125,Cimolai DavideMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,126,McLay DanielTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,127,Vangheluwe WarreSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,128,Li ZhenChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,129,Warlop JordiSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,130,Kajamini Florian SamuelXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,131,Yu JiaqingChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,DNF,Skjelmose MattiasLidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,DNS,Mozzato LucaArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,3,Stage 3,Normal stage,16/10,DNS,López Harold MartínXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,1,Magnier PaulSoudal Quick-Step,Soudal Quick-Step,40,50,2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,2,Bittner PavelTeam Picnic PostNLfav_gc,Team Picnic PostNL,25,30,2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,3,Meeus JordiRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,20,18,2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,4,Penhoët PaulGroupama - FDJ,Groupama - FDJ,15,13,2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,5,Gaviria FernandoMovistar Team,Movistar Team,10,10,2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,6,Pasqualon AndreaBahrain - Victorious,Bahrain - Victorious,8,7,2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,7,Marit ArneIntermarché - Wanty,Intermarché - Wanty,6,4,2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,8,Heiduk KimINEOS Grenadiers,INEOS Grenadiers,3,3,2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,9,Walscheid MaxTeam Jayco AlUla,Team Jayco AlUla,2,2,2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,10,Oliveira IvoUAE Team Emirates - XRG,UAE Team Emirates - XRG,1,1,2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,11,Aniołkowski StanisławCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,12,Einhorn ItamarIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,13,Le Berre MathisArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,14,De Schuyteneer SteffenLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,15,Slock LiamLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,16,Pedersen Rasmus SøjbergDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,17,Lozouet LéandreArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,18,Mühlberger GregorMovistar Teamfav_gc,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,19,Kanter MaxXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,20,Adrià RogerRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,21,van den Berg MarijnEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,22,Bilbao PelloBahrain - Victoriousfav_gc,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,23,Honoré Mikkel FrølichEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,24,Faure Prost AlexyIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,25,Van Gestel DriesSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,26,Gautherat PierreDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,27,Donaldson RobertTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,28,Pescador DiegoMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,29,Norsgaard MathiasMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,30,Moniquet SylvainCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,31,Hatherly AlanTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,32,Peters NansDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,33,Christen JanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,34,Gibbons RyanLidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,35,Pedrero AntonioMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,36,Maas JanCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,37,Valter AttilaTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,38,van den Broek FrankTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,39,Wandahl FrederikRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,40,Ermakov RomanBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,41,Double PaulTeam Jayco AlUlafav_gc,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,42,Nordhagen JørgenTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,43,Thompson ReubenLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,44,Eddy PatrickTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,45,Beloki MarkelEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,46,Dinham MatthewTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,47,Uijtdebroeks CianTeam Visma | Lease a Bikefav_gc,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,48,Colleoni KevinIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,49,Geniets KevinGroupama - FDJ,Groupama - FDJ,-25,"",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,50,Rochas RémyGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,51,Hajek AlexanderRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,52,Schultz NickIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,53,Zwiehoff BenRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,54,Oomen SamLidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,55,Raccagni Noviero AndreaSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,56,van der Meulen MaxBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,57,Graat TijmenTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,58,Craps LarsLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,59,Huby AntoineSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,60,August AndrewINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,61,Lafay VictorDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,62,Großschartner FelixUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,63,Sepúlveda EduardoLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,64,Gloag ThomasTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,65,Paret-Peintre AurélienDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,66,Raisberg NadavIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,67,Narváez JhonatanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,68,Charmig AnthonXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,69,Ries MichelArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,70,Dewulf Stan Decathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,71,Geoghegan Hart TaoLidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,72,Cimolai DavideMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,73,Li YuhengChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,74,Allegaert PietCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,75,Leonard Michael INEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,76,Nerurkar LukasEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,77,Rouland LouisArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,78,Bonneu KamielIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,79,Masnada FaustoXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,80,van Uden CasperTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,81,Sütterlin JashaTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,82,Rodríguez ÓscarINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,83,Paleni EnzoGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,84,Paasschens MathijsBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,85,Maciejuk FilipRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,86,Øxenberg Peter INEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,87,Herrada JesúsCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,88,Gamper PatrickTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,89,Valgren Michael EF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,90,Van Hoecke GijsIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,91,Mullen RyanRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,92,Costiou EwenArkéa - B&B Hotelsfav_gc,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,93,Higuita SergioXDS Astana Teamfav_gc,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,94,Giddings JoshuaLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,95,Pickrell RileyIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,96,Busatto FrancescoIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,97,Arrieta IgorUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,98,Buchmann EmanuelCofidisfav_gc,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,99,Paquot TomIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,100,Mezgec LukaTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,101,Walker MaxEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,102,Doull OwainEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,103,Debeaumarché NicolasCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,104,Davy ClémentGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,105,Shmidt ArtemINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,106,Behrens NiklasTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,107,Teng GengChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,108,Guglielmi Simon Arkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,109,López Juan Pedro Lidl - Trekfav_gc,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,110,Currie Logan Lotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,111,Černý JosefSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,112,Oliveira RuiUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,113,Su HaoyuXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,114,Zhang RongqiChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,115,Li YouChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,116,Skerl DanielBahrain - Victorious,Bahrain - Victorious,-25,"",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,117,Bauhaus PhilBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,118,Kogut OdedIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,119,Naberman TimTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,120,Shen YutaoChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,121,Johansen JuliusUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,122,Bower LewisGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,123,Leijnse EnzoTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,124,Vangheluwe WarreSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,125,Yu JiaqingChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,126,Warlop JordiSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,DNF,Le Huitouze EddyGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,DNF,Kajamini Florian SamuelXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,DNF,McLay DanielTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,DNF,Li ZhenChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,4,Stage 4,Normal stage,17/10,DNF,Lutsenko AlexeyIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,1,Double PaulTeam Jayco AlUlafav_gc,Team Jayco AlUla,40,50,2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,2,Lafay VictorDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,25,30,2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,3,Honoré Mikkel FrølichEF Education - EasyPost,EF Education - EasyPost,20,18,2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,4,Nordhagen JørgenTeam Visma | Lease a Bike,Team Visma | Lease a Bike,15,13,2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,5,Uijtdebroeks CianTeam Visma | Lease a Bikefav_gc,Team Visma | Lease a Bike,10,10,2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,6,Narváez JhonatanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,8,7,2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,7,Bonneu KamielIntermarché - Wanty,Intermarché - Wanty,6,4,2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,8,Zwiehoff BenRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,3,3,2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,9,Geoghegan Hart TaoLidl - Trek,Lidl - Trek,2,2,2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,10,Bilbao PelloBahrain - Victoriousfav_gc,Bahrain - Victorious,1,1,2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,11,Nerurkar LukasEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,12,Huby AntoineSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,13,Mühlberger GregorMovistar Teamfav_gc,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,14,Rochas RémyGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,15,Craps LarsLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,16,Hatherly AlanTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,17,van den Broek FrankTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,18,Christen JanUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,19,Sepúlveda EduardoLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,20,Moniquet SylvainCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,21,Paleni EnzoGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,22,Rouland LouisArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,23,August AndrewINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,24,Gloag ThomasTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,25,Higuita SergioXDS Astana Teamfav_gc,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,26,Peters NansDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,27,Raccagni Noviero AndreaSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,28,Pescador DiegoMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,29,Großschartner FelixUAE Team Emirates - XRGfav_gc,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,30,Hajek AlexanderRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,31,Thompson ReubenLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,32,Øxenberg Peter INEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,33,Oomen SamLidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,34,Pedrero AntonioMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,35,Dinham MatthewTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,36,Charmig AnthonXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,37,Masnada FaustoXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,38,Costiou EwenArkéa - B&B Hotelsfav_gc,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,39,Le Berre MathisArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,40,Gibbons Ryan Lidl - Trek,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,41,Herrada JesúsCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,42,Buchmann EmanuelCofidisfav_gc,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,43,Su Haoyu XDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,44,Rodríguez ÓscarINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,45,Raisberg NadavIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,46,Arrieta IgorUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,47,Eddy PatrickTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,48,Heiduk KimINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,49,Ermakov RomanBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,50,Valter AttilaTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,51,Faure Prost AlexyIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,52,Adrià RogerRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,53,Sütterlin JashaTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,54,Beloki MarkelEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,55,van der Meulen MaxBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,56,Busatto FrancescoIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,57,Slock LiamLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,58,Wandahl FrederikRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,59,Oliveira IvoUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,60,Davy ClémentGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,61,Schultz NickIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,62,Colleoni KevinIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,63,Maas JanCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,64,Paquot Tom Intermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,65,Leijnse EnzoTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,66,Paasschens MathijsBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,67,Geniets KevinGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,68,Magnier PaulSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,69,Lozouet LéandreArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,70,Zhang RongqiChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,71,Dewulf StanDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,72,van den Berg MarijnEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,73,Debeaumarché NicolasCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,74,Bittner PavelTeam Picnic PostNLfav_gc,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,75,Mullen RyanRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,76,López Juan PedroLidl - Trekfav_gc,Lidl - Trek,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,77,Pasqualon AndreaBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,78,Van Hoecke GijsIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,79,Norsgaard Mathias Movistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,80,Maciejuk FilipRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,81,De Schuyteneer SteffenLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,82,Graat TijmenTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,83,Donaldson RobertTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,84,Penhoët PaulGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,85,Giddings JoshuaLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,86,Currie LoganLotto,Lotto,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,87,Walscheid MaxTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,88,Doull OwainEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,89,Walker MaxEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,90,Kanter MaxXDS Astana Team,XDS Astana Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,91,Marit ArneIntermarché - Wanty,Intermarché - Wanty,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,92,Guglielmi Simon Arkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,93,Ries MichelArkéa - B&B Hotels,Arkéa - B&B Hotels,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,94,Leonard MichaelINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,95,Valgren MichaelEF Education - EasyPost,EF Education - EasyPost,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,96,Meeus JordiRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,97,Mezgec LukaTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,98,Vangheluwe WarreSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,99,Van Gestel DriesSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,100,Gamper PatrickTeam Jayco AlUla,Team Jayco AlUla,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,101,Gautherat PierreDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,102,Li YouChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,103,Li YuhengChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,104,Teng GengChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,105,Einhorn ItamarIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,106,Aniołkowski StanisławCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,107,Shmidt ArtemINEOS Grenadiers,INEOS Grenadiers,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,108,Bower LewisGroupama - FDJ,Groupama - FDJ,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,109,Naberman TimTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,110,Skerl DanielBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,111,van Uden CasperTeam Picnic PostNL,Team Picnic PostNL,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,112,Černý JosefSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,113,Gaviria FernandoMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,114,Cimolai DavideMovistar Team,Movistar Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,115,Pickrell RileyIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,116,Kogut OdedIsrael - Premier Tech,Israel - Premier Tech,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,117,Paret-Peintre AurélienDecathlon AG2R La Mondiale Teamfav_gc,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,118,Pedersen Rasmus SøjbergDecathlon AG2R La Mondiale Team,Decathlon AG2R La Mondiale Team,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,119,Oliveira RuiUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,120,Behrens NiklasTeam Visma | Lease a Bike,Team Visma | Lease a Bike,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,121,Warlop JordiSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,122,Allegaert PietCofidis,Cofidis,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,123,Yu JiaqingChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,124,Shen YutaoChina,China,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,125,Johansen JuliusUAE Team Emirates - XRG,UAE Team Emirates - XRG,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,5,Stage 5,Normal stage,18/10,DNS,Bauhaus PhilBahrain - Victorious,Bahrain - Victorious,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,6,Stage 6,Normal stage,19/10,DNF,Warlop JordiSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,6,Stage 6,Normal stage,19/10,DNF,Vangheluwe WarreSoudal Quick-Step,Soudal Quick-Step,"","",2025-10-19 10:52:35
+tour-of-guangxi,2025,6,Stage 6,Normal stage,19/10,DNF,Wandahl FrederikRed Bull - BORA - hansgrohe,Red Bull - BORA - hansgrohe,"","",2025-10-19 10:52:35
